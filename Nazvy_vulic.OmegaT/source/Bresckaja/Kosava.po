@@ -1,0 +1,42 @@
+# Objects : [w122326462]
+# Names: [улица 1-го Мая]
+msgid "1-го Мая"
+
+# Objects : [w125787075]
+# Names: [улица 3-го Февраля]
+msgid "3-го Февраля"
+
+# Objects : [w125787077]
+# Names: [улица Ленина]
+msgid "Ленина"
+msgstr ""
+
+# Objects : [w122326428]
+# Names: [улица Максима Горького]
+msgid "Максима Горького"
+msgstr ""
+
+# Objects : [w125787078]
+# Names: [улица Пушкина]
+msgid "Пушкина"
+msgstr ""
+
+# Objects : [w122326464]
+# Names: [Садовая улица]
+msgid "Садовая"
+msgstr ""
+
+# Objects : [w125787079]
+# Names: [Советская улица]
+msgid "Советская"
+msgstr ""
+
+# Objects : [w125787080]
+# Names: [Тихая улица]
+msgid "Тихая"
+msgstr ""
+
+# Objects : [w122326453]
+# Names: [ул. Черткова]
+msgid "Черткова"
+

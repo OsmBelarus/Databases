@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Заводская</seg></tuv>
+      <tuv lang="BE"><seg>#Завадская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лукомльское</seg></tuv>
+      <tuv lang="BE"><seg>#Лукомльская шаша</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Панчука</seg></tuv>
+      <tuv lang="BE"><seg>#Панчука</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Садовая</seg></tuv>
+      <tuv lang="BE"><seg>#Садовая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Энергетиков</seg></tuv>
+      <tuv lang="BE"><seg>#Энергетыкаў</seg></tuv>
+    </tu>
+  </body></tmx>

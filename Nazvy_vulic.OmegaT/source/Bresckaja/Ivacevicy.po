@@ -1,0 +1,53 @@
+# Objects : [w45653855]
+# Names: [ул. Адамовича]
+msgid "Адамовича"
+
+# Objects : [w45653849]
+# Names: [Весенняя улица]
+msgid "Весенняя"
+msgstr ""
+
+# Objects : [w25286775]
+# Names: [Загородная улица]
+msgid "Загородная"
+
+# Objects : [r1205191]
+# Names: [Ивацевичи]
+msgid "Ивацевичи"
+msgstr ""
+
+# Objects : [w45653840]
+# Names: [Интернациональная улица]
+msgid "Интернациональная"
+msgstr ""
+
+# Objects : [w80232364]
+# Names: [улица Клютко]
+msgid "Клютко"
+
+# Objects : [w80232366, w173467488]
+# Names: [улица Ленина]
+msgid "Ленина"
+msgstr ""
+
+# Objects : [w43720262]
+# Names: [улица Механизаторов]
+msgid "Механизаторов"
+
+# Objects : [w251068230]
+# Names: [улица Мира]
+msgid "Мира"
+
+# Objects : [w45653845, w45669217]
+# Names: [улица Славы]
+msgid "Славы"
+
+# Objects : [w35571961]
+# Names: [Советская]
+msgid "Советская"
+msgstr ""
+
+# Objects : [w36163089]
+# Names: [улица Черткова]
+msgid "Черткова"
+

@@ -1,0 +1,34 @@
+# Objects : [w25289453]
+# Names: [Кобринская улица]
+msgid "Кобринская"
+msgstr ""
+
+# Objects : [w25289464]
+# Names: [улица Ленина]
+msgid "Ленина"
+msgstr ""
+
+# Objects : [r1205213]
+# Names: [Малорита]
+msgid "Малорита"
+msgstr ""
+
+# Objects : [w51781263]
+# Names: [улица Маяковского]
+msgid "Маяковского"
+msgstr ""
+
+# Objects : [w25289478]
+# Names: [улица Несенюка]
+msgid "Несенюка"
+
+# Objects : [w25290258]
+# Names: [Советская улица]
+msgid "Советская"
+msgstr ""
+
+# Objects : [w25289472]
+# Names: [улица Энгельса]
+msgid "Энгельса"
+msgstr ""
+

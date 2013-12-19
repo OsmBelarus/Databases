@@ -1,0 +1,115 @@
+# Objects : [w199495032]
+# Names: [улица 17-го Сентября]
+msgid "17-го Сентября"
+msgstr ""
+
+# Objects : [w199495036, w199495041]
+# Names: [улица Гагарина]
+msgid "Гагарина"
+msgstr ""
+
+# Objects : [w199495044]
+# Names: [улица Горовца]
+msgid "Горовца"
+msgstr ""
+
+# Objects : [w199495047]
+# Names: [улица Держинского]
+msgid "Держинского"
+msgstr ""
+
+# Objects : [w42560645]
+# Names: [Заречная улица]
+msgid "Заречная"
+msgstr ""
+
+# Objects : [w199495051]
+# Names: [улица Заслонова]
+msgid "Заслонова"
+msgstr ""
+
+# Objects : [w199494937]
+# Names: [Зелёная улица]
+msgid "Зелёная"
+msgstr ""
+
+# Objects : [w67546741]
+# Names: [Интернациональная улица]
+msgid "Интернациональная"
+msgstr ""
+
+# Objects : [w199495058]
+# Names: [улица Карла Маркса]
+msgid "Карла Маркса"
+msgstr ""
+
+# Objects : [w199494938]
+# Names: [Комсомольская улица]
+msgid "Комсомольская"
+msgstr ""
+
+# Objects : [w199494939]
+# Names: [Красноармейская улица]
+msgid "Красноармейская"
+msgstr ""
+
+# Objects : [w199495071]
+# Names: [улица Ленина]
+msgid "Ленина"
+msgstr ""
+
+# Objects : [w199494940]
+# Names: [Луговая улица]
+msgid "Луговая"
+msgstr ""
+
+# Objects : [w199495078]
+# Names: [улица Мира]
+msgid "Мира"
+msgstr ""
+
+# Objects : [w199495081]
+# Names: [улица Некрасова]
+msgid "Некрасова"
+msgstr ""
+
+# Objects : [w36261624, w199494982]
+# Names: [Октябрьская улица]
+msgid "Октябрьская"
+msgstr ""
+
+# Objects : [w199494988]
+# Names: [Парковая улица]
+msgid "Парковая"
+msgstr ""
+
+# Objects : [w199494991]
+# Names: [Партизанская улица]
+msgid "Партизанская"
+msgstr ""
+
+# Objects : [w199495089]
+# Names: [улица Ролика]
+msgid "Ролика"
+msgstr ""
+
+# Objects : [r1713352]
+# Names: [Скидель]
+msgid "Скидель"
+msgstr ""
+
+# Objects : [w199495091]
+# Names: [улица Танкистов]
+msgid "Танкистов"
+msgstr ""
+
+# Objects : [w178716088]
+# Names: [улица Щеголёва]
+msgid "Щеголёва"
+msgstr ""
+
+# Objects : [w199495096]
+# Names: [улица Янки Купалы]
+msgid "Янки Купалы"
+msgstr ""
+

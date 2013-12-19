@@ -1,0 +1,5 @@
+.git*   text
+*.sh    eol=lf
+*.po    text
+*.tmx   text
+*.xml   text

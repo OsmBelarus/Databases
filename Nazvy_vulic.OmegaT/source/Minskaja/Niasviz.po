@@ -1,0 +1,152 @@
+# Objects : [w25604476, w186110115, w186110116, w186110117]
+# Names: [улица 1 Мая]
+msgid "1 Мая"
+msgstr ""
+
+# Objects : [w114181238]
+# Names: [улица Будённого]
+msgid "Будённого"
+msgstr ""
+
+# Objects : [w186110112]
+# Names: [Гейсика ул.]
+msgid "Гейсика"
+msgstr ""
+
+# Objects : [w25278712]
+# Names: [улица Дзержинского]
+msgid "Дзержинского"
+msgstr ""
+
+# Objects : [w25579349]
+# Names: [Дружная улица]
+msgid "Дружная"
+msgstr ""
+
+# Objects : [w25579378]
+# Names: [улица К. Чорного]
+msgid "К. Чорного"
+msgstr ""
+
+# Objects : [w25579357, w95791249]
+# Names: [улица Карла Либкнехта]
+msgid "Карла Либкнехта"
+msgstr ""
+
+# Objects : [w25604622]
+# Names: [улица Кирова]
+msgid "Кирова"
+msgstr ""
+
+# Objects : [w72126482]
+# Names: [улица Курчатова]
+msgid "Курчатова"
+msgstr ""
+
+# Objects : [w25579431]
+# Names: [улица Лазо]
+msgid "Лазо"
+msgstr ""
+
+# Objects : [w25278701, w159901061, w207240066]
+# Names: [Ленинская улица]
+msgid "Ленинская"
+msgstr ""
+
+# Objects : [w25579429]
+# Names: [улица Ломоносова]
+msgid "Ломоносова"
+
+# Objects : [w25579433, w226987863, w226987864]
+# Names: [Луговая улица]
+msgid "Луговая"
+msgstr ""
+
+# Objects : [w74895564]
+# Names: [Молодёжная улица]
+msgid "Молодёжная"
+msgstr ""
+
+# Objects : [w25579388]
+# Names: [улица Некрасова]
+msgid "Некрасова"
+msgstr ""
+
+# Objects : [r1185957]
+# Names: [Несвиж]
+msgid "Несвиж"
+msgstr ""
+
+# Objects : [w232959045]
+# Names: [Новая улица]
+msgid "Новая"
+msgstr ""
+
+# Objects : [w25278710]
+# Names: [Объездная]
+msgid "Объездная"
+msgstr ""
+
+# Objects : [w25579392, w25579394, w114815580]
+# Names: [ул. Панфилова]
+msgid "Панфилова"
+msgstr ""
+
+# Objects : [w25604623]
+# Names: [Прокопчука ул.]
+msgid "Прокопчука"
+msgstr ""
+
+# Objects : [w25579379]
+# Names: [Пролетарская улица]
+msgid "Пролетарская"
+msgstr ""
+
+# Objects : [w25579344, w96531150, w186110113]
+# Names: [Садовая улица]
+msgid "Садовая"
+msgstr ""
+
+# Objects : [w114181232, w114181243]
+# Names: [Слуцкий переулок]
+msgid "Слуцкий"
+msgstr ""
+
+# Objects : [w25278707]
+# Names: [улица Сновская]
+msgid "Сновская"
+
+# Objects : [w25278703, w25604471, w25604474, w128273245, w128274139, w159907706, w186110114, w252094613, w252094742, w252094743]
+# Names: [Советская улица]
+msgid "Советская"
+msgstr ""
+
+# Objects : [w25579359]
+# Names: [улица Сырокомли]
+msgid "Сырокомли"
+msgstr ""
+
+# Objects : [w25604616, w25604617, w51688444]
+# Names: [улица Усошина]
+msgid "Усошина"
+msgstr ""
+
+# Objects : [w25579348]
+# Names: [Цветочная улица]
+msgid "Цветочная"
+msgstr ""
+
+# Objects : [w25278676, w25604615]
+# Names: [улица Шимко]
+msgid "Шимко"
+
+# Objects : [w25579346]
+# Names: [улица Энгельса]
+msgid "Энгельса"
+msgstr ""
+
+# Objects : [w25604486]
+# Names: [Юбилейная улица]
+msgid "Юбилейная"
+msgstr ""
+

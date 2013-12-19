@@ -1,0 +1,158 @@
+# Objects : [w217925469]
+# Names: [улица Абрамовича]
+msgid "Абрамовича"
+msgstr ""
+
+# Objects : [w217925449, w232420732]
+# Names: [Больничный переулок]
+msgid "Больничный"
+
+# Objects : [w217925476]
+# Names: [Вишнёвая улица]
+msgid "Вишнёвая"
+msgstr ""
+
+# Objects : [w217925482]
+# Names: [Восточная улица]
+msgid "Восточная"
+msgstr ""
+
+# Objects : [w80221574, w218188651]
+# Names: [переулок Горького, улица Горького]
+msgid "Горького"
+msgstr ""
+
+# Objects : [w80221572, w218168864]
+# Names: [улица Дзержинского]
+msgid "Дзержинского"
+
+# Objects : [w217925438]
+# Names: [Дорожная улица]
+msgid "Дорожная"
+msgstr ""
+
+# Objects : [w53679832]
+# Names: [улица Жилуновича]
+msgid "Жилуновича"
+msgstr ""
+
+# Objects : [w218188646]
+# Names: [Загорная улица]
+msgid "Загорная"
+msgstr ""
+
+# Objects : [w218188647]
+# Names: [Замковая улица]
+msgid "Замковая"
+msgstr ""
+
+# Objects : [w217925437, w218168863]
+# Names: [1-я Заозёрная улица, 2-я Заозёрная улица]
+msgid "Заозёрная"
+msgstr ""
+
+# Objects : [w217925463]
+# Names: [Комсомольская улица]
+msgid "Комсомольская"
+msgstr ""
+
+# Objects : [r1205119]
+# Names: [Копыль]
+msgid "Копыль"
+msgstr ""
+
+# Objects : [w217925459]
+# Names: [Крыничная улица]
+msgid "Крыничная"
+msgstr ""
+
+# Objects : [w217925436]
+# Names: [улица Максима Богдановича]
+msgid "Максима Богдановича"
+msgstr ""
+
+# Objects : [w125111536, w160959636]
+# Names: [Минская улица]
+msgid "Минская"
+msgstr ""
+
+# Objects : [w218188648]
+# Names: [Молодёжная улица]
+msgid "Молодёжная"
+msgstr ""
+
+# Objects : [w217925468]
+# Names: [Октябрьская улица]
+msgid "Октябрьская"
+msgstr ""
+
+# Objects : [w25275830, w125111565]
+# Names: [Партизанская улица]
+msgid "Партизанская"
+msgstr ""
+
+# Objects : [w125111516]
+# Names: [Пионерская улица]
+msgid "Пионерская"
+msgstr ""
+
+# Objects : [w218212743]
+# Names: [Полевая улица]
+msgid "Полевая"
+msgstr ""
+
+# Objects : [w218188650]
+# Names: [Пролетарская улица]
+msgid "Пролетарская"
+msgstr ""
+
+# Objects : [w25275835]
+# Names: [Промышленная улица]
+msgid "Промышленная"
+msgstr ""
+
+# Objects : [w125111504]
+# Names: [улица Ромашко]
+msgid "Ромашко"
+msgstr ""
+
+# Objects : [w217925453]
+# Names: [Северная улица]
+msgid "Северная"
+msgstr ""
+
+# Objects : [w80221575]
+# Names: [Советская улица]
+msgid "Советская"
+msgstr ""
+
+# Objects : [w217925471]
+# Names: [улица Строителей]
+msgid "Строителей"
+msgstr ""
+
+# Objects : [w125111567, w125111568, w218212590]
+# Names: [Тимковичская улица]
+msgid "Тимковичская"
+msgstr ""
+
+# Objects : [w217925452]
+# Names: [Тракторная улица]
+msgid "Тракторная"
+msgstr ""
+
+# Objects : [w217925485]
+# Names: [улица Франциска Скорины]
+msgid "Франциска Скорины"
+msgstr ""
+
+# Objects : [w125111507]
+# Names: [улица Энгельса]
+msgid "Энгельса"
+msgstr ""
+
+# Objects : [w125111530]
+# Names: [улица Якуба Коласа]
+msgid "Якуба Коласа"
+msgstr ""
+

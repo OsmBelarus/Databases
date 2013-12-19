@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Береговой</seg></tuv>
+      <tuv lang="BE"><seg>#Берагавы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Борисовский</seg></tuv>
+      <tuv lang="BE"><seg>#Барысаўскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Будённого</seg></tuv>
+      <tuv lang="BE"><seg>#Будзёнага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веры Маргевич</seg></tuv>
+      <tuv lang="BE"><seg>#вулiца Веры Маргевіч</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Войкова</seg></tuv>
+      <tuv lang="BE"><seg>#Войкава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Володарского</seg></tuv>
+      <tuv lang="BE"><seg>#Валадарскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Данукалова</seg></tuv>
+      <tuv lang="BE"><seg>#Данукалава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Деповская</seg></tuv>
+      <tuv lang="BE"><seg>#Дэпоўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Заречная</seg></tuv>
+      <tuv lang="BE"><seg>#Зарэчная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Интернациональная</seg></tuv>
+      <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Калинина</seg></tuv>
+      <tuv lang="BE"><seg>#Калініна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Короленко</seg></tuv>
+      <tuv lang="BE"><seg>#Караленкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лобанка</seg></tuv>
+      <tuv lang="BE"><seg>#Лабанка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Максима Горького</seg></tuv>
+      <tuv lang="BE"><seg>#Горкага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Оршанское</seg></tuv>
+      <tuv lang="BE"><seg>#Аршанская шаша</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Партизанская</seg></tuv>
+      <tuv lang="BE"><seg>#Партызанская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Петруся Бровки</seg></tuv>
+      <tuv lang="BE"><seg>#Петруся Броўкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Полоцкий</seg></tuv>
+      <tuv lang="BE"><seg>#Полацкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свободы</seg></tuv>
+      <tuv lang="BE"><seg>#Свабоды</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Советская</seg></tuv>
+      <tuv lang="BE"><seg>#Савецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Соловьева</seg></tuv>
+      <tuv lang="BE"><seg>#Салаўёва</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Спиридовича</seg></tuv>
+      <tuv lang="BE"><seg>#Спірыдовіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тенистая</seg></tuv>
+      <tuv lang="BE"><seg>#Салаўёва</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ульянка</seg></tuv>
+      <tuv lang="BE"><seg>#Ульянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чуйкова</seg></tuv>
+      <tuv lang="BE"><seg>#Чуйкова</seg></tuv>
+    </tu>
+  </body></tmx>

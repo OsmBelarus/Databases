@@ -1,0 +1,532 @@
+# Objects : [w25265335]
+# Names: [40 лет Октября]
+msgid "40 лет Октября"
+
+# Objects : [w25265326, w25265339, w125732774]
+# Names: [50 лет Октября, улица 50 лет Октября]
+msgid "50 лет Октября"
+
+# Objects : [w25265223, w25265332]
+# Names: [8 Марта]
+msgid "8 Марта"
+
+# Objects : [w25265063]
+# Names: [Автомобилистов]
+msgid "Автомобилистов"
+
+# Objects : [w25265081]
+# Names: [Бажора]
+msgid "Бажора"
+
+# Objects : [w25265120]
+# Names: [Белолужская]
+msgid "Белолужская"
+
+# Objects : [w25265228, w25265229]
+# Names: [Белолужский]
+msgid "Белолужский"
+
+# Objects : [w25265276]
+# Names: [Белорусская]
+msgid "Белорусская"
+msgstr ""
+
+# Objects : [w25265017]
+# Names: [Борисовская]
+msgid "Борисовская"
+
+# Objects : [w25265312]
+# Names: [Боровая]
+msgid "Боровая"
+msgstr ""
+
+# Objects : [w25265310]
+# Names: [Брестская улица]
+msgid "Брестская"
+
+# Objects : [w25265278]
+# Names: [Будаговская]
+msgid "Будаговская"
+
+# Objects : [w25265313]
+# Names: [Венисье пр.]
+msgid "Венисье"
+
+# Objects : [w25265116]
+# Names: [Витебская]
+msgid "Витебская"
+msgstr ""
+
+# Objects : [w25265022]
+# Names: [Витебский]
+msgid "Витебский"
+
+# Objects : [w25265073]
+# Names: [Вишневая]
+msgid "Вишнёвая"
+msgstr ""
+
+# Objects : [w25265016]
+# Names: [Высокая]
+msgid "Высокая"
+msgstr ""
+
+# Objects : [w25265340, w179527126]
+# Names: [Гагарина]
+msgid "Гагарина"
+msgstr ""
+
+# Objects : [w25265324]
+# Names: [Деревянко]
+msgid "Деревянко"
+
+# Objects : [w25265098]
+# Names: [Дорожная улица]
+msgid "Дорожная"
+msgstr ""
+
+# Objects : [w25265076, w25265077, w25265078]
+# Names: [1-й Дорожный, 2-й Дорожный, 3-й Дорожный]
+msgid "Дорожный"
+
+# Objects : [w25265042]
+# Names: [Дружная]
+msgid "Дружная"
+msgstr ""
+
+# Objects : [w25265300]
+# Names: [Дымковская]
+msgid "Дымковская"
+
+# Objects : [w25265297]
+# Names: [Железнодорожная]
+msgid "Железнодорожная"
+msgstr ""
+
+# Objects : [w25265298]
+# Names: [Железнодорожный]
+msgid "Железнодорожный"
+
+# Objects : [r79911]
+# Names: [Жодино]
+msgid "Жодино"
+msgstr ""
+
+# Objects : [w25264992, w25264993]
+# Names: [Жодинская]
+msgid "Жодинская"
+msgstr ""
+
+# Objects : [w25265123]
+# Names: [Западная]
+msgid "Западная"
+msgstr ""
+
+# Objects : [w25265061]
+# Names: [Западный]
+msgid "Западный"
+
+# Objects : [w25265038, w25265086, w25265090]
+# Names: [Заречная]
+msgid "Заречная"
+msgstr ""
+
+# Objects : [w25265026]
+# Names: [Зелёная]
+msgid "Зелёная"
+
+# Objects : [w25264990]
+# Names: [Зелёный Бор]
+msgid "Зелёный Бор"
+
+# Objects : [w25265104, w25265130, w111671530, w111671531]
+# Names: [Калинина]
+msgid "Калинина"
+
+# Objects : [w25265279]
+# Names: [Калиновского]
+msgid "Калиновского"
+
+# Objects : [w25265106]
+# Names: [Кирова]
+msgid "Кирова"
+msgstr ""
+
+# Objects : [w25264986]
+# Names: [Клубная]
+msgid "Клубная"
+
+# Objects : [w25265265]
+# Names: [Коллективная]
+msgid "Коллективная"
+msgstr ""
+
+# Objects : [w25265260]
+# Names: [Кольцевой]
+msgid "Кольцевой"
+
+# Objects : [w25265051]
+# Names: [Коммунальная]
+msgid "Коммунальная"
+
+# Objects : [w25265127]
+# Names: [Комсомольская]
+msgid "Комсомольская"
+msgstr ""
+
+# Objects : [w25265126]
+# Names: [Комсомольский]
+msgid "Комсомольский"
+
+# Objects : [w25265071]
+# Names: [Красная]
+msgid "Красная"
+msgstr ""
+
+# Objects : [w25265039]
+# Names: [Крылова]
+msgid "Крылова"
+
+# Objects : [w25265019]
+# Names: [Кузнечная]
+msgid "Кузнечная"
+msgstr ""
+
+# Objects : [w25265018]
+# Names: [Кузнечный]
+msgid "Кузнечный"
+
+# Objects : [w25265056]
+# Names: [Куприянова]
+msgid "Куприянова"
+msgstr ""
+
+# Objects : [w25265325, w25265327, w179527127]
+# Names: [Лебедевского]
+msgid "Лебедевского"
+
+# Objects : [w25265341, w137701338, w137701340, w137701345, w212028230]
+# Names: [проспект Ленина]
+msgid "Ленина"
+
+# Objects : [w25265025]
+# Names: [Ленинградская]
+msgid "Ленинградская"
+msgstr ""
+
+# Objects : [w25265021]
+# Names: [Ленинская]
+msgid "Ленинская"
+msgstr ""
+
+# Objects : [w25265267, w25265268, w25265275]
+# Names: [2-я Лесная, 3-я Лесная улица, Лесная]
+msgid "Лесная"
+msgstr ""
+
+# Objects : [w25265270]
+# Names: [Лесной]
+msgid "Лесной"
+msgstr ""
+
+# Objects : [w25265314]
+# Names: [Логойская]
+msgid "Логойская"
+
+# Objects : [w25264984, w25264985]
+# Names: [Ломоносова]
+msgid "Ломоносова"
+
+# Objects : [w25265093]
+# Names: [М. Горького]
+msgid "М. Горького"
+
+# Objects : [w25265277]
+# Names: [Магистральная]
+msgid "Магистральная"
+msgstr ""
+
+# Objects : [w25265200]
+# Names: [Майский]
+msgid "Майский"
+
+# Objects : [w25265245]
+# Names: [Малая]
+msgid "Малая"
+
+# Objects : [w25265204]
+# Names: [Минская]
+msgid "Минская"
+msgstr ""
+
+# Objects : [w25265199]
+# Names: [Минский]
+msgid "Минский"
+
+# Objects : [w25265333, w149099876]
+# Names: [проспект Мира]
+msgid "Мира"
+
+# Objects : [w25265110]
+# Names: [Мирная]
+msgid "Мирная"
+msgstr ""
+
+# Objects : [w25265257]
+# Names: [Мицкевича]
+msgid "Мицкевича"
+
+# Objects : [w25265092, w179763866]
+# Names: [улица Мичурина]
+msgid "Мичурина"
+msgstr ""
+
+# Objects : [w25265318]
+# Names: [Молодежный]
+msgid "Молодежный"
+
+# Objects : [w25265107, w25265129, w97440740, w97440743]
+# Names: [Московская]
+msgid "Московская"
+msgstr ""
+
+# Objects : [w25265099, w25265125, w25265292]
+# Names: [2-й Московский переулок, 3-й Московский переулок, 4-ый Московский пер.]
+msgid "Московский"
+
+# Objects : [w25265122, w179763862]
+# Names: [Нагорная улица]
+msgid "Нагорная"
+
+# Objects : [w25265118]
+# Names: [Новая]
+msgid "Новая"
+msgstr ""
+
+# Objects : [w25265082]
+# Names: [Озёрная улица]
+msgid "Озёрная"
+
+# Objects : [w25265284]
+# Names: [3-й Окружной проезд]
+msgid "Окружной"
+
+# Objects : [w25265103]
+# Names: [Октябрьская]
+msgid "Октябрьская"
+
+# Objects : [w25265205, w25265208]
+# Names: [Островского]
+msgid "Островского"
+
+# Objects : [w25265027]
+# Names: [Парниковая]
+msgid "Парниковая"
+
+# Objects : [w25265128]
+# Names: [Партизанская]
+msgid "Партизанская"
+msgstr ""
+
+# Objects : [w25264978, w25265010]
+# Names: [Первомайская]
+msgid "Первомайская"
+
+# Objects : [w25265011]
+# Names: [Первомайский переулок]
+msgid "Первомайский"
+msgstr ""
+
+# Objects : [w25264979]
+# Names: [Пересадская]
+msgid "Пересадская"
+
+# Objects : [w25265070]
+# Names: [Песчаная]
+msgid "Песчаная"
+msgstr ""
+
+# Objects : [w25265069]
+# Names: [Песчаный]
+msgid "Песчаный"
+
+# Objects : [w25265105]
+# Names: [Пионерская]
+msgid "Пионерская"
+msgstr ""
+
+# Objects : [w25264980]
+# Names: [Плисская]
+msgid "Плисская"
+msgstr ""
+
+# Objects : [w25265272]
+# Names: [Подлесная]
+msgid "Подлесная"
+
+# Objects : [w25265246]
+# Names: [Подлесный]
+msgid "Подлесный"
+
+# Objects : [w25264989]
+# Names: [Полевая]
+msgid "Полевая"
+msgstr ""
+
+# Objects : [w25265259]
+# Names: [Полярная]
+msgid "Полярная"
+
+# Objects : [w25265301]
+# Names: [Приборская]
+msgid "Приборская"
+
+# Objects : [w25265065]
+# Names: [Пушкина]
+msgid "Пушкина"
+msgstr ""
+
+# Objects : [w25265115]
+# Names: [Революционная]
+msgid "Революционная"
+
+# Objects : [w25265049]
+# Names: [Речная]
+msgid "Речная"
+
+# Objects : [w25265266]
+# Names: [Родниковая]
+msgid "Родниковая"
+
+# Objects : [w25265119]
+# Names: [Рождественская]
+msgid "Рождественская"
+
+# Objects : [w25265132, w25265141, w137701341]
+# Names: [Рокоссовского]
+msgid "Рокоссовского"
+
+# Objects : [w25265052]
+# Names: [Садовая]
+msgid "Садовая"
+msgstr ""
+
+# Objects : [w25265247, w207900881]
+# Names: [Светлая улица]
+msgid "Светлая"
+
+# Objects : [w25265201]
+# Names: [Северная]
+msgid "Северная"
+
+# Objects : [w25265316, w125601857, w125601860]
+# Names: [Скорины пр.]
+msgid "Скорины"
+
+# Objects : [w25264983, w179527128]
+# Names: [Советская]
+msgid "Советская"
+msgstr ""
+
+# Objects : [w25265047]
+# Names: [Совхозная]
+msgid "Совхозная"
+
+# Objects : [w25265075]
+# Names: [Солнечная]
+msgid "Солнечная"
+msgstr ""
+
+# Objects : [w25265055]
+# Names: [Спортивная]
+msgid "Спортивная"
+msgstr ""
+
+# Objects : [w25265030]
+# Names: [Станционная]
+msgid "Станционная"
+
+# Objects : [w25265012]
+# Names: [Строительный переулок]
+msgid "Строительный"
+msgstr ""
+
+# Objects : [w25265094]
+# Names: [Судобовская]
+msgid "Судобовская"
+
+# Objects : [w25265329]
+# Names: [Сухогрядская]
+msgid "Сухогрядская"
+
+# Objects : [w25265322]
+# Names: [Сырокваша]
+msgid "Сырокваша"
+
+# Objects : [w25264981]
+# Names: [Тенистая]
+msgid "Тенистая"
+
+# Objects : [w25265041]
+# Names: [Тенистый]
+msgid "Тенистый"
+
+# Objects : [w25265218]
+# Names: [Тимирязева]
+msgid "Тимирязева"
+
+# Objects : [w25265258]
+# Names: [Тихая]
+msgid "Тихая"
+msgstr ""
+
+# Objects : [w25264999]
+# Names: [Торфяная]
+msgid "Торфяная"
+
+# Objects : [w25265058]
+# Names: [Труда]
+msgid "Труда"
+
+# Objects : [w25265273]
+# Names: [Фруктовая]
+msgid "Фруктовая"
+
+# Objects : [w25265261]
+# Names: [Фруктовый]
+msgid "Фруктовый"
+
+# Objects : [w25265059]
+# Names: [Фрунзе]
+msgid "Фрунзе"
+
+# Objects : [w25265044]
+# Names: [Цветочная]
+msgid "Цветочная"
+
+# Objects : [w25265264]
+# Names: [Чайковского]
+msgid "Чайковского"
+
+# Objects : [w25265040]
+# Names: [Чапаева]
+msgid "Чапаева"
+
+# Objects : [w25265206]
+# Names: [Чехова]
+msgid "Чехова"
+
+# Objects : [w25265249]
+# Names: [Широкая]
+msgid "Широкая"
+msgstr ""
+
+# Objects : [w25264988]
+# Names: [Школьная]
+msgid "Школьная"
+msgstr ""
+
+# Objects : [w25265271]
+# Names: [Ясная]
+msgid "Ясная"
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Костюковичи</seg></tuv>
+      <tuv lang="BE"><seg>#Касцюковічы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кулешова</seg></tuv>
+      <tuv lang="BE"><seg>#Куляшова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Россия</seg></tuv>
+      <tuv lang="BE"><seg>#Расея</seg></tuv>
+    </tu>
+  </body></tmx>
