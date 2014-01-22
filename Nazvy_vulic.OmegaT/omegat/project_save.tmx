@@ -1704,8 +1704,8 @@
       <tuv lang="RU">
         <seg>Березогорская</seg>
       </tuv>
-      <tuv lang="BE" changeid="doc" changedate="20121026T090000Z">
-        <seg>Бярозагорская</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140114T082310Z">
+        <seg>пж/Бярозагорская</seg>
       </tuv>
     </tu>
     <tu>
@@ -7352,8 +7352,8 @@
       <tuv lang="RU">
         <seg>Клецкая</seg>
       </tuv>
-      <tuv lang="BE" changeid="doc" changedate="20121026T090000Z">
-        <seg>Клецкая</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140114T091431Z">
+        <seg>пж/Клецкая</seg>
       </tuv>
     </tu>
     <tu>
@@ -9734,10 +9734,10 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>М К А Д</seg>
+        <seg>МКАД</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20131021T132418Z" creationid="alex" creationdate="20131021T132418Z">
-        <seg>М К А Д</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140114T095020Z" creationid="alex" creationdate="20140114T094520Z">
+        <seg>н/МКАД</seg>
       </tuv>
     </tu>
     <tu>
@@ -11954,6 +11954,14 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20131023T094205Z" creationid="alex" creationdate="20131023T094205Z">
         <seg>пм/Альховы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Ольшанская</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20140114T082432Z" creationid="alex" creationdate="20140114T082432Z">
+        <seg>пж/Альшанская</seg>
       </tuv>
     </tu>
     <tu>
