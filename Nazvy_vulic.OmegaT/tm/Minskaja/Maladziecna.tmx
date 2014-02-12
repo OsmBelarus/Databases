@@ -13,15 +13,11 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Белорусская</seg></tuv>
-      <tuv lang="BE"><seg>#Беларуская вулiца</seg></tuv>
+      <tuv lang="BE"><seg>#Беларуская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Березинская</seg></tuv>
       <tuv lang="BE"><seg>#Бярэзiнская</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Великий Гостинец</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца Вялікі Гасцінец</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Веры Хоружей</seg></tuv>
@@ -72,10 +68,6 @@
       <tuv lang="BE"><seg>#Завадская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Замковая</seg></tuv>
-      <tuv lang="BE"><seg>#Замкавая</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Заречная</seg></tuv>
       <tuv lang="BE"><seg>#Зарэчная</seg></tuv>
     </tu>
@@ -93,7 +85,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кольцевая</seg></tuv>
-      <tuv lang="BE"><seg>#Кальцавая вулiца</seg></tuv>
+      <tuv lang="BE"><seg>#Кальцавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кольцевой</seg></tuv>
@@ -101,7 +93,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Колядная</seg></tuv>
-      <tuv lang="BE"><seg>#Калядная вулiца</seg></tuv>
+      <tuv lang="BE"><seg>#Калядная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Коммунальный</seg></tuv>
@@ -172,10 +164,6 @@
       <tuv lang="BE"><seg>#Маркава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Машерова</seg></tuv>
-      <tuv lang="BE"><seg>#Машэрава</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Мелиоративная</seg></tuv>
       <tuv lang="BE"><seg>#Меліяратыўная</seg></tuv>
     </tu>
@@ -206,10 +194,6 @@
     <tu>
       <tuv lang="RU"><seg>Молодечненская</seg></tuv>
       <tuv lang="BE"><seg>#Маладзечанская</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Молодечно</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзечна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мядельская</seg></tuv>

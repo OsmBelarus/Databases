@@ -16,12 +16,20 @@
       <tuv lang="BE"><seg>#8 Сакавіка</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Авиаторов</seg></tuv>
+      <tuv lang="BE"><seg>#Авіятараў</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Академическая</seg></tuv>
       <tuv lang="BE"><seg>#Акадэмічная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Восточная</seg></tuv>
       <tuv lang="BE"><seg>#Усходняя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Врублевского</seg></tuv>
+      <tuv lang="BE"><seg>#Урублеўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гагарина</seg></tuv>
@@ -48,12 +56,16 @@
       <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Домбровского</seg></tuv>
+      <tuv lang="BE"><seg>#Дамброўскага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Дружбы</seg></tuv>
       <tuv lang="BE"><seg>#Дружбы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заводская</seg></tuv>
-      <tuv lang="BE"><seg>#Завадская</seg></tuv>
+      <tuv lang="BE"><seg>#Заводская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Западная</seg></tuv>
@@ -69,11 +81,19 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Карла Маркса</seg></tuv>
-      <tuv lang="BE"><seg>#Маркса</seg></tuv>
+      <tuv lang="BE"><seg>#Карла Маркса</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
       <tuv lang="BE"><seg>#Кірава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кленовая</seg></tuv>
+      <tuv lang="BE"><seg>#Кляновая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Колхозная</seg></tuv>
+      <tuv lang="BE"><seg>#Калгасная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Коммунистическая</seg></tuv>
@@ -116,8 +136,8 @@
       <tuv lang="BE"><seg>#Лідская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>М. Танка</seg></tuv>
-      <tuv lang="BE"><seg>#Усходняя</seg></tuv>
+      <tuv lang="RU"><seg>Максима Танка</seg></tuv>
+      <tuv lang="BE"><seg>#Максіма Танка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Маяковского</seg></tuv>
@@ -133,7 +153,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мицкевича</seg></tuv>
-      <tuv lang="BE"><seg>#Усходняя</seg></tuv>
+      <tuv lang="BE"><seg>#Міцкевіча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мичурина</seg></tuv>
@@ -209,7 +229,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Свободы</seg></tuv>
-      <tuv lang="BE"><seg>#Савецкая#Свабоды</seg></tuv>
+      <tuv lang="BE"><seg>#Свабоды</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Северный</seg></tuv>
@@ -268,10 +288,6 @@
       <tuv lang="BE"><seg>#Школьная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Щучин</seg></tuv>
-      <tuv lang="BE"><seg>#Шчучын</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Энгельса</seg></tuv>
       <tuv lang="BE"><seg>#Энгельса</seg></tuv>
     </tu>
@@ -284,7 +300,7 @@
       <tuv lang="BE"><seg>#Паўднёвая</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Якуба Колоса</seg></tuv>
+      <tuv lang="RU"><seg>Якуба Коласа</seg></tuv>
       <tuv lang="BE"><seg>#Якуба Коласа</seg></tuv>
     </tu>
   </body></tmx>

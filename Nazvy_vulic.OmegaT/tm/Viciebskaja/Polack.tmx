@@ -305,7 +305,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>П. Бровки</seg></tuv>
-      <tuv lang="BE"><seg>#П. Броўкі#Петруся Броўкі</seg></tuv>
+      <tuv lang="BE"><seg>#П. Броўкі#Пятруся Броўкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Парковая</seg></tuv>
@@ -317,7 +317,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Петруся Бровки</seg></tuv>
-      <tuv lang="BE"><seg>#Петруся Броўкі</seg></tuv>
+      <tuv lang="BE"><seg>#Пятруся Броўкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Полевая</seg></tuv>
@@ -326,10 +326,6 @@
     <tu>
       <tuv lang="RU"><seg>Полины Осипенко</seg></tuv>
       <tuv lang="BE"><seg>#Паліны Асіпенка</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Полоцк</seg></tuv>
-      <tuv lang="BE"><seg>#Полацк</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Правонабережная</seg></tuv>

@@ -20,6 +20,10 @@
       <tuv lang="BE"><seg>#Вішнёвая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Восточная</seg></tuv>
+      <tuv lang="BE"><seg>#Усходняя</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Высокая</seg></tuv>
       <tuv lang="BE"><seg>#Высокая</seg></tuv>
     </tu>
@@ -38,10 +42,6 @@
     <tu>
       <tuv lang="RU"><seg>Железнодорожная</seg></tuv>
       <tuv lang="BE"><seg>#Чыгуначная</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Жодино</seg></tuv>
-      <tuv lang="BE"><seg>#Жодзіна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Жодинская</seg></tuv>

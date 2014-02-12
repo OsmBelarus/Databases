@@ -20,10 +20,6 @@
       <tuv lang="BE"><seg>#Баравая</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Брестская</seg></tuv>
-      <tuv lang="BE"><seg>#Брэсцкая</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Будённого</seg></tuv>
       <tuv lang="BE"><seg>#Будзёнага</seg></tuv>
     </tu>
@@ -129,7 +125,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ленинская</seg></tuv>
-      <tuv lang="BE"><seg>#Ленинская#Ленінская</seg></tuv>
+      <tuv lang="BE"><seg>#Ленінская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лермонтова</seg></tuv>
@@ -246,10 +242,6 @@
     <tu>
       <tuv lang="RU"><seg>Стадионный</seg></tuv>
       <tuv lang="BE"><seg>#Стадыённы</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Столбцы</seg></tuv>
-      <tuv lang="BE"><seg>#Стоўбцы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Танкистов</seg></tuv>

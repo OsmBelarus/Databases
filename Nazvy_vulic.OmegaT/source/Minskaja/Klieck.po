@@ -1,16 +1,6 @@
-# Objects : [w80221186]
-# Names: [улица 17-го Сентября]
-msgid "17-го Сентября"
-msgstr ""
-
 # Objects : [w109841678]
 # Names: [переулок Апанасевича]
 msgid "Апанасевича"
-
-# Objects : [w80221183]
-# Names: [улица Гагарина]
-msgid "Гагарина"
-msgstr ""
 
 # Objects : [w123056186]
 # Names: [улица Ильина]
@@ -18,13 +8,8 @@ msgid "Ильина"
 msgstr ""
 
 # Objects : [w250933680]
-# Names: [Калинина]
+# Names: [улица Калинина]
 msgid "Калинина"
-
-# Objects : [r1205114]
-# Names: [Клецк]
-msgid "Клецк"
-msgstr ""
 
 # Objects : [w109841648, w109841669]
 # Names: [переулок Климука, улица Климука]
@@ -34,11 +19,6 @@ msgstr ""
 # Objects : [w34815677, w180840317]
 # Names: [Комсомольская улица]
 msgid "Комсомольская"
-msgstr ""
-
-# Objects : [w80221182]
-# Names: [улица Ленина]
-msgid "Ленина"
 msgstr ""
 
 # Objects : [w34815679]
@@ -56,21 +36,12 @@ msgstr ""
 msgid "Панкратовская"
 msgstr ""
 
-# Objects : [w34815667]
-# Names: [Первомайская улица]
-msgid "Первомайская"
-
 # Objects : [w109841684]
 # Names: [Пионерская улица]
 msgid "Пионерская"
 msgstr ""
 
-# Objects : [w124816795]
-# Names: [Победоносная улица]
-msgid "Победоносная"
-msgstr ""
-
-# Objects : [w25279822, w80221185, w178288866, w188775654, w188775655]
+# Objects : [w80221185, w178288866, w188775654, w188775655]
 # Names: [улица Победы]
 msgid "Победы"
 msgstr ""
@@ -83,11 +54,6 @@ msgstr ""
 # Objects : [w168180929]
 # Names: [Садовая улица]
 msgid "Садовая"
-msgstr ""
-
-# Objects : [w25278744, w80221180]
-# Names: [Советская улица]
-msgid "Советская"
 msgstr ""
 
 # Objects : [w180840318]

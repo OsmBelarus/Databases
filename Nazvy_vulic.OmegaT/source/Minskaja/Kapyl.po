@@ -3,7 +3,7 @@
 msgid "Абрамовича"
 msgstr ""
 
-# Objects : [w217925449, w232420732]
+# Objects : [w217925449]
 # Names: [Больничный переулок]
 msgid "Больничный"
 
@@ -21,10 +21,6 @@ msgstr ""
 # Names: [переулок Горького, улица Горького]
 msgid "Горького"
 msgstr ""
-
-# Objects : [w80221572, w218168864]
-# Names: [улица Дзержинского]
-msgid "Дзержинского"
 
 # Objects : [w217925438]
 # Names: [Дорожная улица]
@@ -46,19 +42,14 @@ msgstr ""
 msgid "Замковая"
 msgstr ""
 
-# Objects : [w217925437, w218168863]
-# Names: [1-я Заозёрная улица, 2-я Заозёрная улица]
+# Objects : [w217925437]
+# Names: [2-я Заозёрная улица]
 msgid "Заозёрная"
 msgstr ""
 
 # Objects : [w217925463]
 # Names: [Комсомольская улица]
 msgid "Комсомольская"
-msgstr ""
-
-# Objects : [r1205119]
-# Names: [Копыль]
-msgid "Копыль"
 msgstr ""
 
 # Objects : [w217925459]
@@ -71,11 +62,6 @@ msgstr ""
 msgid "Максима Богдановича"
 msgstr ""
 
-# Objects : [w125111536, w160959636]
-# Names: [Минская улица]
-msgid "Минская"
-msgstr ""
-
 # Objects : [w218188648]
 # Names: [Молодёжная улица]
 msgid "Молодёжная"
@@ -86,29 +72,14 @@ msgstr ""
 msgid "Октябрьская"
 msgstr ""
 
-# Objects : [w25275830, w125111565]
-# Names: [Партизанская улица]
-msgid "Партизанская"
-msgstr ""
-
 # Objects : [w125111516]
 # Names: [Пионерская улица]
 msgid "Пионерская"
 msgstr ""
 
-# Objects : [w218212743]
-# Names: [Полевая улица]
-msgid "Полевая"
-msgstr ""
-
 # Objects : [w218188650]
 # Names: [Пролетарская улица]
 msgid "Пролетарская"
-msgstr ""
-
-# Objects : [w25275835]
-# Names: [Промышленная улица]
-msgid "Промышленная"
 msgstr ""
 
 # Objects : [w125111504]
@@ -121,19 +92,9 @@ msgstr ""
 msgid "Северная"
 msgstr ""
 
-# Objects : [w80221575]
-# Names: [Советская улица]
-msgid "Советская"
-msgstr ""
-
 # Objects : [w217925471]
 # Names: [улица Строителей]
 msgid "Строителей"
-msgstr ""
-
-# Objects : [w125111567, w125111568, w218212590]
-# Names: [Тимковичская улица]
-msgid "Тимковичская"
 msgstr ""
 
 # Objects : [w217925452]

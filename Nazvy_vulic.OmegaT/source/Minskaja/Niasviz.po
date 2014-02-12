@@ -28,7 +28,7 @@ msgstr ""
 msgid "К. Чорного"
 msgstr ""
 
-# Objects : [w25579357, w95791249]
+# Objects : [w25579357]
 # Names: [улица Карла Либкнехта]
 msgid "Карла Либкнехта"
 msgstr ""
@@ -46,11 +46,6 @@ msgstr ""
 # Objects : [w25579431]
 # Names: [улица Лазо]
 msgid "Лазо"
-msgstr ""
-
-# Objects : [w25278701, w159901061, w207240066]
-# Names: [Ленинская улица]
-msgid "Ленинская"
 msgstr ""
 
 # Objects : [w25579429]
@@ -72,11 +67,6 @@ msgstr ""
 msgid "Некрасова"
 msgstr ""
 
-# Objects : [r1185957]
-# Names: [Несвиж]
-msgid "Несвиж"
-msgstr ""
-
 # Objects : [w232959045]
 # Names: [Новая улица]
 msgid "Новая"
@@ -87,7 +77,7 @@ msgstr ""
 msgid "Объездная"
 msgstr ""
 
-# Objects : [w25579392, w25579394, w114815580]
+# Objects : [w25579392, w25579394]
 # Names: [ул. Панфилова]
 msgid "Панфилова"
 msgstr ""
@@ -112,11 +102,7 @@ msgstr ""
 msgid "Слуцкий"
 msgstr ""
 
-# Objects : [w25278707]
-# Names: [улица Сновская]
-msgid "Сновская"
-
-# Objects : [w25278703, w25604471, w25604474, w128273245, w128274139, w159907706, w186110114, w252094613, w252094742, w252094743]
+# Objects : [w25604471, w25604474, w128274139, w159907706, w186110114]
 # Names: [Советская улица]
 msgid "Советская"
 msgstr ""
@@ -135,10 +121,6 @@ msgstr ""
 # Names: [Цветочная улица]
 msgid "Цветочная"
 msgstr ""
-
-# Objects : [w25278676, w25604615]
-# Names: [улица Шимко]
-msgid "Шимко"
 
 # Objects : [w25579346]
 # Names: [улица Энгельса]

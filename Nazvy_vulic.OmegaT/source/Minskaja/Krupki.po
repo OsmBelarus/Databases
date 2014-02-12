@@ -3,11 +3,6 @@
 msgid "Интернациональная"
 msgstr ""
 
-# Objects : [r1205084]
-# Names: [Крупки]
-msgid "Крупки"
-msgstr ""
-
 # Objects : [w80218549]
 # Names: [Майская улица]
 msgid "Майская"

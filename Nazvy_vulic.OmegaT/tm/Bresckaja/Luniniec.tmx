@@ -4,6 +4,38 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>17 Сентября</seg></tuv>
+      <tuv lang="BE"><seg>#17 Верасня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>50 лет Октября</seg></tuv>
+      <tuv lang="BE"><seg>#50 год Кастрычніка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белинского</seg></tuv>
+      <tuv lang="BE"><seg>#Бялінскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белорусская</seg></tuv>
+      <tuv lang="BE"><seg>#Беларуская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Богданова</seg></tuv>
+      <tuv lang="BE"><seg>#Багданава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Богдановича</seg></tuv>
+      <tuv lang="BE"><seg>#Багдановіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Богушевича</seg></tuv>
+      <tuv lang="BE"><seg>#Багушэвіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Больничный</seg></tuv>
+      <tuv lang="BE"><seg>#Бальнічны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Виленская</seg></tuv>
       <tuv lang="BE"><seg>#Віленская</seg></tuv>
     </tu>
@@ -16,12 +48,48 @@
       <tuv lang="BE"><seg>#Гагарына</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Герцена</seg></tuv>
+      <tuv lang="BE"><seg>#Герцэна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гомельская</seg></tuv>
+      <tuv lang="BE"><seg>#Гомельская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гомельский</seg></tuv>
+      <tuv lang="BE"><seg>#Гомельскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Городецкая</seg></tuv>
+      <tuv lang="BE"><seg>#Гарадзецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гражданская</seg></tuv>
+      <tuv lang="BE"><seg>#Грамадзянская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Григория Ширмы</seg></tuv>
+      <tuv lang="BE"><seg>#Рыгора Шырмы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Давыдова</seg></tuv>
+      <tuv lang="BE"><seg>#Давыдава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дзержинского</seg></tuv>
+      <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Железнодорожная</seg></tuv>
       <tuv lang="BE"><seg>#Чыгуначная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заводская</seg></tuv>
-      <tuv lang="BE"><seg>#Завадская</seg></tuv>
+      <tuv lang="BE"><seg>#Заводская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Коржа</seg></tuv>
+      <tuv lang="BE"><seg>#Каржа</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Красная</seg></tuv>
@@ -32,40 +100,92 @@
       <tuv lang="BE"><seg>#Чырвонаармейская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Кулешова</seg></tuv>
+      <tuv lang="BE"><seg>#Куляшова</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Лесная</seg></tuv>
       <tuv lang="BE"><seg>#Лясная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лесной</seg></tuv>
+      <tuv lang="BE"><seg>#Лясны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Линейная</seg></tuv>
       <tuv lang="BE"><seg>#Лінейная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Лунинец</seg></tuv>
-      <tuv lang="BE"><seg>#Лунінец</seg></tuv>
+      <tuv lang="RU"><seg>Ломоносова</seg></tuv>
+      <tuv lang="BE"><seg>#Ламаносава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Машерова</seg></tuv>
+      <tuv lang="BE"><seg>#Машэрава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мелиоративная</seg></tuv>
       <tuv lang="BE"><seg>#Меліяратыўная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Мицкевича</seg></tuv>
+      <tuv lang="BE"><seg>#Міцкевіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мозырская</seg></tuv>
+      <tuv lang="BE"><seg>#Мазырская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мозырский</seg></tuv>
+      <tuv lang="BE"><seg>#Мазырскі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Московская</seg></tuv>
       <tuv lang="BE"><seg>#Маскоўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мостовая</seg></tuv>
+      <tuv lang="BE"><seg>#Маставая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новая</seg></tuv>
       <tuv lang="BE"><seg>#Новая</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Октябрьская</seg></tuv>
-      <tuv lang="BE"><seg>#Кастрычніцкая</seg></tuv>
+      <tuv lang="RU"><seg>Пинская</seg></tuv>
+      <tuv lang="BE"><seg>#Пінская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пирогова</seg></tuv>
+      <tuv lang="BE"><seg>#Пірагова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Победы</seg></tuv>
+      <tuv lang="BE"><seg>#Перамогі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пушкина</seg></tuv>
+      <tuv lang="BE"><seg>#Пушкіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рябиновая</seg></tuv>
+      <tuv lang="BE"><seg>#Рабінавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Скорины</seg></tuv>
       <tuv lang="BE"><seg>#Скарыны</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Смоленская</seg></tuv>
+      <tuv lang="BE"><seg>#Смаленская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>
       <tuv lang="BE"><seg>#Савецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Солнечная</seg></tuv>
+      <tuv lang="BE"><seg>#Сонечная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Фабричная</seg></tuv>
@@ -76,7 +196,15 @@
       <tuv lang="BE"><seg>#Фрунзэ</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Цветочная</seg></tuv>
+      <tuv lang="BE"><seg>#Кветкавая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Чапаева</seg></tuv>
       <tuv lang="BE"><seg>#Чапаева</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чехова</seg></tuv>
+      <tuv lang="BE"><seg>#Чэхава</seg></tuv>
     </tu>
   </body></tmx>

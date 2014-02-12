@@ -44,10 +44,6 @@
       <tuv lang="BE"><seg>#Калініна</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Карла Маркса</seg></tuv>
-      <tuv lang="BE"><seg>#Карла Маркса</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Каштановая</seg></tuv>
       <tuv lang="BE"><seg>#Каштанавая</seg></tuv>
     </tu>
@@ -88,10 +84,6 @@
       <tuv lang="BE"><seg>#Максіма Горкага</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Марьина Горка</seg></tuv>
-      <tuv lang="BE"><seg>#Мар’іна Горка</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Маяковского</seg></tuv>
       <tuv lang="BE"><seg>#Маякоўскага</seg></tuv>
     </tu>
@@ -106,10 +98,6 @@
     <tu>
       <tuv lang="RU"><seg>Новый</seg></tuv>
       <tuv lang="BE"><seg>#Новы</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Октябрьская</seg></tuv>
-      <tuv lang="BE"><seg>#Кастрычніцкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Октябрьский</seg></tuv>
@@ -196,20 +184,12 @@
       <tuv lang="BE"><seg>#Фрунзэ</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Чапаева</seg></tuv>
-      <tuv lang="BE"><seg>#Чапаева</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Чкалова</seg></tuv>
       <tuv lang="BE"><seg>#Чкалава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Школьная</seg></tuv>
       <tuv lang="BE"><seg>#Школьная</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Энгельса</seg></tuv>
-      <tuv lang="BE"><seg>#Энгельса</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Южная</seg></tuv>

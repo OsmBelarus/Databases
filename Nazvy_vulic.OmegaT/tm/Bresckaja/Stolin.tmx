@@ -4,35 +4,63 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>Брестская</seg></tuv>
+      <tuv lang="BE"><seg>#Брэсцкая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Гагарина</seg></tuv>
       <tuv lang="BE"><seg>#Гагарына</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Интернациональная</seg></tuv>
-      <tuv lang="BE"><seg>#Інтэрнацыянальная вулiца</seg></tuv>
+      <tuv lang="RU"><seg>Дзержинского</seg></tuv>
+      <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Комсомольская</seg></tuv>
-      <tuv lang="BE"><seg>#Камсамольская</seg></tuv>
+      <tuv lang="RU"><seg>Интернациональная</seg></tuv>
+      <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кленовая</seg></tuv>
+      <tuv lang="BE"><seg>#Кляновая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Красноармейская</seg></tuv>
       <tuv lang="BE"><seg>#Чырвонаармейская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ленина</seg></tuv>
+      <tuv lang="BE"><seg>#Леніна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мира</seg></tuv>
+      <tuv lang="BE"><seg>#Міру</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Полесская</seg></tuv>
-      <tuv lang="BE"><seg>#Палеская#Палеская вулiца</seg></tuv>
+      <tuv lang="BE"><seg>#Палеская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Советская</seg></tuv>
-      <tuv lang="BE"><seg>#Савецкая</seg></tuv>
+      <tuv lang="RU"><seg>Пролетарская</seg></tuv>
+      <tuv lang="BE"><seg>#Пралетарская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Столин</seg></tuv>
-      <tuv lang="BE"><seg>#Столін</seg></tuv>
+      <tuv lang="RU"><seg>Терешковой</seg></tuv>
+      <tuv lang="BE"><seg>#Церашковай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Толстого</seg></tuv>
+      <tuv lang="BE"><seg>#Талстога</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ульянова</seg></tuv>
+      <tuv lang="BE"><seg>#Ульянава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чкалова</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца Чкалава</seg></tuv>
+      <tuv lang="BE"><seg>#Чкалава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шевченко</seg></tuv>
+      <tuv lang="BE"><seg>#Шаўчэнкі</seg></tuv>
     </tu>
   </body></tmx>

@@ -52,10 +52,6 @@
       <tuv lang="BE"><seg>#Дачны</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Дзержинская</seg></tuv>
-      <tuv lang="BE"><seg>#Дзяржынская</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Железнодорожная</seg></tuv>
       <tuv lang="BE"><seg>#Чыгуначная</seg></tuv>
     </tu>
@@ -70,10 +66,6 @@
     <tu>
       <tuv lang="RU"><seg>Заречная</seg></tuv>
       <tuv lang="BE"><seg>#Зарэчная</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Заславль</seg></tuv>
-      <tuv lang="BE"><seg>#Заслаўе</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Зелёная</seg></tuv>
@@ -166,10 +158,6 @@
     <tu>
       <tuv lang="RU"><seg>Путейко</seg></tuv>
       <tuv lang="BE"><seg>#Пуцейкі</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Путейская</seg></tuv>
-      <tuv lang="BE"><seg>#Пуцейская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Рабочая</seg></tuv>

@@ -20,10 +20,6 @@
       <tuv lang="BE"><seg>#Бальнічны</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Борисов</seg></tuv>
-      <tuv lang="BE"><seg>#Барысаў</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Витебская</seg></tuv>
       <tuv lang="BE"><seg>#Віцебская</seg></tuv>
     </tu>
@@ -61,7 +57,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заводская</seg></tuv>
-      <tuv lang="BE"><seg>#Заводская</seg></tuv>
+      <tuv lang="BE"><seg>#Завадская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Залинейный</seg></tuv>
@@ -210,6 +206,10 @@
     <tu>
       <tuv lang="RU"><seg>Розы Люксембург</seg></tuv>
       <tuv lang="BE"><seg>#Розы Люксембург</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Северный</seg></tuv>
+      <tuv lang="BE"><seg>#Паўночны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>

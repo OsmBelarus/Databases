@@ -33,7 +33,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Белинского</seg></tuv>
-      <tuv lang="BE"><seg>#Бялинскага#Бялінскага</seg></tuv>
+      <tuv lang="BE"><seg>#Бялінскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Белорусская</seg></tuv>
@@ -188,14 +188,6 @@
       <tuv lang="BE"><seg>#Мінскі</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Могилёв</seg></tuv>
-      <tuv lang="BE"><seg>#Магілёў</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Могилёвская область</seg></tuv>
-      <tuv lang="BE"><seg>#Магілёўская вобласць</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
       <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
     </tu>
@@ -321,6 +313,6 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ямницкий</seg></tuv>
-      <tuv lang="BE"><seg>#8-мы Ямніцкі#Ямніцкі</seg></tuv>
+      <tuv lang="BE"><seg>#Ямніцкі</seg></tuv>
     </tu>
   </body></tmx>

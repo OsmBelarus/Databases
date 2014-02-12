@@ -1,5 +1,5 @@
 # Objects : [w125788435]
-# Names: [Бережецкая ул.]
+# Names: [Бережецкая улица]
 msgid "Бережецкая"
 
 # Objects : [w125788443]
@@ -22,28 +22,14 @@ msgstr ""
 msgid "Калинина"
 msgstr ""
 
-# Objects : [w116349042, w125788446]
-# Names: [улица Кирова]
-msgid "Кирова"
-msgstr ""
-
 # Objects : [w116605840]
-# Names: [ул. Комарова]
+# Names: [улица Комарова]
 msgid "Комарова"
+msgstr ""
 
 # Objects : [w116605824]
 # Names: [Комсомольская улица]
 msgid "Комсомольская"
-msgstr ""
-
-# Objects : [w116605807, w125788439]
-# Names: [Ленинская улица]
-msgid "Ленинская"
-msgstr ""
-
-# Objects : [w116605826]
-# Names: [улица Урицкого]
-msgid "Урицкого"
 msgstr ""
 
 # Objects : [w116605833]

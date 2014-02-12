@@ -4,12 +4,16 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
-      <tuv lang="RU"><seg>Комсомольская</seg></tuv>
-      <tuv lang="BE"><seg>#Камсамольская</seg></tuv>
+      <tuv lang="RU"><seg>Дзержинского</seg></tuv>
+      <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ленина</seg></tuv>
-      <tuv lang="BE"><seg>#Леніна</seg></tuv>
+      <tuv lang="RU"><seg>имени Мельнова</seg></tuv>
+      <tuv lang="BE"><seg>#імя Мельнава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>имени Свердлова</seg></tuv>
+      <tuv lang="BE"><seg>#імя Свярдлова</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Первомайская</seg></tuv>
@@ -20,15 +24,19 @@
       <tuv lang="BE"><seg>#Першамайскі</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Свислочь</seg></tuv>
-      <tuv lang="BE"><seg>#Свіслач</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Северная</seg></tuv>
       <tuv lang="BE"><seg>#Паўночная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>
       <tuv lang="BE"><seg>#Савецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Франциска Скорины</seg></tuv>
+      <tuv lang="BE"><seg>#Франциска Скорыны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Штабной</seg></tuv>
+      <tuv lang="BE"><seg>#Штабны</seg></tuv>
     </tu>
   </body></tmx>

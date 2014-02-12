@@ -1,9 +1,9 @@
 # Objects : [w199495032]
-# Names: [улица 17-го Сентября]
-msgid "17-го Сентября"
+# Names: [улица 17 Сентября]
+msgid "17 Сентября"
 msgstr ""
 
-# Objects : [w199495036, w199495041]
+# Objects : [w199495041]
 # Names: [улица Гагарина]
 msgid "Гагарина"
 msgstr ""
@@ -14,8 +14,8 @@ msgid "Горовца"
 msgstr ""
 
 # Objects : [w199495047]
-# Names: [улица Держинского]
-msgid "Держинского"
+# Names: [улица Дзержинского]
+msgid "Дзержинского"
 msgstr ""
 
 # Objects : [w42560645]
@@ -26,11 +26,6 @@ msgstr ""
 # Objects : [w199495051]
 # Names: [улица Заслонова]
 msgid "Заслонова"
-msgstr ""
-
-# Objects : [w199494937]
-# Names: [Зелёная улица]
-msgid "Зелёная"
 msgstr ""
 
 # Objects : [w67546741]
@@ -51,11 +46,6 @@ msgstr ""
 # Objects : [w199494939]
 # Names: [Красноармейская улица]
 msgid "Красноармейская"
-msgstr ""
-
-# Objects : [w199495071]
-# Names: [улица Ленина]
-msgid "Ленина"
 msgstr ""
 
 # Objects : [w199494940]
@@ -91,11 +81,6 @@ msgstr ""
 # Objects : [w199495089]
 # Names: [улица Ролика]
 msgid "Ролика"
-msgstr ""
-
-# Objects : [r1713352]
-# Names: [Скидель]
-msgid "Скидель"
 msgstr ""
 
 # Objects : [w199495091]

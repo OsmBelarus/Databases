@@ -1,12 +1,7 @@
 # Objects : [w122326462]
-# Names: [улица 1-го Мая]
-msgid "1-го Мая"
-msgstr ""
-
-# Objects : [w125787075]
-# Names: [улица 3-го Февраля]
-msgid "3-го Февраля"
-msgstr ""
+# Names: [улица 1 Мая]
+msgid "1 Мая"
+msgstr "н/1 Мая"
 
 # Objects : [w125787077]
 # Names: [улица Ленина]

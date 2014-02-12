@@ -48,10 +48,6 @@
       <tuv lang="BE"><seg>#Чырвонаармейская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Кричев</seg></tuv>
-      <tuv lang="BE"><seg>#Крычаў</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Крупской</seg></tuv>
       <tuv lang="BE"><seg>#Крупскай</seg></tuv>
     </tu>
@@ -130,10 +126,6 @@
     <tu>
       <tuv lang="RU"><seg>Трудовая</seg></tuv>
       <tuv lang="BE"><seg>#Працоўная</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Фрунзе</seg></tuv>
-      <tuv lang="BE"><seg>#Фрунзэ</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чапаева</seg></tuv>

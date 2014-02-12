@@ -4,8 +4,8 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
-      <tuv lang="RU"><seg>17-го Сентября</seg></tuv>
-      <tuv lang="BE"><seg>#17-га Верасня</seg></tuv>
+      <tuv lang="RU"><seg>17 Сентября</seg></tuv>
+      <tuv lang="BE"><seg>#17 Верасня</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гагарина</seg></tuv>
@@ -16,24 +16,20 @@
       <tuv lang="BE"><seg>#Гараўца</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Держинского</seg></tuv>
+      <tuv lang="RU"><seg>Дзержинского</seg></tuv>
       <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заречная</seg></tuv>
-      <tuv lang="BE"><seg>#Зарэчная вулiца</seg></tuv>
+      <tuv lang="BE"><seg>#Зарэчная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заслонова</seg></tuv>
       <tuv lang="BE"><seg>#Заслонава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Зелёная</seg></tuv>
-      <tuv lang="BE"><seg>#Зялёная</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Интернациональная</seg></tuv>
-      <tuv lang="BE"><seg>#Iнтэрнацыянальная</seg></tuv>
+      <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Карла Маркса</seg></tuv>
@@ -48,10 +44,6 @@
       <tuv lang="BE"><seg>#Чырвонаармейская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ленина</seg></tuv>
-      <tuv lang="BE"><seg>#Леніна</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Луговая</seg></tuv>
       <tuv lang="BE"><seg>#Лугавая</seg></tuv>
     </tu>
@@ -61,7 +53,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Некрасова</seg></tuv>
-      <tuv lang="BE"><seg>#Некрасава</seg></tuv>
+      <tuv lang="BE"><seg>#Някрасава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Октябрьская</seg></tuv>
@@ -73,15 +65,11 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Партизанская</seg></tuv>
-      <tuv lang="BE"><seg>#Парцізанская</seg></tuv>
+      <tuv lang="BE"><seg>#Партызанская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ролика</seg></tuv>
       <tuv lang="BE"><seg>#Роліка</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Скидель</seg></tuv>
-      <tuv lang="BE"><seg>#Скідзель</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Танкистов</seg></tuv>

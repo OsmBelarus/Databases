@@ -4,19 +4,7 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
-      <tuv lang="RU"><seg>Болдина</seg></tuv>
-      <tuv lang="BE"><seg>#Болдзіна</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Комсомольская</seg></tuv>
       <tuv lang="BE"><seg>#Камсамольская</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Рокоссовского</seg></tuv>
-      <tuv lang="BE"><seg>#Ракасоўскага</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Чериков</seg></tuv>
-      <tuv lang="BE"><seg>#Чэрыкаў</seg></tuv>
     </tu>
   </body></tmx>

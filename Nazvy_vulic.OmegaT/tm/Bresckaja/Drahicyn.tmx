@@ -4,16 +4,76 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>17 Сентября</seg></tuv>
+      <tuv lang="BE"><seg>#17 Верасня</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>40 лет Победы</seg></tuv>
       <tuv lang="BE"><seg>#40 год Перамогі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>60 лет БССР</seg></tuv>
+      <tuv lang="BE"><seg>#60 год БССР</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>8 Марта</seg></tuv>
+      <tuv lang="BE"><seg>#8 Сакавіка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>9 Мая</seg></tuv>
+      <tuv lang="BE"><seg>#9 Мая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аэродромная</seg></tuv>
+      <tuv lang="BE"><seg>#Аэрадромная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аэродромный</seg></tuv>
+      <tuv lang="BE"><seg>#Аэрадромны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Базарная</seg></tuv>
+      <tuv lang="BE"><seg>#Базарная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Берёзовая</seg></tuv>
+      <tuv lang="BE"><seg>#Бярозавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Богдановича</seg></tuv>
+      <tuv lang="BE"><seg>#Багдановіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Богушевича</seg></tuv>
+      <tuv lang="BE"><seg>#Багушэвіча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Будённого</seg></tuv>
       <tuv lang="BE"><seg>#Будзёнага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Васильковая</seg></tuv>
+      <tuv lang="BE"><seg>#Васільковая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веры Хоружей</seg></tuv>
+      <tuv lang="BE"><seg>#Веры Харужай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Весёлая</seg></tuv>
+      <tuv lang="BE"><seg>#Вясёлая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Вишнёвая</seg></tuv>
       <tuv lang="BE"><seg>#Вішнёвая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вокзальная</seg></tuv>
+      <tuv lang="BE"><seg>#Вакзальная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ворошилова</seg></tuv>
+      <tuv lang="BE"><seg>#Варашылава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Восточная</seg></tuv>
@@ -24,6 +84,14 @@
       <tuv lang="BE"><seg>#Гагарына</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Гастелло</seg></tuv>
+      <tuv lang="BE"><seg>#Гастэлы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гоголя</seg></tuv>
+      <tuv lang="BE"><seg>#Гогаля</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Горького</seg></tuv>
       <tuv lang="BE"><seg>#Горкага</seg></tuv>
     </tu>
@@ -32,8 +100,8 @@
       <tuv lang="BE"><seg>#Дачная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Дрогичин</seg></tuv>
-      <tuv lang="BE"><seg>#Драгічын</seg></tuv>
+      <tuv lang="RU"><seg>Дзержинского</seg></tuv>
+      <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Железнодорожная</seg></tuv>
@@ -52,12 +120,32 @@
       <tuv lang="BE"><seg>#Заслонава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Зелёная</seg></tuv>
+      <tuv lang="BE"><seg>#Зялёная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зои Космодемьянской</seg></tuv>
+      <tuv lang="BE"><seg>#Зоі Касмадзям’янскай</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Интернациональная</seg></tuv>
       <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Калиновского</seg></tuv>
+      <tuv lang="BE"><seg>#Каліноўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Карбышева</seg></tuv>
+      <tuv lang="BE"><seg>#Карбышава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Карла Маркса</seg></tuv>
       <tuv lang="BE"><seg>#Карла Маркса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Каштановая</seg></tuv>
+      <tuv lang="BE"><seg>#Каштанавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
@@ -68,28 +156,104 @@
       <tuv lang="BE"><seg>#Камсамольская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Кооперативная</seg></tuv>
+      <tuv lang="BE"><seg>#Кааператыўная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Красноармейская</seg></tuv>
       <tuv lang="BE"><seg>#Чырвонаармейская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ленина</seg></tuv>
+      <tuv lang="BE"><seg>#Леніна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лермонтова</seg></tuv>
+      <tuv lang="BE"><seg>#Лермантава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лесная</seg></tuv>
       <tuv lang="BE"><seg>#Лясная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ломоносова</seg></tuv>
+      <tuv lang="BE"><seg>#Ламаносава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Лучезарная</seg></tuv>
       <tuv lang="BE"><seg>#Лучазарная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Малая</seg></tuv>
+      <tuv lang="BE"><seg>#Малая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Межевая</seg></tuv>
+      <tuv lang="BE"><seg>#Межавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мележа</seg></tuv>
+      <tuv lang="BE"><seg>#Мележа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мира</seg></tuv>
+      <tuv lang="BE"><seg>#Міру</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мицкевича</seg></tuv>
+      <tuv lang="BE"><seg>#Міцкевіча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мичурина</seg></tuv>
       <tuv lang="BE"><seg>#Мічурына</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Молодёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Молодогвардейская</seg></tuv>
+      <tuv lang="BE"><seg>#Маладагвардзейская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Независимости</seg></tuv>
+      <tuv lang="BE"><seg>#Незалежнасці</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Новая</seg></tuv>
       <tuv lang="BE"><seg>#Новая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Озёрная</seg></tuv>
+      <tuv lang="BE"><seg>#Азёрная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Октябрьская</seg></tuv>
+      <tuv lang="BE"><seg>#Кастрычніцкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ореховая</seg></tuv>
+      <tuv lang="BE"><seg>#Арэхавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Освобождения</seg></tuv>
+      <tuv lang="BE"><seg>#Вызвалення</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Островского</seg></tuv>
+      <tuv lang="BE"><seg>#Астроўскага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Партизанская</seg></tuv>
       <tuv lang="BE"><seg>#Партызанская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Партизанский</seg></tuv>
+      <tuv lang="BE"><seg>#Партызанскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Первомайская</seg></tuv>
+      <tuv lang="BE"><seg>#Першамайская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пионерская</seg></tuv>
@@ -104,6 +268,14 @@
       <tuv lang="BE"><seg>#Палеская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Пригородная</seg></tuv>
+      <tuv lang="BE"><seg>#Прыгарадная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пролетарская</seg></tuv>
+      <tuv lang="BE"><seg>#Пралетарская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Пушкина</seg></tuv>
       <tuv lang="BE"><seg>#Пушкіна</seg></tuv>
     </tu>
@@ -112,8 +284,28 @@
       <tuv lang="BE"><seg>#Рэспубліканская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Родниковая</seg></tuv>
+      <tuv lang="BE"><seg>#Крынічная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рокоссовского</seg></tuv>
+      <tuv lang="BE"><seg>#Ракасоўскага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Садовая</seg></tuv>
       <tuv lang="BE"><seg>#Садовая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Северная</seg></tuv>
+      <tuv lang="BE"><seg>#Паўночная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сиреневая</seg></tuv>
+      <tuv lang="BE"><seg>#Бэзавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Славянская</seg></tuv>
+      <tuv lang="BE"><seg>#Славянская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Славянский</seg></tuv>
@@ -132,8 +324,20 @@
       <tuv lang="BE"><seg>#Сасновая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Социалистическая</seg></tuv>
+      <tuv lang="BE"><seg>#Сацыялістычная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Спортивная</seg></tuv>
       <tuv lang="BE"><seg>#Спартыўная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Старосельская</seg></tuv>
+      <tuv lang="BE"><seg>#Старасельская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Строителей</seg></tuv>
+      <tuv lang="BE"><seg>#Будаўнікоў</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Тихая</seg></tuv>
@@ -141,15 +345,39 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Трудовая</seg></tuv>
-      <tuv lang="BE"><seg>#Трудавая</seg></tuv>
+      <tuv lang="BE"><seg>#Працоўная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Франциска Скорины</seg></tuv>
+      <tuv lang="BE"><seg>#Франциска Скорыны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фрунзе</seg></tuv>
+      <tuv lang="BE"><seg>#Фрунзэ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Цветочная</seg></tuv>
+      <tuv lang="BE"><seg>#Кветкавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чапаева</seg></tuv>
+      <tuv lang="BE"><seg>#Чапаева</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чернышевского</seg></tuv>
+      <tuv lang="BE"><seg>#Чарнышэўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чкалова</seg></tuv>
       <tuv lang="BE"><seg>#Чкалава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Шевченко</seg></tuv>
+      <tuv lang="BE"><seg>#Шаўчэнкі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Шоссейная</seg></tuv>
-      <tuv lang="BE"><seg>#Шашэйшая</seg></tuv>
+      <tuv lang="BE"><seg>#Шасэйная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Юбилейная</seg></tuv>
@@ -158,6 +386,10 @@
     <tu>
       <tuv lang="RU"><seg>Юбилейный</seg></tuv>
       <tuv lang="BE"><seg>#Юбілейны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Южная</seg></tuv>
+      <tuv lang="BE"><seg>#Паўднёвая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Южный</seg></tuv>

@@ -36,10 +36,6 @@
       <tuv lang="BE"><seg>#Жукава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Заводская</seg></tuv>
-      <tuv lang="BE"><seg>#Завадская</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Зелёная</seg></tuv>
       <tuv lang="BE"><seg>#Зялёная</seg></tuv>
     </tu>
@@ -109,7 +105,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Октябрьская</seg></tuv>
-      <tuv lang="BE"><seg>#Кастрычніцкая вулiца</seg></tuv>
+      <tuv lang="BE"><seg>#Кастрычніцкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Первомайская</seg></tuv>
@@ -152,10 +148,6 @@
       <tuv lang="BE"><seg>#Тэльмана</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Фаниполь</seg></tuv>
-      <tuv lang="BE"><seg>#Фаніпаль</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Центральная</seg></tuv>
       <tuv lang="BE"><seg>#Цэнтральная</seg></tuv>
     </tu>
@@ -169,7 +161,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Шульги</seg></tuv>
-      <tuv lang="BE"><seg>#Шульгi</seg></tuv>
+      <tuv lang="BE"><seg>#Шульгі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Юбилейная</seg></tuv>

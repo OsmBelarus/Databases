@@ -60,6 +60,10 @@
       <tuv lang="BE"><seg>#Каралёва</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Королёва</seg></tuv>
+      <tuv lang="BE"><seg>#Каралёва</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Крупской</seg></tuv>
       <tuv lang="BE"><seg>#Крупскай</seg></tuv>
     </tu>
@@ -98,10 +102,6 @@
     <tu>
       <tuv lang="RU"><seg>Новая</seg></tuv>
       <tuv lang="BE"><seg>#Новая</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Осиповичи</seg></tuv>
-      <tuv lang="BE"><seg>#Асіповічы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Партизанская</seg></tuv>
@@ -158,10 +158,6 @@
     <tu>
       <tuv lang="RU"><seg>Щорса</seg></tuv>
       <tuv lang="BE"><seg>#Шчорса</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Юбилейная</seg></tuv>
-      <tuv lang="BE"><seg>#Юбілейная вулiца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Южный</seg></tuv>

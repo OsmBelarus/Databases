@@ -44,10 +44,6 @@
       <tuv lang="BE"><seg>#Лазо</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ленинская</seg></tuv>
-      <tuv lang="BE"><seg>#Ленінская</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Луговая</seg></tuv>
       <tuv lang="BE"><seg>#Лугавая</seg></tuv>
     </tu>
@@ -58,10 +54,6 @@
     <tu>
       <tuv lang="RU"><seg>Некрасова</seg></tuv>
       <tuv lang="BE"><seg>#Някрасава</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Несвиж</seg></tuv>
-      <tuv lang="BE"><seg>#Нясвіж</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новая</seg></tuv>

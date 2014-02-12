@@ -8,19 +8,10 @@ msgstr ""
 msgid "Ленина"
 msgstr ""
 
-# Objects : [r1205213]
-# Names: [Малорита]
-msgid "Малорита"
-msgstr ""
-
 # Objects : [w51781263]
 # Names: [улица Маяковского]
 msgid "Маяковского"
 msgstr ""
-
-# Objects : [w25289478]
-# Names: [улица Несенюка]
-msgid "Несенюка"
 
 # Objects : [w25290258]
 # Names: [Советская улица]

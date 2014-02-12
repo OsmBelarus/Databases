@@ -4,6 +4,14 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>17 Сентября</seg></tuv>
+      <tuv lang="BE"><seg>#17 Верасня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вокзальная</seg></tuv>
+      <tuv lang="BE"><seg>#Вакзальная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Восточная</seg></tuv>
       <tuv lang="BE"><seg>#Усходняя</seg></tuv>
     </tu>
@@ -36,6 +44,10 @@
       <tuv lang="BE"><seg>#Зялёны</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Интернациональная</seg></tuv>
+      <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Калиновского</seg></tuv>
       <tuv lang="BE"><seg>#Каліноўскага</seg></tuv>
     </tu>
@@ -45,7 +57,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кольцевая</seg></tuv>
-      <tuv lang="BE"><seg>#Кальцавая</seg></tuv>
+      <tuv lang="BE"><seg>#Кальцавая вулiца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Комсомольская</seg></tuv>
@@ -76,8 +88,8 @@
       <tuv lang="BE"><seg>#Лугавая</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ляховичи</seg></tuv>
-      <tuv lang="BE"><seg>#Ляхавічы</seg></tuv>
+      <tuv lang="RU"><seg>Машерова</seg></tuv>
+      <tuv lang="BE"><seg>#Машэрава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Минская</seg></tuv>
@@ -96,8 +108,16 @@
       <tuv lang="BE"><seg>#Кастрычніцкая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Орловского</seg></tuv>
+      <tuv lang="BE"><seg>#Арлоўскага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Первомайская</seg></tuv>
       <tuv lang="BE"><seg>#Першамайская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Песочный</seg></tuv>
+      <tuv lang="BE"><seg>#Пясочны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пионерская</seg></tuv>
@@ -128,6 +148,10 @@
       <tuv lang="BE"><seg>#Вясёлкавая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Разина</seg></tuv>
+      <tuv lang="BE"><seg>#Разіна</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Садовая</seg></tuv>
       <tuv lang="BE"><seg>#Садовая</seg></tuv>
     </tu>
@@ -150,6 +174,14 @@
     <tu>
       <tuv lang="RU"><seg>Строителей</seg></tuv>
       <tuv lang="BE"><seg>#Будаўнікоў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Титова</seg></tuv>
+      <tuv lang="BE"><seg>#Цітова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Франциска Скорины</seg></tuv>
+      <tuv lang="BE"><seg>#Франциска Скорыны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чехова</seg></tuv>

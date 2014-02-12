@@ -4,8 +4,8 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
-      <tuv lang="RU"><seg>1 Мая</seg></tuv>
-      <tuv lang="BE"><seg>#1 Мая</seg></tuv>
+      <tuv lang="RU"><seg>50 лет Октября</seg></tuv>
+      <tuv lang="BE"><seg>#50 год Кастрычніка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>8 Марта</seg></tuv>
@@ -20,6 +20,10 @@
       <tuv lang="BE"><seg>#Гараўца</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Дзержинского</seg></tuv>
+      <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Дружбы</seg></tuv>
       <tuv lang="BE"><seg>#Дружбы</seg></tuv>
     </tu>
@@ -30,14 +34,6 @@
     <tu>
       <tuv lang="RU"><seg>Зелёная</seg></tuv>
       <tuv lang="BE"><seg>#Зялёная</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Ивье</seg></tuv>
-      <tuv lang="BE"><seg>#Іўе</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Карла Маркса</seg></tuv>
-      <tuv lang="BE"><seg>#Карла Маркса</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Колхозная</seg></tuv>
@@ -52,10 +48,6 @@
       <tuv lang="BE"><seg>#Кутузава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ленина</seg></tuv>
-      <tuv lang="BE"><seg>#Леніна</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Лермонтова</seg></tuv>
       <tuv lang="BE"><seg>#Лермантава</seg></tuv>
     </tu>
@@ -68,12 +60,20 @@
       <tuv lang="BE"><seg>#Лугавая</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Некрасова</seg></tuv>
-      <tuv lang="BE"><seg>#Някрасава</seg></tuv>
+      <tuv lang="RU"><seg>Максима Танка</seg></tuv>
+      <tuv lang="BE"><seg>#Максіма Танка</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Октябрьская</seg></tuv>
-      <tuv lang="BE"><seg>#Кастрычніцкая</seg></tuv>
+      <tuv lang="RU"><seg>Матросова</seg></tuv>
+      <tuv lang="BE"><seg>#Матросава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Машерова</seg></tuv>
+      <tuv lang="BE"><seg>#Машэрава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Некрасова</seg></tuv>
+      <tuv lang="BE"><seg>#Някрасава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Парковая</seg></tuv>
@@ -82,6 +82,10 @@
     <tu>
       <tuv lang="RU"><seg>Пионерская</seg></tuv>
       <tuv lang="BE"><seg>#Піянерская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Почтовый</seg></tuv>
+      <tuv lang="BE"><seg>#Паштовы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Приозёрная</seg></tuv>
@@ -98,6 +102,10 @@
     <tu>
       <tuv lang="RU"><seg>Радужная</seg></tuv>
       <tuv lang="BE"><seg>#Вясёлкавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Радужный</seg></tuv>
+      <tuv lang="BE"><seg>#Вясёлкавы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Садовая</seg></tuv>
@@ -128,12 +136,16 @@
       <tuv lang="BE"><seg>#Цяністая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Тенистый</seg></tuv>
+      <tuv lang="BE"><seg>#Цяністы</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Фруктовая</seg></tuv>
       <tuv lang="BE"><seg>#Фруктовая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Фруктовый</seg></tuv>
-      <tuv lang="BE"><seg>#Садавінавы</seg></tuv>
+      <tuv lang="BE"><seg>#Фруктовы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Цветочная</seg></tuv>
@@ -142,10 +154,6 @@
     <tu>
       <tuv lang="RU"><seg>Чехова</seg></tuv>
       <tuv lang="BE"><seg>#Чэхава</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Чкалова</seg></tuv>
-      <tuv lang="BE"><seg>#Чкалава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Юбилейный</seg></tuv>
@@ -157,6 +165,6 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Янки Купалы</seg></tuv>
-      <tuv lang="BE"><seg>#Янки Купалы</seg></tuv>
+      <tuv lang="BE"><seg>#Янкі Купалы</seg></tuv>
     </tu>
   </body></tmx>

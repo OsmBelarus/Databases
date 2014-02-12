@@ -8,16 +8,16 @@
       <tuv lang="BE"><seg>#1 Мая</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>70 лет Октября</seg></tuv>
-      <tuv lang="BE"><seg>#70 год Кастрычніка</seg></tuv>
+      <tuv lang="RU"><seg>40 лет БССР</seg></tuv>
+      <tuv lang="BE"><seg>#40 год БССР</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>8 Марта</seg></tuv>
-      <tuv lang="BE"><seg>#8 Сакавіка</seg></tuv>
+      <tuv lang="RU"><seg>70 лет Октября</seg></tuv>
+      <tuv lang="BE"><seg>#70 год Кастрычнiка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>9 Мая</seg></tuv>
-      <tuv lang="BE"><seg>#9 Траўня</seg></tuv>
+      <tuv lang="BE"><seg>#9 Мая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Беловежская</seg></tuv>
@@ -40,8 +40,12 @@
       <tuv lang="BE"><seg>#Горкага</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Каменец</seg></tuv>
-      <tuv lang="BE"><seg>#Каменец</seg></tuv>
+      <tuv lang="RU"><seg>Дзержинского</seg></tuv>
+      <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зои Космодемьянской</seg></tuv>
+      <tuv lang="BE"><seg>#Зоі Касмадзям’янскай</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кижеватова</seg></tuv>
@@ -54,6 +58,10 @@
     <tu>
       <tuv lang="RU"><seg>Леонова</seg></tuv>
       <tuv lang="BE"><seg>#Лявонава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Матросова</seg></tuv>
+      <tuv lang="BE"><seg>#Матросава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Маяковского</seg></tuv>
@@ -72,8 +80,16 @@
       <tuv lang="BE"><seg>#Піянерская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Пограничная</seg></tuv>
+      <tuv lang="BE"><seg>#Памежная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>
       <tuv lang="BE"><seg>#Савецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чкалова</seg></tuv>
+      <tuv lang="BE"><seg>#Чкалава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Якуба Коласа</seg></tuv>

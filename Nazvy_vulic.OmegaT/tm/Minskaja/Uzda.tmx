@@ -20,10 +20,6 @@
       <tuv lang="BE"><seg>#Кірава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ленинская</seg></tuv>
-      <tuv lang="BE"><seg>#Ленінская</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
       <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
     </tu>
@@ -48,16 +44,8 @@
       <tuv lang="BE"><seg>#Ракасоўскага</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Советская</seg></tuv>
-      <tuv lang="BE"><seg>#Савецкая</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Солнечная</seg></tuv>
       <tuv lang="BE"><seg>#Сонечная</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Узда</seg></tuv>
-      <tuv lang="BE"><seg>#Узда</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Школьная</seg></tuv>

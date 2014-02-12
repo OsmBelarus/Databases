@@ -4,12 +4,16 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>Батракова</seg></tuv>
+      <tuv lang="BE"><seg>#Батракова</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Белорусская</seg></tuv>
       <tuv lang="BE"><seg>#Беларуская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ветка</seg></tuv>
-      <tuv lang="BE"><seg>#Ветка</seg></tuv>
+      <tuv lang="RU"><seg>Громыко</seg></tuv>
+      <tuv lang="BE"><seg>#Грамыкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заслонова</seg></tuv>
@@ -56,6 +60,10 @@
       <tuv lang="BE"><seg>#Лугавая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Луначарского</seg></tuv>
+      <tuv lang="BE"><seg>#Луначарскага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Мира</seg></tuv>
       <tuv lang="BE"><seg>#Міру</seg></tuv>
     </tu>
@@ -88,8 +96,16 @@
       <tuv lang="BE"><seg>#Піянерская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Победы</seg></tuv>
+      <tuv lang="BE"><seg>#Перамогі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Пролетарский</seg></tuv>
-      <tuv lang="BE"><seg>#Беларуская</seg></tuv>
+      <tuv lang="BE"><seg>#Пралетарскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пугачёва</seg></tuv>
+      <tuv lang="BE"><seg>#Пугачова</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пушкина</seg></tuv>
@@ -104,6 +120,10 @@
       <tuv lang="BE"><seg>#Свярдлова</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Скоробогатова</seg></tuv>
+      <tuv lang="BE"><seg>#Скарабагатава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>
       <tuv lang="BE"><seg>#Савецкая</seg></tuv>
     </tu>
@@ -112,7 +132,23 @@
       <tuv lang="BE"><seg>#Фабрычная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Хуторянского</seg></tuv>
+      <tuv lang="BE"><seg>#Хутранскага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Чапаева</seg></tuv>
       <tuv lang="BE"><seg>#Чапаева</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юбилейная</seg></tuv>
+      <tuv lang="BE"><seg>#Юбілейная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Якуба Коласа</seg></tuv>
+      <tuv lang="BE"><seg>#Якуба Коласа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Янки Купалы</seg></tuv>
+      <tuv lang="BE"><seg>#Янкі Купалы</seg></tuv>
     </tu>
   </body></tmx>

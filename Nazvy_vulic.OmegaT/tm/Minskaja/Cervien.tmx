@@ -44,10 +44,6 @@
       <tuv lang="BE"><seg>#Зялёная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Зеневича</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца Зяневіча</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Интернациональная</seg></tuv>
       <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
     </tu>
@@ -90,10 +86,6 @@
     <tu>
       <tuv lang="RU"><seg>Красный</seg></tuv>
       <tuv lang="BE"><seg>#Чырвоны</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Ленинская</seg></tuv>
-      <tuv lang="BE"><seg>#Ленінская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ленинский</seg></tuv>
@@ -238,10 +230,6 @@
     <tu>
       <tuv lang="RU"><seg>Чапаева</seg></tuv>
       <tuv lang="BE"><seg>#Чапаева</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Червень</seg></tuv>
-      <tuv lang="BE"><seg>#Чэрвень</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Червякова</seg></tuv>

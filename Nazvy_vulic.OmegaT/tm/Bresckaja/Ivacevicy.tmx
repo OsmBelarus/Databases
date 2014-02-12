@@ -4,20 +4,32 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>Адамовича</seg></tuv>
+      <tuv lang="BE"><seg>#Адамовіча</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Весенняя</seg></tuv>
       <tuv lang="BE"><seg>#Вясновая</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ивацевичи</seg></tuv>
-      <tuv lang="BE"><seg>#Івацэвічы</seg></tuv>
+      <tuv lang="RU"><seg>Загородная</seg></tuv>
+      <tuv lang="BE"><seg>#Загарадная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Интернациональная</seg></tuv>
       <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ленина</seg></tuv>
-      <tuv lang="BE"><seg>#Леніна</seg></tuv>
+      <tuv lang="RU"><seg>Механизаторов</seg></tuv>
+      <tuv lang="BE"><seg>#Механізатараў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мира</seg></tuv>
+      <tuv lang="BE"><seg>#Міру</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Славы</seg></tuv>
+      <tuv lang="BE"><seg>#Славы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>

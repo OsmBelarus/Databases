@@ -4,11 +4,111 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
-      <tuv lang="RU"><seg>Ленина</seg></tuv>
-      <tuv lang="BE"><seg>#Леніна</seg></tuv>
+      <tuv lang="RU"><seg>Гагарина</seg></tuv>
+      <tuv lang="BE"><seg>#Гагарына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Горького</seg></tuv>
+      <tuv lang="BE"><seg>#Горкага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Грушина</seg></tuv>
+      <tuv lang="BE"><seg>#Грушына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дзержинского</seg></tuv>
+      <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Калинина</seg></tuv>
+      <tuv lang="BE"><seg>#Калініна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кирова</seg></tuv>
+      <tuv lang="BE"><seg>#Кірава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Комарова</seg></tuv>
+      <tuv lang="BE"><seg>#Камарова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Коперника</seg></tuv>
+      <tuv lang="BE"><seg>#Каперніка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кузьмина</seg></tuv>
+      <tuv lang="BE"><seg>#Кузьміна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Куйбышева</seg></tuv>
+      <tuv lang="BE"><seg>#Куйбышава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кутузова</seg></tuv>
+      <tuv lang="BE"><seg>#Кутузава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лермонтова</seg></tuv>
+      <tuv lang="BE"><seg>#Лермантава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Малая</seg></tuv>
+      <tuv lang="BE"><seg>#Малая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Малиновского</seg></tuv>
+      <tuv lang="BE"><seg>#Маліноўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Орджоникидзе</seg></tuv>
+      <tuv lang="BE"><seg>#Арджанікідзэ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Павлика Морозова</seg></tuv>
+      <tuv lang="BE"><seg>#Паўліка Марозава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пионерская</seg></tuv>
+      <tuv lang="BE"><seg>#Піянерская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Полоцкая</seg></tuv>
       <tuv lang="BE"><seg>#Полацкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пролетарская</seg></tuv>
+      <tuv lang="BE"><seg>#Пралетарская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Смирнова</seg></tuv>
+      <tuv lang="BE"><seg>#Смірнова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Советская</seg></tuv>
+      <tuv lang="BE"><seg>#Савецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Суворова</seg></tuv>
+      <tuv lang="BE"><seg>#Суворава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фрунзе</seg></tuv>
+      <tuv lang="BE"><seg>#Фрунзэ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чапаева</seg></tuv>
+      <tuv lang="BE"><seg>#Чапаева</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чкалова</seg></tuv>
+      <tuv lang="BE"><seg>#Чкалава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Энгельса</seg></tuv>
+      <tuv lang="BE"><seg>#Энгельса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юбилейная</seg></tuv>
+      <tuv lang="BE"><seg>#Юбілейная</seg></tuv>
     </tu>
   </body></tmx>

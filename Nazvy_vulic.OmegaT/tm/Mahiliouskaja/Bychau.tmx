@@ -4,15 +4,7 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
-      <tuv lang="RU"><seg>Быхов</seg></tuv>
-      <tuv lang="BE"><seg>#Быхаў</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Пролетарская</seg></tuv>
       <tuv lang="BE"><seg>#Пралетарская</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Советская</seg></tuv>
-      <tuv lang="BE"><seg>#Савецкая</seg></tuv>
     </tu>
   </body></tmx>

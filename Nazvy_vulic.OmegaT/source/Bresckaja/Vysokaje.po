@@ -1,9 +1,5 @@
-# Objects : [w51780564, w117230226]
+# Objects : [w51780564]
 # Names: [улица 9 Января]
 msgid "9 Января"
-
-# Objects : [r1188513]
-# Names: [Высокое]
-msgid "Высокое"
 msgstr ""
 

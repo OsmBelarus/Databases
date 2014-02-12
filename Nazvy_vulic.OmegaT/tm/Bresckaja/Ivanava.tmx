@@ -4,16 +4,40 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
-      <tuv lang="RU"><seg>Иваново</seg></tuv>
-      <tuv lang="BE"><seg>#Іванава</seg></tuv>
+      <tuv lang="RU"><seg>50 лет Октября</seg></tuv>
+      <tuv lang="BE"><seg>#50 год Кастрычніка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Барского</seg></tuv>
+      <tuv lang="BE"><seg>#Барскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Карбышева</seg></tuv>
+      <tuv lang="BE"><seg>#Карбышава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Карла Маркса</seg></tuv>
       <tuv lang="BE"><seg>#Карла Маркса</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ленина</seg></tuv>
-      <tuv lang="BE"><seg>#Леніна</seg></tuv>
+      <tuv lang="RU"><seg>Красных Партизан</seg></tuv>
+      <tuv lang="BE"><seg>#Чырвоных Партызан</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кунькова</seg></tuv>
+      <tuv lang="BE"><seg>#Кунькова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Макаревича</seg></tuv>
+      <tuv lang="BE"><seg>#Макарэвіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Первомайская</seg></tuv>
+      <tuv lang="BE"><seg>#Першамайская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Северная</seg></tuv>
+      <tuv lang="BE"><seg>#Паўночная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>

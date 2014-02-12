@@ -4,8 +4,8 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
-      <tuv lang="RU"><seg>Берёза</seg></tuv>
-      <tuv lang="BE"><seg>#Бяроза</seg></tuv>
+      <tuv lang="RU"><seg>17 Сентября</seg></tuv>
+      <tuv lang="BE"><seg>#17 Верасня</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Восточная</seg></tuv>
@@ -32,12 +32,12 @@
       <tuv lang="BE"><seg>#Чырвонаармейская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ленина</seg></tuv>
-      <tuv lang="BE"><seg>#Леніна</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Луговая</seg></tuv>
       <tuv lang="BE"><seg>#Лугавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Максима Горького</seg></tuv>
+      <tuv lang="BE"><seg>#Максіма Горкага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Маяковского</seg></tuv>
@@ -46,6 +46,10 @@
     <tu>
       <tuv lang="RU"><seg>Монастырская</seg></tuv>
       <tuv lang="BE"><seg>#Манастырская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Октябрьская</seg></tuv>
+      <tuv lang="BE"><seg>#Кастрычніцкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ольшевского</seg></tuv>
@@ -68,8 +72,16 @@
       <tuv lang="BE"><seg>#Свярдлова</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Северный Городок</seg></tuv>
+      <tuv lang="BE"><seg>#Паўночны Гарадок</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>
       <tuv lang="BE"><seg>#Савецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Суворова</seg></tuv>
+      <tuv lang="BE"><seg>#Суворава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Толстого</seg></tuv>

@@ -4,16 +4,8 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
-      <tuv lang="RU"><seg>17 Сентября</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца 17 Верасня</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>8 Марта</seg></tuv>
       <tuv lang="BE"><seg>#8 Сакавіка</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Вилейка</seg></tuv>
-      <tuv lang="BE"><seg>#Вілейка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Вилейская</seg></tuv>
@@ -97,7 +89,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Космодемьянской</seg></tuv>
-      <tuv lang="BE"><seg>#Касмадзем'янскай</seg></tuv>
+      <tuv lang="BE"><seg>#Касмадзям'янскай</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Космонавтов</seg></tuv>
@@ -188,10 +180,6 @@
       <tuv lang="BE"><seg>#Пацаева</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Первомайская</seg></tuv>
-      <tuv lang="BE"><seg>#Першамайская</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Пионерская</seg></tuv>
       <tuv lang="BE"><seg>#Піянерская</seg></tuv>
     </tu>
@@ -234,10 +222,6 @@
     <tu>
       <tuv lang="RU"><seg>Социалистическая</seg></tuv>
       <tuv lang="BE"><seg>#Сацыялістычная</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Стахановская</seg></tuv>
-      <tuv lang="BE"><seg>#Стаханаўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Строителей</seg></tuv>

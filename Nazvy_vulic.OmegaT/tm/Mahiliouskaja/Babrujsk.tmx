@@ -8,10 +8,6 @@
       <tuv lang="BE"><seg>#Беларуская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Бобруйск</seg></tuv>
-      <tuv lang="BE"><seg>#Бабруйск</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Войкова</seg></tuv>
       <tuv lang="BE"><seg>#Войкава</seg></tuv>
     </tu>
@@ -62,10 +58,6 @@
     <tu>
       <tuv lang="RU"><seg>Минская</seg></tuv>
       <tuv lang="BE"><seg>#Мінская</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Могилёвская</seg></tuv>
-      <tuv lang="BE"><seg>#Магілёўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Московская</seg></tuv>

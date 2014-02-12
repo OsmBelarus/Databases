@@ -80,10 +80,6 @@
       <tuv lang="BE"><seg>#Марозава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Мядель</seg></tuv>
-      <tuv lang="BE"><seg>#Мядзел</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Нарочанская</seg></tuv>
       <tuv lang="BE"><seg>#Нарачанская</seg></tuv>
     </tu>
@@ -102,10 +98,6 @@
     <tu>
       <tuv lang="RU"><seg>Парковая</seg></tuv>
       <tuv lang="BE"><seg>#Паркавая</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Партизанская</seg></tuv>
-      <tuv lang="BE"><seg>#Партызанская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пионерская</seg></tuv>
@@ -162,9 +154,5 @@
     <tu>
       <tuv lang="RU"><seg>Энергетиков</seg></tuv>
       <tuv lang="BE"><seg>#Энэргетыкаў</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Юбилейная</seg></tuv>
-      <tuv lang="BE"><seg>#Юбілейная</seg></tuv>
     </tu>
   </body></tmx>

@@ -4,20 +4,12 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
-      <tuv lang="RU"><seg>50 лет Победы</seg></tuv>
-      <tuv lang="BE"><seg>#50 год Перамогі</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>9 Мая</seg></tuv>
       <tuv lang="BE"><seg>#9 Траўня</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Вишнёвая</seg></tuv>
       <tuv lang="BE"><seg>#Вішнёвая</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Дзержинск</seg></tuv>
-      <tuv lang="BE"><seg>#Дзяржынск</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дзержинского</seg></tuv>

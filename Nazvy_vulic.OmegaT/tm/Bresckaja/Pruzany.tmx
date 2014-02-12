@@ -4,8 +4,12 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
-      <tuv lang="RU"><seg>8 Марта</seg></tuv>
-      <tuv lang="BE"><seg>#8 Сакавіка</seg></tuv>
+      <tuv lang="RU"><seg>17 Сентября</seg></tuv>
+      <tuv lang="BE"><seg>#17 Верасня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>50 лет Октября</seg></tuv>
+      <tuv lang="BE"><seg>#50 год Кастрычніка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Беловежская</seg></tuv>
@@ -16,12 +20,28 @@
       <tuv lang="BE"><seg>#Беларуская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Богданова</seg></tuv>
+      <tuv lang="BE"><seg>#Багданава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Богушевича</seg></tuv>
+      <tuv lang="BE"><seg>#Багушэвіча</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Будённого</seg></tuv>
       <tuv lang="BE"><seg>#Будзёнага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Веры Хоружей</seg></tuv>
       <tuv lang="BE"><seg>#Веры Харужай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вишнёвая</seg></tuv>
+      <tuv lang="BE"><seg>#Вішнёвая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вишневецкого</seg></tuv>
+      <tuv lang="BE"><seg>#Вішнявецкага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гастелло</seg></tuv>
@@ -33,7 +53,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Григория Ширмы</seg></tuv>
-      <tuv lang="BE"><seg>#Шырмы</seg></tuv>
+      <tuv lang="BE"><seg>#Рыгора Шырмы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Жукова</seg></tuv>
@@ -41,7 +61,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заводская</seg></tuv>
-      <tuv lang="BE"><seg>#Завадская</seg></tuv>
+      <tuv lang="BE"><seg>#Заводская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Западная</seg></tuv>
@@ -80,6 +100,10 @@
       <tuv lang="BE"><seg>#Кобрынская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Комарова</seg></tuv>
+      <tuv lang="BE"><seg>#Камарова</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Комсомольская</seg></tuv>
       <tuv lang="BE"><seg>#Камсамольская</seg></tuv>
     </tu>
@@ -100,24 +124,12 @@
       <tuv lang="BE"><seg>#Крывашэіна</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Лазо</seg></tuv>
-      <tuv lang="BE"><seg>#Лазо</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Ленина</seg></tuv>
-      <tuv lang="BE"><seg>#Леніна</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Лесная</seg></tuv>
       <tuv lang="BE"><seg>#Лясная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Луговая</seg></tuv>
       <tuv lang="BE"><seg>#Лугавая</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Макаренко</seg></tuv>
-      <tuv lang="BE"><seg>#Макаранкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Максима Богдановича</seg></tuv>
@@ -130,6 +142,14 @@
     <tu>
       <tuv lang="RU"><seg>Малая</seg></tuv>
       <tuv lang="BE"><seg>#Малая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Матросова</seg></tuv>
+      <tuv lang="BE"><seg>#Матросава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Машерова</seg></tuv>
+      <tuv lang="BE"><seg>#Машэрава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мелиоративная</seg></tuv>
@@ -168,6 +188,10 @@
       <tuv lang="BE"><seg>#Кастрычніцкая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Октябрьский</seg></tuv>
+      <tuv lang="BE"><seg>#Кастрычніцкі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Ольховая</seg></tuv>
       <tuv lang="BE"><seg>#Альховая</seg></tuv>
     </tu>
@@ -204,10 +228,6 @@
       <tuv lang="BE"><seg>#Прамысловая</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Пружаны</seg></tuv>
-      <tuv lang="BE"><seg>#Пружаны</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Пушкина</seg></tuv>
       <tuv lang="BE"><seg>#Пушкіна</seg></tuv>
     </tu>
@@ -234,6 +254,10 @@
     <tu>
       <tuv lang="RU"><seg>Социалистическая</seg></tuv>
       <tuv lang="BE"><seg>#Сацыялістычная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Строительная</seg></tuv>
+      <tuv lang="BE"><seg>#Будаўнічая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Тихая</seg></tuv>

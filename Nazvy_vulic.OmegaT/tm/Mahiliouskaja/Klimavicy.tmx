@@ -25,11 +25,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
-      <tuv lang="BE"><seg>#Кірава#вулiца Кірава</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Климовичи</seg></tuv>
-      <tuv lang="BE"><seg>#Клімавічы</seg></tuv>
+      <tuv lang="BE"><seg>#Кірава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Коллективная</seg></tuv>
@@ -41,7 +37,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Коммунистическая</seg></tuv>
-      <tuv lang="BE"><seg>#Камуністычная#Камуністычная вулiца</seg></tuv>
+      <tuv lang="BE"><seg>#Камуністычная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Комсомольская</seg></tuv>
@@ -93,7 +89,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>
-      <tuv lang="BE"><seg>#Савецкая вулiца</seg></tuv>
+      <tuv lang="BE"><seg>#Савецкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Солнечная</seg></tuv>

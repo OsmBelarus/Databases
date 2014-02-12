@@ -5,7 +5,7 @@
   <body>
     <tu>
       <tuv lang="RU"><seg>Белинского</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца Бялінскага</seg></tuv>
+      <tuv lang="BE"><seg>#Бялінскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ботаническая</seg></tuv>
@@ -13,11 +13,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Вишнёвая</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца Вішнёвая</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Вокзальная</seg></tuv>
-      <tuv lang="BE"><seg>#Вакзальная</seg></tuv>
+      <tuv lang="BE"><seg>#Вішнёвая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Володарского</seg></tuv>
@@ -25,19 +21,15 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гагарина</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца Гагарына</seg></tuv>
+      <tuv lang="BE"><seg>#Гагарына</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гаражная</seg></tuv>
       <tuv lang="BE"><seg>#Гаражная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Горки</seg></tuv>
-      <tuv lang="BE"><seg>#Горкі</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Димитрова</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца Дзімітрава</seg></tuv>
+      <tuv lang="BE"><seg>#Дзімітрава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Железнодорожная</seg></tuv>
@@ -45,15 +37,15 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заслонова</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца Заслонава</seg></tuv>
+      <tuv lang="BE"><seg>#Заслонава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Карла Маркса</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца Карла Маркса</seg></tuv>
+      <tuv lang="BE"><seg>#Карла Маркса</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца Кірава</seg></tuv>
+      <tuv lang="BE"><seg>#Кірава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Крупской</seg></tuv>
@@ -61,7 +53,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Куйбышева</seg></tuv>
-      <tuv lang="BE"><seg>#Куйбышава#вулiца Куйбышава</seg></tuv>
+      <tuv lang="BE"><seg>#Куйбышава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мичурина</seg></tuv>
@@ -69,7 +61,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пионерская</seg></tuv>
@@ -85,10 +77,10 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чкалова</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца Чкалава</seg></tuv>
+      <tuv lang="BE"><seg>#Чкалава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Якубовского</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца Якубоўскага</seg></tuv>
+      <tuv lang="BE"><seg>#Якубоўскага</seg></tuv>
     </tu>
   </body></tmx>

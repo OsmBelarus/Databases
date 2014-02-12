@@ -25,7 +25,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заводская</seg></tuv>
-      <tuv lang="BE"><seg>#Заводская</seg></tuv>
+      <tuv lang="BE"><seg>#Завадская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Западная</seg></tuv>
@@ -58,10 +58,6 @@
     <tu>
       <tuv lang="RU"><seg>Лесная</seg></tuv>
       <tuv lang="BE"><seg>#Лясная</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Логойск</seg></tuv>
-      <tuv lang="BE"><seg>#Лагойск</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Максима Горького</seg></tuv>

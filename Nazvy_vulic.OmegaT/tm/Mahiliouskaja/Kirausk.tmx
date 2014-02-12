@@ -4,24 +4,12 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
-      <tuv lang="RU"><seg>Володарского</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца Валадарскага</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Гагарина</seg></tuv>
-      <tuv lang="BE"><seg>#Гагарына</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Заводская</seg></tuv>
-      <tuv lang="BE"><seg>#Заводская</seg></tuv>
+      <tuv lang="BE"><seg>#Завадская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
       <tuv lang="BE"><seg>#Кірава</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Кировск</seg></tuv>
-      <tuv lang="BE"><seg>#Кіраўск</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Колхозная</seg></tuv>

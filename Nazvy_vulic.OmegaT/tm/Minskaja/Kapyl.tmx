@@ -44,20 +44,12 @@
       <tuv lang="BE"><seg>#Камсамольская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Копыль</seg></tuv>
-      <tuv lang="BE"><seg>#Капыль</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Крыничная</seg></tuv>
       <tuv lang="BE"><seg>#Крынічная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Максима Богдановича</seg></tuv>
       <tuv lang="BE"><seg>#Максіма Багдановіча</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Минская</seg></tuv>
-      <tuv lang="BE"><seg>#Мінская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
@@ -68,24 +60,12 @@
       <tuv lang="BE"><seg>#Кастрычніцкая</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Партизанская</seg></tuv>
-      <tuv lang="BE"><seg>#Партызанская</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Пионерская</seg></tuv>
       <tuv lang="BE"><seg>#Піянерская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Полевая</seg></tuv>
-      <tuv lang="BE"><seg>#Палявая</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Пролетарская</seg></tuv>
       <tuv lang="BE"><seg>#Пралетарская</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Промышленная</seg></tuv>
-      <tuv lang="BE"><seg>#Прамысловая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ромашко</seg></tuv>
@@ -96,16 +76,8 @@
       <tuv lang="BE"><seg>#Паўночная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Советская</seg></tuv>
-      <tuv lang="BE"><seg>#Савецкая</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Строителей</seg></tuv>
       <tuv lang="BE"><seg>#Будаўнікоў</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Тимковичская</seg></tuv>
-      <tuv lang="BE"><seg>#Цімкавіцкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Тракторная</seg></tuv>
