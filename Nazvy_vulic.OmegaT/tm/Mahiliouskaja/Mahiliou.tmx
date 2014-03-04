@@ -4,10 +4,6 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
-      <tuv lang="RU"><seg>А. Пысина</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца А. Пысіна</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Авиационная</seg></tuv>
       <tuv lang="BE"><seg>#Авіяцыйная</seg></tuv>
     </tu>
@@ -17,10 +13,6 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>аграрная</seg></tuv>
-      <tuv lang="BE"><seg>#Чырвоназорная</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Аграрная</seg></tuv>
       <tuv lang="BE"><seg>#Чырвоназорная</seg></tuv>
     </tu>
     <tu>
@@ -92,10 +84,6 @@
       <tuv lang="BE"><seg>#Ізумрудная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Калиновского</seg></tuv>
-      <tuv lang="BE"><seg>#Каліноўскага</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Карла Маркса</seg></tuv>
       <tuv lang="BE"><seg>#Карла Маркса</seg></tuv>
     </tu>
@@ -106,10 +94,6 @@
     <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
       <tuv lang="BE"><seg>#Кірава</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Кирпичная</seg></tuv>
-      <tuv lang="BE"><seg>#Цагляная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кленовая</seg></tuv>
@@ -138,10 +122,6 @@
     <tu>
       <tuv lang="RU"><seg>Краснозвёздная</seg></tuv>
       <tuv lang="BE"><seg>#Чырвоназорная</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Круглый</seg></tuv>
-      <tuv lang="BE"><seg>#Круглы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Крупской</seg></tuv>
@@ -204,7 +184,7 @@
       <tuv lang="BE"><seg>#Някрасава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Непокорённых</seg></tuv>
+      <tuv lang="RU"><seg>Непокоренных</seg></tuv>
       <tuv lang="BE"><seg>#Непакораных</seg></tuv>
     </tu>
     <tu>
@@ -214,6 +194,10 @@
     <tu>
       <tuv lang="RU"><seg>Октябрьский</seg></tuv>
       <tuv lang="BE"><seg>#Кастрычніцкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Островского</seg></tuv>
+      <tuv lang="BE"><seg>#М. Астроўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Первомайская</seg></tuv>
@@ -232,16 +216,8 @@
       <tuv lang="BE"><seg>#Падгорная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Полевая</seg></tuv>
-      <tuv lang="BE"><seg>#Палявая</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Пролетарская</seg></tuv>
       <tuv lang="BE"><seg>#Пралетарская</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Профсоюзная</seg></tuv>
-      <tuv lang="BE"><seg>#Прафсаюзная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пушкина</seg></tuv>
@@ -313,6 +289,6 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ямницкий</seg></tuv>
-      <tuv lang="BE"><seg>#Ямніцкі</seg></tuv>
+      <tuv lang="BE"><seg>#Ямницкий#Ямніцкі</seg></tuv>
     </tu>
   </body></tmx>

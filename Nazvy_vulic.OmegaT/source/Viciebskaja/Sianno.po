@@ -21,6 +21,7 @@ msgstr ""
 # Objects : [w252580294]
 # Names: [Аэродромная улица]
 msgid "Аэродромная"
+msgstr ""
 
 # Objects : [w30311576]
 # Names: [улица Бородулина]

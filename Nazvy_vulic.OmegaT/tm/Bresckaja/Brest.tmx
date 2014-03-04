@@ -704,8 +704,12 @@
       <tuv lang="BE"><seg>#Камарынская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Комбинатовская</seg></tuv>
+      <tuv lang="BE"><seg>#Камбінатаўская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Комбинатовский</seg></tuv>
-      <tuv lang="BE"><seg>#Прыгарадная</seg></tuv>
+      <tuv lang="BE"><seg>#Камбінатаўскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Коммерческая</seg></tuv>
@@ -1094,6 +1098,10 @@
     <tu>
       <tuv lang="RU"><seg>Новая</seg></tuv>
       <tuv lang="BE"><seg>#Новая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новозадворская</seg></tuv>
+      <tuv lang="BE"><seg>#Навазадворская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новосёлов</seg></tuv>

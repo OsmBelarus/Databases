@@ -81,12 +81,12 @@ msgstr "пж/Партызанская"
 # Objects : [w199495089]
 # Names: [улица Ролика]
 msgid "Ролика"
-msgstr ""
+msgstr "н/Роліка"
 
 # Objects : [w199495091]
 # Names: [улица Танкистов]
 msgid "Танкистов"
-msgstr ""
+msgstr "н/Танкістаў"
 
 # Objects : [w178716088]
 # Names: [улица Щеголёва]

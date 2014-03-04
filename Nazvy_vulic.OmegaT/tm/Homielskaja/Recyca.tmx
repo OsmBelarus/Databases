@@ -160,6 +160,10 @@
       <tuv lang="BE"><seg>#Жыляка</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Заводская</seg></tuv>
+      <tuv lang="BE"><seg>#Завадская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Залинейная</seg></tuv>
       <tuv lang="BE"><seg>#Залінейная</seg></tuv>
     </tu>
@@ -630,6 +634,10 @@
     <tu>
       <tuv lang="RU"><seg>Урицкого</seg></tuv>
       <tuv lang="BE"><seg>#Урыцкага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Урожайная</seg></tuv>
+      <tuv lang="BE"><seg>#Ураджайная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Фрунзе</seg></tuv>

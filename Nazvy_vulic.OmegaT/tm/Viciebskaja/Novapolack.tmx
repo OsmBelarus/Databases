@@ -76,6 +76,14 @@
       <tuv lang="BE"><seg>#Ларынская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Левитана</seg></tuv>
+      <tuv lang="BE"><seg>#Левітана</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лермонтова</seg></tuv>
+      <tuv lang="BE"><seg>#Лермантава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Линия</seg></tuv>
       <tuv lang="BE"><seg>#Лінія</seg></tuv>
     </tu>
@@ -84,12 +92,20 @@
       <tuv lang="BE"><seg>#Лугавая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Малая Радужная</seg></tuv>
+      <tuv lang="BE"><seg>#Малая Вясёлкавая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
       <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Надежды</seg></tuv>
       <tuv lang="BE"><seg>#Надзеі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Нахимова</seg></tuv>
+      <tuv lang="BE"><seg>#Нахімава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Олимпийская</seg></tuv>
@@ -117,7 +133,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Рижский</seg></tuv>
-      <tuv lang="BE"><seg>#Рыжски</seg></tuv>
+      <tuv lang="BE"><seg>#Рыжскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Слободская</seg></tuv>
@@ -132,8 +148,16 @@
       <tuv lang="BE"><seg>#Сасноўка</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Строителей</seg></tuv>
+      <tuv lang="BE"><seg>#Будаўнікоў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сурикова</seg></tuv>
+      <tuv lang="BE"><seg>#Сурыкава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Троицкая</seg></tuv>
-      <tuv lang="BE"><seg>#Троіцкая</seg></tuv>
+      <tuv lang="BE"><seg>#Траецкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Школьная</seg></tuv>

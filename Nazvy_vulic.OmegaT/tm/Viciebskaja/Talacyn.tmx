@@ -4,6 +4,14 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>40 лет Октября</seg></tuv>
+      <tuv lang="BE"><seg>#40 год Кастрычніка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Амбулаторный</seg></tuv>
+      <tuv lang="BE"><seg>#Амбулаторны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Банный</seg></tuv>
       <tuv lang="BE"><seg>#Банны</seg></tuv>
     </tu>
@@ -78,6 +86,10 @@
     <tu>
       <tuv lang="RU"><seg>Колхозная</seg></tuv>
       <tuv lang="BE"><seg>#Калгасная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Коммунальная</seg></tuv>
+      <tuv lang="BE"><seg>#Камунальная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Комсомольская</seg></tuv>
@@ -200,6 +212,10 @@
       <tuv lang="BE"><seg>#Палявая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Приозёрная</seg></tuv>
+      <tuv lang="BE"><seg>#Прыазёрная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Пролетарская</seg></tuv>
       <tuv lang="BE"><seg>#Пралетарская</seg></tuv>
     </tu>
@@ -222,6 +238,10 @@
     <tu>
       <tuv lang="RU"><seg>Садовый</seg></tuv>
       <tuv lang="BE"><seg>#Садовы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Светлая</seg></tuv>
+      <tuv lang="BE"><seg>#Светлая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Северная</seg></tuv>
@@ -286,6 +306,10 @@
     <tu>
       <tuv lang="RU"><seg>Франциска Скорины</seg></tuv>
       <tuv lang="BE"><seg>#Франциска Скорыны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Цветочная</seg></tuv>
+      <tuv lang="BE"><seg>#Кветкавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Центральная</seg></tuv>

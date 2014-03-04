@@ -5,7 +5,7 @@
   <body>
     <tu>
       <tuv lang="RU"><seg>17 Сентября</seg></tuv>
-      <tuv lang="BE"><seg>#17 Верасня#17 верасня</seg></tuv>
+      <tuv lang="BE"><seg>#17 Верасня</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Аптечный</seg></tuv>
@@ -61,11 +61,11 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заводская</seg></tuv>
-      <tuv lang="BE"><seg>#Завадская</seg></tuv>
+      <tuv lang="BE"><seg>#Заводская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заводской</seg></tuv>
-      <tuv lang="BE"><seg>#Завадскі</seg></tuv>
+      <tuv lang="BE"><seg>#Заводскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заречная</seg></tuv>
@@ -132,12 +132,20 @@
       <tuv lang="BE"><seg>#Леніна</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ленинская</seg></tuv>
+      <tuv lang="BE"><seg>#Ленінская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Ленинский</seg></tuv>
       <tuv lang="BE"><seg>#Ленінскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Луговая</seg></tuv>
       <tuv lang="BE"><seg>#Лугавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Максима Богдановича</seg></tuv>
+      <tuv lang="BE"><seg>#Максіма Багдановіча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Максима Горького</seg></tuv>

@@ -192,6 +192,10 @@
       <tuv lang="BE"><seg>#Жыровічскі</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Загородний</seg></tuv>
+      <tuv lang="BE"><seg>#Загарадны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Загородняя</seg></tuv>
       <tuv lang="BE"><seg>#Загарадная</seg></tuv>
     </tu>
@@ -218,6 +222,10 @@
     <tu>
       <tuv lang="RU"><seg>Зельвенский</seg></tuv>
       <tuv lang="BE"><seg>#Зельвенскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Инженерная</seg></tuv>
+      <tuv lang="BE"><seg>#інжэнерная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Интернациональная</seg></tuv>
@@ -297,7 +305,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Красных Партизан</seg></tuv>
-      <tuv lang="BE"><seg>#вуліцы Чырвоных Партызан</seg></tuv>
+      <tuv lang="BE"><seg>#Чырвоных Партызан#вуліцы Чырвоных Партызан</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Криничная</seg></tuv>

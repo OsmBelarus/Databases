@@ -11,7 +11,7 @@ msgstr ""
 # Objects : [w25307835]
 # Names: [ул. Бровки]
 msgid "Бровки"
-msgstr ""
+msgstr "н/Броўкі"
 
 # Objects : [w25307778]
 # Names: [Восточная улица]
@@ -121,7 +121,7 @@ msgstr "н/Міцкевіча"
 # Objects : [w25307672]
 # Names: [Молодёжная улица]
 msgid "Молодёжная"
-msgstr "пж/Маладзёжная"
+msgstr "пж/Моладзевая"
 
 # Objects : [w25421045]
 # Names: [улица Нахимова]

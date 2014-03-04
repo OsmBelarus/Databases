@@ -36,5 +36,5 @@ msgstr "пж/Ціхая"
 # Objects : [w122326453]
 # Names: [ул. Черткова]
 msgid "Черткова"
-msgstr ""
+msgstr "Чаткова"
 

@@ -1,5 +1,5 @@
 # Objects : [w155267676]
-# Names: [Вальная ул.]
+# Names: [Вальная улица]
 msgid "Вальная"
 
 # Objects : [w32048275, w238889485]
@@ -10,18 +10,22 @@ msgstr ""
 # Objects : [w98723390]
 # Names: [Кленовая улица]
 msgid "Кленовая"
+msgstr ""
 
 # Objects : [w157659260]
 # Names: [Кленовый переулок]
 msgid "Кленовый"
+msgstr ""
 
 # Objects : [w236689711]
 # Names: [Коммунальная улица]
 msgid "Коммунальная"
+msgstr ""
 
 # Objects : [w155267677]
 # Names: [Луговая улица]
 msgid "Луговая"
+msgstr ""
 
 # Objects : [w166501511]
 # Names: [Лукомльское шоссе]
@@ -31,14 +35,17 @@ msgstr ""
 # Objects : [w242859753]
 # Names: [улица Мира]
 msgid "Мира"
+msgstr ""
 
 # Objects : [w155267678]
 # Names: [Молодёжная улица]
 msgid "Молодёжная"
+msgstr ""
 
 # Objects : [w236359598]
 # Names: [Молодёжный бульвар]
 msgid "Молодёжный"
+msgstr ""
 
 # Objects : [w56141997, w244618344]
 # Names: [Набережная улица]
@@ -56,6 +63,7 @@ msgstr ""
 # Objects : [w98723394]
 # Names: [Полевая улица]
 msgid "Полевая"
+msgstr ""
 
 # Objects : [w32048276]
 # Names: [Садовая улица]
@@ -65,26 +73,32 @@ msgstr ""
 # Objects : [w155267679]
 # Names: [Солнечная улица]
 msgid "Солнечная"
+msgstr ""
 
 # Objects : [w98723380]
 # Names: [Сосновая улица]
 msgid "Сосновая"
+msgstr ""
 
 # Objects : [w155267675]
 # Names: [Сосновый переулок]
 msgid "Сосновый"
+msgstr ""
 
 # Objects : [w155267680]
 # Names: [Строительная улица]
 msgid "Строительная"
+msgstr ""
 
 # Objects : [w155267681]
 # Names: [Цветочная улица]
 msgid "Цветочная"
+msgstr ""
 
 # Objects : [w155267682]
 # Names: [Школьная улица]
 msgid "Школьная"
+msgstr ""
 
 # Objects : [w32048269, w240895498]
 # Names: [улица Энергетиков]
@@ -94,4 +108,5 @@ msgstr ""
 # Objects : [w155267683]
 # Names: [Южная улица]
 msgid "Южная"
+msgstr ""
 

@@ -1312,7 +1312,7 @@
       <tuv lang="BE"><seg>#Ёдкаўская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Иосифа Гошкевича</seg></tuv>
+      <tuv lang="RU"><seg>Иосифа Гaшкевича</seg></tuv>
       <tuv lang="BE"><seg>#Іосіфа Гашкевіча</seg></tuv>
     </tu>
     <tu>
@@ -3194,6 +3194,10 @@
     <tu>
       <tuv lang="RU"><seg>Солнечный</seg></tuv>
       <tuv lang="BE"><seg>#Сонечны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Соловьиный</seg></tuv>
+      <tuv lang="BE"><seg>#Салаўіны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Соломенная</seg></tuv>

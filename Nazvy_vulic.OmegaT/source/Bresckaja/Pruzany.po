@@ -173,6 +173,7 @@ msgstr ""
 # Objects : [w127191633]
 # Names: [Кобринский переулок]
 msgid "Кобринский"
+msgstr ""
 
 # Objects : [w126494770]
 # Names: [улица Комарова]

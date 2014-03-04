@@ -40,6 +40,10 @@
       <tuv lang="BE"><seg>#Гогаля</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Дзержинского</seg></tuv>
+      <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Доватора</seg></tuv>
       <tuv lang="BE"><seg>#Даватара</seg></tuv>
     </tu>
@@ -64,6 +68,10 @@
       <tuv lang="BE"><seg>#Заслонава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Зелёный</seg></tuv>
+      <tuv lang="BE"><seg>#Зялёны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Интернациональная</seg></tuv>
       <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
     </tu>
@@ -78,6 +86,10 @@
     <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
       <tuv lang="BE"><seg>#Кірава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Коллективный</seg></tuv>
+      <tuv lang="BE"><seg>#Калектыўны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Комарова</seg></tuv>

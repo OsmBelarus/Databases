@@ -17,7 +17,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Высокая</seg></tuv>
-      <tuv lang="BE"><seg>#Высокая</seg></tuv>
+      <tuv lang="BE"><seg>#Высокая вулiца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дачная</seg></tuv>
@@ -58,6 +58,10 @@
     <tu>
       <tuv lang="RU"><seg>Лесная</seg></tuv>
       <tuv lang="BE"><seg>#Лясная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Луцевщина</seg></tuv>
+      <tuv lang="BE"><seg>#вулица Луцаушчына</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Максима Горького</seg></tuv>
@@ -112,6 +116,10 @@
       <tuv lang="BE"><seg>#Садовая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Садовый</seg></tuv>
+      <tuv lang="BE"><seg>#Садовы</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>
       <tuv lang="BE"><seg>#Савецкая</seg></tuv>
     </tu>
@@ -145,7 +153,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Энергетиков</seg></tuv>
-      <tuv lang="BE"><seg>#Энергетыкаў</seg></tuv>
+      <tuv lang="BE"><seg>#Энергетыкаў вулiца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Юбилейная</seg></tuv>

@@ -385,6 +385,7 @@ msgstr ""
 # Objects : [w39735322]
 # Names: [улица Новосёлов]
 msgid "Новосёлов"
+msgstr ""
 
 # Objects : [w39735199]
 # Names: [Новый переулок]

@@ -16,6 +16,10 @@
       <tuv lang="BE"><seg>#60 год БССР</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Батова</seg></tuv>
+      <tuv lang="BE"><seg>#Батава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Белова</seg></tuv>
       <tuv lang="BE"><seg>#Бялова</seg></tuv>
     </tu>
@@ -128,7 +132,7 @@
       <tuv lang="BE"><seg>#Катоўскага</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Красноормейская</seg></tuv>
+      <tuv lang="RU"><seg>Красноармейская</seg></tuv>
       <tuv lang="BE"><seg>#Чырвонаармейская</seg></tuv>
     </tu>
     <tu>
@@ -342,6 +346,10 @@
     <tu>
       <tuv lang="RU"><seg>Энгельса</seg></tuv>
       <tuv lang="BE"><seg>#Энгельса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Языковича</seg></tuv>
+      <tuv lang="BE"><seg>#Языковіча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Якуба Коласа</seg></tuv>

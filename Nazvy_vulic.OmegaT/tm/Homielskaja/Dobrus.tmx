@@ -132,6 +132,10 @@
       <tuv lang="BE"><seg>#Дабралюбава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Докучаева</seg></tuv>
+      <tuv lang="BE"><seg>#Дакучаева</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Дорожная</seg></tuv>
       <tuv lang="BE"><seg>#Дарожная</seg></tuv>
     </tu>
@@ -448,6 +452,10 @@
       <tuv lang="BE"><seg>#Талстога</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Торговая</seg></tuv>
+      <tuv lang="BE"><seg>#Тарговая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Тургенева</seg></tuv>
       <tuv lang="BE"><seg>#Тургенева</seg></tuv>
     </tu>
@@ -514,6 +522,10 @@
     <tu>
       <tuv lang="RU"><seg>Энгельса</seg></tuv>
       <tuv lang="BE"><seg>#Энгельса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Южная</seg></tuv>
+      <tuv lang="BE"><seg>#Паўднёвая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Якуба Коласа</seg></tuv>

@@ -288,6 +288,10 @@
       <tuv lang="BE"><seg>#Куйбышава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Куликова</seg></tuv>
+      <tuv lang="BE"><seg>#Кулікова</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Лазо</seg></tuv>
       <tuv lang="BE"><seg>#Лазо</seg></tuv>
     </tu>
@@ -402,6 +406,10 @@
     <tu>
       <tuv lang="RU"><seg>Ольховая</seg></tuv>
       <tuv lang="BE"><seg>#Альховая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ольховских</seg></tuv>
+      <tuv lang="BE"><seg>#Альхоўскіх</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Островского</seg></tuv>

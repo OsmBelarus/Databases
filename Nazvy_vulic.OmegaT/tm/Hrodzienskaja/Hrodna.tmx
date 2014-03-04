@@ -176,10 +176,6 @@
       <tuv lang="BE"><seg>#Болдзіна</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Большая Ольшанка</seg></tuv>
-      <tuv lang="BE"><seg>#Вялікая Альшанка</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Большая Троицкая</seg></tuv>
       <tuv lang="BE"><seg>#Вялікая Траецкая</seg></tuv>
     </tu>
@@ -204,6 +200,10 @@
       <tuv lang="BE"><seg>#Будзёнага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Букетная</seg></tuv>
+      <tuv lang="BE"><seg>#Букетная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Ваньковича</seg></tuv>
       <tuv lang="BE"><seg>#Ваньковіча</seg></tuv>
     </tu>
@@ -222,6 +222,10 @@
     <tu>
       <tuv lang="RU"><seg>Вежливая</seg></tuv>
       <tuv lang="BE"><seg>#Ветлівая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Великая Ольшанка</seg></tuv>
+      <tuv lang="BE"><seg>#Вялікая Альшанка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Венечная</seg></tuv>
@@ -584,6 +588,10 @@
       <tuv lang="BE"><seg>#Чыгуначны</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Железный</seg></tuv>
+      <tuv lang="BE"><seg>#Жалезны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Желковского</seg></tuv>
       <tuv lang="BE"><seg>#Жалкоўскага</seg></tuv>
     </tu>
@@ -692,6 +700,10 @@
       <tuv lang="BE"><seg>#Выдавецкая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Изумрудная</seg></tuv>
+      <tuv lang="BE"><seg>#Ізумрудная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Индурское</seg></tuv>
       <tuv lang="BE"><seg>#Індурская шаша</seg></tuv>
     </tu>
@@ -706,6 +718,10 @@
     <tu>
       <tuv lang="RU"><seg>Кабяка</seg></tuv>
       <tuv lang="BE"><seg>#Кабяка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кавязина</seg></tuv>
+      <tuv lang="BE"><seg>#Кавязіна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Казановского</seg></tuv>
@@ -786,10 +802,6 @@
     <tu>
       <tuv lang="RU"><seg>Ковальская</seg></tuv>
       <tuv lang="BE"><seg>#Кавальская</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Ковязина</seg></tuv>
-      <tuv lang="BE"><seg>#Кавязіна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Колбасинская</seg></tuv>
@@ -1280,10 +1292,6 @@
       <tuv lang="BE"><seg>#Адэльская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ожешко</seg></tuv>
-      <tuv lang="BE"><seg>#Ажэшкі</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Озёрная</seg></tuv>
       <tuv lang="BE"><seg>#Азёрная</seg></tuv>
     </tu>
@@ -1426,6 +1434,10 @@
     <tu>
       <tuv lang="RU"><seg>Подгорная</seg></tuv>
       <tuv lang="BE"><seg>#Падгорная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Подкрыжаки</seg></tuv>
+      <tuv lang="BE"><seg>#Падкрыжакі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Подольная</seg></tuv>
@@ -1928,6 +1940,10 @@
       <tuv lang="BE"><seg>#Ураджайная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>урочище Пышки</seg></tuv>
+      <tuv lang="BE"><seg>#урочышча Пышкі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Усова</seg></tuv>
       <tuv lang="BE"><seg>#Вусава</seg></tuv>
     </tu>
@@ -2086,6 +2102,10 @@
     <tu>
       <tuv lang="RU"><seg>Экзотическая</seg></tuv>
       <tuv lang="BE"><seg>#Экзатычная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Элизы Ожешко</seg></tuv>
+      <tuv lang="BE"><seg>#Элізы Ажэшкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Южная</seg></tuv>

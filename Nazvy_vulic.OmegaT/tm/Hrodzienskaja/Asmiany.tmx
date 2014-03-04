@@ -60,6 +60,10 @@
       <tuv lang="BE"><seg>#Дружбы#Дружны</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Западная</seg></tuv>
+      <tuv lang="BE"><seg>#Заходняя</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Заречная</seg></tuv>
       <tuv lang="BE"><seg>#Зарэчная</seg></tuv>
     </tu>
@@ -116,6 +120,10 @@
       <tuv lang="BE"><seg>#Кааператыўная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Кооперативный</seg></tuv>
+      <tuv lang="BE"><seg>#Кааператыўны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Космонавтов</seg></tuv>
       <tuv lang="BE"><seg>#Касманаўтаў</seg></tuv>
     </tu>
@@ -133,7 +141,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Криничная</seg></tuv>
-      <tuv lang="BE"><seg>#Крынiчная вулiца</seg></tuv>
+      <tuv lang="BE"><seg>#Крынічная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кутузова</seg></tuv>
@@ -212,6 +220,10 @@
       <tuv lang="BE"><seg>#Сонечны</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Спортивный</seg></tuv>
+      <tuv lang="BE"><seg>#Спартыўны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Стреленко</seg></tuv>
       <tuv lang="BE"><seg>#Страленкі</seg></tuv>
     </tu>
@@ -222,6 +234,10 @@
     <tu>
       <tuv lang="RU"><seg>Стругача Л. Д.</seg></tuv>
       <tuv lang="BE"><seg>#Стругача Л. Д.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тихий</seg></tuv>
+      <tuv lang="BE"><seg>#Ціхі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Тубелиса</seg></tuv>
@@ -262,6 +278,10 @@
     <tu>
       <tuv lang="RU"><seg>Школьная</seg></tuv>
       <tuv lang="BE"><seg>#Школьная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Южный</seg></tuv>
+      <tuv lang="BE"><seg>#Паўднёвы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Якуба Коласа</seg></tuv>

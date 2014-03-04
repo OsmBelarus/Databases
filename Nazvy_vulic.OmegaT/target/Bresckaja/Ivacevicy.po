@@ -6,7 +6,7 @@ msgstr "н/Адамовіча"
 # Objects : [w45653849]
 # Names: [Весенняя улица]
 msgid "Весенняя"
-msgstr ""
+msgstr "пж/Вясновая"
 
 # Objects : [w25286775]
 # Names: [Загородная улица]
@@ -31,7 +31,7 @@ msgstr "н/Міру"
 # Objects : [w45653845, w45669217]
 # Names: [улица Славы]
 msgid "Славы"
-msgstr ""
+msgstr "н/Славы"
 
 # Objects : [w35571961]
 # Names: [Советская улица]
