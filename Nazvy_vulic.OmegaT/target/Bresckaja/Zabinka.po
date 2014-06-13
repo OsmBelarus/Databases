@@ -11,7 +11,7 @@ msgstr "н/1 Мая"
 # Objects : [w51561827]
 # Names: [улица XXII Съезда КПСС]
 msgid "XXII Съезда К П С С"
-msgstr ""
+msgstr "н/XXII З'езда КПСС"
 
 # Objects : [w99199334]
 # Names: [улица Базановой]
@@ -21,7 +21,7 @@ msgstr "пж/Базанавай"
 # Objects : [w102401514]
 # Names: [улица Будзённого]
 msgid "Будзённого"
-msgstr ""
+msgstr "н/Будзёнага"
 
 # Objects : [w99331816]
 # Names: [улица Бядули]
@@ -146,7 +146,7 @@ msgstr "пж/Камсамольская"
 # Objects : [w99199305]
 # Names: [улица Короткина]
 msgid "Короткина"
-msgstr ""
+msgstr "н/Кароткіна"
 
 # Objects : [w99199282]
 # Names: [улица Котовского]
@@ -246,7 +246,7 @@ msgstr "пм/Рабочы"
 # Objects : [w102425923]
 # Names: [Рамповая улица]
 msgid "Рамповая"
-msgstr ""
+msgstr "пж/Рампавая"
 
 # Objects : [w99199358]
 # Names: [улица Рокоссовского]
@@ -301,12 +301,12 @@ msgstr "пж/Працоўная"
 # Objects : [w99331799, w103975983]
 # Names: [Федяя ул.]
 msgid "Федяя"
-msgstr ""
+msgstr "н/Фядзяя"
 
 # Objects : [w99199388]
 # Names: [Филиппука ул.]
 msgid "Филиппука"
-msgstr ""
+msgstr "н/Філіпука"
 
 # Objects : [w228728686, w228728687]
 # Names: [улица Франциска Скорины]
@@ -321,7 +321,7 @@ msgstr "пж/Цэнтральная"
 # Objects : [w99199287]
 # Names: [Чернака ул.]
 msgid "Чернака"
-msgstr ""
+msgstr "н/Чарнака"
 
 # Objects : [w99199340]
 # Names: [улица Чкалова]

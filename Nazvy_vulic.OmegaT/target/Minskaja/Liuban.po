@@ -11,7 +11,7 @@ msgstr "пж/Аэрадромная"
 # Objects : [w105742895]
 # Names: [улица Брагина]
 msgid "Брагина"
-msgstr ""
+msgstr "н/Брагіна"
 
 # Objects : [w217468609]
 # Names: [Вишневый переулок]
@@ -61,12 +61,12 @@ msgstr "пж/Лугавая"
 # Objects : [w91989140, w91989169]
 # Names: [Луферова ул.]
 msgid "Луферова"
-msgstr ""
+msgstr "н/Луферава"
 
 # Objects : [w217468686]
 # Names: [Лыщени улица]
 msgid "Лыщени"
-msgstr ""
+msgstr "н/Лышчэні"
 
 # Objects : [w91989096, w154390531]
 # Names: [улица Мира]

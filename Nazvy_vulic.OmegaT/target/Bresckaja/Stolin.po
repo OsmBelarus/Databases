@@ -1,7 +1,7 @@
 # Objects : [w75601490]
 # Names: [7 Июля]
 msgid "7 Июля"
-msgstr ""
+msgstr "н/7 Чэрвеня"
 
 # Objects : [w51807088]
 # Names: [Брестская улица]
@@ -11,7 +11,7 @@ msgstr "пж/Брэсцкая"
 # Objects : [w75484189]
 # Names: [Быховского]
 msgid "Быховского"
-msgstr ""
+msgstr "н/Быхоўскага"
 
 # Objects : [w37656052, w75136642, w84499551]
 # Names: [улица Гагарина]
@@ -26,7 +26,7 @@ msgstr "н/Дзяржынскага"
 # Objects : [w75136638]
 # Names: [улица Зорге]
 msgid "Зорге"
-msgstr ""
+msgstr "н/Зорге"
 
 # Objects : [w75136635, w76666348]
 # Names: [Интернациональная улица]
@@ -51,7 +51,7 @@ msgstr "н/Леніна"
 # Objects : [w75136636]
 # Names: [улица Маркса]
 msgid "Маркса"
-msgstr ""
+msgstr "н/Маркса"
 
 # Objects : [w75665825]
 # Names: [улица Мира]
