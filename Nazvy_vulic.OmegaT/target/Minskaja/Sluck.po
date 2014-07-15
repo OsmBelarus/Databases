@@ -181,7 +181,7 @@ msgstr "н/Калініна"
 # Objects : [w164345140]
 # Names: [улица Кирова]
 msgid "Кирова"
-msgstr "/Кірава"
+msgstr "н/Кірава"
 
 # Objects : [w40957904]
 # Names: [Козберга]

@@ -136,7 +136,7 @@ msgstr "н/Камыніна"
 # Objects : [w30058973]
 # Names: [улица Кирова]
 msgid "Кирова"
-msgstr "/Кірава"
+msgstr "н/Кірава"
 
 # Objects : [w30058982]
 # Names: [улица Комарова]
