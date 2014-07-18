@@ -89,7 +89,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кляро</seg></tuv>
-      <tuv lang="BE"><seg>#Кляра</seg></tuv>
+      <tuv lang="BE"><seg>#Кляро</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Комарова</seg></tuv>
@@ -185,7 +185,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Некрасова</seg></tuv>
@@ -204,12 +204,16 @@
       <tuv lang="BE"><seg>#Кастрычніцкі</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Осененко</seg></tuv>
+      <tuv lang="BE"><seg>#Асененкі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Островского</seg></tuv>
       <tuv lang="BE"><seg>#Астроўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Павлика Морозова</seg></tuv>
-      <tuv lang="BE"><seg>#Паўліка Марозава</seg></tuv>
+      <tuv lang="BE"><seg>#Паўліка Марозова</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Парковая</seg></tuv>
@@ -294,6 +298,10 @@
     <tu>
       <tuv lang="RU"><seg>Стадионный</seg></tuv>
       <tuv lang="BE"><seg>#Стадыённы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Станкевича</seg></tuv>
+      <tuv lang="BE"><seg>#Станкевіча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Строителей</seg></tuv>

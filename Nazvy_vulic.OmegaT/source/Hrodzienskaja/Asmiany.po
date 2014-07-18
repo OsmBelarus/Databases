@@ -33,6 +33,10 @@ msgstr ""
 msgid "Больничный"
 msgstr ""
 
+# Objects : [w274524708]
+# Names: [Весенняя улица]
+msgid "Весенняя"
+
 # Objects : [w259727461]
 # Names: [Восточная улица]
 msgid "Восточная"
@@ -44,8 +48,8 @@ msgid "Гагарина"
 msgstr ""
 
 # Objects : [w115858705]
-# Names: [улица Голеса]
-msgid "Голеса"
+# Names: [улица Голяса]
+msgid "Голяса"
 msgstr ""
 
 # Objects : [w115858832]
@@ -68,7 +72,7 @@ msgstr ""
 msgid "Дружбы"
 msgstr ""
 
-# Objects : [w71439461]
+# Objects : [w279081574, w282456951]
 # Names: [Западная улица]
 msgid "Западная"
 msgstr ""
@@ -88,7 +92,7 @@ msgstr ""
 msgid "Зои Комсомольской"
 msgstr ""
 
-# Objects : [w77004835]
+# Objects : [w77004835, w274524709]
 # Names: [улица Золотарева]
 msgid "Золотарева"
 msgstr ""
@@ -158,7 +162,7 @@ msgstr ""
 msgid "Красная"
 msgstr ""
 
-# Objects : [w25284091]
+# Objects : [w25284091, w71439673]
 # Names: [Красноармейская улица]
 msgid "Красноармейская"
 msgstr ""
@@ -168,7 +172,7 @@ msgstr ""
 msgid "Красный"
 msgstr ""
 
-# Objects : [w112005745]
+# Objects : [w112005745, w259197061]
 # Names: [Криничная улица]
 msgid "Криничная"
 msgstr ""
@@ -178,10 +182,9 @@ msgstr ""
 msgid "Кутузова"
 msgstr ""
 
-# Objects : [w115858651]
-# Names: [Луговая улица]
+# Objects : [w223333422]
+# Names: [Луговая переулок]
 msgid "Луговая"
-msgstr ""
 
 # Objects : [w115858731]
 # Names: [улица Максима Богдановича]
@@ -196,6 +199,11 @@ msgstr ""
 # Objects : [w115858785]
 # Names: [улица Маяковского]
 msgid "Маяковского"
+msgstr ""
+
+# Objects : [w82754217]
+# Names: [улица Минейко]
+msgid "Минейко"
 msgstr ""
 
 # Objects : [w100607844]
@@ -237,6 +245,10 @@ msgstr ""
 msgid "Первомайская"
 msgstr ""
 
+# Objects : [w115858533]
+# Names: [Песчаная улица]
+msgid "Песчаная"
+
 # Objects : [w82754216, w102273557, w118922664]
 # Names: [Пионерская улица]
 msgid "Пионерская"
@@ -262,7 +274,7 @@ msgstr ""
 msgid "Серёгина"
 msgstr ""
 
-# Objects : [w71439677]
+# Objects : [w71439677, w290214012]
 # Names: [Советская улица]
 msgid "Советская"
 msgstr ""
@@ -287,7 +299,7 @@ msgstr ""
 msgid "Строителей"
 msgstr ""
 
-# Objects : [w82766058]
+# Objects : [w274291017]
 # Names: [улица Стругача Л.Д.]
 msgid "Стругача Л. Д."
 msgstr ""
@@ -332,7 +344,7 @@ msgstr ""
 msgid "Чернышевского"
 msgstr ""
 
-# Objects : [w77005728]
+# Objects : [w115858575]
 # Names: [улица Чехова]
 msgid "Чехова"
 msgstr ""

@@ -29,7 +29,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Багдана Хмельницкого</seg></tuv>
-      <tuv lang="BE"><seg>#Бадана Хмяльніцкага</seg></tuv>
+      <tuv lang="BE"><seg>#Багдана Хмяльніцкага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Багратиона</seg></tuv>
@@ -268,6 +268,10 @@
       <tuv lang="BE"><seg>#Крутая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Крысевичи</seg></tuv>
+      <tuv lang="BE"><seg>#Крысевічы</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Кузнецова</seg></tuv>
       <tuv lang="BE"><seg>#Кузняцова</seg></tuv>
     </tu>
@@ -289,7 +293,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лесопарковый</seg></tuv>
-      <tuv lang="BE"><seg>#Лесаларкавы</seg></tuv>
+      <tuv lang="BE"><seg>#Лесапарковы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лизы Чайкиной</seg></tuv>
@@ -349,11 +353,11 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжный</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжны</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молочная</seg></tuv>
@@ -380,6 +384,10 @@
       <tuv lang="BE"><seg>#Някрасава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Нижние Груды</seg></tuv>
+      <tuv lang="BE"><seg>#Ніжнія Груды</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Николаева</seg></tuv>
       <tuv lang="BE"><seg>#Мікалаева</seg></tuv>
     </tu>
@@ -393,7 +401,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новопроектная</seg></tuv>
-      <tuv lang="BE"><seg>#Навапраектная</seg></tuv>
+      <tuv lang="BE"><seg>#Новапраектная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новосёлов</seg></tuv>
@@ -442,6 +450,10 @@
     <tu>
       <tuv lang="RU"><seg>Полевая</seg></tuv>
       <tuv lang="BE"><seg>#Палявая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Польная</seg></tuv>
+      <tuv lang="BE"><seg>#Польная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пролетарская</seg></tuv>

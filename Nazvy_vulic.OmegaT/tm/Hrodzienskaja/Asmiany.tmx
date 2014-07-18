@@ -9,7 +9,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>60 лет БССР</seg></tuv>
-      <tuv lang="BE"><seg>#60 год БССР</seg></tuv>
+      <tuv lang="BE"><seg>#60 гадоў БССР</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>8 Марта</seg></tuv>
@@ -40,7 +40,7 @@
       <tuv lang="BE"><seg>#Гагарына</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Голеса</seg></tuv>
+      <tuv lang="RU"><seg>Голяса</seg></tuv>
       <tuv lang="BE"><seg>#Голяса</seg></tuv>
     </tu>
     <tu>
@@ -57,7 +57,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дружбы</seg></tuv>
-      <tuv lang="BE"><seg>#Дружбы#Дружны</seg></tuv>
+      <tuv lang="BE"><seg>#Дружбы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Западная</seg></tuv>
@@ -101,7 +101,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кольцевая</seg></tuv>
-      <tuv lang="BE"><seg>#Кальцавая вулiца</seg></tuv>
+      <tuv lang="BE"><seg>#Кальцавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Комарова</seg></tuv>
@@ -148,10 +148,6 @@
       <tuv lang="BE"><seg>#Кутузава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Луговая</seg></tuv>
-      <tuv lang="BE"><seg>#Лугавая</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Максима Богдановича</seg></tuv>
       <tuv lang="BE"><seg>#Максіма Багдановіча</seg></tuv>
     </tu>
@@ -164,8 +160,12 @@
       <tuv lang="BE"><seg>#Маякоўскага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Минейко</seg></tuv>
+      <tuv lang="BE"><seg>#Мінейкі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Мира</seg></tuv>
-      <tuv lang="BE"><seg>#Міра</seg></tuv>
+      <tuv lang="BE"><seg>#Міру</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мицкевича</seg></tuv>
@@ -173,7 +173,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новый</seg></tuv>

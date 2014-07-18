@@ -4,6 +4,10 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>17 Сентября</seg></tuv>
+      <tuv lang="BE"><seg>#17 Верасня</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>50 лет Л К С М Б</seg></tuv>
       <tuv lang="BE"><seg>#50 гадоў Л К С М Б</seg></tuv>
     </tu>
@@ -13,7 +17,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>70 лет БССР</seg></tuv>
-      <tuv lang="BE"><seg>#70 год БССР</seg></tuv>
+      <tuv lang="BE"><seg>#70 гадоў БССР</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Белуша</seg></tuv>
@@ -21,7 +25,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Битько</seg></tuv>
-      <tuv lang="BE"><seg>#Бiцько</seg></tuv>
+      <tuv lang="BE"><seg>#Біцько</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Богдановича</seg></tuv>
@@ -61,7 +65,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дворчанина</seg></tuv>
-      <tuv lang="BE"><seg>#Дварчанiна</seg></tuv>
+      <tuv lang="BE"><seg>#Дварчаніна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дзержинского</seg></tuv>
@@ -185,7 +189,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новогрудская</seg></tuv>
@@ -213,7 +217,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пищулина</seg></tuv>
-      <tuv lang="BE"><seg>#Пiшчулiна</seg></tuv>
+      <tuv lang="BE"><seg>#Пішчуліна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Победы</seg></tuv>
@@ -229,7 +233,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Русина</seg></tuv>
-      <tuv lang="BE"><seg>#Русiна</seg></tuv>
+      <tuv lang="BE"><seg>#Русіна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Садовая</seg></tuv>
@@ -257,7 +261,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Филидовича</seg></tuv>
-      <tuv lang="BE"><seg>#Фiлiдовiча</seg></tuv>
+      <tuv lang="BE"><seg>#Філідовіча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Фогеля</seg></tuv>

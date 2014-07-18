@@ -28,6 +28,10 @@
       <tuv lang="BE"><seg>#Дзвінская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Денисова</seg></tuv>
+      <tuv lang="BE"><seg>#Дзянісава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Дзержинского</seg></tuv>
       <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
     </tu>
@@ -38,6 +42,10 @@
     <tu>
       <tuv lang="RU"><seg>Дручанская</seg></tuv>
       <tuv lang="BE"><seg>#Дручанская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Еронько</seg></tuv>
+      <tuv lang="BE"><seg>#Еранько</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заводской</seg></tuv>
@@ -84,6 +92,10 @@
       <tuv lang="BE"><seg>#Лермантава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Лесная</seg></tuv>
+      <tuv lang="BE"><seg>#Лясная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Линия</seg></tuv>
       <tuv lang="BE"><seg>#Лінія</seg></tuv>
     </tu>
@@ -97,7 +109,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Надежды</seg></tuv>
@@ -110,6 +122,10 @@
     <tu>
       <tuv lang="RU"><seg>Олимпийская</seg></tuv>
       <tuv lang="BE"><seg>#Алімпійская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Отрадный</seg></tuv>
+      <tuv lang="BE"><seg>#Атрадны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Парковая</seg></tuv>
@@ -156,8 +172,20 @@
       <tuv lang="BE"><seg>#Сурыкава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Техническая</seg></tuv>
+      <tuv lang="BE"><seg>#Тэхнічная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тимирязева</seg></tuv>
+      <tuv lang="BE"><seg>#Ціміразева</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Троицкая</seg></tuv>
       <tuv lang="BE"><seg>#Траецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Химиков</seg></tuv>
+      <tuv lang="BE"><seg>#Хімікаў</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Школьная</seg></tuv>

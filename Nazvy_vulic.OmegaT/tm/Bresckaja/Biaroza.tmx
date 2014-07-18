@@ -12,6 +12,10 @@
       <tuv lang="BE"><seg>#Усходняя</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Горина-Коляды</seg></tuv>
+      <tuv lang="BE"><seg>#Горына Каляды</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Карла Маркса</seg></tuv>
       <tuv lang="BE"><seg>#Карла Маркса</seg></tuv>
     </tu>
@@ -32,8 +36,16 @@
       <tuv lang="BE"><seg>#Чырвонаармейская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Кречет</seg></tuv>
+      <tuv lang="BE"><seg>#Крэчат</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Луговая</seg></tuv>
       <tuv lang="BE"><seg>#Лугавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Любарского</seg></tuv>
+      <tuv lang="BE"><seg>#Любарскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Максима Горького</seg></tuv>
@@ -80,12 +92,24 @@
       <tuv lang="BE"><seg>#Савецкая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Советских Космонавтов</seg></tuv>
+      <tuv lang="BE"><seg>#Савецкіх Касманаўтаў</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Суворова</seg></tuv>
       <tuv lang="BE"><seg>#Суворава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Толстого</seg></tuv>
       <tuv lang="BE"><seg>#Талстога</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тышкевича</seg></tuv>
+      <tuv lang="BE"><seg>#Тышкевіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Углянская</seg></tuv>
+      <tuv lang="BE"><seg>#Вуглянская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Фрунзе</seg></tuv>

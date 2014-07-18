@@ -13,8 +13,8 @@ msgstr ""
 msgid "40 лет БССР"
 msgstr ""
 
-# Objects : [w32798828]
-# Names: [улица 8 Марта]
+# Objects : [w32798828, w32798831]
+# Names: [переулок 8 Марта, улица 8 Марта]
 msgid "8 Марта"
 msgstr ""
 
@@ -48,7 +48,7 @@ msgstr ""
 msgid "Вишнёвая"
 msgstr ""
 
-# Objects : [w32591965, w94976034]
+# Objects : [w32591965, w94976034, w282060284]
 # Names: [Вокзальная улица]
 msgid "Вокзальная"
 msgstr ""
@@ -56,6 +56,7 @@ msgstr ""
 # Objects : [w98297740, w110431845]
 # Names: [Вокзальный переулок]
 msgid "Вокзальный"
+msgstr ""
 
 # Objects : [w98297737]
 # Names: [Восточная улица]
@@ -107,6 +108,10 @@ msgstr ""
 msgid "Железнодорожная"
 msgstr ""
 
+# Objects : [w200735714]
+# Names: [переулок Железнодорожников]
+msgid "Железнодорожников"
+
 # Objects : [w67831580]
 # Names: [Жемчужная улица]
 msgid "Жемчужная"
@@ -117,7 +122,7 @@ msgstr ""
 msgid "Жукова"
 msgstr ""
 
-# Objects : [w110023206]
+# Objects : [w110023206, w282060287]
 # Names: [Заводская улица]
 msgid "Заводская"
 msgstr ""
@@ -188,6 +193,7 @@ msgstr ""
 # Objects : [w110709805]
 # Names: [улица Климука]
 msgid "Климука"
+msgstr ""
 
 # Objects : [w36269545]
 # Names: [Кольцевая улица]
@@ -217,14 +223,17 @@ msgstr ""
 # Objects : [w110030573]
 # Names: [Краснофлотский переулок]
 msgid "Краснофлотский"
+msgstr ""
 
 # Objects : [w32839814, w52521071]
 # Names: [Крахмальный переулок]
 msgid "Крахмальный"
+msgstr ""
 
 # Objects : [w110709693]
 # Names: [улица Кривца]
 msgid "Кривца"
+msgstr ""
 
 # Objects : [w32591539]
 # Names: [улица Ленина]
@@ -249,6 +258,7 @@ msgstr ""
 # Objects : [w110709723, w110709798]
 # Names: [Лесопарковый переулок]
 msgid "Лесопарковый"
+msgstr ""
 
 # Objects : [w110255719]
 # Names: [Луговая улица]
@@ -270,6 +280,10 @@ msgstr ""
 msgid "Матросова"
 msgstr ""
 
+# Objects : [w163195837]
+# Names: [проспект Мира]
+msgid "Мира"
+
 # Objects : [w67831584]
 # Names: [Народная улица]
 msgid "Народная"
@@ -280,7 +294,7 @@ msgstr ""
 msgid "Нёманская"
 msgstr ""
 
-# Objects : [w110709754]
+# Objects : [w277751377]
 # Names: [Новосельская улица]
 msgid "Новосельская"
 msgstr ""
@@ -295,13 +309,19 @@ msgstr ""
 msgid "Первомайский"
 msgstr ""
 
+# Objects : [w110431821]
+# Names: [Переуок Комсомоьский]
+msgid "Переуок Комсомоьский"
+
 # Objects : [w32838618, w102441689]
 # Names: [Песковская улица]
 msgid "Песковская"
+msgstr ""
 
 # Objects : [w102441676]
 # Names: [Плодовая улица]
 msgid "Плодовая"
+msgstr ""
 
 # Objects : [w101965699]
 # Names: [Подвесной мост]
@@ -336,10 +356,12 @@ msgstr ""
 # Objects : [w32839632]
 # Names: [Рудавская улица]
 msgid "Рудавская"
+msgstr ""
 
 # Objects : [w110424655]
 # Names: [Рудавский переулок]
 msgid "Рудавский"
+msgstr ""
 
 # Objects : [w32839804]
 # Names: [Садовая улица]
@@ -409,14 +431,17 @@ msgstr ""
 # Objects : [w32804688, w58913710, w91797840, w160441849]
 # Names: [переулок Тордия, улица Тордия]
 msgid "Тордия"
+msgstr ""
 
 # Objects : [w205880358]
 # Names: [Учительская улица]
 msgid "Учительская"
+msgstr ""
 
 # Objects : [w155556277]
 # Names: [Учительский переулок]
 msgid "Учительский"
+msgstr ""
 
 # Objects : [w110431841, w110431846, w200735755]
 # Names: [переулок Фрунзе, улица Фрунзе]
@@ -427,6 +452,10 @@ msgstr ""
 # Names: [Цветочная улица]
 msgid "Цветочная"
 msgstr ""
+
+# Objects : [w291391414]
+# Names: [Цветочный переулок]
+msgid "Цветочный"
 
 # Objects : [w67831417]
 # Names: [улица Чапаева]
@@ -446,6 +475,7 @@ msgstr ""
 # Objects : [w110030575]
 # Names: [улица Шаройко]
 msgid "Шаройко"
+msgstr ""
 
 # Objects : [w69713715]
 # Names: [Широкая улица]
@@ -477,6 +507,10 @@ msgstr ""
 msgid "Юбилейная"
 msgstr ""
 
+# Objects : [w98297642]
+# Names: [Юбилейный переулок]
+msgid "Юбилейный"
+
 # Objects : [w32805156]
 # Names: [проспект Юности]
 msgid "Юности"
@@ -485,6 +519,7 @@ msgstr ""
 # Objects : [w98297695]
 # Names: [улица Явора]
 msgid "Явора"
+msgstr ""
 
 # Objects : [w98297734]
 # Names: [улица Якуба Коласа]

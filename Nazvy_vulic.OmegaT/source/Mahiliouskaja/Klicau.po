@@ -9,26 +9,34 @@ msgid "Базарный"
 # Objects : [w97944440, w99199560]
 # Names: [Береговая улица]
 msgid "Береговая"
+msgstr ""
 
 # Objects : [w98006895]
 # Names: [Ветеринарный переулок]
 msgid "Ветеринарный"
 
-# Objects : [w207176506]
+# Objects : [w97944441]
 # Names: [улица Витоля]
 msgid "Витоля"
 
-# Objects : [w97719623, w262199803]
-# Names: [переулок Демина]
+# Objects : [w98710261]
+# Names: [переулок Горького]
+msgid "Горького"
+
+# Objects : [w262199803]
+# Names: [переулок Дёмина]
 msgid "Дёмина"
+msgstr ""
 
 # Objects : [w206513179]
 # Names: [Заводской переулок]
 msgid "Заводской"
+msgstr ""
 
 # Objects : [w207315967]
 # Names: [Заречная улица]
 msgid "Заречная"
+msgstr ""
 
 # Objects : [w97725524]
 # Names: [улица Калинина]
@@ -38,6 +46,7 @@ msgstr ""
 # Objects : [w98007085, w98007126]
 # Names: [Комсомольская улица]
 msgid "Комсомольская"
+msgstr ""
 
 # Objects : [w97723492]
 # Names: [Красноармейская улица]
@@ -51,10 +60,12 @@ msgid "Кривоноса"
 # Objects : [w97943801]
 # Names: [Ленинская улица]
 msgid "Ленинская"
+msgstr ""
 
 # Objects : [w207315969]
 # Names: [Лесная улица]
 msgid "Лесная"
+msgstr ""
 
 # Objects : [w97726424]
 # Names: [Луговая улица]
@@ -66,16 +77,19 @@ msgstr ""
 msgid "Марковская"
 
 # Objects : [w262053279]
-# Names: [ул. Могилевская]
+# Names: [Могилевская улица]
 msgid "Могилевская"
+msgstr ""
 
 # Objects : [w207542603]
 # Names: [Могилёвская улица]
 msgid "Могилёвская"
+msgstr ""
 
 # Objects : [w97727854]
 # Names: [Молодёжная улица]
 msgid "Молодёжная"
+msgstr ""
 
 # Objects : [w97943766]
 # Names: [Набережная улица]
@@ -84,18 +98,21 @@ msgid "Набережная"
 # Objects : [w98867696]
 # Names: [Новый переулок]
 msgid "Новый"
+msgstr ""
 
 # Objects : [w98006779]
-# Names: [пер. Озерный]
+# Names: [Озерный переулок]
 msgid "Озерный"
 
 # Objects : [w97724268, w219746835]
 # Names: [переулок Островского, улица Островского]
 msgid "Островского"
+msgstr ""
 
 # Objects : [w97720806, w97721298]
 # Names: [Партизанская улица]
 msgid "Партизанская"
+msgstr ""
 
 # Objects : [w97722985]
 # Names: [Первомайская улица]
@@ -110,10 +127,12 @@ msgstr ""
 # Objects : [w98006806]
 # Names: [Полевая улица]
 msgid "Полевая"
+msgstr ""
 
 # Objects : [w262199802]
 # Names: [Полевой переулок]
 msgid "Полевой"
+msgstr ""
 
 # Objects : [w97725049, w207176507]
 # Names: [Пролетарская улица]
@@ -128,6 +147,7 @@ msgstr ""
 # Objects : [w97722559]
 # Names: [переулок Пугачёва]
 msgid "Пугачёва"
+msgstr ""
 
 # Objects : [w97720202]
 # Names: [улица Пушкина]
@@ -146,10 +166,12 @@ msgstr ""
 # Objects : [w97943791]
 # Names: [Социалистическая улица]
 msgid "Социалистическая"
+msgstr ""
 
 # Objects : [w99199585]
 # Names: [Хозяйственная улица]
 msgid "Хозяйственная"
+msgstr ""
 
 # Objects : [w97723503]
 # Names: [Школьный переулок]

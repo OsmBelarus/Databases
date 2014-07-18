@@ -8,6 +8,10 @@
       <tuv lang="BE"><seg>#Абрамовіча</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Больничный</seg></tuv>
+      <tuv lang="BE"><seg>#Бальнічны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Вишнёвая</seg></tuv>
       <tuv lang="BE"><seg>#Вішнёвая</seg></tuv>
     </tu>
@@ -53,7 +57,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Октябрьская</seg></tuv>

@@ -4,8 +4,16 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>Апанасевича</seg></tuv>
+      <tuv lang="BE"><seg>#Апанасевіча</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Ильина</seg></tuv>
       <tuv lang="BE"><seg>#Ільіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Калинина</seg></tuv>
+      <tuv lang="BE"><seg>#Калініна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Климука</seg></tuv>
@@ -25,7 +33,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Панкратовская</seg></tuv>
-      <tuv lang="BE"><seg>#Панкратаўская вулiца</seg></tuv>
+      <tuv lang="BE"><seg>#Панкратаўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пионерская</seg></tuv>
@@ -49,7 +57,11 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Толстого</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца Таўстога</seg></tuv>
+      <tuv lang="BE"><seg>#Талстога</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Франциска Скорины</seg></tuv>
+      <tuv lang="BE"><seg>#Франциска Скорыны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Шолахова</seg></tuv>

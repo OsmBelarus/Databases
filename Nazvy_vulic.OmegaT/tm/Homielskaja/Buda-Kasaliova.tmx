@@ -5,11 +5,11 @@
   <body>
     <tu>
       <tuv lang="RU"><seg>16 лет Октября</seg></tuv>
-      <tuv lang="BE"><seg>#16 год Кастрычніка</seg></tuv>
+      <tuv lang="BE"><seg>#16 гадоў Кастрычніка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>30 лет Победы</seg></tuv>
-      <tuv lang="BE"><seg>#30 год Перамогі</seg></tuv>
+      <tuv lang="BE"><seg>#30 гадоў Перамогі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>50 лет Октября</seg></tuv>
@@ -101,11 +101,15 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Корчагина</seg></tuv>
-      <tuv lang="BE"><seg>#Гагарына</seg></tuv>
+      <tuv lang="BE"><seg>#Карчагіна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Красноармейская</seg></tuv>
       <tuv lang="BE"><seg>#Чырвонаармейская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лавриновича</seg></tuv>
+      <tuv lang="BE"><seg>#Лаўрыновіча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ленина</seg></tuv>
@@ -133,7 +137,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новая</seg></tuv>

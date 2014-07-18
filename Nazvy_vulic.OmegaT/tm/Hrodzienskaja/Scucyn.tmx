@@ -24,6 +24,10 @@
       <tuv lang="BE"><seg>#Акадэмічная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Батырева</seg></tuv>
+      <tuv lang="BE"><seg>#Батырава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Восточная</seg></tuv>
       <tuv lang="BE"><seg>#Усходняя</seg></tuv>
     </tu>
@@ -161,7 +165,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Некрасова</seg></tuv>
@@ -185,7 +189,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Павлика Морозова</seg></tuv>
-      <tuv lang="BE"><seg>#Паўліка Марозава</seg></tuv>
+      <tuv lang="BE"><seg>#Паўліка Марозова</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Первомайская</seg></tuv>
@@ -217,7 +221,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Рудого</seg></tuv>
-      <tuv lang="BE"><seg>#Дружбы</seg></tuv>
+      <tuv lang="BE"><seg>#Рудага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Садовая</seg></tuv>
@@ -288,12 +292,16 @@
       <tuv lang="BE"><seg>#Школьная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Шупени</seg></tuv>
+      <tuv lang="BE"><seg>#Шупені</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Энгельса</seg></tuv>
       <tuv lang="BE"><seg>#Энгельса</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Юго-Западная</seg></tuv>
-      <tuv lang="BE"><seg>#Рудога</seg></tuv>
+      <tuv lang="BE"><seg>#Паўднёва-Заходняя</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Южная</seg></tuv>

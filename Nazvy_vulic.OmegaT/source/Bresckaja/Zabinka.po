@@ -18,8 +18,8 @@ msgid "Базановой"
 msgstr ""
 
 # Objects : [w102401514]
-# Names: [улица Будзённого]
-msgid "Будзённого"
+# Names: [улица Будённого]
+msgid "Будённого"
 msgstr ""
 
 # Objects : [w99331816]
@@ -53,8 +53,9 @@ msgid "Горького"
 msgstr ""
 
 # Objects : [w99199378]
-# Names: [Дмитрука ул.]
+# Names: [улица Дмитрука]
 msgid "Дмитрука"
+msgstr ""
 
 # Objects : [w99199336]
 # Names: [Железнодорожная улица]
@@ -114,6 +115,7 @@ msgstr ""
 # Objects : [w99331889, w240952513]
 # Names: [улица Климука]
 msgid "Климука"
+msgstr ""
 
 # Objects : [w80235397, w137856185, w137856195, w225815827]
 # Names: [Колхозная улица]
@@ -135,7 +137,7 @@ msgstr ""
 msgid "Коммунистическая"
 msgstr ""
 
-# Objects : [w103715547, w184457013]
+# Objects : [w103715547, w184457013, w289778702, w289778703]
 # Names: [Комсомольская улица]
 msgid "Комсомольская"
 msgstr ""
@@ -143,6 +145,7 @@ msgstr ""
 # Objects : [w99199305]
 # Names: [улица Короткина]
 msgid "Короткина"
+msgstr ""
 
 # Objects : [w99199282]
 # Names: [улица Котовского]
@@ -192,6 +195,7 @@ msgstr ""
 # Objects : [w156280894]
 # Names: [улица Огинского]
 msgid "Огинского"
+msgstr ""
 
 # Objects : [w99331859, w184583146]
 # Names: [Озёрная улица]
@@ -241,6 +245,7 @@ msgstr ""
 # Objects : [w102425923]
 # Names: [Рамповая улица]
 msgid "Рамповая"
+msgstr ""
 
 # Objects : [w99199358]
 # Names: [улица Рокоссовского]
@@ -292,13 +297,15 @@ msgstr ""
 msgid "Трудовая"
 msgstr ""
 
-# Objects : [w99331799, w103975983]
-# Names: [Федяя ул.]
+# Objects : [w99331799]
+# Names: [улица Федяя]
 msgid "Федяя"
+msgstr ""
 
 # Objects : [w99199388]
-# Names: [Филиппука ул.]
+# Names: [улица Филиппука]
 msgid "Филиппука"
+msgstr ""
 
 # Objects : [w228728686, w228728687]
 # Names: [улица Франциска Скорины]
@@ -311,8 +318,9 @@ msgid "Центральная"
 msgstr ""
 
 # Objects : [w99199287]
-# Names: [Чернака ул.]
+# Names: [улица Чернака]
 msgid "Чернака"
+msgstr ""
 
 # Objects : [w99199340]
 # Names: [улица Чкалова]

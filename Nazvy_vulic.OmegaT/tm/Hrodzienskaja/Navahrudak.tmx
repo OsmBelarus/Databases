@@ -85,11 +85,15 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заводская</seg></tuv>
-      <tuv lang="BE"><seg>#Завадская</seg></tuv>
+      <tuv lang="BE"><seg>#Заводская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заслонова</seg></tuv>
       <tuv lang="BE"><seg>#Заслонава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зелёный</seg></tuv>
+      <tuv lang="BE"><seg>#Зялёны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Индустриальная</seg></tuv>
@@ -124,7 +128,7 @@
       <tuv lang="BE"><seg>#Камсамольская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Коралёва</seg></tuv>
+      <tuv lang="RU"><seg>Королёва</seg></tuv>
       <tuv lang="BE"><seg>#Каралёва</seg></tuv>
     </tu>
     <tu>
@@ -169,7 +173,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Люси Сечко</seg></tuv>
-      <tuv lang="BE"><seg>#Люсі Сечко</seg></tuv>
+      <tuv lang="BE"><seg>#Люсі Сячко</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Максима Горького</seg></tuv>

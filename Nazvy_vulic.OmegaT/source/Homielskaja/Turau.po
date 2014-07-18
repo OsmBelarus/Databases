@@ -32,6 +32,10 @@ msgstr ""
 msgid "Комсомольская"
 msgstr ""
 
+# Objects : [w217312279]
+# Names: [Туровская улица]
+msgid "Туровская"
+
 # Objects : [w116605833]
 # Names: [улица Чкалова]
 msgid "Чкалова"

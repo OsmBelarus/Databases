@@ -185,7 +185,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новая</seg></tuv>
@@ -232,6 +232,14 @@
       <tuv lang="BE"><seg>#Палеская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Полесский</seg></tuv>
+      <tuv lang="BE"><seg>#Палескi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поселковая</seg></tuv>
+      <tuv lang="BE"><seg>#Паселковая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Радужная</seg></tuv>
       <tuv lang="BE"><seg>#Вясёлкавая</seg></tuv>
     </tu>
@@ -242,6 +250,10 @@
     <tu>
       <tuv lang="RU"><seg>Свердлова</seg></tuv>
       <tuv lang="BE"><seg>#Свярдлова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Светлая</seg></tuv>
+      <tuv lang="BE"><seg>#Светлая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Северная</seg></tuv>
@@ -258,6 +270,10 @@
     <tu>
       <tuv lang="RU"><seg>Солнечная</seg></tuv>
       <tuv lang="BE"><seg>#Сонечная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сосновая</seg></tuv>
+      <tuv lang="BE"><seg>#Сасновая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Социалистический</seg></tuv>

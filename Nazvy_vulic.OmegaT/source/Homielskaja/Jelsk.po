@@ -11,10 +11,12 @@ msgstr ""
 # Objects : [w25257888]
 # Names: [улица Акинчица]
 msgid "Акинчица"
+msgstr ""
 
 # Objects : [w25257887]
 # Names: [улица Бернадского]
 msgid "Бернадского"
+msgstr ""
 
 # Objects : [w25257843]
 # Names: [улица Богушевича]
@@ -44,6 +46,7 @@ msgstr ""
 # Objects : [w25257801]
 # Names: [Ельская улица]
 msgid "Ельская"
+msgstr ""
 
 # Objects : [w25257810]
 # Names: [улица Есенина]
@@ -100,13 +103,15 @@ msgstr ""
 msgid "Кирова"
 msgstr ""
 
-# Objects : [w25257913]
+# Objects : [w25257913, w25257920]
 # Names: [улица Козинцева]
 msgid "Козинцева"
+msgstr ""
 
 # Objects : [w25257841, w137339751]
 # Names: [улица Колбасина]
 msgid "Колбасина"
+msgstr ""
 
 # Objects : [w25257896]
 # Names: [Колхозная улица]
@@ -176,6 +181,7 @@ msgstr ""
 # Objects : [w25257922]
 # Names: [улица Матюшенко]
 msgid "Матюшенко"
+msgstr ""
 
 # Objects : [w25257820]
 # Names: [улица Маяковского]
@@ -220,6 +226,7 @@ msgstr ""
 # Objects : [w25257842]
 # Names: [улица Олега Кошевого]
 msgid "Олега Кошевого"
+msgstr ""
 
 # Objects : [w25257885]
 # Names: [улица Островского]
@@ -246,7 +253,7 @@ msgstr ""
 msgid "Полесская"
 msgstr ""
 
-# Objects : [w25257920, w137339755]
+# Objects : [w137339755]
 # Names: [улица Пушкина]
 msgid "Пушкина"
 msgstr ""
@@ -299,6 +306,7 @@ msgstr ""
 # Objects : [w25257808]
 # Names: [улица Турика]
 msgid "Турика"
+msgstr ""
 
 # Objects : [w25257897]
 # Names: [Физкультурная улица]
@@ -348,6 +356,7 @@ msgstr ""
 # Objects : [w25257906, w25257923]
 # Names: [улица Яна Налепки]
 msgid "Яна Налепки"
+msgstr ""
 
 # Objects : [w25257873]
 # Names: [переулок Янки Купалы]

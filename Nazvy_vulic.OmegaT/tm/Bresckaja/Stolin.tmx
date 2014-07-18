@@ -8,12 +8,20 @@
       <tuv lang="BE"><seg>#Брэсцкая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Быховского</seg></tuv>
+      <tuv lang="BE"><seg>#Быхоўскага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Гагарина</seg></tuv>
       <tuv lang="BE"><seg>#Гагарына</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дзержинского</seg></tuv>
       <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зорге</seg></tuv>
+      <tuv lang="BE"><seg>#Зорге</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Интернациональная</seg></tuv>
@@ -30,6 +38,10 @@
     <tu>
       <tuv lang="RU"><seg>Ленина</seg></tuv>
       <tuv lang="BE"><seg>#Леніна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Маркса</seg></tuv>
+      <tuv lang="BE"><seg>#Маркса</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мира</seg></tuv>

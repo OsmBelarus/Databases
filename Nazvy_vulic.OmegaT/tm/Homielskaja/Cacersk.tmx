@@ -5,11 +5,11 @@
   <body>
     <tu>
       <tuv lang="RU"><seg>50 лет БССР</seg></tuv>
-      <tuv lang="BE"><seg>#50 год БССР</seg></tuv>
+      <tuv lang="BE"><seg>#50 гадоў БССР</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>60 лет Октября</seg></tuv>
-      <tuv lang="BE"><seg>#60 год Кастрычніка</seg></tuv>
+      <tuv lang="BE"><seg>#60 гадоў Кастрычніка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Байкова</seg></tuv>
@@ -20,7 +20,7 @@
       <tuv lang="BE"><seg>#Братоў Лізюковых</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Будзённого</seg></tuv>
+      <tuv lang="RU"><seg>Будёного</seg></tuv>
       <tuv lang="BE"><seg>#Будзёнага</seg></tuv>
     </tu>
     <tu>
@@ -81,7 +81,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Комбинатная</seg></tuv>
-      <tuv lang="BE"><seg>#Камбінтная</seg></tuv>
+      <tuv lang="BE"><seg>#Камбінатная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Комсомольская</seg></tuv>
@@ -92,12 +92,20 @@
       <tuv lang="BE"><seg>#Кааператыўная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Красня Слабодка</seg></tuv>
+      <tuv lang="BE"><seg>#Чырвоная Слабодка</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Крестьянская</seg></tuv>
       <tuv lang="BE"><seg>#Сялянская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кругликова</seg></tuv>
       <tuv lang="BE"><seg>#Круглікава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лилии Каростояновой</seg></tuv>
+      <tuv lang="BE"><seg>#Ліліі Карастаянавай</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Луговая</seg></tuv>
@@ -117,7 +125,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новая</seg></tuv>
@@ -150,6 +158,10 @@
     <tu>
       <tuv lang="RU"><seg>Победы</seg></tuv>
       <tuv lang="BE"><seg>#Перамогі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Подобедова</seg></tuv>
+      <tuv lang="BE"><seg>#Падабедава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Полевая</seg></tuv>

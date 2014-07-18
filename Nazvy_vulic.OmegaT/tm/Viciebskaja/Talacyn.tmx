@@ -13,7 +13,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Банный</seg></tuv>
-      <tuv lang="BE"><seg>#Банны</seg></tuv>
+      <tuv lang="BE"><seg>#Лазневы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Весенняя</seg></tuv>
@@ -54,6 +54,10 @@
     <tu>
       <tuv lang="RU"><seg>Дорожная</seg></tuv>
       <tuv lang="BE"><seg>#Дарожная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Друцкая</seg></tuv>
+      <tuv lang="BE"><seg>#Друцкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заводская</seg></tuv>
@@ -145,7 +149,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Нагорная</seg></tuv>
@@ -162,6 +166,10 @@
     <tu>
       <tuv lang="RU"><seg>Новая</seg></tuv>
       <tuv lang="BE"><seg>#Новая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Нововокзальная</seg></tuv>
+      <tuv lang="BE"><seg>#Новавакзальная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новосёлов</seg></tuv>
@@ -204,6 +212,10 @@
       <tuv lang="BE"><seg>#Піянерская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Плосковский</seg></tuv>
+      <tuv lang="BE"><seg>#Плоскаўскі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Подгорная</seg></tuv>
       <tuv lang="BE"><seg>#Падгорная</seg></tuv>
     </tu>
@@ -214,6 +226,10 @@
     <tu>
       <tuv lang="RU"><seg>Приозёрная</seg></tuv>
       <tuv lang="BE"><seg>#Прыазёрная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Приозёрный</seg></tuv>
+      <tuv lang="BE"><seg>#Прыазёрны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пролетарская</seg></tuv>
@@ -296,12 +312,20 @@
       <tuv lang="BE"><seg>#Тэкстыльная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Текстильный</seg></tuv>
+      <tuv lang="BE"><seg>#Тэкстыльны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Тенистая</seg></tuv>
       <tuv lang="BE"><seg>#Цяністая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Тракторная</seg></tuv>
       <tuv lang="BE"><seg>#Трактарная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тюменская</seg></tuv>
+      <tuv lang="BE"><seg>#Цюменская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Франциска Скорины</seg></tuv>
@@ -338,6 +362,10 @@
     <tu>
       <tuv lang="RU"><seg>Шоссейная</seg></tuv>
       <tuv lang="BE"><seg>#Шасэйная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Элеваторная</seg></tuv>
+      <tuv lang="BE"><seg>#Элеватарная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Энгельса</seg></tuv>

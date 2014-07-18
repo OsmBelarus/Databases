@@ -329,8 +329,9 @@ msgid "Крутая"
 msgstr ""
 
 # Objects : [w98893793]
-# Names: [Крысевичи улица]
+# Names: [улица Крысевичи]
 msgid "Крысевичи"
+msgstr ""
 
 # Objects : [w96581092]
 # Names: [улица Кузнецова]
@@ -479,6 +480,7 @@ msgstr ""
 # Objects : [w98892626]
 # Names: [улица Нижние Груды]
 msgid "Нижние Груды"
+msgstr ""
 
 # Objects : [w95559161]
 # Names: [улица Николаева]
@@ -563,6 +565,7 @@ msgstr ""
 # Objects : [w195365081]
 # Names: [Польная улица]
 msgid "Польная"
+msgstr ""
 
 # Objects : [w90664113]
 # Names: [Пролетарская улица]

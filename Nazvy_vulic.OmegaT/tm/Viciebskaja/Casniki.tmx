@@ -4,6 +4,10 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>Базарный</seg></tuv>
+      <tuv lang="BE"><seg>#Базарны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Вишнёвая</seg></tuv>
       <tuv lang="BE"><seg>#Вішнёвая</seg></tuv>
     </tu>
@@ -18,6 +22,14 @@
     <tu>
       <tuv lang="RU"><seg>Доватора</seg></tuv>
       <tuv lang="BE"><seg>#Даватара</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дубровского</seg></tuv>
+      <tuv lang="BE"><seg>#Дуброўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Журбы</seg></tuv>
+      <tuv lang="BE"><seg>#Журбы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Западная</seg></tuv>
@@ -72,8 +84,20 @@
       <tuv lang="BE"><seg>#Ленінскі</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Лобонка</seg></tuv>
+      <tuv lang="BE"><seg>#Лабанка</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Луговая</seg></tuv>
       <tuv lang="BE"><seg>#Лугавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лукомльская</seg></tuv>
+      <tuv lang="BE"><seg>#Лукомльская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лукомльский</seg></tuv>
+      <tuv lang="BE"><seg>#Лукомльскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мелиоративная</seg></tuv>
@@ -93,11 +117,11 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мира</seg></tuv>
-      <tuv lang="BE"><seg>#Міра</seg></tuv>
+      <tuv lang="BE"><seg>#Міру</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжный</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжны</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новая</seg></tuv>
@@ -202,6 +226,10 @@
     <tu>
       <tuv lang="RU"><seg>Цветочная</seg></tuv>
       <tuv lang="BE"><seg>#Кветкавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чепика</seg></tuv>
+      <tuv lang="BE"><seg>#Чэпіка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Юбилейная</seg></tuv>

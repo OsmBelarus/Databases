@@ -8,12 +8,20 @@
       <tuv lang="BE"><seg>#17 Верасня</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>60 лет Октября</seg></tuv>
+      <tuv lang="BE"><seg>#60 гадоў Кастрычніка</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>8 Марта</seg></tuv>
       <tuv lang="BE"><seg>#8 Сакавіка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Адамовича</seg></tuv>
       <tuv lang="BE"><seg>#Адамовіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Артёменко</seg></tuv>
+      <tuv lang="BE"><seg>#Арцёменкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Берёзовая</seg></tuv>
@@ -34,6 +42,10 @@
     <tu>
       <tuv lang="RU"><seg>Гоголя</seg></tuv>
       <tuv lang="BE"><seg>#Гогаля</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гойшика</seg></tuv>
+      <tuv lang="BE"><seg>#Гойшыка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Грицевца</seg></tuv>
@@ -64,8 +76,16 @@
       <tuv lang="BE"><seg>#Заслонава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Звёздный</seg></tuv>
+      <tuv lang="BE"><seg>#Зорны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Зелёная</seg></tuv>
       <tuv lang="BE"><seg>#Зялёная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зуйкевича</seg></tuv>
+      <tuv lang="BE"><seg>#Зуйкевіча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Калинина</seg></tuv>
@@ -92,8 +112,16 @@
       <tuv lang="BE"><seg>#Касманаўтаў</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Крапивы</seg></tuv>
+      <tuv lang="BE"><seg>#Крапівы</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Кутузова</seg></tuv>
       <tuv lang="BE"><seg>#Кутузава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ленина</seg></tuv>
+      <tuv lang="BE"><seg>#Леніна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лермонтова</seg></tuv>
@@ -132,12 +160,20 @@
       <tuv lang="BE"><seg>#Маякоўскага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Мелиаротивный</seg></tuv>
+      <tuv lang="BE"><seg>#Меліяратыўны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Мира</seg></tuv>
-      <tuv lang="BE"><seg>#Міра#Міру</seg></tuv>
+      <tuv lang="BE"><seg>#Міру</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Михаила Рудковского</seg></tuv>
+      <tuv lang="BE"><seg>#Міхаіла Рудкоўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Монтажников</seg></tuv>
@@ -196,12 +232,12 @@
       <tuv lang="BE"><seg>#Палявы</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Полесская</seg></tuv>
-      <tuv lang="BE"><seg>#Палеская</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Пролетарский</seg></tuv>
       <tuv lang="BE"><seg>#Пралетарскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Проскурова</seg></tuv>
+      <tuv lang="BE"><seg>#Праскурава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пушкина</seg></tuv>
@@ -222,6 +258,10 @@
     <tu>
       <tuv lang="RU"><seg>Садовый</seg></tuv>
       <tuv lang="BE"><seg>#Садовы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сидоревича</seg></tuv>
+      <tuv lang="BE"><seg>#Сідарэвіча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>

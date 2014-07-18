@@ -5,15 +5,15 @@
   <body>
     <tu>
       <tuv lang="RU"><seg>60 лет БССР</seg></tuv>
-      <tuv lang="BE"><seg>#60 год БССР</seg></tuv>
+      <tuv lang="BE"><seg>#60 гадоў БССР</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>60 лет Октября</seg></tuv>
-      <tuv lang="BE"><seg>#60 год Кастрычніка</seg></tuv>
+      <tuv lang="BE"><seg>#60 гадоў Кастрычніка</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Вокзальная</seg></tuv>
-      <tuv lang="BE"><seg>#Вакзальная</seg></tuv>
+      <tuv lang="RU"><seg>Вокзальный</seg></tuv>
+      <tuv lang="BE"><seg>#Вакзальны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гагарина</seg></tuv>
@@ -34,10 +34,6 @@
     <tu>
       <tuv lang="RU"><seg>Коммунистическая</seg></tuv>
       <tuv lang="BE"><seg>#Камуністычная</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Коммунистический</seg></tuv>
-      <tuv lang="BE"><seg>#Камуністычны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Комсомольская</seg></tuv>
@@ -65,7 +61,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Октябрьский</seg></tuv>

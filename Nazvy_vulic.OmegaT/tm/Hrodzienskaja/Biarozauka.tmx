@@ -16,6 +16,10 @@
       <tuv lang="BE"><seg>#Горкага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Демещенка</seg></tuv>
+      <tuv lang="BE"><seg>#Дзямешчанкі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Дзержинского</seg></tuv>
       <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
     </tu>
@@ -56,6 +60,10 @@
       <tuv lang="BE"><seg>#Чырвонаармейская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Левобережная</seg></tuv>
+      <tuv lang="BE"><seg>#Левабярэжная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Ленина</seg></tuv>
       <tuv lang="BE"><seg>#Леніна</seg></tuv>
     </tu>
@@ -77,11 +85,11 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжный</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжны</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Нёманская</seg></tuv>

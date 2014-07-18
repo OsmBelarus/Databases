@@ -5,7 +5,7 @@
   <body>
     <tu>
       <tuv lang="RU"><seg>50 лет Октября</seg></tuv>
-      <tuv lang="BE"><seg>#50 год Кастрычніка</seg></tuv>
+      <tuv lang="BE"><seg>#50 гадоў Кастрычніка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>8 Марта</seg></tuv>
@@ -18,6 +18,10 @@
     <tu>
       <tuv lang="RU"><seg>Горовца</seg></tuv>
       <tuv lang="BE"><seg>#Гараўца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Горького</seg></tuv>
+      <tuv lang="BE"><seg>#Горкага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дзержинского</seg></tuv>
@@ -38,6 +42,10 @@
     <tu>
       <tuv lang="RU"><seg>Зелёная</seg></tuv>
       <tuv lang="BE"><seg>#Зялёная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Карла Маркса</seg></tuv>
+      <tuv lang="BE"><seg>#Карла Маркса</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Колхозная</seg></tuv>
@@ -76,8 +84,24 @@
       <tuv lang="BE"><seg>#Машэрава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Мелиораторов</seg></tuv>
+      <tuv lang="BE"><seg>#Меліяратараў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Молодёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Морозова</seg></tuv>
+      <tuv lang="BE"><seg>#Марозава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Некрасова</seg></tuv>
       <tuv lang="BE"><seg>#Някрасава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Октябрьский</seg></tuv>
+      <tuv lang="BE"><seg>#Кастрычніцкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Парковая</seg></tuv>
@@ -86,6 +110,10 @@
     <tu>
       <tuv lang="RU"><seg>Пионерская</seg></tuv>
       <tuv lang="BE"><seg>#Піянерская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пионерский</seg></tuv>
+      <tuv lang="BE"><seg>#Піянерскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Полевая</seg></tuv>
@@ -102,6 +130,10 @@
     <tu>
       <tuv lang="RU"><seg>Пролетарская</seg></tuv>
       <tuv lang="BE"><seg>#Пралетарская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Промышленный</seg></tuv>
+      <tuv lang="BE"><seg>#Прамысловы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пушкина</seg></tuv>
@@ -132,6 +164,14 @@
       <tuv lang="BE"><seg>#Сонечная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Солнечный</seg></tuv>
+      <tuv lang="BE"><seg>#Сонечны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сосновая</seg></tuv>
+      <tuv lang="BE"><seg>#Сасновая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Социалистическая</seg></tuv>
       <tuv lang="BE"><seg>#Сацыялістычная</seg></tuv>
     </tu>
@@ -152,12 +192,20 @@
       <tuv lang="BE"><seg>#Цяністы</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Франциска Скорины</seg></tuv>
+      <tuv lang="BE"><seg>#Франциска Скорыны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Фруктовая</seg></tuv>
       <tuv lang="BE"><seg>#Фруктовая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Фруктовый</seg></tuv>
       <tuv lang="BE"><seg>#Фруктовы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хованская</seg></tuv>
+      <tuv lang="BE"><seg>#Хаванская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Цветочная</seg></tuv>

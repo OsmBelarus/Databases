@@ -23,7 +23,7 @@ msgstr ""
 msgid "Беловежская"
 msgstr ""
 
-# Objects : [w52132705, w93403900]
+# Objects : [w93403900]
 # Names: [Брестская улица]
 msgid "Брестская"
 msgstr ""
@@ -43,28 +43,29 @@ msgstr ""
 msgid "Горького"
 msgstr ""
 
-# Objects : [w93052196, w93052197]
+# Objects : [w55633775, w93052196, w93052197]
 # Names: [улица Дзержинского]
 msgid "Дзержинского"
 msgstr ""
 
 # Objects : [w101155459, w124200133]
-# Names: [ул. Дмитрука, улица Дмитрука]
+# Names: [улица Дмитрука]
 msgid "Дмитрука"
+msgstr ""
 
 # Objects : [w52132922]
 # Names: [улица Зои Космодемьянской]
 msgid "Зои Космодемьянской"
 msgstr ""
 
-# Objects : [w52173534]
-# Names: [улица Кижеватова]
-msgid "Кижеватова"
-msgstr ""
+# Objects : [w290230626]
+# Names: [Индустриальная]
+msgid "Индустриальная"
 
 # Objects : [w52132924]
 # Names: [улица Кузько]
 msgid "Кузько"
+msgstr ""
 
 # Objects : [w52133719]
 # Names: [улица Леваневского]
@@ -101,12 +102,14 @@ msgid "Панфиловцев"
 msgstr ""
 
 # Objects : [w52131053, w52131057]
-# Names: [ул. Пекарского]
+# Names: [улица Пекарского]
 msgid "Пекарского"
+msgstr ""
 
 # Objects : [w52174927]
 # Names: [улица Пивненко]
 msgid "Пивненко"
+msgstr ""
 
 # Objects : [w53345801]
 # Names: [Пионерская улица]
@@ -121,19 +124,26 @@ msgstr ""
 # Objects : [w52131052]
 # Names: [Подречная улица]
 msgid "Подречная"
+msgstr ""
 
 # Objects : [w52131055]
-# Names: [Подречный пер.]
+# Names: [Подречный переулок]
 msgid "Подречный"
+msgstr ""
 
 # Objects : [w52132921]
 # Names: [Советская улица]
 msgid "Советская"
 msgstr ""
 
+# Objects : [w184447770]
+# Names: [переулок Узкий]
+msgid "Узкий"
+
 # Objects : [w52134148]
 # Names: [улица Хохрякова]
 msgid "Хохрякова"
+msgstr ""
 
 # Objects : [w184269126]
 # Names: [улица Чкалова]

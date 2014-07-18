@@ -17,7 +17,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Верхнедвинская</seg></tuv>
-      <tuv lang="BE"><seg>#Верхнедзвінская</seg></tuv>
+      <tuv lang="BE"><seg>#Верхнядзвінская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Весенняя</seg></tuv>
@@ -49,7 +49,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Егора Томко</seg></tuv>
-      <tuv lang="BE"><seg>#Егора Томко</seg></tuv>
+      <tuv lang="BE"><seg>#Ягора Тамко</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ермака</seg></tuv>
@@ -133,7 +133,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Набережный</seg></tuv>
@@ -202,6 +202,10 @@
     <tu>
       <tuv lang="RU"><seg>Фрунзе</seg></tuv>
       <tuv lang="BE"><seg>#Фрунзэ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Цветаевой</seg></tuv>
+      <tuv lang="BE"><seg>#Цвятаевай</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Цветочная</seg></tuv>

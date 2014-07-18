@@ -1,13 +1,18 @@
-# Objects : [w81543581, w110646050]
-# Names: [Алешкевича пер., Алешкевича ул.]
+# Objects : [w81543581]
+# Names: [улица Алешкевича]
 msgid "Алешкевича"
+msgstr ""
+
+# Objects : [w81543569]
+# Names: [Афанасевича   ул.]
+msgid "Афанасевича"
 
 # Objects : [w81543545]
 # Names: [Весёлая улица]
 msgid "Весёлая"
 msgstr ""
 
-# Objects : [w81543592, w208071937]
+# Objects : [w208071937]
 # Names: [улица Горького]
 msgid "Горького"
 msgstr ""
@@ -15,6 +20,7 @@ msgstr ""
 # Objects : [w81543481]
 # Names: [улица Дзержинского]
 msgid "Дзержинского"
+msgstr ""
 
 # Objects : [w81543524]
 # Names: [Зелёная улица]
@@ -39,6 +45,7 @@ msgstr ""
 # Objects : [w81543579]
 # Names: [улица Карканицы]
 msgid "Карканицы"
+msgstr ""
 
 # Objects : [w81543522, w81543594]
 # Names: [переулок Карла Маркса, улица Карла Маркса]
@@ -73,6 +80,7 @@ msgstr ""
 # Objects : [w81543557]
 # Names: [2-й Красноармейский переулок]
 msgid "Красноармейский"
+msgstr ""
 
 # Objects : [w81543517]
 # Names: [улица Крупской]
@@ -95,10 +103,11 @@ msgid "Минская"
 msgstr ""
 
 # Objects : [w81545097]
-# Names: [Мультана ул.]
+# Names: [улица Мультана]
 msgid "Мультана"
+msgstr ""
 
-# Objects : [w81543538]
+# Objects : [w81543538, w264959577]
 # Names: [Набережная улица]
 msgid "Набережная"
 
@@ -110,6 +119,7 @@ msgstr ""
 # Objects : [w81543556]
 # Names: [Новобазарная улица]
 msgid "Новобазарная"
+msgstr ""
 
 # Objects : [w81543509]
 # Names: [Озёрная улица]
@@ -126,9 +136,10 @@ msgstr ""
 msgid "Пионерская"
 msgstr ""
 
-# Objects : [w81543554]
+# Objects : [w81543554, w275127576]
 # Names: [улица Победы]
 msgid "Победы"
+msgstr ""
 
 # Objects : [w81543535]
 # Names: [Полевая улица]
@@ -155,13 +166,19 @@ msgstr ""
 msgid "Соколовского"
 msgstr ""
 
-# Objects : [w25258736]
+# Objects : [w25258736, w264959594]
 # Names: [улица Ульянова]
 msgid "Ульянова"
+msgstr ""
+
+# Objects : [w81543503]
+# Names: [Фрунзе   улица]
+msgid "Фрунзе"
 
 # Objects : [w173288846]
 # Names: [улица Хонинова]
 msgid "Хонинова"
+msgstr ""
 
 # Objects : [w81543494]
 # Names: [Школьная улица]

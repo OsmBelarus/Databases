@@ -12,6 +12,14 @@
       <tuv lang="BE"><seg>#9 Мая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Акинчица</seg></tuv>
+      <tuv lang="BE"><seg>#Акінчыца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бернадского</seg></tuv>
+      <tuv lang="BE"><seg>#Бярнадзкага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Богушевича</seg></tuv>
       <tuv lang="BE"><seg>#Багушэвіча</seg></tuv>
     </tu>
@@ -30,6 +38,10 @@
     <tu>
       <tuv lang="RU"><seg>Дзержинского</seg></tuv>
       <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ельская</seg></tuv>
+      <tuv lang="BE"><seg>#Ельская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Есенина</seg></tuv>
@@ -74,6 +86,14 @@
     <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
       <tuv lang="BE"><seg>#Кірава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Козинцева</seg></tuv>
+      <tuv lang="BE"><seg>#Козінцава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Колбасина</seg></tuv>
+      <tuv lang="BE"><seg>#Каўбасіна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Колхозная</seg></tuv>
@@ -128,6 +148,10 @@
       <tuv lang="BE"><seg>#Лугавая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Матюшенко</seg></tuv>
+      <tuv lang="BE"><seg>#Мацюшэнкі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Маяковского</seg></tuv>
       <tuv lang="BE"><seg>#Маякоўскага</seg></tuv>
     </tu>
@@ -145,7 +169,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Московская</seg></tuv>
@@ -158,6 +182,10 @@
     <tu>
       <tuv lang="RU"><seg>Октябрьская</seg></tuv>
       <tuv lang="BE"><seg>#Кастрычніцкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Олега Кошевого</seg></tuv>
+      <tuv lang="BE"><seg>#Алега Кашавога</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Островского</seg></tuv>
@@ -220,6 +248,10 @@
       <tuv lang="BE"><seg>#Тургенева</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Турика</seg></tuv>
+      <tuv lang="BE"><seg>#Турыка</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Физкультурная</seg></tuv>
       <tuv lang="BE"><seg>#Фізкультурная</seg></tuv>
     </tu>
@@ -254,6 +286,10 @@
     <tu>
       <tuv lang="RU"><seg>Якуба Коласа</seg></tuv>
       <tuv lang="BE"><seg>#Якуба Коласа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Яна Налепки</seg></tuv>
+      <tuv lang="BE"><seg>#Яна Налепкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Янки Купалы</seg></tuv>

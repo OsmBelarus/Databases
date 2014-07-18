@@ -93,7 +93,7 @@ msgstr ""
 msgid "Каштановая"
 msgstr ""
 
-# Objects : [w35311507, w35428924]
+# Objects : [w35311507, w35428924, w269839264]
 # Names: [улица Кирова]
 msgid "Кирова"
 msgstr ""
@@ -255,6 +255,7 @@ msgstr ""
 # Objects : [w142303385]
 # Names: [улица Цветаевой]
 msgid "Цветаевой"
+msgstr ""
 
 # Objects : [w250771376]
 # Names: [Цветочная улица]

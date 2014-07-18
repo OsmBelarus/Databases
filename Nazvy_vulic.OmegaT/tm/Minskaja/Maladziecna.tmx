@@ -48,6 +48,10 @@
       <tuv lang="BE"><seg>#Галіцкага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Гидротехников</seg></tuv>
+      <tuv lang="BE"><seg>#Гідратэхнікаў</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Гоголя</seg></tuv>
       <tuv lang="BE"><seg>#Гогаля</seg></tuv>
     </tu>
@@ -70,6 +74,10 @@
     <tu>
       <tuv lang="RU"><seg>Заречная</seg></tuv>
       <tuv lang="BE"><seg>#Зарэчная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Заславская</seg></tuv>
+      <tuv lang="BE"><seg>#Заслаўская вулiца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заслонова</seg></tuv>
@@ -97,7 +105,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Коммунальный</seg></tuv>
-      <tuv lang="BE"><seg>#3-i Камунальны</seg></tuv>
+      <tuv lang="BE"><seg>#Камунальны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Константина Острожского</seg></tuv>
@@ -106,6 +114,10 @@
     <tu>
       <tuv lang="RU"><seg>Космонавтов</seg></tuv>
       <tuv lang="BE"><seg>#Касманаўтаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Красненский</seg></tuv>
+      <tuv lang="BE"><seg>#Красненскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Криничная</seg></tuv>
@@ -273,11 +285,11 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Промысловый</seg></tuv>
-      <tuv lang="BE"><seg>#2-i Прамысловы</seg></tuv>
+      <tuv lang="BE"><seg>#Прамысловы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пушкина</seg></tuv>
-      <tuv lang="BE"><seg>#Пушкiна</seg></tuv>
+      <tuv lang="BE"><seg>#Пушкiна#Пушкіна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Рабочая</seg></tuv>
@@ -296,12 +308,20 @@
       <tuv lang="BE"><seg>#Рачная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Речной</seg></tuv>
+      <tuv lang="BE"><seg>#Рачны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Садовая</seg></tuv>
       <tuv lang="BE"><seg>#Садовая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Северная</seg></tuv>
       <tuv lang="BE"><seg>#Паўночная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Семинарийский</seg></tuv>
+      <tuv lang="BE"><seg>#Семінарыйскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Скорины</seg></tuv>
@@ -322,6 +342,10 @@
     <tu>
       <tuv lang="RU"><seg>Сухая</seg></tuv>
       <tuv lang="BE"><seg>#Сухая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сухой</seg></tuv>
+      <tuv lang="BE"><seg>#Сухі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Тавлая</seg></tuv>

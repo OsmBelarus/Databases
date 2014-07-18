@@ -27,7 +27,7 @@ msgstr ""
 msgid "Дружный"
 msgstr ""
 
-# Objects : [w25307916, w129115640, w141910877]
+# Objects : [w25307916]
 # Names: [Железнодорожная улица]
 msgid "Железнодорожная"
 msgstr ""

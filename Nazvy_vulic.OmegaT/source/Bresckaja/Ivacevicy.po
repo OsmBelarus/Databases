@@ -13,17 +13,26 @@ msgstr ""
 msgid "Загородная"
 msgstr ""
 
+# Objects : [w45653858]
+# Names: [Западная улица]
+msgid "Западная"
+msgstr ""
+
 # Objects : [w45653840]
 # Names: [Интернациональная улица]
 msgid "Интернациональная"
 msgstr ""
+
+# Objects : [w274243723]
+# Names: [Улица Максима Танка]
+msgid "Максима Танка"
 
 # Objects : [w43720262]
 # Names: [улица Механизаторов]
 msgid "Механизаторов"
 msgstr ""
 
-# Objects : [w251068230]
+# Objects : [w274243732]
 # Names: [улица Мира]
 msgid "Мира"
 msgstr ""

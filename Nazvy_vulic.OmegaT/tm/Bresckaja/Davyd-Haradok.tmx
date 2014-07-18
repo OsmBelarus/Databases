@@ -8,12 +8,20 @@
       <tuv lang="BE"><seg>#Гагарына</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Гольцова</seg></tuv>
+      <tuv lang="BE"><seg>#Гальцова</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Горького</seg></tuv>
       <tuv lang="BE"><seg>#Горкага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Димитрова</seg></tuv>
       <tuv lang="BE"><seg>#Дзімітрава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Днепропетровская</seg></tuv>
+      <tuv lang="BE"><seg>#Дняпроўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Жукова</seg></tuv>
@@ -24,7 +32,11 @@
       <tuv lang="BE"><seg>#Заводская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>имени Калинина</seg></tuv>
+      <tuv lang="RU"><seg>Ищенко</seg></tuv>
+      <tuv lang="BE"><seg>#Ішчанкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Калинина</seg></tuv>
       <tuv lang="BE"><seg>#імя Калініна</seg></tuv>
     </tu>
     <tu>
@@ -44,12 +56,20 @@
       <tuv lang="BE"><seg>#Чырвоная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Лучниковская</seg></tuv>
+      <tuv lang="BE"><seg>#Лучнікаўская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Мясникова</seg></tuv>
       <tuv lang="BE"><seg>#Мяснікова</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Николаева</seg></tuv>
       <tuv lang="BE"><seg>#Мікалаева</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новогорынская</seg></tuv>
+      <tuv lang="BE"><seg>#Новагарынская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Островского</seg></tuv>
@@ -84,8 +104,16 @@
       <tuv lang="BE"><seg>#Сонечная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Старогорынский</seg></tuv>
+      <tuv lang="BE"><seg>#Старагарынскі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Толстого</seg></tuv>
       <tuv lang="BE"><seg>#Талстога</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Третья</seg></tuv>
+      <tuv lang="BE"><seg>#Трэцяя</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Харьковская</seg></tuv>
@@ -100,7 +128,15 @@
       <tuv lang="BE"><seg>#Школьная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Энергетическая</seg></tuv>
+      <tuv lang="BE"><seg>#Энэргетычная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Юбилейная</seg></tuv>
       <tuv lang="BE"><seg>#Юбілейная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юхневича</seg></tuv>
+      <tuv lang="BE"><seg>#Юхневіча</seg></tuv>
     </tu>
   </body></tmx>

@@ -64,7 +64,7 @@ msgid "Ватутина"
 msgstr ""
 
 # Objects : [w219366447]
-# Names: [Вишневая улица]
+# Names: [Вишнёвая улица]
 msgid "Вишнёвая"
 msgstr ""
 
@@ -138,11 +138,6 @@ msgstr ""
 msgid "Декабристов"
 msgstr ""
 
-# Objects : [w103184481]
-# Names: [улица Демьянковская]
-msgid "Демьянковская"
-msgstr ""
-
 # Objects : [w75921216, w99863175, w103184476, w241074703]
 # Names: [улица Дзержинского]
 msgid "Дзержинского"
@@ -156,11 +151,6 @@ msgstr ""
 # Objects : [w107175199, w241218924]
 # Names: [переулок Добролюбова, улица Добролюбова]
 msgid "Добролюбова"
-msgstr ""
-
-# Objects : [w169837044]
-# Names: [улица Докучаева]
-msgid "Докучаева"
 msgstr ""
 
 # Objects : [w98105314]
@@ -457,7 +447,7 @@ msgstr ""
 msgid "Победы"
 msgstr ""
 
-# Objects : [w95777562, w101355730]
+# Objects : [w95777562, w101355730, w168844784]
 # Names: [Полевая улица]
 msgid "Полевая"
 msgstr ""
@@ -650,11 +640,6 @@ msgstr ""
 # Objects : [w95686400]
 # Names: [улица Энгельса]
 msgid "Энгельса"
-msgstr ""
-
-# Objects : [w264431643]
-# Names: [улица Южная]
-msgid "Южная"
 msgstr ""
 
 # Objects : [w75921239]

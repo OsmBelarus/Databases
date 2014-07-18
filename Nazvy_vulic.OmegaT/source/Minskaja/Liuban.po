@@ -6,18 +6,22 @@ msgstr ""
 # Objects : [w217468608]
 # Names: [Аэродромная улица]
 msgid "Аэродромная"
+msgstr ""
 
 # Objects : [w105742895]
 # Names: [улица Брагина]
 msgid "Брагина"
+msgstr ""
 
 # Objects : [w217468609]
-# Names: [Вишневый переулок]
+# Names: [Вишнёвый переулок]
 msgid "Вишнёвый"
+msgstr ""
 
 # Objects : [w43991761]
 # Names: [улица Гагарина]
 msgid "Гагарина"
+msgstr ""
 
 # Objects : [w105742904]
 # Names: [улица Гоголя]
@@ -27,14 +31,17 @@ msgstr ""
 # Objects : [w91989102]
 # Names: [улица Горького]
 msgid "Горького"
+msgstr ""
 
 # Objects : [w106234156]
 # Names: [улица Ершова]
 msgid "Ершова"
+msgstr ""
 
 # Objects : [w145557563, w146386568, w146386569]
 # Names: [Интернациональная улица]
 msgid "Интернациональная"
+msgstr ""
 
 # Objects : [w91989110]
 # Names: [улица Калинина]
@@ -49,30 +56,37 @@ msgstr ""
 # Objects : [w91989175]
 # Names: [Луговая улица]
 msgid "Луговая"
+msgstr ""
 
 # Objects : [w91989140, w91989169]
-# Names: [Луферова ул.]
+# Names: [улица Луферова]
 msgid "Луферова"
+msgstr ""
 
 # Objects : [w217468686]
-# Names: [Лыщени улица]
+# Names: [улица Лыщени]
 msgid "Лыщени"
+msgstr ""
 
 # Objects : [w91989096, w154390531]
 # Names: [улица Мира]
 msgid "Мира"
+msgstr ""
 
 # Objects : [w106234157]
 # Names: [Молодёжная улица]
 msgid "Молодёжная"
+msgstr ""
 
 # Objects : [w91989112]
 # Names: [Октябрьская улица]
 msgid "Октябрьская"
+msgstr ""
 
 # Objects : [w91989120]
 # Names: [Октябрьский переулок]
 msgid "Октябрьский"
+msgstr ""
 
 # Objects : [w91989111, w144313592, w217468711]
 # Names: [Первомайская улица]
@@ -87,6 +101,7 @@ msgstr ""
 # Objects : [w154118959]
 # Names: [Пролетарский переулок]
 msgid "Пролетарский"
+msgstr ""
 
 # Objects : [w105742910]
 # Names: [улица Пушкина]
@@ -101,13 +116,15 @@ msgstr ""
 # Objects : [w106234176]
 # Names: [Солнечная улица]
 msgid "Солнечная"
+msgstr ""
 
 # Objects : [w217468611]
 # Names: [Тихая улица]
 msgid "Тихая"
+msgstr ""
 
 # Objects : [w105742909, w151324074]
-# Names: [улица Я. Купалы]
+# Names: [улица Янки Купалы]
 msgid "Янки Купалы"
 msgstr ""
 

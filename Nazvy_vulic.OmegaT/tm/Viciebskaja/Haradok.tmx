@@ -12,6 +12,10 @@
       <tuv lang="BE"><seg>#70 год Кастрычніка</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Агроснабовская</seg></tuv>
+      <tuv lang="BE"><seg>#Аграснабаўская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Баграмяна</seg></tuv>
       <tuv lang="BE"><seg>#Баграмяна</seg></tuv>
     </tu>
@@ -169,11 +173,11 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжный</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжны</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Набережный</seg></tuv>

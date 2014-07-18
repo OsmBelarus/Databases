@@ -9,11 +9,11 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>40 лет БССР</seg></tuv>
-      <tuv lang="BE"><seg>#40 год БССР</seg></tuv>
+      <tuv lang="BE"><seg>#40 гадоў БССР</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>70 лет Октября</seg></tuv>
-      <tuv lang="BE"><seg>#70 год Кастрычнiка</seg></tuv>
+      <tuv lang="BE"><seg>#70 гадоў Кастрычніка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>9 Мая</seg></tuv>
@@ -44,12 +44,16 @@
       <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Дмитрука</seg></tuv>
+      <tuv lang="BE"><seg>#Дзмітрука</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Зои Космодемьянской</seg></tuv>
       <tuv lang="BE"><seg>#Зоі Касмадзям’янскай</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Кижеватова</seg></tuv>
-      <tuv lang="BE"><seg>#Кіжаватава</seg></tuv>
+      <tuv lang="RU"><seg>Кузько</seg></tuv>
+      <tuv lang="BE"><seg>#Кузько</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Леваневского</seg></tuv>
@@ -76,6 +80,14 @@
       <tuv lang="BE"><seg>#Панфілаўцаў</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Пекарского</seg></tuv>
+      <tuv lang="BE"><seg>#Пякарскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пивненко</seg></tuv>
+      <tuv lang="BE"><seg>#Піўненкі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Пионерская</seg></tuv>
       <tuv lang="BE"><seg>#Піянерская</seg></tuv>
     </tu>
@@ -84,8 +96,20 @@
       <tuv lang="BE"><seg>#Памежная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Подречная</seg></tuv>
+      <tuv lang="BE"><seg>#Падрэчная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Подречный</seg></tuv>
+      <tuv lang="BE"><seg>#Падрэчны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>
       <tuv lang="BE"><seg>#Савецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хохрякова</seg></tuv>
+      <tuv lang="BE"><seg>#Хахракова</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чкалова</seg></tuv>

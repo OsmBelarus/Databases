@@ -13,7 +13,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Андровский</seg></tuv>
-      <tuv lang="BE"><seg>#Адроўскі</seg></tuv>
+      <tuv lang="BE"><seg>#Андроўскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гагарина</seg></tuv>
@@ -68,6 +68,10 @@
       <tuv lang="BE"><seg>#Крынічны</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Кружная</seg></tuv>
+      <tuv lang="BE"><seg>#Кружная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Лесная</seg></tuv>
       <tuv lang="BE"><seg>#Лясная</seg></tuv>
     </tu>
@@ -81,7 +85,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Набережный</seg></tuv>
@@ -142,6 +146,10 @@
     <tu>
       <tuv lang="RU"><seg>Северная</seg></tuv>
       <tuv lang="BE"><seg>#Паўночная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Селищанский</seg></tuv>
+      <tuv lang="BE"><seg>#Селішчанскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>

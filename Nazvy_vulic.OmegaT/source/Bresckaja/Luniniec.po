@@ -41,6 +41,7 @@ msgstr ""
 # Objects : [w79740548]
 # Names: [улица Бохоново]
 msgid "Бохоново"
+msgstr ""
 
 # Objects : [w51362264]
 # Names: [Виленская улица]
@@ -110,14 +111,17 @@ msgstr ""
 # Objects : [w222971557]
 # Names: [Залесская улица]
 msgid "Залесская"
+msgstr ""
 
 # Objects : [w222971561]
-# Names: [1-й Залесский пер.]
+# Names: [1-й Залесский переулок]
 msgid "Залесский"
+msgstr ""
 
 # Objects : [w223824737]
 # Names: [улица Ильина]
 msgid "Ильина"
+msgstr ""
 
 # Objects : [w222872162]
 # Names: [улица Коржа]
@@ -135,8 +139,9 @@ msgid "Красноармейская"
 msgstr ""
 
 # Objects : [w223633642]
-# Names: [Кузюбердина ул.]
+# Names: [улица Кузюбердина]
 msgid "Кузюбердина"
+msgstr ""
 
 # Objects : [w223633650]
 # Names: [улица Кулешова]
@@ -144,8 +149,9 @@ msgid "Кулешова"
 msgstr ""
 
 # Objects : [w222858162]
-# Names: [Лаховская ул.]
+# Names: [Лаховская улица]
 msgid "Лаховская"
+msgstr ""
 
 # Objects : [w132913943]
 # Names: [Лесная улица]
@@ -193,8 +199,9 @@ msgid "Мозырский"
 msgstr ""
 
 # Objects : [w80216888]
-# Names: [Мокрый пер.]
+# Names: [Мокрый переулок]
 msgid "Мокрый"
+msgstr ""
 
 # Objects : [w132907923]
 # Names: [Московская улица]
@@ -212,16 +219,19 @@ msgid "Новая"
 msgstr ""
 
 # Objects : [w223633641, w223633644]
-# Names: [П. Бровки ул.]
+# Names: [улица П. Бровки]
 msgid "П. Бровки"
+msgstr ""
 
 # Objects : [w222839680]
 # Names: [улица Пантелеева]
 msgid "Пантелеева"
+msgstr ""
 
 # Objects : [w222971556]
-# Names: [Петрушевского пер.]
+# Names: [переулок Петрушевского]
 msgid "Петрушевского"
+msgstr ""
 
 # Objects : [w132907932]
 # Names: [Пинская улица]
@@ -238,9 +248,14 @@ msgstr ""
 msgid "Победы"
 msgstr ""
 
+# Objects : [w288567386]
+# Names: [Привокзальная улица]
+msgid "Привокзальная"
+
 # Objects : [w132916582]
-# Names: [Припятская ул.]
+# Names: [Припятская улица]
 msgid "Припятская"
+msgstr ""
 
 # Objects : [w222971555]
 # Names: [улица Пушкина]
@@ -248,8 +263,9 @@ msgid "Пушкина"
 msgstr ""
 
 # Objects : [w51362253, w223633647]
-# Names: [Пятери пер., Пятери ул.]
+# Names: [переулок Пятери, улица Пятери]
 msgid "Пятери"
+msgstr ""
 
 # Objects : [w223633652]
 # Names: [Рябиновая улица]
@@ -259,6 +275,7 @@ msgstr ""
 # Objects : [w223824734]
 # Names: [улица Савицкого]
 msgid "Савицкого"
+msgstr ""
 
 # Objects : [w132916583]
 # Names: [улица Скорины]
@@ -283,6 +300,7 @@ msgstr ""
 # Objects : [w132907925]
 # Names: [улица Таганова]
 msgid "Таганова"
+msgstr ""
 
 # Objects : [w51362261]
 # Names: [Фабричная улица]
@@ -310,10 +328,12 @@ msgid "Чехова"
 msgstr ""
 
 # Objects : [w222971558]
-# Names: [Шмыглова ул.]
+# Names: [улица Шмыглова]
 msgid "Шмыглова"
+msgstr ""
 
 # Objects : [w223633646, w223633648]
 # Names: [переулок Юности, улица Юности]
 msgid "Юности"
+msgstr ""
 

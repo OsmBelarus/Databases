@@ -4,12 +4,20 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>Алешкевича</seg></tuv>
+      <tuv lang="BE"><seg>#Аляшкевіча</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Весёлая</seg></tuv>
       <tuv lang="BE"><seg>#Вясёлая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Горького</seg></tuv>
       <tuv lang="BE"><seg>#Горкага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дзержинского</seg></tuv>
+      <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Зелёная</seg></tuv>
@@ -26,6 +34,10 @@
     <tu>
       <tuv lang="RU"><seg>Калинина</seg></tuv>
       <tuv lang="BE"><seg>#Калініна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Карканицы</seg></tuv>
+      <tuv lang="BE"><seg>#Карканіцы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Карла Маркса</seg></tuv>
@@ -52,6 +64,10 @@
       <tuv lang="BE"><seg>#Чырвонаармейская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Красноармейский</seg></tuv>
+      <tuv lang="BE"><seg>#Чырвонаармейскі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Крупской</seg></tuv>
       <tuv lang="BE"><seg>#Крупскай</seg></tuv>
     </tu>
@@ -68,8 +84,16 @@
       <tuv lang="BE"><seg>#Мінская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Мультана</seg></tuv>
+      <tuv lang="BE"><seg>#Мультана</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Нагорная</seg></tuv>
       <tuv lang="BE"><seg>#Нагорная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новобазарная</seg></tuv>
+      <tuv lang="BE"><seg>#Новабазарная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Озёрная</seg></tuv>
@@ -82,6 +106,10 @@
     <tu>
       <tuv lang="RU"><seg>Пионерская</seg></tuv>
       <tuv lang="BE"><seg>#Піянерская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Победы</seg></tuv>
+      <tuv lang="BE"><seg>#Перамогі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Полевая</seg></tuv>
@@ -101,7 +129,15 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Соколовского</seg></tuv>
-      <tuv lang="BE"><seg>#Сакалоўскаго</seg></tuv>
+      <tuv lang="BE"><seg>#Сакалоўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ульянова</seg></tuv>
+      <tuv lang="BE"><seg>#Ульянава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хонинова</seg></tuv>
+      <tuv lang="BE"><seg>#Ханінава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Школьная</seg></tuv>

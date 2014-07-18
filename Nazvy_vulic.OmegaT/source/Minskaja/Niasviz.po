@@ -67,7 +67,7 @@ msgstr ""
 msgid "Некрасова"
 msgstr ""
 
-# Objects : [w232959045]
+# Objects : [w232959045, w281396688, w281396689]
 # Names: [Новая улица]
 msgid "Новая"
 msgstr ""

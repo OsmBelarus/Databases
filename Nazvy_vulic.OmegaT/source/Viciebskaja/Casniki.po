@@ -1,6 +1,7 @@
 # Objects : [w172282947]
 # Names: [Базарный переулок]
 msgid "Базарный"
+msgstr ""
 
 # Objects : [w157658549]
 # Names: [Вишнёвая улица]
@@ -25,10 +26,12 @@ msgstr ""
 # Objects : [w176355597]
 # Names: [улица Дубровского]
 msgid "Дубровского"
+msgstr ""
 
 # Objects : [w157659255]
 # Names: [улица Журбы]
 msgid "Журбы"
+msgstr ""
 
 # Objects : [w77697618]
 # Names: [Западная улица]
@@ -85,7 +88,7 @@ msgstr ""
 msgid "Красноармейский"
 msgstr ""
 
-# Objects : [w176297390]
+# Objects : [w32046629, w176297390]
 # Names: [Ленинская улица]
 msgid "Ленинская"
 msgstr ""
@@ -98,6 +101,7 @@ msgstr ""
 # Objects : [w157659264]
 # Names: [ул. Лобонка]
 msgid "Лобонка"
+msgstr ""
 
 # Objects : [w172282965]
 # Names: [Луговая улица]
@@ -105,12 +109,14 @@ msgid "Луговая"
 msgstr ""
 
 # Objects : [w157659265]
-# Names: [Лукомльская ул.]
+# Names: [Лукомльская улица]
 msgid "Лукомльская"
+msgstr ""
 
 # Objects : [w157659268]
-# Names: [Лукомльский пер.]
+# Names: [Лукомльский переулок]
 msgid "Лукомльский"
+msgstr ""
 
 # Objects : [w172282966]
 # Names: [Мелиоративная улица]
@@ -132,7 +138,7 @@ msgstr ""
 msgid "Минская"
 msgstr ""
 
-# Objects : [w157658548]
+# Objects : [w157658548, w273448408]
 # Names: [переулок Мира]
 msgid "Мира"
 msgstr ""
@@ -211,7 +217,7 @@ msgstr ""
 msgid "Рябиновая"
 msgstr ""
 
-# Objects : [w172282970]
+# Objects : [w172282970, w273448390]
 # Names: [Садовая улица]
 msgid "Садовая"
 msgstr ""
@@ -279,6 +285,7 @@ msgstr ""
 # Objects : [w40558391, w164588459, w192902247]
 # Names: [улица Чепика]
 msgid "Чепика"
+msgstr ""
 
 # Objects : [w157659303]
 # Names: [Юбилейная улица]

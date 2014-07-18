@@ -4,6 +4,10 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>Вальная</seg></tuv>
+      <tuv lang="BE"><seg>#Вальная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Заводская</seg></tuv>
       <tuv lang="BE"><seg>#Заводская</seg></tuv>
     </tu>
@@ -33,11 +37,15 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжный</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжны</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Озмителя</seg></tuv>
+      <tuv lang="BE"><seg>#Азміцеля</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Панчука</seg></tuv>
@@ -62,10 +70,6 @@
     <tu>
       <tuv lang="RU"><seg>Сосновый</seg></tuv>
       <tuv lang="BE"><seg>#Сасновы</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Строительная</seg></tuv>
-      <tuv lang="BE"><seg>#Будаўнічая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Цветочная</seg></tuv>

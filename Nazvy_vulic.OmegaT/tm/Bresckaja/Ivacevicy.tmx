@@ -16,6 +16,10 @@
       <tuv lang="BE"><seg>#Загарадная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Западная</seg></tuv>
+      <tuv lang="BE"><seg>#Заходняя</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Интернациональная</seg></tuv>
       <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
     </tu>

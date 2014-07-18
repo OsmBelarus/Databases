@@ -20,7 +20,7 @@
       <tuv lang="BE"><seg>#Грыгаровіча</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Дзержинского</seg></tuv>
+      <tuv lang="RU"><seg>Держинского</seg></tuv>
       <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
     </tu>
     <tu>
@@ -56,6 +56,10 @@
       <tuv lang="BE"><seg>#Цагляная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Кобзуна</seg></tuv>
+      <tuv lang="BE"><seg>#Кобзуна</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Комсомольская</seg></tuv>
       <tuv lang="BE"><seg>#Камсамольская</seg></tuv>
     </tu>
@@ -70,6 +74,10 @@
     <tu>
       <tuv lang="RU"><seg>Космонавтов</seg></tuv>
       <tuv lang="BE"><seg>#Касманаўтаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кочкаря</seg></tuv>
+      <tuv lang="BE"><seg>#Кочкара</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ленинградская</seg></tuv>
@@ -97,7 +105,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Московского</seg></tuv>
@@ -106,6 +114,10 @@
     <tu>
       <tuv lang="RU"><seg>Октябрьская</seg></tuv>
       <tuv lang="BE"><seg>#Кастрычніцкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пантиелева</seg></tuv>
+      <tuv lang="BE"><seg>#Панцялеева</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Партизанская</seg></tuv>
@@ -162,6 +174,10 @@
     <tu>
       <tuv lang="RU"><seg>Садовый</seg></tuv>
       <tuv lang="BE"><seg>#Садовы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Себежский</seg></tuv>
+      <tuv lang="BE"><seg>#Себежскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Скорины</seg></tuv>

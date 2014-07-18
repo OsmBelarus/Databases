@@ -1,3 +1,7 @@
+# Objects : [w217925466, w217925471]
+# Names: [50 лет БССР]
+msgid "50 лет БССР"
+
 # Objects : [w217925469]
 # Names: [улица Абрамовича]
 msgid "Абрамовича"
@@ -6,6 +10,7 @@ msgstr ""
 # Objects : [w217925449]
 # Names: [Больничный переулок]
 msgid "Больничный"
+msgstr ""
 
 # Objects : [w217925476]
 # Names: [Вишнёвая улица]
@@ -27,7 +32,7 @@ msgstr ""
 msgid "Дорожная"
 msgstr ""
 
-# Objects : [w53679832]
+# Objects : [w53679832, w218168860]
 # Names: [улица Жилуновича]
 msgid "Жилуновича"
 msgstr ""
@@ -47,6 +52,10 @@ msgstr ""
 msgid "Заозёрная"
 msgstr ""
 
+# Objects : [w217925474]
+# Names: [Калиновского]
+msgid "Калиновского"
+
 # Objects : [w217925463]
 # Names: [Комсомольская улица]
 msgid "Комсомольская"
@@ -56,6 +65,10 @@ msgstr ""
 # Names: [Крыничная улица]
 msgid "Крыничная"
 msgstr ""
+
+# Objects : [w218168859]
+# Names: [площадь Ленина]
+msgid "Ленина"
 
 # Objects : [w217925436]
 # Names: [улица Максима Богдановича]
@@ -82,17 +95,25 @@ msgstr ""
 msgid "Пролетарская"
 msgstr ""
 
+# Objects : [w217925483]
+# Names: [Пушкина переулок]
+msgid "Пушкина"
+
 # Objects : [w125111504]
 # Names: [улица Ромашко]
 msgid "Ромашко"
 msgstr ""
+
+# Objects : [w217925480]
+# Names: [Светлая]
+msgid "Светлая"
 
 # Objects : [w217925453]
 # Names: [Северная улица]
 msgid "Северная"
 msgstr ""
 
-# Objects : [w217925471]
+# Objects : [w217925478]
 # Names: [улица Строителей]
 msgid "Строителей"
 msgstr ""

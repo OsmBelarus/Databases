@@ -81,7 +81,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кольцевая</seg></tuv>
-      <tuv lang="BE"><seg>#Кальцавая вулiца</seg></tuv>
+      <tuv lang="BE"><seg>#Кальцавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Комсомольская</seg></tuv>
@@ -117,7 +117,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новая</seg></tuv>
@@ -125,7 +125,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Овражная</seg></tuv>
-      <tuv lang="BE"><seg>#Яровая</seg></tuv>
+      <tuv lang="BE"><seg>#Яравая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Октябрьская</seg></tuv>
@@ -133,7 +133,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Парафьяновская</seg></tuv>
-      <tuv lang="BE"><seg>#Параф’янаўская</seg></tuv>
+      <tuv lang="BE"><seg>#Парафьянаўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Парковая</seg></tuv>
@@ -158,6 +158,14 @@
     <tu>
       <tuv lang="RU"><seg>Подгорный</seg></tuv>
       <tuv lang="BE"><seg>#Падгорны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Подомховская</seg></tuv>
+      <tuv lang="BE"><seg>#Падамхоўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Подомховский</seg></tuv>
+      <tuv lang="BE"><seg>#Падамхоўскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Полевая</seg></tuv>
@@ -189,7 +197,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Сельская</seg></tuv>
-      <tuv lang="BE"><seg>#Сельская</seg></tuv>
+      <tuv lang="BE"><seg>#Вясковая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Советский</seg></tuv>

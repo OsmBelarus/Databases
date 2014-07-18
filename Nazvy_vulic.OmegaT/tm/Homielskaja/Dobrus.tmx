@@ -9,7 +9,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>40 лет БССР</seg></tuv>
-      <tuv lang="BE"><seg>#40 год БССР</seg></tuv>
+      <tuv lang="BE"><seg>#40 гадоў БССР</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>50 лет Октября</seg></tuv>
@@ -17,7 +17,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>60 лет СССР</seg></tuv>
-      <tuv lang="BE"><seg>#60 год БССР</seg></tuv>
+      <tuv lang="BE"><seg>#60 гадоў СССР</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>9 Мая</seg></tuv>
@@ -65,7 +65,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Воинов-Интернационалистов</seg></tuv>
-      <tuv lang="BE"><seg>#Воінаў-Інтэрнацыяналістаў</seg></tuv>
+      <tuv lang="BE"><seg>#Вайскоўцаў-Інтэрнацыяналістаў</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Войкова</seg></tuv>
@@ -116,10 +116,6 @@
       <tuv lang="BE"><seg>#Дзекабрыстаў</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Демьянковская</seg></tuv>
-      <tuv lang="BE"><seg>#Дзям'янкаўская</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Дзержинского</seg></tuv>
       <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
     </tu>
@@ -130,10 +126,6 @@
     <tu>
       <tuv lang="RU"><seg>Добролюбова</seg></tuv>
       <tuv lang="BE"><seg>#Дабралюбава</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Докучаева</seg></tuv>
-      <tuv lang="BE"><seg>#Дакучаева</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дорожная</seg></tuv>
@@ -309,11 +301,11 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжный</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжны</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Московская</seg></tuv>
@@ -453,7 +445,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Торговая</seg></tuv>
-      <tuv lang="BE"><seg>#Тарговая</seg></tuv>
+      <tuv lang="BE"><seg>#Гандлёвая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Тургенева</seg></tuv>
@@ -522,10 +514,6 @@
     <tu>
       <tuv lang="RU"><seg>Энгельса</seg></tuv>
       <tuv lang="BE"><seg>#Энгельса</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Южная</seg></tuv>
-      <tuv lang="BE"><seg>#Паўднёвая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Якуба Коласа</seg></tuv>
