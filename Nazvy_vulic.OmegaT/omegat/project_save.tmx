@@ -432,8 +432,8 @@
       <tuv lang="RU">
         <seg>40 лет Победы</seg>
       </tuv>
-      <tuv lang="BE" changeid="Jim" changedate="20140224T162423Z" creationid="Jim" creationdate="20140224T162423Z">
-        <seg>40 гадоў Перамогі</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140718T094016Z" creationid="Jim" creationdate="20140224T162423Z">
+        <seg>н/40 гадоў Перамогі</seg>
       </tuv>
     </tu>
     <tu>
@@ -568,8 +568,8 @@
       <tuv lang="RU">
         <seg>55 лет Победы</seg>
       </tuv>
-      <tuv lang="BE" changeid="Jim" changedate="20140224T162435Z" creationid="Jim" creationdate="20140224T162435Z">
-        <seg>55 гадоў Перамогі</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140718T094017Z" creationid="Jim" creationdate="20140224T162435Z">
+        <seg>н/55 гадоў Перамогі</seg>
       </tuv>
     </tu>
     <tu>
@@ -3960,8 +3960,8 @@
       <tuv lang="RU">
         <seg>Братьев Цубы</seg>
       </tuv>
-      <tuv lang="BE" changeid="Jim" changedate="20140226T162301Z" creationid="Jim" creationdate="20140226T162301Z">
-        <seg>н/Братоў </seg>
+      <tuv lang="BE" changeid="alex" changedate="20140718T093230Z" creationid="Jim" creationdate="20140226T162301Z">
+        <seg>н/Братоў Цубаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -10872,8 +10872,8 @@
       <tuv lang="RU">
         <seg>Зерновая</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140715T134517Z" creationid="Jim" creationdate="20140224T161556Z">
-        <seg>пж/Зярнавая</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140718T091822Z" creationid="Jim" creationdate="20140224T161556Z">
+        <seg>пж/Збожжавая</seg>
       </tuv>
     </tu>
     <tu>
@@ -14736,8 +14736,8 @@
       <tuv lang="RU">
         <seg>Кремко</seg>
       </tuv>
-      <tuv lang="BE" changeid="Jim" changedate="20140401T171406Z" creationid="Jim" creationdate="20140401T171406Z">
-        <seg>н/Крэмко</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140718T091950Z" creationid="Jim" creationdate="20140401T171406Z">
+        <seg>н/Крамко</seg>
       </tuv>
     </tu>
     <tu>
@@ -31288,8 +31288,8 @@
       <tuv lang="RU">
         <seg>Франко</seg>
       </tuv>
-      <tuv lang="BE" changeid="Skajushka" changedate="20140226T085643Z" creationid="Skajushka" creationdate="20140226T085643Z">
-        <seg>н/Франкі</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140718T093213Z" creationid="Skajushka" creationdate="20140226T085643Z">
+        <seg>н/Франка</seg>
       </tuv>
     </tu>
     <tu>
@@ -31785,14 +31785,6 @@
         <seg>Холостякова</seg>
       </tuv>
       <tuv lang="BE" changeid="Jim" changedate="20140317T162534Z" creationid="Jim" creationdate="20140317T162534Z">
-        <seg>н/Халасцякова</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>Холстякова</seg>
-      </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140715T134444Z" creationid="Jim" creationdate="20140224T161254Z">
         <seg>н/Халасцякова</seg>
       </tuv>
     </tu>
