@@ -11,7 +11,7 @@ msgstr "н/1 Мая"
 # Objects : [w51561827]
 # Names: [улица XXII Съезда КПСС]
 msgid "XXII Съезда К П С С"
-msgstr "н/XXII З'езда КПСС"
+msgstr "н/XXII З’езда КПСС"
 
 # Objects : [w99199334]
 # Names: [улица Базановой]

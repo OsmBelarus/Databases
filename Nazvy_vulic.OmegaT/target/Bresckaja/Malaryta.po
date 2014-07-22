@@ -26,7 +26,7 @@ msgstr "н/Лермантава"
 # Objects : [w278275267]
 # Names: [улица Маруды]
 msgid "Маруды"
-msgstr ""
+msgstr "н/Маруды"
 
 # Objects : [w51781263]
 # Names: [улица Маяковского]
