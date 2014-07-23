@@ -4,6 +4,10 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>2-я Шестая Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Шостая Лінія</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>3 Сентября</seg></tuv>
       <tuv lang="BE"><seg>#3 Верасня</seg></tuv>
     </tu>
@@ -3854,10 +3858,6 @@
     <tu>
       <tuv lang="RU"><seg>Шейпичи</seg></tuv>
       <tuv lang="BE"><seg>#Шэйпічы</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Шестая Линия</seg></tuv>
-      <tuv lang="BE"><seg>#Шостая Лінія</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Широкая</seg></tuv>

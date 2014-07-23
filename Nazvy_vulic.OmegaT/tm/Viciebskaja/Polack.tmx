@@ -16,6 +16,10 @@
       <tuv lang="BE"><seg>#5 Снежня</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>6-й Гвардейской Армии</seg></tuv>
+      <tuv lang="BE"><seg>#Гвардзейскай Арміі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>8 Марта</seg></tuv>
       <tuv lang="BE"><seg>#8 Сакавіка</seg></tuv>
     </tu>
@@ -128,8 +132,8 @@
       <tuv lang="BE"><seg>#Галеркіна</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Гвардейской Армии</seg></tuv>
-      <tuv lang="BE"><seg>#Гвардзейскай Арміі</seg></tuv>
+      <tuv lang="RU"><seg>Гастелло</seg></tuv>
+      <tuv lang="BE"><seg>#Гастэлы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Горького</seg></tuv>
@@ -372,6 +376,10 @@
       <tuv lang="BE"><seg>#Матросава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Машерова</seg></tuv>
+      <tuv lang="BE"><seg>#Машэрава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Маяковского</seg></tuv>
       <tuv lang="BE"><seg>#Маякоўскага</seg></tuv>
     </tu>
@@ -580,6 +588,10 @@
       <tuv lang="BE"><seg>#Сяргея Лазо</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Серова</seg></tuv>
+      <tuv lang="BE"><seg>#Сярова</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Славенко</seg></tuv>
       <tuv lang="BE"><seg>#Славенкі</seg></tuv>
     </tu>
@@ -726,6 +738,10 @@
     <tu>
       <tuv lang="RU"><seg>Циолковского</seg></tuv>
       <tuv lang="BE"><seg>#Цыялкоўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чайко</seg></tuv>
+      <tuv lang="BE"><seg>#Чайко</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чапаева</seg></tuv>

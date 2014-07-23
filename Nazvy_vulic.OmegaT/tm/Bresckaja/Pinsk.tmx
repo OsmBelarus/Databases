@@ -321,7 +321,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Карьерная</seg></tuv>
-      <tuv lang="BE"><seg>#Кар'ерная</seg></tuv>
+      <tuv lang="BE"><seg>#Кар’ерная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Каштановая</seg></tuv>
@@ -362,6 +362,10 @@
     <tu>
       <tuv lang="RU"><seg>Козляковичская</seg></tuv>
       <tuv lang="BE"><seg>#Казляковіцкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Козубовского</seg></tuv>
+      <tuv lang="BE"><seg>#Казубоўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Коллективная</seg></tuv>

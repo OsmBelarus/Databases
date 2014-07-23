@@ -296,6 +296,10 @@
       <tuv lang="BE"><seg>#Мірны</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Молодёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Мопровская</seg></tuv>
       <tuv lang="BE"><seg>#Мопраўская</seg></tuv>
     </tu>
@@ -396,6 +400,10 @@
       <tuv lang="BE"><seg>#Радзішчава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Радужная</seg></tuv>
+      <tuv lang="BE"><seg>#Вясёлкавая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Ракитная</seg></tuv>
       <tuv lang="BE"><seg>#Ракітная</seg></tuv>
     </tu>
@@ -454,6 +462,10 @@
     <tu>
       <tuv lang="RU"><seg>Твардовского</seg></tuv>
       <tuv lang="BE"><seg>#Твардоўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Текстильшиков</seg></tuv>
+      <tuv lang="BE"><seg>#Тэкстыльшчыкаў</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Торговая</seg></tuv>

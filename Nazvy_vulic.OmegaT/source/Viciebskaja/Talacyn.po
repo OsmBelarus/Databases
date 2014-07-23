@@ -66,6 +66,7 @@ msgstr ""
 # Objects : [w271052031]
 # Names: [Дорожный переулок]
 msgid "Дорожный"
+msgstr ""
 
 # Objects : [w209551990]
 # Names: [Друцкая улица]

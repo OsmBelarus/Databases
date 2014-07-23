@@ -99,8 +99,8 @@ msgid "Ленинский"
 msgstr ""
 
 # Objects : [w157659264]
-# Names: [ул. Лобонка]
-msgid "Лобонка"
+# Names: [улица Лобанка]
+msgid "Лобанка"
 msgstr ""
 
 # Objects : [w172282965]

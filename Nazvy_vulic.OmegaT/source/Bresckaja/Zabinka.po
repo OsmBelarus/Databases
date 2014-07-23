@@ -297,6 +297,10 @@ msgstr ""
 msgid "Трудовая"
 msgstr ""
 
+# Objects : [w102400892]
+# Names: [улица Тупик]
+msgid "Тупик"
+
 # Objects : [w99331799]
 # Names: [улица Федяя]
 msgid "Федяя"

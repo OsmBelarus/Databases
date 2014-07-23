@@ -298,6 +298,11 @@ msgstr "н/Цітова"
 msgid "Трудовая"
 msgstr "пж/Працоўная"
 
+# Objects : [w102400892]
+# Names: [улица Тупик]
+msgid "Тупик"
+msgstr "н/Тупік"
+
 # Objects : [w99331799]
 # Names: [улица Федяя]
 msgid "Федяя"

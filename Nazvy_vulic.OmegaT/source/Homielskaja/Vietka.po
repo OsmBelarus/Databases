@@ -53,6 +53,10 @@ msgstr ""
 msgid "Космонавтов"
 msgstr ""
 
+# Objects : [w50158981]
+# Names: [улица Красная Площадь]
+msgid "Красная Площадь"
+
 # Objects : [w50171653]
 # Names: [улица Ленина]
 msgid "Ленина"

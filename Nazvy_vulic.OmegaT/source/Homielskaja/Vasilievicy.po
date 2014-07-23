@@ -1,82 +1,102 @@
 # Objects : [w264435621]
-# Names: [улица Базарная]
+# Names: [Базарная улица]
 msgid "Базарная"
+msgstr ""
 
 # Objects : [w34417978, w264436310]
-# Names: [улица 2-ая Вокзальная, улица Вокзальная]
+# Names: [2-я Вокзальная улица, Вокзальная улица]
 msgid "Вокзальная"
+msgstr ""
 
 # Objects : [w264435622]
 # Names: [улица Володарского]
 msgid "Володарского"
+msgstr ""
 
 # Objects : [w82161320]
 # Names: [Восточная улица]
 msgid "Восточная"
+msgstr ""
 
 # Objects : [w34418008]
 # Names: [Дачная улица]
 msgid "Дачная"
+msgstr ""
 
 # Objects : [w34417926]
-# Names: [улица Заводская]
+# Names: [Заводская улица]
 msgid "Заводская"
+msgstr ""
 
 # Objects : [w34418017]
 # Names: [улица Заслонова]
 msgid "Заслонова"
+msgstr ""
 
 # Objects : [w264435263]
 # Names: [Интернациональная улица]
 msgid "Интернациональная"
+msgstr ""
 
 # Objects : [w34417956]
 # Names: [Интернациональный переулок]
 msgid "Интернациональный"
+msgstr ""
 
 # Objects : [w34418031]
 # Names: [улица Калинина]
 msgid "Калинина"
+msgstr ""
 
 # Objects : [w264440479, w264444093]
-# Names: [улица Кооперативная]
+# Names: [Кооперативная улица]
 msgid "Кооперативная"
+msgstr ""
 
 # Objects : [w264576549, w264576550]
 # Names: [улица Куйбышева]
 msgid "Куйбышева"
+msgstr ""
 
 # Objects : [w264440480]
-# Names: [улица Луговая]
+# Names: [Луговая улица]
 msgid "Луговая"
+msgstr ""
 
 # Objects : [w34417959]
 # Names: [Молодёжная улица]
 msgid "Молодёжная"
+msgstr ""
 
 # Objects : [w264440481]
 # Names: [улица Островского]
 msgid "Островского"
+msgstr ""
 
 # Objects : [w264440478]
-# Names: [улица 1-ая Полевая]
+# Names: [1-я Полевая улица]
 msgid "Полевая"
+msgstr ""
 
 # Objects : [w34418078]
-# Names: [улица Садовая]
+# Names: [Садовая улица]
 msgid "Садовая"
+msgstr ""
 
 # Objects : [w264440482]
 # Names: [улица Свердлова]
 msgid "Свердлова"
+msgstr ""
 
 # Objects : [w264435267]
 # Names: [Солнечная улица]
 msgid "Солнечная"
+msgstr ""
 
 # Objects : [w34417965]
 # Names: [улица Строителей]
 msgid "Строителей"
+msgstr ""
 
 # Objects : [w34417920, w264435623]
 # Names: [улица Чехова]

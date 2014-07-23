@@ -28,12 +28,12 @@
       <tuv lang="BE"><seg>#Алейная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Багдана Хмельницкого</seg></tuv>
-      <tuv lang="BE"><seg>#Багдана Хмяльніцкага</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Багратиона</seg></tuv>
       <tuv lang="BE"><seg>#Баграціёна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Богдана Хмельнитского</seg></tuv>
+      <tuv lang="BE"><seg>#Багдана Хмяльніцкага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Боричевского</seg></tuv>

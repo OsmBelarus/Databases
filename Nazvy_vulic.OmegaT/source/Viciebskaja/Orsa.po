@@ -492,6 +492,7 @@ msgid "Коротевича"
 # Objects : [w271069853]
 # Names: [улица Короткевича]
 msgid "Короткевича"
+msgstr ""
 
 # Objects : [w258896488]
 # Names: [Короткий переулок]
@@ -811,7 +812,7 @@ msgstr ""
 msgid "Новаторов"
 msgstr ""
 
-# Objects : [w30087596]
+# Objects : [w293666411]
 # Names: [Новая улица]
 msgid "Новая"
 msgstr ""

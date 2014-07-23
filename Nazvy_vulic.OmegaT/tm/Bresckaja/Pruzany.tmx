@@ -13,11 +13,15 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>50 лет Октября</seg></tuv>
-      <tuv lang="BE"><seg>#50 год Кастрычніка</seg></tuv>
+      <tuv lang="BE"><seg>#50 гадоў Кастрычніка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>60 лет Октября</seg></tuv>
       <tuv lang="BE"><seg>#60 гадоў Кастрычніка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аптекарский</seg></tuv>
+      <tuv lang="BE"><seg>#Аптэкарскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Батова</seg></tuv>
@@ -98,6 +102,10 @@
     <tu>
       <tuv lang="RU"><seg>Гудимова</seg></tuv>
       <tuv lang="BE"><seg>#Гудзімава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ефросиньи Полоцкой</seg></tuv>
+      <tuv lang="BE"><seg>#Еўфрасінні Полацкай</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Жукова</seg></tuv>

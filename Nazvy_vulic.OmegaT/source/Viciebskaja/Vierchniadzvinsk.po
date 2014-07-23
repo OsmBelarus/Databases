@@ -220,6 +220,7 @@ msgstr ""
 # Objects : [w157060689]
 # Names: [Себежская улица]
 msgid "Себежская"
+msgstr ""
 
 # Objects : [w157060671]
 # Names: [Себежский переулок]

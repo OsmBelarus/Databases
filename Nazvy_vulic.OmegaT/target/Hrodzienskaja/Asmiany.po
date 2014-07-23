@@ -51,7 +51,7 @@ msgstr "н/Гагарына"
 # Objects : [w115858705]
 # Names: [улица Голяса]
 msgid "Голяса"
-msgstr ""
+msgstr "н/Голяса"
 
 # Objects : [w115858832]
 # Names: [Горная улица]
@@ -206,7 +206,7 @@ msgstr "н/Маякоўскага"
 # Objects : [w82754217]
 # Names: [улица Минейко]
 msgid "Минейко"
-msgstr ""
+msgstr "н/Мінейкі"
 
 # Objects : [w100607844]
 # Names: [переулок Мира]

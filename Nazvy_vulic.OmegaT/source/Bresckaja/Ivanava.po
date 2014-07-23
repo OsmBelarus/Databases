@@ -19,8 +19,9 @@ msgid "Карла Маркса"
 msgstr ""
 
 # Objects : [w41466838]
-# Names: [Кирова улица]
+# Names: [улица Кирова]
 msgid "Кирова"
+msgstr ""
 
 # Objects : [w80229972]
 # Names: [улица Красных Партизан]
@@ -40,6 +41,7 @@ msgstr ""
 # Objects : [w233443082]
 # Names: [Новая улица]
 msgid "Новая"
+msgstr ""
 
 # Objects : [w41466851]
 # Names: [Первомайская улица]

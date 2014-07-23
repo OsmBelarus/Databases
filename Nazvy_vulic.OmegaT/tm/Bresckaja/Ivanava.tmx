@@ -5,7 +5,7 @@
   <body>
     <tu>
       <tuv lang="RU"><seg>50 лет Октября</seg></tuv>
-      <tuv lang="BE"><seg>#50 год Кастрычніка</seg></tuv>
+      <tuv lang="BE"><seg>#50 гадоў Кастрычніка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Барского</seg></tuv>
@@ -20,6 +20,10 @@
       <tuv lang="BE"><seg>#Карла Маркса</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Кирова</seg></tuv>
+      <tuv lang="BE"><seg>#Кірава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Красных Партизан</seg></tuv>
       <tuv lang="BE"><seg>#Чырвоных Партызанаў</seg></tuv>
     </tu>
@@ -30,6 +34,10 @@
     <tu>
       <tuv lang="RU"><seg>Макаревича</seg></tuv>
       <tuv lang="BE"><seg>#Макарэвіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новая</seg></tuv>
+      <tuv lang="BE"><seg>#Новая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Первомайская</seg></tuv>

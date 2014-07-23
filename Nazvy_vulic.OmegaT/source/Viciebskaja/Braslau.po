@@ -405,6 +405,7 @@ msgstr ""
 # Objects : [w156428281]
 # Names: [улица Сергиевича]
 msgid "Сергиевича"
+msgstr ""
 
 # Objects : [w79606219]
 # Names: [Слободская улица]

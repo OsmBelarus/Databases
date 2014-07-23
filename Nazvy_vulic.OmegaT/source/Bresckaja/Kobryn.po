@@ -366,6 +366,7 @@ msgstr ""
 # Objects : [w150349294]
 # Names: [Молодёжная улица]
 msgid "Молодёжная"
+msgstr ""
 
 # Objects : [w39735264]
 # Names: [Мопровская улица]
@@ -495,6 +496,7 @@ msgstr ""
 # Objects : [w213473711]
 # Names: [Радужная улица]
 msgid "Радужная"
+msgstr ""
 
 # Objects : [w216576102]
 # Names: [Ракитная улица]
@@ -574,6 +576,7 @@ msgstr ""
 # Objects : [w213551346]
 # Names: [улица Текстильшиков]
 msgid "Текстильшиков"
+msgstr ""
 
 # Objects : [w183191930]
 # Names: [Торговая улица]

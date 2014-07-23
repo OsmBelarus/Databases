@@ -154,14 +154,14 @@ msgstr ""
 msgid "Пушкина"
 msgstr ""
 
-# Objects : [w98727535]
-# Names: [Савхозная улица]
-msgid "Савхозная"
-
 # Objects : [w97723245]
 # Names: [Советская улица]
 msgid "Советская"
 msgstr ""
+
+# Objects : [w98727535]
+# Names: [Совхозная улица]
+msgid "Совхозная"
 
 # Objects : [w97943791]
 # Names: [Социалистическая улица]

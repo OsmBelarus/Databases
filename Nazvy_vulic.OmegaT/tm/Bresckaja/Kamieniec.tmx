@@ -52,6 +52,10 @@
       <tuv lang="BE"><seg>#Зоі Касмадзям’янскай</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Индустриальная</seg></tuv>
+      <tuv lang="BE"><seg>#Індустрыяльная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Кузько</seg></tuv>
       <tuv lang="BE"><seg>#Кузько</seg></tuv>
     </tu>
@@ -106,6 +110,10 @@
     <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>
       <tuv lang="BE"><seg>#Савецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Узкий</seg></tuv>
+      <tuv lang="BE"><seg>#Вузкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Хохрякова</seg></tuv>

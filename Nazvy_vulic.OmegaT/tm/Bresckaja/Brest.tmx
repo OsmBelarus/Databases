@@ -124,6 +124,10 @@
       <tuv lang="BE"><seg>#Берасцейская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Берестейское</seg></tuv>
+      <tuv lang="BE"><seg>#Берасцейская шаша</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Берестовая</seg></tuv>
       <tuv lang="BE"><seg>#Бяроставая</seg></tuv>
     </tu>
@@ -641,7 +645,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Зерновая</seg></tuv>
-      <tuv lang="BE"><seg>#Зярнавая</seg></tuv>
+      <tuv lang="BE"><seg>#Збожжавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Зубачёва</seg></tuv>
@@ -709,7 +713,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Карьерная</seg></tuv>
-      <tuv lang="BE"><seg>#Кар'ерная</seg></tuv>
+      <tuv lang="BE"><seg>#Кар’ерная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Катин Бор</seg></tuv>
@@ -958,6 +962,10 @@
     <tu>
       <tuv lang="RU"><seg>Лесная</seg></tuv>
       <tuv lang="BE"><seg>#Лясная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лесной</seg></tuv>
+      <tuv lang="BE"><seg>#Лясны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лётная</seg></tuv>

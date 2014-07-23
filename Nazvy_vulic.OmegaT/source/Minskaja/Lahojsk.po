@@ -177,7 +177,7 @@ msgstr ""
 msgid "Крылова"
 msgstr ""
 
-# Objects : [w32683109]
+# Objects : [w32683109, w293875795, w293875796, w293875797]
 # Names: [улица Купалы]
 msgid "Купалы"
 msgstr ""
@@ -350,7 +350,7 @@ msgstr ""
 msgid "Садовая"
 msgstr ""
 
-# Objects : [w32682522]
+# Objects : [w293875790]
 # Names: [Садовый переулок]
 msgid "Садовый"
 msgstr ""

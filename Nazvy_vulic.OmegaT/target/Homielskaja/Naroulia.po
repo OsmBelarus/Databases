@@ -61,7 +61,7 @@ msgstr ""
 # Objects : [w239867032]
 # Names: [улицаКовпака]
 msgid "Ковпака"
-msgstr ""
+msgstr "н/Каўпака"
 
 # Objects : [w171597763]
 # Names: [Переулок Коллективный]
@@ -161,7 +161,7 @@ msgstr "пж/Сонечная"
 # Objects : [w171597758]
 # Names: [Улица Спивака]
 msgid "Спивака"
-msgstr ""
+msgstr "н/Співака"
 
 # Objects : [w112949700]
 # Names: [улица Строителей]

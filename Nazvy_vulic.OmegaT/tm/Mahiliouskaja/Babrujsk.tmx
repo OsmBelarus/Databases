@@ -4,16 +4,48 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>1-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>2-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>3-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>50 лет ВЛКСМ</seg></tuv>
       <tuv lang="BE"><seg>#50 гадоў ВЛКСМ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>5-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>6-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>7-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>8 Марта</seg></tuv>
       <tuv lang="BE"><seg>#8 Сакавіка</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>8-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>9 Мая</seg></tuv>
       <tuv lang="BE"><seg>#9 Мая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>9-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>9 Января</seg></tuv>
@@ -422,10 +454,6 @@
     <tu>
       <tuv lang="RU"><seg>Лизы Чайкиной</seg></tuv>
       <tuv lang="BE"><seg>#Лізы Чайкінай</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Линия</seg></tuv>
-      <tuv lang="BE"><seg>#Лінія</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Логачева</seg></tuv>
