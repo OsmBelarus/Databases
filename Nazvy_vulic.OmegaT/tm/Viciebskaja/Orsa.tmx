@@ -348,6 +348,10 @@
       <tuv lang="BE"><seg>#Карла Маркса</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Карьерный</seg></tuv>
+      <tuv lang="BE"><seg>#Кар’ерны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
       <tuv lang="BE"><seg>#Кірава</seg></tuv>
     </tu>
@@ -518,6 +522,10 @@
     <tu>
       <tuv lang="RU"><seg>Липковская</seg></tuv>
       <tuv lang="BE"><seg>#Ліпкаўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Липковский</seg></tuv>
+      <tuv lang="BE"><seg>#Ліпкаўскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Литвиновский</seg></tuv>

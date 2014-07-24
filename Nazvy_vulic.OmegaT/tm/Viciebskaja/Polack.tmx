@@ -409,7 +409,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Михаила Фрунзе</seg></tuv>
-      <tuv lang="BE"><seg>#Міхаіла Фрунзе#Міхаіла Фрунзэ</seg></tuv>
+      <tuv lang="BE"><seg>#Міхаіла Фрунзэ</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мичурина</seg></tuv>
@@ -678,6 +678,10 @@
     <tu>
       <tuv lang="RU"><seg>Угловой</seg></tuv>
       <tuv lang="BE"><seg>#Вуглавы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Угольная</seg></tuv>
+      <tuv lang="BE"><seg>#Вугальная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Урицкого</seg></tuv>

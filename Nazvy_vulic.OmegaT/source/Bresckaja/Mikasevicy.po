@@ -205,6 +205,7 @@ msgstr ""
 # Objects : [w247849685]
 # Names: [улица Руденко]
 msgid "Руденко"
+msgstr ""
 
 # Objects : [w225977642]
 # Names: [Рябиновая улица]

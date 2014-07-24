@@ -10,7 +10,7 @@ msgstr ""
 
 # Objects : [w51561827]
 # Names: [улица XXII Съезда КПСС]
-msgid "XXII Съезда К П С С"
+msgid "XXII Съезда КПСС"
 
 # Objects : [w99199334]
 # Names: [улица Базановой]
@@ -300,6 +300,7 @@ msgstr ""
 # Objects : [w102400892]
 # Names: [улица Тупик]
 msgid "Тупик"
+msgstr ""
 
 # Objects : [w99331799]
 # Names: [улица Федяя]

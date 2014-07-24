@@ -16,6 +16,10 @@
       <tuv lang="BE"><seg>#28 Ліпеня</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>5-й Форт</seg></tuv>
+      <tuv lang="BE"><seg>#Форт</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>9 Января</seg></tuv>
       <tuv lang="BE"><seg>#9 Студзеня</seg></tuv>
     </tu>
@@ -1222,6 +1226,10 @@
     <tu>
       <tuv lang="RU"><seg>Новая</seg></tuv>
       <tuv lang="BE"><seg>#Новая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новая Аркадия</seg></tuv>
+      <tuv lang="BE"><seg>#Новая Аркадзія</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новозадворская</seg></tuv>

@@ -160,6 +160,7 @@ msgstr ""
 # Objects : [w30541999]
 # Names: [улица Песчанка]
 msgid "Песчанка"
+msgstr ""
 
 # Objects : [w30309934]
 # Names: [улица Победы]

@@ -23,11 +23,6 @@ msgstr "н/5-ы Форт"
 msgid "9 Января"
 msgstr "н/9 Студзеня"
 
-# Objects : [w292215478]
-# Names: [zebra]
-msgid "zebra"
-msgstr ""
-
 # Objects : [w25296033]
 # Names: [Абрикосовая улица]
 msgid "Абрикосовая"
@@ -1534,7 +1529,7 @@ msgid "Новая"
 msgstr "пж/Новая"
 
 # Objects : [w25297504]
-# Names: [Новая Аркадия]
+# Names: [улица Новая Аркадия]
 msgid "Новая Аркадия"
 msgstr "н/Новая Аркадзія"
 

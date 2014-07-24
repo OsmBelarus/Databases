@@ -1,22 +1,26 @@
 # Objects : [w104541909]
-# Names: [70 лет Октября]
+# Names: [улица 70 лет Октября]
 msgid "70 лет Октября"
+msgstr ""
 
 # Objects : [w102489786]
 # Names: [А. Якимовича]
 msgid "А. Якимовича"
 
 # Objects : [w102596647]
-# Names: [Астроуха]
+# Names: [улица Астроуха]
 msgid "Астроуха"
+msgstr ""
 
 # Objects : [w53725102]
-# Names: [Белевича]
+# Names: [улица Белевича]
 msgid "Белевича"
+msgstr ""
 
 # Objects : [w53725106]
-# Names: [Высоцкого]
+# Names: [улица Высоцкого]
 msgid "Высоцкого"
+msgstr ""
 
 # Objects : [w53725105]
 # Names: [улица Гагарина]
@@ -26,6 +30,7 @@ msgstr ""
 # Objects : [w53725086]
 # Names: [улица Дзержинского]
 msgid "Дзержинского"
+msgstr ""
 
 # Objects : [w53725109]
 # Names: [Интернациональная улица]
@@ -35,6 +40,7 @@ msgstr ""
 # Objects : [w53725095]
 # Names: [улица Калинина]
 msgid "Калинина"
+msgstr ""
 
 # Objects : [w115969132]
 # Names: [улица Карла Маркса]
@@ -49,6 +55,7 @@ msgstr ""
 # Objects : [w84781060]
 # Names: [Комсомольская улица]
 msgid "Комсомольская"
+msgstr ""
 
 # Objects : [w53725093]
 # Names: [Молодёжная улица]
@@ -56,12 +63,14 @@ msgid "Молодёжная"
 msgstr ""
 
 # Objects : [w102490059]
-# Names: [Наркевича-Йодки]
+# Names: [улица Наркевича-Йодки]
 msgid "Наркевича-Йодки"
+msgstr ""
 
 # Objects : [w53725089]
-# Names: [Новицкого]
+# Names: [улица Новицкого]
 msgid "Новицкого"
+msgstr ""
 
 # Objects : [w53725094]
 # Names: [Партизанская улица]
@@ -74,8 +83,9 @@ msgid "Партизанский"
 msgstr ""
 
 # Objects : [w102456804, w116822279]
-# Names: [Пашкевича]
+# Names: [улица Пашкевича]
 msgid "Пашкевича"
+msgstr ""
 
 # Objects : [w25273550]
 # Names: [Первомайская улица]
@@ -85,10 +95,12 @@ msgstr ""
 # Objects : [w53725104]
 # Names: [улица Победы]
 msgid "Победы"
+msgstr ""
 
 # Objects : [w192889386]
 # Names: [Полесская улица]
 msgid "Полесская"
+msgstr ""
 
 # Objects : [w53725101, w179265428]
 # Names: [Пролетарская улица]
@@ -96,8 +108,9 @@ msgid "Пролетарская"
 msgstr ""
 
 # Objects : [w53725103]
-# Names: [Революционная]
+# Names: [Революционная улица]
 msgid "Революционная"
+msgstr ""
 
 # Objects : [w53725108]
 # Names: [улица Рокоссовского]
@@ -110,12 +123,14 @@ msgid "Солнечная"
 msgstr ""
 
 # Objects : [w53725090]
-# Names: [Степанова]
+# Names: [улица Степанова]
 msgid "Степанова"
+msgstr ""
 
 # Objects : [w53725085, w192889387]
 # Names: [Строительная улица]
 msgid "Строительная"
+msgstr ""
 
 # Objects : [w129862921]
 # Names: [Школьная улица]

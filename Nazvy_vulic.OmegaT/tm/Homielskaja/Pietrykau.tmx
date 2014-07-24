@@ -8,6 +8,10 @@
       <tuv lang="BE"><seg>#Авангардная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Белковская</seg></tuv>
+      <tuv lang="BE"><seg>#Бялкоўская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Будённого</seg></tuv>
       <tuv lang="BE"><seg>#Будзёнага</seg></tuv>
     </tu>
@@ -18,6 +22,14 @@
     <tu>
       <tuv lang="RU"><seg>Володарского</seg></tuv>
       <tuv lang="BE"><seg>#Валадарскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Встречная</seg></tuv>
+      <tuv lang="BE"><seg>#Сустрэчная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Встречный</seg></tuv>
+      <tuv lang="BE"><seg>#Сустрэчны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гагарина</seg></tuv>
@@ -42,6 +54,10 @@
     <tu>
       <tuv lang="RU"><seg>Колхозная</seg></tuv>
       <tuv lang="BE"><seg>#Калгасная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Комарова</seg></tuv>
+      <tuv lang="BE"><seg>#Камарова</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Комсомольская</seg></tuv>
@@ -76,6 +92,10 @@
       <tuv lang="BE"><seg>#Кастрычніцкая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Октябрьский</seg></tuv>
+      <tuv lang="BE"><seg>#Кастрычніцкі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Осенний</seg></tuv>
       <tuv lang="BE"><seg>#Асенні</seg></tuv>
     </tu>
@@ -104,6 +124,10 @@
       <tuv lang="BE"><seg>#Палявая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Полесская</seg></tuv>
+      <tuv lang="BE"><seg>#Палеская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Пушкина</seg></tuv>
       <tuv lang="BE"><seg>#Пушкіна</seg></tuv>
     </tu>
@@ -114,6 +138,10 @@
     <tu>
       <tuv lang="RU"><seg>Рабочий</seg></tuv>
       <tuv lang="BE"><seg>#Рабочы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Совхозная</seg></tuv>
+      <tuv lang="BE"><seg>#Саўгасная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Солнечная</seg></tuv>

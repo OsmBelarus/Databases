@@ -8,6 +8,10 @@
       <tuv lang="BE"><seg>#Багдановіча</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Богдашевского</seg></tuv>
+      <tuv lang="BE"><seg>#Багдашэўскага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Бровки</seg></tuv>
       <tuv lang="BE"><seg>#Броўкі</seg></tuv>
     </tu>
@@ -97,7 +101,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Нахимова</seg></tuv>

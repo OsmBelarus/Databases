@@ -4,11 +4,43 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>10-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>1-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>2-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>3-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>4-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>5-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>6-я Линия</seg></tuv>
       <tuv lang="BE"><seg>#Лінія</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>7-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>8-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>9-я Линия</seg></tuv>
       <tuv lang="BE"><seg>#Лінія</seg></tuv>
     </tu>
     <tu>
@@ -25,7 +57,11 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Весенняя</seg></tuv>
-      <tuv lang="BE"><seg>#Вясенняя</seg></tuv>
+      <tuv lang="BE"><seg>#Вясновая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Восточная</seg></tuv>
+      <tuv lang="BE"><seg>#Усходняя</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гайдара</seg></tuv>
@@ -82,6 +118,10 @@
     <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
       <tuv lang="BE"><seg>#Кірава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Клубничная</seg></tuv>
+      <tuv lang="BE"><seg>#Клубнічная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Колхозная</seg></tuv>
@@ -178,6 +218,10 @@
     <tu>
       <tuv lang="RU"><seg>Репина</seg></tuv>
       <tuv lang="BE"><seg>#Рэпіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Речная</seg></tuv>
+      <tuv lang="BE"><seg>#Рачная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Рижский</seg></tuv>

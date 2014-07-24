@@ -1,88 +1,109 @@
 # Objects : [w238756832]
 # Names: [улица 40 лет Победы]
 msgid "40 лет Победы"
+msgstr ""
 
 # Objects : [w164372966, w164372999, w164664487, w164664488]
 # Names: [переулок 8 Марта, улица 8 Марта]
 msgid "8 Марта"
+msgstr ""
 
 # Objects : [w164379809]
 # Names: [улица Гайдара]
 msgid "Гайдара"
+msgstr ""
 
 # Objects : [w164372967, w164372969, w164372977]
 # Names: [переулок Гастелло, улица Гастелло]
 msgid "Гастелло"
+msgstr ""
 
 # Objects : [w164373336]
 # Names: [улица Горького]
 msgid "Горького"
+msgstr ""
 
 # Objects : [w164372970, w164373000, w238756716, w238756717]
 # Names: [улица Калинина]
 msgid "Калинина"
+msgstr ""
 
 # Objects : [w164372996]
 # Names: [улица Карла Маркса]
 msgid "Карла Маркса"
+msgstr ""
 
 # Objects : [w164372971, w238756718]
 # Names: [Колхозная улица]
 msgid "Колхозная"
+msgstr ""
 
 # Objects : [w164472331]
 # Names: [Комсомольская улица]
 msgid "Комсомольская"
+msgstr ""
 
 # Objects : [w238756719]
 # Names: [улица Лермонтова]
 msgid "Лермонтова"
+msgstr ""
 
 # Objects : [w238756763]
-# Names: [улица Минская]
+# Names: [Минская улица]
 msgid "Минская"
+msgstr ""
 
 # Objects : [w238756720]
 # Names: [улица Островского]
 msgid "Островского"
+msgstr ""
 
 # Objects : [w164371524]
 # Names: [улица Парижской Коммуны]
 msgid "Парижской Коммуны"
+msgstr ""
 
 # Objects : [w125079253]
 # Names: [Первомайская улица]
 msgid "Первомайская"
+msgstr ""
 
 # Objects : [w164371523]
 # Names: [Пролетарская улица]
 msgid "Пролетарская"
+msgstr ""
 
 # Objects : [w238756721]
 # Names: [улица Пушкина]
 msgid "Пушкина"
+msgstr ""
 
 # Objects : [w164373339]
 # Names: [улица Свердлова]
 msgid "Свердлова"
+msgstr ""
 
 # Objects : [w164471534]
 # Names: [Советская улица]
 msgid "Советская"
+msgstr ""
 
 # Objects : [w164373871]
 # Names: [улица Тельмана]
 msgid "Тельмана"
+msgstr ""
 
 # Objects : [w238756724]
 # Names: [улица Урицкого]
 msgid "Урицкого"
+msgstr ""
 
 # Objects : [w238756725]
 # Names: [улица Чернышевского]
 msgid "Чернышевского"
+msgstr ""
 
 # Objects : [w238756726]
-# Names: [Энгульса ул.]
-msgid "Энгульса"
+# Names: [Энгельса ул.]
+msgid "Энгельса"
 

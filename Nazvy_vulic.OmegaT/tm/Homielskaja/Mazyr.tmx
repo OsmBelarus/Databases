@@ -16,6 +16,10 @@
       <tuv lang="BE"><seg>#Аўтарынак</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Берёзовый</seg></tuv>
+      <tuv lang="BE"><seg>#Бярозавы</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Бумажкова</seg></tuv>
       <tuv lang="BE"><seg>#Бумажкова</seg></tuv>
     </tu>
@@ -120,6 +124,10 @@
       <tuv lang="BE"><seg>#Камсамольская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Концевой</seg></tuv>
+      <tuv lang="BE"><seg>#Канцавы</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Котловца</seg></tuv>
       <tuv lang="BE"><seg>#Катлаўца</seg></tuv>
     </tu>
@@ -190,6 +198,10 @@
     <tu>
       <tuv lang="RU"><seg>Маяковского В. В.</seg></tuv>
       <tuv lang="BE"><seg>#Маякоўскага У. У.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мележа</seg></tuv>
+      <tuv lang="BE"><seg>#Мележа</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мелиоративная</seg></tuv>
@@ -296,6 +308,10 @@
       <tuv lang="BE"><seg>#Прамысловая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Пушкаря</seg></tuv>
+      <tuv lang="BE"><seg>#Пушкара</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Пушкина</seg></tuv>
       <tuv lang="BE"><seg>#Пушкіна</seg></tuv>
     </tu>
@@ -322,6 +338,10 @@
     <tu>
       <tuv lang="RU"><seg>Сельский</seg></tuv>
       <tuv lang="BE"><seg>#Вясковы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Слуцкая</seg></tuv>
+      <tuv lang="BE"><seg>#Слуцкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>
@@ -404,6 +424,10 @@
       <tuv lang="BE"><seg>#Шчорса</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Юбилейная</seg></tuv>
+      <tuv lang="BE"><seg>#Юбілейная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Юннатов</seg></tuv>
       <tuv lang="BE"><seg>#Юнатаў</seg></tuv>
     </tu>
@@ -413,7 +437,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Юрия Гагарина</seg></tuv>
-      <tuv lang="BE"><seg>#Гагарына</seg></tuv>
+      <tuv lang="BE"><seg>#Юрыя Гагарына</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Языковича</seg></tuv>

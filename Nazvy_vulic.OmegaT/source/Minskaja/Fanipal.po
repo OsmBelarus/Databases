@@ -4,8 +4,9 @@ msgid "Богдановича"
 msgstr ""
 
 # Objects : [w229759109]
-# Names: [Богдашевского улица]
+# Names: [улица Богдашевского]
 msgid "Богдашевского"
+msgstr ""
 
 # Objects : [w25307835]
 # Names: [ул. Бровки]
@@ -38,7 +39,7 @@ msgid "Железнодорожный"
 msgstr ""
 
 # Objects : [w25421043]
-# Names: [ул. Жукова]
+# Names: [улица Жукова]
 msgid "Жукова"
 msgstr ""
 
@@ -98,7 +99,7 @@ msgid "Лесная"
 msgstr ""
 
 # Objects : [w205216442]
-# Names: [Максима Танка улица]
+# Names: [улица Максима Танка]
 msgid "Максима Танка"
 msgstr ""
 
@@ -198,7 +199,7 @@ msgid "Школьная"
 msgstr ""
 
 # Objects : [w34708355]
-# Names: [Шульги ул.]
+# Names: [улица Шульги]
 msgid "Шульги"
 msgstr ""
 

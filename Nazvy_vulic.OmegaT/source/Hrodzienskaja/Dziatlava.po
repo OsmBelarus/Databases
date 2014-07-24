@@ -5,7 +5,7 @@ msgstr ""
 
 # Objects : [w120235167]
 # Names: [улица 50 лет ЛКСМБ]
-msgid "50 лет Л К С М Б"
+msgid "50 лет ЛКСМБ"
 msgstr ""
 
 # Objects : [w115467129]

@@ -8,12 +8,20 @@
       <tuv lang="BE"><seg>#30 гадоў Перамогі</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>70-лет Октября</seg></tuv>
+      <tuv lang="BE"><seg>#70 гадоў Кастрычніка</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Автомобилистов</seg></tuv>
       <tuv lang="BE"><seg>#Аўтамабілістаў</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Банный</seg></tuv>
       <tuv lang="BE"><seg>#Лазневы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Большая Слободка</seg></tuv>
+      <tuv lang="BE"><seg>#Вялікая Слабодка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Бородинская</seg></tuv>
@@ -268,6 +276,10 @@
       <tuv lang="BE"><seg>#Сонечная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Старопочтовая</seg></tuv>
+      <tuv lang="BE"><seg>#Старапаштовая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Старопочтовый</seg></tuv>
       <tuv lang="BE"><seg>#Старапаштовы</seg></tuv>
     </tu>
@@ -278,6 +290,10 @@
     <tu>
       <tuv lang="RU"><seg>Фабричный</seg></tuv>
       <tuv lang="BE"><seg>#Фабрычны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фабричный двор</seg></tuv>
+      <tuv lang="BE"><seg>#Фабрычны двор</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Шкловская</seg></tuv>

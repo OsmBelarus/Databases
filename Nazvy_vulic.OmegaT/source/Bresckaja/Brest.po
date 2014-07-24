@@ -16,15 +16,12 @@ msgstr ""
 # Objects : [w25297530]
 # Names: [улица 5-й Форт]
 msgid "5-й Форт"
+msgstr ""
 
 # Objects : [w127908743]
 # Names: [улица 9 Января]
 msgid "9 Января"
 msgstr ""
-
-# Objects : [w292215478]
-# Names: [zebra]
-msgid "zebra"
 
 # Objects : [w25296033]
 # Names: [Абрикосовая улица]
@@ -1532,8 +1529,9 @@ msgid "Новая"
 msgstr ""
 
 # Objects : [w25297504]
-# Names: [Новая Аркадия]
+# Names: [улица Новая Аркадия]
 msgid "Новая Аркадия"
+msgstr ""
 
 # Objects : [w25295489]
 # Names: [Новозадворская улица]
