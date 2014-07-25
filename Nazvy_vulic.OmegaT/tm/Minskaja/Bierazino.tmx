@@ -8,10 +8,6 @@
       <tuv lang="BE"><seg>#Аляшкевіча</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Афанасевича</seg></tuv>
-      <tuv lang="BE"><seg>#Афанасевіча</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Весёлая</seg></tuv>
       <tuv lang="BE"><seg>#Вясёлая</seg></tuv>
     </tu>
@@ -138,10 +134,6 @@
     <tu>
       <tuv lang="RU"><seg>Ульянова</seg></tuv>
       <tuv lang="BE"><seg>#Ульянава</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Фрунзе</seg></tuv>
-      <tuv lang="BE"><seg>#Фрунзэ</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Хонинова</seg></tuv>

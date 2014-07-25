@@ -5184,8 +5184,8 @@
       <tuv lang="RU">
         <seg>Великоморская</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20131021T145846Z">
-        <seg>пж/Велікаморская</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140725T081637Z">
+        <seg>пж/Вялікаморская</seg>
       </tuv>
     </tu>
     <tu>
@@ -5568,8 +5568,8 @@
       <tuv lang="RU">
         <seg>Вилковщина</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20131021T150024Z">
-        <seg>н/Вілкоўшчына</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140725T082005Z">
+        <seg>н/Вілкаўшчына</seg>
       </tuv>
     </tu>
     <tu>
@@ -5912,8 +5912,8 @@
       <tuv lang="RU">
         <seg>Воинов-Интернационалистов</seg>
       </tuv>
-      <tuv lang="BE" changeid="Skajushka" changedate="20140224T121905Z" creationid="Skajushka" creationdate="20140224T121905Z">
-        <seg>н/Вайскоўцаў-Інтэрнацыяналістаў</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140725T080925Z" creationid="Skajushka" creationdate="20140224T121905Z">
+        <seg>н/Воінаў-Інтэрнацыяналістаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -11760,8 +11760,8 @@
       <tuv lang="RU">
         <seg>Ивашко</seg>
       </tuv>
-      <tuv lang="BE" changeid="Jim" changedate="20140505T173140Z" creationid="Jim" creationdate="20140505T173140Z">
-        <seg>н/Ивашкі</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140725T085510Z" creationid="Jim" creationdate="20140505T173140Z">
+        <seg>н/Івашкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -14448,8 +14448,8 @@
       <tuv lang="RU">
         <seg>Констанции Буйло</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20131022T071017Z">
-        <seg>н/Канстанцыі Буйло</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140725T085955Z">
+        <seg>н/Канстанцыі Буйлы</seg>
       </tuv>
     </tu>
     <tu>
@@ -15240,8 +15240,8 @@
       <tuv lang="RU">
         <seg>Краснодонская</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20131022T071056Z">
-        <seg>пж/Чырванадонская</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140725T081700Z">
+        <seg>пж/Чырвонадонская</seg>
       </tuv>
     </tu>
     <tu>
@@ -15256,16 +15256,16 @@
       <tuv lang="RU">
         <seg>Краснозвёздная</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20131022T071058Z">
-        <seg>пж/Чырваназоркавая</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140725T081733Z">
+        <seg>пж/Чырвоназоркавая</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>Краснозвёздный</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20131022T071101Z">
-        <seg>пм/Чырваназоркавы</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140725T081716Z">
+        <seg>пм/Чырвоназоркавы</seg>
       </tuv>
     </tu>
     <tu>
@@ -17894,6 +17894,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Лёсика</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20140725T080005Z" creationid="alex" creationdate="20140725T080003Z">
+        <seg>н/Лёсіка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Лётная</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20131023T121625Z" creationid="alex" creationdate="20131023T121625Z">
@@ -19090,14 +19098,6 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20131022T071606Z">
         <seg>пм/Млынавы</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>Мемориальный зал</seg>
-      </tuv>
-      <tuv lang="BE" changeid="Jim" changedate="20140505T173559Z" creationid="Jim" creationdate="20140505T173559Z">
-        <seg>н/Ммарыяльны зал</seg>
       </tuv>
     </tu>
     <tu>
@@ -23576,8 +23576,8 @@
       <tuv lang="RU">
         <seg>Петра Гучка</seg>
       </tuv>
-      <tuv lang="BE" changeid="Jim" changedate="20140505T173155Z" creationid="Jim" creationdate="20140505T173155Z">
-        <seg>н/Петра Гучка</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140725T085609Z" creationid="Jim" creationdate="20140505T173155Z">
+        <seg>н/Петра Гучкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -24432,8 +24432,8 @@
       <tuv lang="RU">
         <seg>Ползунова</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20131022T093520Z">
-        <seg>н/Палзунова</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140725T081830Z">
+        <seg>н/Паўзунова</seg>
       </tuv>
     </tu>
     <tu>
@@ -25488,8 +25488,8 @@
       <tuv lang="RU">
         <seg>Пупорева</seg>
       </tuv>
-      <tuv lang="BE" changeid="Jim" changedate="20140510T074847Z" creationid="Jim" creationdate="20140510T074847Z">
-        <seg>н/Пупорэва</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140725T080226Z" creationid="Jim" creationdate="20140510T074847Z">
+        <seg>н/Пупарэва</seg>
       </tuv>
     </tu>
     <tu>
@@ -26568,8 +26568,8 @@
       <tuv lang="RU">
         <seg>Романовская</seg>
       </tuv>
-      <tuv lang="BE" changeid="Jim" changedate="20140505T173700Z" creationid="Jim" creationdate="20140505T173700Z">
-        <seg>нж/Раманаўская</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140725T081610Z" creationid="Jim" creationdate="20140505T173700Z">
+        <seg>пж/Раманаўская</seg>
       </tuv>
     </tu>
     <tu>
@@ -27938,14 +27938,6 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20131022T115544Z">
         <seg>пж/Серабранская</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>Серебрянская малая</seg>
-      </tuv>
-      <tuv lang="BE" changeid="Skajushka" changedate="20140521T092551Z" creationid="Jim" creationdate="20140505T173716Z">
-        <seg>пж/Срэбранская малая</seg>
       </tuv>
     </tu>
     <tu>
@@ -31562,6 +31554,14 @@
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20140723T104608Z" creationid="alex" creationdate="20140723T104608Z">
         <seg>пм/Туманны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Тумара</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20140725T080104Z" creationid="alex" creationdate="20140725T080104Z">
+        <seg>н/Тумара</seg>
       </tuv>
     </tu>
     <tu>
@@ -35448,16 +35448,16 @@
       <tuv lang="RU">
         <seg>Янтарная</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20131022T120302Z">
-        <seg>пж/Янтарная</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140725T082221Z">
+        <seg>пж/Бурштынавая</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>Янтарный</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20131031T114417Z">
-        <seg>пм/Янтарны</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140725T082236Z">
+        <seg>пм/Бурштынавы</seg>
       </tuv>
     </tu>
     <tu>
@@ -35850,14 +35850,6 @@
       </tuv>
       <tuv lang="BE" changeid="Jim" changedate="20140520T174345Z" creationid="Jim" creationdate="20140520T174345Z">
         <seg>пж/Калгасная</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>краснозвездная</seg>
-      </tuv>
-      <tuv lang="BE" changeid="Jim" changedate="20140424T153448Z" creationid="Jim" creationdate="20140424T153448Z">
-        <seg>пж/Чырвоназорная</seg>
       </tuv>
     </tu>
     <tu>

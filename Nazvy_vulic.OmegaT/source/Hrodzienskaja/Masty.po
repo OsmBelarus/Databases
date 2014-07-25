@@ -61,7 +61,6 @@ msgstr ""
 # Objects : [w110709783]
 # Names: [улица Володося]
 msgid "Володося"
-msgstr ""
 
 # Objects : [w98297737]
 # Names: [Восточная улица]
@@ -116,7 +115,6 @@ msgstr ""
 # Objects : [w200735714]
 # Names: [переулок Железнодорожников]
 msgid "Железнодорожников"
-msgstr ""
 
 # Objects : [w67831580]
 # Names: [Жемчужная улица]
@@ -151,7 +149,6 @@ msgstr ""
 # Objects : [w32839526]
 # Names: [Зареченская улица]
 msgid "Зареченская"
-msgstr ""
 
 # Objects : [w98297750]
 # Names: [улица Заслонова]
@@ -286,7 +283,6 @@ msgstr ""
 # Objects : [w163195837]
 # Names: [проспект Мира]
 msgid "Мира"
-msgstr ""
 
 # Objects : [w67831584]
 # Names: [Народная улица]
@@ -460,7 +456,6 @@ msgstr ""
 # Objects : [w291391414]
 # Names: [Цветочный переулок]
 msgid "Цветочный"
-msgstr ""
 
 # Objects : [w67831417]
 # Names: [улица Чапаева]
@@ -515,7 +510,6 @@ msgstr ""
 # Objects : [w98297642]
 # Names: [Юбилейный переулок]
 msgid "Юбилейный"
-msgstr ""
 
 # Objects : [w32805156]
 # Names: [проспект Юности]

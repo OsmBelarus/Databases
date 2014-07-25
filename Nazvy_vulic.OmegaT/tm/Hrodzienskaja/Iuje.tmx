@@ -4,10 +4,6 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
-      <tuv lang="RU"><seg>1 Мая</seg></tuv>
-      <tuv lang="BE"><seg>#1 Мая</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>50 лет Октября</seg></tuv>
       <tuv lang="BE"><seg>#50 гадоў Кастрычніка</seg></tuv>
     </tu>
@@ -18,10 +14,6 @@
     <tu>
       <tuv lang="RU"><seg>Богдановича</seg></tuv>
       <tuv lang="BE"><seg>#Багдановіча</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Гагарина</seg></tuv>
-      <tuv lang="BE"><seg>#Гагарына</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Горовца</seg></tuv>
@@ -104,10 +96,6 @@
       <tuv lang="BE"><seg>#Марозава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Муровщизна</seg></tuv>
-      <tuv lang="BE"><seg>#Мураўшчызна</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Некрасова</seg></tuv>
       <tuv lang="BE"><seg>#Някрасава</seg></tuv>
     </tu>
@@ -152,10 +140,6 @@
       <tuv lang="BE"><seg>#Пушкіна</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Рабочий</seg></tuv>
-      <tuv lang="BE"><seg>#Рабочы</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Радужная</seg></tuv>
       <tuv lang="BE"><seg>#Вясёлкавая</seg></tuv>
     </tu>
@@ -192,10 +176,6 @@
       <tuv lang="BE"><seg>#Сацыялістычная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Социалистический</seg></tuv>
-      <tuv lang="BE"><seg>#Сацыялістычны</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Спортивный</seg></tuv>
       <tuv lang="BE"><seg>#Спартыўны</seg></tuv>
     </tu>
@@ -228,10 +208,6 @@
       <tuv lang="BE"><seg>#Хаванская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Хуторская</seg></tuv>
-      <tuv lang="BE"><seg>#Хутарская</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Цветочная</seg></tuv>
       <tuv lang="BE"><seg>#Кветкавая</seg></tuv>
     </tu>
@@ -246,10 +222,6 @@
     <tu>
       <tuv lang="RU"><seg>Энгельса</seg></tuv>
       <tuv lang="BE"><seg>#Энгельса</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Энергетиков</seg></tuv>
-      <tuv lang="BE"><seg>#Энергетыкаў</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Юбилейный</seg></tuv>

@@ -52,10 +52,6 @@
       <tuv lang="BE"><seg>#Вакзальны</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Володося</seg></tuv>
-      <tuv lang="BE"><seg>#Валодася</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Восточная</seg></tuv>
       <tuv lang="BE"><seg>#Усходняя</seg></tuv>
     </tu>
@@ -96,10 +92,6 @@
       <tuv lang="BE"><seg>#Чыгуначная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Железнодорожников</seg></tuv>
-      <tuv lang="BE"><seg>#Чыгуначнікаў</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Жемчужная</seg></tuv>
       <tuv lang="BE"><seg>#Жамчужная</seg></tuv>
     </tu>
@@ -122,10 +114,6 @@
     <tu>
       <tuv lang="RU"><seg>Занеманская</seg></tuv>
       <tuv lang="BE"><seg>#Занёманская</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Зареченская</seg></tuv>
-      <tuv lang="BE"><seg>#Заречанская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заслонова</seg></tuv>
@@ -230,10 +218,6 @@
     <tu>
       <tuv lang="RU"><seg>Матросова</seg></tuv>
       <tuv lang="BE"><seg>#Матросава</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Мира</seg></tuv>
-      <tuv lang="BE"><seg>#Міру</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Народная</seg></tuv>
@@ -368,10 +352,6 @@
       <tuv lang="BE"><seg>#Кветкавая</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Цветочный</seg></tuv>
-      <tuv lang="BE"><seg>#Кветкавы</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Чапаева</seg></tuv>
       <tuv lang="BE"><seg>#Чапаева</seg></tuv>
     </tu>
@@ -410,10 +390,6 @@
     <tu>
       <tuv lang="RU"><seg>Юбилейная</seg></tuv>
       <tuv lang="BE"><seg>#Юбілейная</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Юбилейный</seg></tuv>
-      <tuv lang="BE"><seg>#Юбілейны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Юности</seg></tuv>

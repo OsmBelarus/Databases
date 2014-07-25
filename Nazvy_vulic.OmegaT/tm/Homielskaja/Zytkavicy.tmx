@@ -64,10 +64,6 @@
       <tuv lang="BE"><seg>#Чыгуначны</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Жемчужная</seg></tuv>
-      <tuv lang="BE"><seg>#Жамчужная</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Жукова</seg></tuv>
       <tuv lang="BE"><seg>#Жукава</seg></tuv>
     </tu>
@@ -237,15 +233,11 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Полесский</seg></tuv>
-      <tuv lang="BE"><seg>#Палескі</seg></tuv>
+      <tuv lang="BE"><seg>#Палескi</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Поселковая</seg></tuv>
-      <tuv lang="BE"><seg>#Пасялковая</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Приозёрная</seg></tuv>
-      <tuv lang="BE"><seg>#Прыазёрная</seg></tuv>
+      <tuv lang="BE"><seg>#Паселковая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Радужная</seg></tuv>
@@ -266,10 +258,6 @@
     <tu>
       <tuv lang="RU"><seg>Северная</seg></tuv>
       <tuv lang="BE"><seg>#Паўночная</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Сенная</seg></tuv>
-      <tuv lang="BE"><seg>#Сянная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Сиреневая</seg></tuv>

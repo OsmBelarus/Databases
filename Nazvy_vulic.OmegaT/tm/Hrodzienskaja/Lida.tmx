@@ -261,7 +261,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Зерновая</seg></tuv>
-      <tuv lang="BE"><seg>#Збожжавая</seg></tuv>
+      <tuv lang="BE"><seg>#Зярнавая вулiца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ивьевская</seg></tuv>
@@ -582,10 +582,6 @@
     <tu>
       <tuv lang="RU"><seg>Новаторская</seg></tuv>
       <tuv lang="BE"><seg>#Наватарская</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Новопрудский</seg></tuv>
-      <tuv lang="BE"><seg>#Новапрудзкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новосельская</seg></tuv>
@@ -921,7 +917,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Франко</seg></tuv>
-      <tuv lang="BE"><seg>#Франка</seg></tuv>
+      <tuv lang="BE"><seg>#Франкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Фрунзе</seg></tuv>
@@ -1024,10 +1020,6 @@
       <tuv lang="BE"><seg>#Энгельса</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Юбилейная</seg></tuv>
-      <tuv lang="BE"><seg>#Юбілейная</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Южная</seg></tuv>
       <tuv lang="BE"><seg>#Паўднёвая</seg></tuv>
     </tu>
@@ -1038,10 +1030,6 @@
     <tu>
       <tuv lang="RU"><seg>Южный Городок</seg></tuv>
       <tuv lang="BE"><seg>#Паўднёвы Гарадок</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Янки Купалы</seg></tuv>
-      <tuv lang="BE"><seg>#Янкі Купалы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ясная</seg></tuv>

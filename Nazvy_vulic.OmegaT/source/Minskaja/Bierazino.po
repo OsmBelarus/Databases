@@ -4,9 +4,8 @@ msgid "Алешкевича"
 msgstr ""
 
 # Objects : [w81543569]
-# Names: [улица Афанасевича]
+# Names: [Афанасевича   ул.]
 msgid "Афанасевича"
-msgstr ""
 
 # Objects : [w81543545]
 # Names: [Весёлая улица]
@@ -173,9 +172,8 @@ msgid "Ульянова"
 msgstr ""
 
 # Objects : [w81543503]
-# Names: [улица Фрунзе]
+# Names: [Фрунзе   улица]
 msgid "Фрунзе"
-msgstr ""
 
 # Objects : [w173288846]
 # Names: [улица Хонинова]

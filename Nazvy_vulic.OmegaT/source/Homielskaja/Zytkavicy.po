@@ -74,9 +74,8 @@ msgid "Железнодорожный"
 msgstr ""
 
 # Objects : [w276220593]
-# Names: [Жемчужная улица]
+# Names: [ул. Жемчужная]
 msgid "Жемчужная"
-msgstr ""
 
 # Objects : [w48954971, w77113186]
 # Names: [улица Жукова]
@@ -309,7 +308,6 @@ msgstr ""
 # Objects : [w238981522]
 # Names: [Приозёрная улица]
 msgid "Приозёрная"
-msgstr ""
 
 # Objects : [w238980542]
 # Names: [Радужная улица]
@@ -339,7 +337,6 @@ msgstr ""
 # Objects : [w238980544]
 # Names: [Сенная улица]
 msgid "Сенная"
-msgstr ""
 
 # Objects : [w238980545]
 # Names: [Сиреневая улица]

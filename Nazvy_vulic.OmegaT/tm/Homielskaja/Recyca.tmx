@@ -13,7 +13,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>40 лет Октября</seg></tuv>
-      <tuv lang="BE"><seg>#40 гадоў Кастрычніка</seg></tuv>
+      <tuv lang="BE"><seg>#40 год Кастрычніка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>8 Марта</seg></tuv>
@@ -205,7 +205,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ильича</seg></tuv>
-      <tuv lang="BE"><seg>#Іл’іча</seg></tuv>
+      <tuv lang="BE"><seg>#Іл'іча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Индустриальный</seg></tuv>
@@ -502,10 +502,6 @@
     <tu>
       <tuv lang="RU"><seg>Первомайская</seg></tuv>
       <tuv lang="BE"><seg>#Першамайская</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Петра Ульянова</seg></tuv>
-      <tuv lang="BE"><seg>#Пятра Ўльянава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Петруся Бровки</seg></tuv>

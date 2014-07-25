@@ -16,10 +16,6 @@
       <tuv lang="BE"><seg>#30 гадоў БССР</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>30 лет Октября</seg></tuv>
-      <tuv lang="BE"><seg>#30 гадоў Кастрычніка</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>40 лет БССР</seg></tuv>
       <tuv lang="BE"><seg>#40 гадоў БССР</seg></tuv>
     </tu>
@@ -78,10 +74,6 @@
     <tu>
       <tuv lang="RU"><seg>Амурский</seg></tuv>
       <tuv lang="BE"><seg>#Амурскі</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Антошкина</seg></tuv>
-      <tuv lang="BE"><seg>#Антошкіна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Арсентьевская</seg></tuv>
@@ -146,10 +138,6 @@
     <tu>
       <tuv lang="RU"><seg>Белицкая</seg></tuv>
       <tuv lang="BE"><seg>#Беліцкая</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Белого</seg></tuv>
-      <tuv lang="BE"><seg>#Белага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Белорусская</seg></tuv>
@@ -314,10 +302,6 @@
     <tu>
       <tuv lang="RU"><seg>Восточный обход</seg></tuv>
       <tuv lang="BE"><seg>#Усходні абыход</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Восьмая</seg></tuv>
-      <tuv lang="BE"><seg>#Восьмая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Высокая</seg></tuv>
@@ -500,10 +484,6 @@
       <tuv lang="BE"><seg>#Дружная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Дубравная</seg></tuv>
-      <tuv lang="BE"><seg>#Дуброўная</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Дынды</seg></tuv>
       <tuv lang="BE"><seg>#Дынды</seg></tuv>
     </tu>
@@ -616,10 +596,6 @@
       <tuv lang="BE"><seg>#Iверская вулiца</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ильича</seg></tuv>
-      <tuv lang="BE"><seg>#Іл’іча</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Индустриальный</seg></tuv>
       <tuv lang="BE"><seg>#Індустрыяльны</seg></tuv>
     </tu>
@@ -638,10 +614,6 @@
     <tu>
       <tuv lang="RU"><seg>Интендантская</seg></tuv>
       <tuv lang="BE"><seg>#Інтэнданцкая</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Интендантский</seg></tuv>
-      <tuv lang="BE"><seg>#Інтэнданцкі тупік</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Интернациональная</seg></tuv>
@@ -670,10 +642,6 @@
     <tu>
       <tuv lang="RU"><seg>Кавалерийский</seg></tuv>
       <tuv lang="BE"><seg>#Кавалерыйскі</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Каленикова</seg></tuv>
-      <tuv lang="BE"><seg>#Каленікава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Калинина</seg></tuv>
@@ -890,10 +858,6 @@
     <tu>
       <tuv lang="RU"><seg>Лазо</seg></tuv>
       <tuv lang="BE"><seg>#Лазо</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Лазовская</seg></tuv>
-      <tuv lang="BE"><seg>#Лазоўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лазурная</seg></tuv>
@@ -1244,10 +1208,6 @@
       <tuv lang="BE"><seg>#Гарматная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Орудийный</seg></tuv>
-      <tuv lang="BE"><seg>#Гарматны</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Оршанская</seg></tuv>
       <tuv lang="BE"><seg>#Аршанская</seg></tuv>
     </tu>
@@ -1474,10 +1434,6 @@
     <tu>
       <tuv lang="RU"><seg>Радости</seg></tuv>
       <tuv lang="BE"><seg>#Радасці</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Ракитный</seg></tuv>
-      <tuv lang="BE"><seg>#Ракітны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Революционная</seg></tuv>
@@ -1848,10 +1804,6 @@
       <tuv lang="BE"><seg>#Ураджайны</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Уткина</seg></tuv>
-      <tuv lang="BE"><seg>#Уткіна</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Фабричная</seg></tuv>
       <tuv lang="BE"><seg>#Фабрычная</seg></tuv>
     </tu>
@@ -1930,10 +1882,6 @@
     <tu>
       <tuv lang="RU"><seg>Хуторянского</seg></tuv>
       <tuv lang="BE"><seg>#Хутранскага</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Цветочная</seg></tuv>
-      <tuv lang="BE"><seg>#Кветкавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Целинная</seg></tuv>

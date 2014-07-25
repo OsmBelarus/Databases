@@ -5,15 +5,11 @@
   <body>
     <tu>
       <tuv lang="RU"><seg>40 лет Победы</seg></tuv>
-      <tuv lang="BE"><seg>#40 гадоў Перамогі</seg></tuv>
+      <tuv lang="BE"><seg>#40 год Перамогі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>50 лет ВЛКСМ</seg></tuv>
       <tuv lang="BE"><seg>#50 гадоў ВЛКСМ</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>50 лет Октября</seg></tuv>
-      <tuv lang="BE"><seg>#50 гадоў Кастрычніка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>60 лет БССР</seg></tuv>
@@ -42,10 +38,6 @@
     <tu>
       <tuv lang="RU"><seg>Борейко</seg></tuv>
       <tuv lang="BE"><seg>#Барэйкі</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Борисова</seg></tuv>
-      <tuv lang="BE"><seg>#Барысава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Быковского</seg></tuv>
@@ -176,20 +168,12 @@
       <tuv lang="BE"><seg>#Чырвонаармейская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Крестьянский</seg></tuv>
-      <tuv lang="BE"><seg>#Сялянскі</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Кривцова</seg></tuv>
       <tuv lang="BE"><seg>#Крыўцова</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Куйбышева</seg></tuv>
       <tuv lang="BE"><seg>#Куйбышава</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Кутузова</seg></tuv>
-      <tuv lang="BE"><seg>#Кутузава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лазо</seg></tuv>
@@ -372,10 +356,6 @@
       <tuv lang="BE"><seg>#Савецкая</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Советский</seg></tuv>
-      <tuv lang="BE"><seg>#Савецкі</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Соловьева</seg></tuv>
       <tuv lang="BE"><seg>#Салаўёва</seg></tuv>
     </tu>
@@ -430,10 +410,6 @@
     <tu>
       <tuv lang="RU"><seg>Фрунзе</seg></tuv>
       <tuv lang="BE"><seg>#Фрунзэ</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Чернышевского</seg></tuv>
-      <tuv lang="BE"><seg>#Чарнышэўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чехова</seg></tuv>

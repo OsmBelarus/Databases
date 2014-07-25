@@ -26,7 +26,6 @@ msgstr ""
 # Objects : [w127876025]
 # Names: [улица Алоизы Пашкевич]
 msgid "Алоизы Пашкевич"
-msgstr ""
 
 # Objects : [w127875090]
 # Names: [улица Батырева]
@@ -111,12 +110,10 @@ msgstr ""
 # Objects : [w235716190]
 # Names: [Каштановая улица]
 msgid "Каштановая"
-msgstr ""
 
 # Objects : [w235716188]
-# Names: [Каштановый переулок]
+# Names: [переулок Каштановый]
 msgid "Каштановый"
-msgstr ""
 
 # Objects : [w30293891]
 # Names: [улица Кирова]
@@ -265,7 +262,6 @@ msgstr ""
 # Objects : [w125839754]
 # Names: [Полевая улица]
 msgid "Полевая"
-msgstr ""
 
 # Objects : [w127886519]
 # Names: [Поперечная улица]
@@ -300,7 +296,6 @@ msgstr ""
 # Objects : [w127896965]
 # Names: [Рябиновая улица]
 msgid "Рябиновая"
-msgstr ""
 
 # Objects : [w126040481]
 # Names: [Садовая улица]
@@ -330,7 +325,6 @@ msgstr ""
 # Objects : [w235716189]
 # Names: [Северо-Восточный переулок]
 msgid "Северо-Восточный"
-msgstr ""
 
 # Objects : [w127885999]
 # Names: [улица Скорины]

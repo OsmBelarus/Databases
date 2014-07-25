@@ -9,8 +9,8 @@ msgid "Адровская"
 msgstr ""
 
 # Objects : [w30087455]
-# Names: [Андровский переулок]
-msgid "Андровский"
+# Names: [Адровский переулок]
+msgid "Адровский"
 msgstr ""
 
 # Objects : [w30087453]

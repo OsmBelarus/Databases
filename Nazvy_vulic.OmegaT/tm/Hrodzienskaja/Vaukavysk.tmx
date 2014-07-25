@@ -28,10 +28,6 @@
       <tuv lang="BE"><seg>#Алейная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Амшея</seg></tuv>
-      <tuv lang="BE"><seg>#Амшэя</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Багратиона</seg></tuv>
       <tuv lang="BE"><seg>#Баграціёна</seg></tuv>
     </tu>
@@ -209,7 +205,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Карьерный</seg></tuv>
-      <tuv lang="BE"><seg>#Кар’ерны</seg></tuv>
+      <tuv lang="BE"><seg>#Кар'ерны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
