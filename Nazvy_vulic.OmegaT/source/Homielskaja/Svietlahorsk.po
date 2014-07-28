@@ -1,6 +1,7 @@
 # Objects : [w30070459]
 # Names: [улица 50 лет Октября]
 msgid "50 лет Октября"
+msgstr ""
 
 # Objects : [w30070460]
 # Names: [Авиационная улица]
@@ -25,10 +26,12 @@ msgstr ""
 # Objects : [w30059074]
 # Names: [Бобруйская улица]
 msgid "Бобруйская"
+msgstr ""
 
 # Objects : [w272562878]
-# Names: [переулок Бобруйский]
+# Names: [Бобруйский переулок]
 msgid "Бобруйский"
+msgstr ""
 
 # Objects : [w30059086, w30059088]
 # Names: [переулок Богдановича, улица Богдановича]
@@ -98,6 +101,7 @@ msgstr ""
 # Objects : [w272562880]
 # Names: [Жлобинская улица]
 msgid "Жлобинская"
+msgstr ""
 
 # Objects : [w133847466]
 # Names: [Заводская улица]
@@ -112,6 +116,7 @@ msgstr ""
 # Objects : [w30059083]
 # Names: [Задорожный переулок]
 msgid "Задорожный"
+msgstr ""
 
 # Objects : [w30059141]
 # Names: [Западная улица]
@@ -136,6 +141,7 @@ msgstr ""
 # Objects : [w30059117]
 # Names: [Искровская улица]
 msgid "Искровская"
+msgstr ""
 
 # Objects : [w30070464]
 # Names: [улица Калинина]
@@ -185,6 +191,7 @@ msgstr ""
 # Objects : [w30059108, w30059109, w30059115]
 # Names: [переулок Краснопёрова, улица Краснопёрова]
 msgid "Краснопёрова"
+msgstr ""
 
 # Objects : [w30059045]
 # Names: [улица Крылова]
@@ -239,10 +246,12 @@ msgstr ""
 # Objects : [w30059085]
 # Names: [Медковская улица]
 msgid "Медковская"
+msgstr ""
 
 # Objects : [w30059082]
 # Names: [Медковский переулок]
 msgid "Медковский"
+msgstr ""
 
 # Objects : [w30060322]
 # Names: [микрорайон Березина]
@@ -305,14 +314,17 @@ msgstr ""
 # Objects : [w133847473]
 # Names: [Паричская улица]
 msgid "Паричская"
+msgstr ""
 
 # Objects : [w272447147]
 # Names: [Парковая улица]
 msgid "Парковая"
+msgstr ""
 
 # Objects : [w30059069]
 # Names: [Парковый переулок]
 msgid "Парковый"
+msgstr ""
 
 # Objects : [w30059121]
 # Names: [улица Пацаева]
@@ -330,8 +342,9 @@ msgid "Первомайский"
 msgstr ""
 
 # Objects : [w286222310]
-# Names: [улица Песочная]
+# Names: [Песочная улица]
 msgid "Песочная"
+msgstr ""
 
 # Objects : [w30059060]
 # Names: [Полевая улица]
@@ -341,6 +354,7 @@ msgstr ""
 # Objects : [w30059057]
 # Names: [Полевой переулок]
 msgid "Полевой"
+msgstr ""
 
 # Objects : [w30059076]
 # Names: [Полеская улица]
@@ -352,12 +366,14 @@ msgid "Привокзальная"
 msgstr ""
 
 # Objects : [w30059067]
-# Names: [улица Пригородная]
+# Names: [Пригородная улица]
 msgid "Пригородная"
+msgstr ""
 
 # Objects : [w30059077]
 # Names: [Припятьская улица]
 msgid "Припятьская"
+msgstr ""
 
 # Objects : [w30058988]
 # Names: [Пролетарская улица]
@@ -372,6 +388,7 @@ msgstr ""
 # Objects : [w272562876]
 # Names: [Расовская улица]
 msgid "Расовская"
+msgstr ""
 
 # Objects : [w30059098]
 # Names: [улица Редькина]
@@ -381,10 +398,12 @@ msgstr ""
 # Objects : [w34948593]
 # Names: [Руднянская улица]
 msgid "Руднянская"
+msgstr ""
 
 # Objects : [w30059087]
 # Names: [Рудобельская улица]
 msgid "Рудобельская"
+msgstr ""
 
 # Objects : [w30059055]
 # Names: [Садовая улица]

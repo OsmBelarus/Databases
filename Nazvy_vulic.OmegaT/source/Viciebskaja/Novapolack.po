@@ -1,26 +1,32 @@
 # Objects : [w178017365]
 # Names: [улица 10-я Линия]
 msgid "10-я Линия"
+msgstr ""
 
 # Objects : [w178017364]
 # Names: [улица 1-я Линия]
 msgid "1-я Линия"
+msgstr ""
 
 # Objects : [w178017366]
 # Names: [улица 2-я Линия]
 msgid "2-я Линия"
+msgstr ""
 
 # Objects : [w178017368]
 # Names: [улица 3-я Линия]
 msgid "3-я Линия"
+msgstr ""
 
 # Objects : [w178017369]
 # Names: [улица 4-я Линия]
 msgid "4-я Линия"
+msgstr ""
 
 # Objects : [w178017370]
 # Names: [улица 5-я Линия]
 msgid "5-я Линия"
+msgstr ""
 
 # Objects : [w32556280, w178017371]
 # Names: [улица 6-я Линия]
@@ -35,10 +41,12 @@ msgstr ""
 # Objects : [w178017373]
 # Names: [улица 8-я Линия]
 msgid "8-я Линия"
+msgstr ""
 
 # Objects : [w178017374]
 # Names: [улица 9-я Линия]
 msgid "9-я Линия"
+msgstr ""
 
 # Objects : [w32659950, w40707011, w41457163, w190307997, w190307998]
 # Names: [улица Блохина]

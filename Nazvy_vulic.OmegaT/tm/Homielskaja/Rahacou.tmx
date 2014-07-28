@@ -8,6 +8,14 @@
       <tuv lang="BE"><seg>#50 гадоў СССР</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>65 лет Победы</seg></tuv>
+      <tuv lang="BE"><seg>#65 гадоў Перамогі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Алеся Жаврука</seg></tuv>
+      <tuv lang="BE"><seg>#Алеся Жаўрука</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Аркадия Осипова</seg></tuv>
       <tuv lang="BE"><seg>#Аркадзя Осіпава</seg></tuv>
     </tu>
@@ -18,6 +26,10 @@
     <tu>
       <tuv lang="RU"><seg>Белинского</seg></tuv>
       <tuv lang="BE"><seg>#Бялінскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белоусова</seg></tuv>
+      <tuv lang="BE"><seg>#Белаусава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Берегового</seg></tuv>
@@ -164,6 +176,10 @@
       <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Исакова</seg></tuv>
+      <tuv lang="BE"><seg>#Ісакава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Калинина</seg></tuv>
       <tuv lang="BE"><seg>#Калініна</seg></tuv>
     </tu>
@@ -288,6 +304,10 @@
       <tuv lang="BE"><seg>#Ніжагародзкая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ново-Днепровский</seg></tuv>
+      <tuv lang="BE"><seg>#Нова-Дняпроўскі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Огородная</seg></tuv>
       <tuv lang="BE"><seg>#Агародная</seg></tuv>
     </tu>
@@ -298,6 +318,10 @@
     <tu>
       <tuv lang="RU"><seg>Осипенко</seg></tuv>
       <tuv lang="BE"><seg>#Асіпенкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Осипова</seg></tuv>
+      <tuv lang="BE"><seg>#Осіпава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Островского</seg></tuv>
@@ -356,6 +380,10 @@
       <tuv lang="BE"><seg>#Розы Люксембург</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Самусева</seg></tuv>
+      <tuv lang="BE"><seg>#Самусева</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Санникова</seg></tuv>
       <tuv lang="BE"><seg>#Саннікава</seg></tuv>
     </tu>
@@ -372,12 +400,24 @@
       <tuv lang="BE"><seg>#Сядова</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Серегина</seg></tuv>
+      <tuv lang="BE"><seg>#Сярогіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Скрыганова</seg></tuv>
+      <tuv lang="BE"><seg>#Скрыганава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Смидовича</seg></tuv>
       <tuv lang="BE"><seg>#Смідовіча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>
       <tuv lang="BE"><seg>#Савецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Социалистическая</seg></tuv>
+      <tuv lang="BE"><seg>#Сацыялістычная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Станционная</seg></tuv>
@@ -414,6 +454,10 @@
     <tu>
       <tuv lang="RU"><seg>Транспортная</seg></tuv>
       <tuv lang="BE"><seg>#Транспартная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тупиковая</seg></tuv>
+      <tuv lang="BE"><seg>#Тупіковая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Тургенева</seg></tuv>
@@ -470,6 +514,10 @@
     <tu>
       <tuv lang="RU"><seg>Школьная</seg></tuv>
       <tuv lang="BE"><seg>#Школьная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шолом-Алейхема</seg></tuv>
+      <tuv lang="BE"><seg>#Шалом-Алейхема</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Энгельса</seg></tuv>

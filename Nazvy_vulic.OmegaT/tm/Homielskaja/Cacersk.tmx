@@ -16,12 +16,20 @@
       <tuv lang="BE"><seg>#Байкова</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Балахонова</seg></tuv>
+      <tuv lang="BE"><seg>#Балахонава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Братьев Лизюковых</seg></tuv>
       <tuv lang="BE"><seg>#Братоў Лізюковых</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Будёного</seg></tuv>
+      <tuv lang="RU"><seg>Будённого</seg></tuv>
       <tuv lang="BE"><seg>#Будзёнага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Водосточный</seg></tuv>
+      <tuv lang="BE"><seg>#Вадасточны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Восточная</seg></tuv>

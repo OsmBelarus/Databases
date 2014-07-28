@@ -13,7 +13,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>70 лет Октября</seg></tuv>
-      <tuv lang="BE"><seg>#70 год Кастрычніка</seg></tuv>
+      <tuv lang="BE"><seg>#70 гадоў Кастрычніка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>8 Марта</seg></tuv>
@@ -68,6 +68,10 @@
       <tuv lang="BE"><seg>#Баравая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Васи Крайнего</seg></tuv>
+      <tuv lang="BE"><seg>#Васі Крайняга</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Васильковая</seg></tuv>
       <tuv lang="BE"><seg>#Васільковая</seg></tuv>
     </tu>
@@ -109,7 +113,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Воссоединения</seg></tuv>
-      <tuv lang="BE"><seg>#Ўз'яднання</seg></tuv>
+      <tuv lang="BE"><seg>#Уз’яднання</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Восточная</seg></tuv>
@@ -192,7 +196,7 @@
       <tuv lang="BE"><seg>#Яршова</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ефрасиньи Полоцкой</seg></tuv>
+      <tuv lang="RU"><seg>Ефросиньи Полоцкой</seg></tuv>
       <tuv lang="BE"><seg>#Ефрасінні Полацкай</seg></tuv>
     </tu>
     <tu>
@@ -205,7 +209,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Загородний</seg></tuv>
-      <tuv lang="BE"><seg>#Загарадны</seg></tuv>
+      <tuv lang="BE"><seg>#Загарадні</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Загородняя</seg></tuv>
@@ -237,7 +241,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Зельвенский</seg></tuv>
-      <tuv lang="BE"><seg>#Зельвенскі</seg></tuv>
+      <tuv lang="BE"><seg>#Зэльвенскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Инженерная</seg></tuv>
@@ -416,6 +420,10 @@
       <tuv lang="BE"><seg>#Морыса Торэза</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Набережный</seg></tuv>
+      <tuv lang="BE"><seg>#Набярэжны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Нагорная</seg></tuv>
       <tuv lang="BE"><seg>#Нагорная</seg></tuv>
     </tu>
@@ -560,6 +568,10 @@
       <tuv lang="BE"><seg>#Рамашкавая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Рыбацкий</seg></tuv>
+      <tuv lang="BE"><seg>#Рыбацкі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Садовая</seg></tuv>
       <tuv lang="BE"><seg>#Садовая</seg></tuv>
     </tu>
@@ -584,6 +596,10 @@
       <tuv lang="BE"><seg>#Сянная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Сенной</seg></tuv>
+      <tuv lang="BE"><seg>#Сянны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Сергея Лазо</seg></tuv>
       <tuv lang="BE"><seg>#Сяргея Лазо</seg></tuv>
     </tu>
@@ -602,6 +618,10 @@
     <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>
       <tuv lang="BE"><seg>#Савецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Советский</seg></tuv>
+      <tuv lang="BE"><seg>#Савецкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Советских Пограничников</seg></tuv>

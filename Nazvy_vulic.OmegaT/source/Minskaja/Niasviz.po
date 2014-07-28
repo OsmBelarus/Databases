@@ -9,7 +9,7 @@ msgid "Будённого"
 msgstr ""
 
 # Objects : [w186110112]
-# Names: [Гейсика ул.]
+# Names: [улица Гейсика]
 msgid "Гейсика"
 msgstr ""
 
@@ -23,11 +23,6 @@ msgstr ""
 msgid "Дружная"
 msgstr ""
 
-# Objects : [w25579378]
-# Names: [улица К. Чорного]
-msgid "К. Чорного"
-msgstr ""
-
 # Objects : [w25579357]
 # Names: [улица Карла Либкнехта]
 msgid "Карла Либкнехта"
@@ -36,6 +31,11 @@ msgstr ""
 # Objects : [w25604622]
 # Names: [улица Кирова]
 msgid "Кирова"
+msgstr ""
+
+# Objects : [w25579378]
+# Names: [улица Кузьмы Чорного]
+msgid "Кузьмы Чорного"
 msgstr ""
 
 # Objects : [w72126482]
@@ -51,6 +51,7 @@ msgstr ""
 # Objects : [w25579429]
 # Names: [улица Ломоносова]
 msgid "Ломоносова"
+msgstr ""
 
 # Objects : [w25579433, w226987863, w226987864]
 # Names: [Луговая улица]
@@ -78,12 +79,12 @@ msgid "Объездная"
 msgstr ""
 
 # Objects : [w25579392, w25579394]
-# Names: [ул. Панфилова]
+# Names: [улица Панфилова]
 msgid "Панфилова"
 msgstr ""
 
 # Objects : [w25604623]
-# Names: [Прокопчука ул.]
+# Names: [улица Прокопчука]
 msgid "Прокопчука"
 msgstr ""
 

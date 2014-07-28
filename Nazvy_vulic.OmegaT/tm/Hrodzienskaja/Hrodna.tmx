@@ -357,7 +357,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гартного</seg></tuv>
-      <tuv lang="BE"><seg>#Гаротнага</seg></tuv>
+      <tuv lang="BE"><seg>#Гартнага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гастелло</seg></tuv>
@@ -737,7 +737,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Звонковая</seg></tuv>
-      <tuv lang="BE"><seg>#Звонкавая</seg></tuv>
+      <tuv lang="BE"><seg>#Званкавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Зелёная</seg></tuv>
@@ -749,7 +749,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Зерновая</seg></tuv>
-      <tuv lang="BE"><seg>#Збожавая</seg></tuv>
+      <tuv lang="BE"><seg>#Збожжавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Зои Космодемьянской</seg></tuv>
@@ -814,6 +814,10 @@
     <tu>
       <tuv lang="RU"><seg>Калиновского</seg></tuv>
       <tuv lang="BE"><seg>#Каліноўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Калюжная</seg></tuv>
+      <tuv lang="BE"><seg>#Калюжная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Калючинская</seg></tuv>
@@ -940,8 +944,12 @@
       <tuv lang="BE"><seg>#Каралінская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Королихинская</seg></tuv>
+      <tuv lang="BE"><seg>#Караліхінская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Короткая</seg></tuv>
-      <tuv lang="BE"><seg>#Каротная</seg></tuv>
+      <tuv lang="BE"><seg>#Кароткая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Короткевича</seg></tuv>
@@ -1329,7 +1337,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Нектарная</seg></tuv>
-      <tuv lang="BE"><seg>#Нектарная</seg></tuv>
+      <tuv lang="BE"><seg>#Няктарная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Нёманская</seg></tuv>
@@ -1429,7 +1437,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ореховая</seg></tuv>
-      <tuv lang="BE"><seg>#Гарэхавая</seg></tuv>
+      <tuv lang="BE"><seg>#Арэхавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Осавиахимовская</seg></tuv>
@@ -1537,7 +1545,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Песчаная</seg></tuv>
-      <tuv lang="BE"><seg>#Пяшчаная</seg></tuv>
+      <tuv lang="BE"><seg>#Пясчаная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Петра Милонега</seg></tuv>
@@ -1666,6 +1674,10 @@
     <tu>
       <tuv lang="RU"><seg>Пролетарский</seg></tuv>
       <tuv lang="BE"><seg>#Пралетарскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Промысловая</seg></tuv>
+      <tuv lang="BE"><seg>#Прамысловая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Промысловый</seg></tuv>
@@ -2158,6 +2170,10 @@
     <tu>
       <tuv lang="RU"><seg>Ученическая</seg></tuv>
       <tuv lang="BE"><seg>#Вучнёўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Уютная</seg></tuv>
+      <tuv lang="BE"><seg>#Утульная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Фабричная</seg></tuv>

@@ -36,6 +36,7 @@ msgstr ""
 # Objects : [w274524708]
 # Names: [Весенняя улица]
 msgid "Весенняя"
+msgstr ""
 
 # Objects : [w259727461]
 # Names: [Восточная улица]
@@ -248,6 +249,7 @@ msgstr ""
 # Objects : [w115858533]
 # Names: [Песчаная улица]
 msgid "Песчаная"
+msgstr ""
 
 # Objects : [w82754216, w102273557, w118922664]
 # Names: [Пионерская улица]

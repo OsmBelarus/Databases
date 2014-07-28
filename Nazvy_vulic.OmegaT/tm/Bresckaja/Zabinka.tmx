@@ -12,6 +12,10 @@
       <tuv lang="BE"><seg>#1 Мая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>XXII Съезда КПСС</seg></tuv>
+      <tuv lang="BE"><seg>#XXII З’езду КПСС</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Базановой</seg></tuv>
       <tuv lang="BE"><seg>#Базанавай</seg></tuv>
     </tu>

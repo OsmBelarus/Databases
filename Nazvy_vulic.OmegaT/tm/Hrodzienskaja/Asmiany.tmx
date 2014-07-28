@@ -32,6 +32,10 @@
       <tuv lang="BE"><seg>#Бальнічны</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Весенняя</seg></tuv>
+      <tuv lang="BE"><seg>#Вясновая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Восточная</seg></tuv>
       <tuv lang="BE"><seg>#Усходняя</seg></tuv>
     </tu>
@@ -190,6 +194,10 @@
     <tu>
       <tuv lang="RU"><seg>Первомайская</seg></tuv>
       <tuv lang="BE"><seg>#Першамайская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Песчаная</seg></tuv>
+      <tuv lang="BE"><seg>#Пясчаная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пионерская</seg></tuv>

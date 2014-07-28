@@ -1,10 +1,12 @@
 # Objects : [w97721195]
 # Names: [улица 70 лет Октября]
 msgid "70 лет Октября"
+msgstr ""
 
 # Objects : [w206375806, w261518230]
 # Names: [Базарный переулок]
 msgid "Базарный"
+msgstr ""
 
 # Objects : [w97944440, w99199560]
 # Names: [Береговая улица]
@@ -14,14 +16,17 @@ msgstr ""
 # Objects : [w98006895]
 # Names: [Ветеринарный переулок]
 msgid "Ветеринарный"
+msgstr ""
 
 # Objects : [w97944441]
 # Names: [улица Витоля]
 msgid "Витоля"
+msgstr ""
 
 # Objects : [w98710261]
 # Names: [переулок Горького]
 msgid "Горького"
+msgstr ""
 
 # Objects : [w262199803]
 # Names: [переулок Дёмина]
@@ -56,6 +61,7 @@ msgstr ""
 # Objects : [w157359652]
 # Names: [улица Кривоноса]
 msgid "Кривоноса"
+msgstr ""
 
 # Objects : [w97943801]
 # Names: [Ленинская улица]
@@ -75,6 +81,7 @@ msgstr ""
 # Objects : [w97726346]
 # Names: [Марковская улица]
 msgid "Марковская"
+msgstr ""
 
 # Objects : [w262053279]
 # Names: [Могилевская улица]
@@ -103,6 +110,7 @@ msgstr ""
 # Objects : [w98006779]
 # Names: [Озерный переулок]
 msgid "Озерный"
+msgstr ""
 
 # Objects : [w97724268, w219746835]
 # Names: [переулок Островского, улица Островского]
@@ -162,6 +170,7 @@ msgstr ""
 # Objects : [w98727535]
 # Names: [Совхозная улица]
 msgid "Совхозная"
+msgstr ""
 
 # Objects : [w97943791]
 # Names: [Социалистическая улица]
@@ -191,4 +200,5 @@ msgstr ""
 # Objects : [w25251269, w108262105, w108262108]
 # Names: [улица Якова Зайца]
 msgid "Якова Зайца"
+msgstr ""
 

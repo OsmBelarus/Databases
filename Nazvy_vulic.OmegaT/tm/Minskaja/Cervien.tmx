@@ -228,6 +228,10 @@
       <tuv lang="BE"><seg>#Падлесная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Подлесный</seg></tuv>
+      <tuv lang="BE"><seg>#Падлесны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Полевая</seg></tuv>
       <tuv lang="BE"><seg>#Палявая</seg></tuv>
     </tu>
@@ -289,7 +293,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Флегонтова</seg></tuv>
-      <tuv lang="BE"><seg>#Перамогі#Флягонтава</seg></tuv>
+      <tuv lang="BE"><seg>#Флягонтава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Фрунзе</seg></tuv>

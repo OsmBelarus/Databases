@@ -329,7 +329,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Воинов-Интернационалистов</seg></tuv>
-      <tuv lang="BE"><seg>#Вайскоўцаў-Інтэрнацыяналістаў</seg></tuv>
+      <tuv lang="BE"><seg>#Вайскоўцаў-Інтэрнацыяналістаў#Воінаў-Інтэрнацыяналістаў</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Войкова</seg></tuv>
@@ -1002,6 +1002,10 @@
     <tu>
       <tuv lang="RU"><seg>Маргелова</seg></tuv>
       <tuv lang="BE"><seg>#Маргелава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Марка Фрадкина</seg></tuv>
+      <tuv lang="BE"><seg>#Марка Фрадкіна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Маскаева</seg></tuv>

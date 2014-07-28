@@ -92,6 +92,10 @@
       <tuv lang="BE"><seg>#Арлоўскага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Партизанская</seg></tuv>
+      <tuv lang="BE"><seg>#Партызанская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Первомайская</seg></tuv>
       <tuv lang="BE"><seg>#Першамайская</seg></tuv>
     </tu>
@@ -104,12 +108,28 @@
       <tuv lang="BE"><seg>#Пясчаная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Петруши</seg></tuv>
+      <tuv lang="BE"><seg>#Пятрушы</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Пионерская</seg></tuv>
       <tuv lang="BE"><seg>#Піянерская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пушкинская</seg></tuv>
       <tuv lang="BE"><seg>#Пушкінская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пушкинский</seg></tuv>
+      <tuv lang="BE"><seg>#Пушкінскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Руковецкая</seg></tuv>
+      <tuv lang="BE"><seg>#Рукавецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рябцевича</seg></tuv>
+      <tuv lang="BE"><seg>#Рабцэвіча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Садовая</seg></tuv>
@@ -166,6 +186,14 @@
     <tu>
       <tuv lang="RU"><seg>Чапаева</seg></tuv>
       <tuv lang="BE"><seg>#Чапаева</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Черныша</seg></tuv>
+      <tuv lang="BE"><seg>#Чарныша</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шомина</seg></tuv>
+      <tuv lang="BE"><seg>#Шоміна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Юбилейная</seg></tuv>

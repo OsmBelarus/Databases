@@ -4,6 +4,10 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>60 Комсомольцев подпольщиков</seg></tuv>
+      <tuv lang="BE"><seg>#60 Камсамольцаў Падпольшчыкаў</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>70 лет Октября</seg></tuv>
       <tuv lang="BE"><seg>#70 гадоў Кастрычніка</seg></tuv>
     </tu>
@@ -198,6 +202,10 @@
     <tu>
       <tuv lang="RU"><seg>Октябрьская</seg></tuv>
       <tuv lang="BE"><seg>#Кастрычніцкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Олега Кошевого</seg></tuv>
+      <tuv lang="BE"><seg>#Алега Кашавога</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Парковая</seg></tuv>

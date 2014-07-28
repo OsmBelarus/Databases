@@ -5,7 +5,7 @@
   <body>
     <tu>
       <tuv lang="RU"><seg>10 лет Октября</seg></tuv>
-      <tuv lang="BE"><seg>#10 год Кастрычніка</seg></tuv>
+      <tuv lang="BE"><seg>#10 гадоў Кастрычніка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>35-ой Гвардейской Миномётной Бригады</seg></tuv>
@@ -13,7 +13,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>40 лет Октября</seg></tuv>
-      <tuv lang="BE"><seg>#40 год Кастрычніка</seg></tuv>
+      <tuv lang="BE"><seg>#40 гадоў Кастрычніка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>8 Марта</seg></tuv>
@@ -205,7 +205,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ильича</seg></tuv>
-      <tuv lang="BE"><seg>#Іл'іча</seg></tuv>
+      <tuv lang="BE"><seg>#Іл’іча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Индустриальный</seg></tuv>
@@ -400,6 +400,10 @@
       <tuv lang="BE"><seg>#Меліяратараў</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Метизников</seg></tuv>
+      <tuv lang="BE"><seg>#Мяцізнікаў</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Милоградская</seg></tuv>
       <tuv lang="BE"><seg>#Мілаградзкая</seg></tuv>
     </tu>
@@ -504,6 +508,10 @@
       <tuv lang="BE"><seg>#Першамайская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Петра Ульянова</seg></tuv>
+      <tuv lang="BE"><seg>#Пятра Ўльянава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Петруся Бровки</seg></tuv>
       <tuv lang="BE"><seg>#Пятруся Броўкі</seg></tuv>
     </tu>
@@ -550,6 +558,10 @@
     <tu>
       <tuv lang="RU"><seg>Путевая</seg></tuv>
       <tuv lang="BE"><seg>#Пуцявая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Путевой</seg></tuv>
+      <tuv lang="BE"><seg>#Пуцявы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пушкина</seg></tuv>
@@ -638,6 +650,10 @@
     <tu>
       <tuv lang="RU"><seg>Солнечный</seg></tuv>
       <tuv lang="BE"><seg>#Сонечны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Солтановская</seg></tuv>
+      <tuv lang="BE"><seg>#Солтанаўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Спортивная</seg></tuv>

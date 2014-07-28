@@ -76,6 +76,10 @@
       <tuv lang="BE"><seg>#Бяльчанскі</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Берёзовский</seg></tuv>
+      <tuv lang="BE"><seg>#Бярозаўскі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Боровая</seg></tuv>
       <tuv lang="BE"><seg>#Баравая</seg></tuv>
     </tu>
@@ -168,6 +172,10 @@
       <tuv lang="BE"><seg>#Даватара</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Дорожная</seg></tuv>
+      <tuv lang="BE"><seg>#Дарожная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Дружбы</seg></tuv>
       <tuv lang="BE"><seg>#Дружбы</seg></tuv>
     </tu>
@@ -230,6 +238,10 @@
     <tu>
       <tuv lang="RU"><seg>Ильи Магалашвили</seg></tuv>
       <tuv lang="BE"><seg>#Іллі Магалашвілі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Интернациональная</seg></tuv>
+      <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Иоанна Зодчего</seg></tuv>
@@ -392,6 +404,10 @@
       <tuv lang="BE"><seg>#Межавы</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Мелиоративная</seg></tuv>
+      <tuv lang="BE"><seg>#Меліяратыўная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Мира</seg></tuv>
       <tuv lang="BE"><seg>#Міру</seg></tuv>
     </tu>
@@ -534,6 +550,10 @@
     <tu>
       <tuv lang="RU"><seg>Радищева</seg></tuv>
       <tuv lang="BE"><seg>#Радзішчава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Республиканская</seg></tuv>
+      <tuv lang="BE"><seg>#Рэспубліканская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Рижский</seg></tuv>

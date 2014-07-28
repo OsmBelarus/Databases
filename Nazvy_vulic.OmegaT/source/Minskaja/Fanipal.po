@@ -9,7 +9,7 @@ msgid "Богдашевского"
 msgstr ""
 
 # Objects : [w25307835]
-# Names: [ул. Бровки]
+# Names: [улица Бровки]
 msgid "Бровки"
 msgstr ""
 

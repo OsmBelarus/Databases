@@ -4,11 +4,43 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>10-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>1-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>2-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>3-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>4-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>5-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>6-я Линия</seg></tuv>
       <tuv lang="BE"><seg>#Лінія</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>7-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>8-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>9-я Линия</seg></tuv>
       <tuv lang="BE"><seg>#Лінія</seg></tuv>
     </tu>
     <tu>

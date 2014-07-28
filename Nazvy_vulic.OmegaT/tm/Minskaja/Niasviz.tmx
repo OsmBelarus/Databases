@@ -24,16 +24,16 @@
       <tuv lang="BE"><seg>#Дружная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>К. Чорного</seg></tuv>
-      <tuv lang="BE"><seg>#К. Чорнага</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Карла Либкнехта</seg></tuv>
       <tuv lang="BE"><seg>#Карла Лібкнехта</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
       <tuv lang="BE"><seg>#Кірава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кузьмы Чорного</seg></tuv>
+      <tuv lang="BE"><seg>#К. Чорнага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Курчатова</seg></tuv>
@@ -44,12 +44,16 @@
       <tuv lang="BE"><seg>#Лазо</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ломоносова</seg></tuv>
+      <tuv lang="BE"><seg>#Ламаносава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Луговая</seg></tuv>
       <tuv lang="BE"><seg>#Лугавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Некрасова</seg></tuv>

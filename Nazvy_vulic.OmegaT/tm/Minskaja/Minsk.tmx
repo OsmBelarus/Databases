@@ -13,7 +13,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>50 лет Победы</seg></tuv>
-      <tuv lang="BE"><seg>#50 год Перамогі</seg></tuv>
+      <tuv lang="BE"><seg>#50 гадоў Перамогі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Абрикосовая</seg></tuv>
@@ -249,7 +249,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Багряная</seg></tuv>
-      <tuv lang="BE"><seg>#Барвовая#Барвяная</seg></tuv>
+      <tuv lang="BE"><seg>#Барвовая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Багряный</seg></tuv>
@@ -382,6 +382,10 @@
     <tu>
       <tuv lang="RU"><seg>Большая Слепня</seg></tuv>
       <tuv lang="BE"><seg>#Вялікая Слепня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Большое Стиклево</seg></tuv>
+      <tuv lang="BE"><seg>#Вялікае Сціклева#Зацань</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Боровецкий</seg></tuv>
@@ -1173,7 +1177,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Зацень</seg></tuv>
-      <tuv lang="BE"><seg>#Зацень</seg></tuv>
+      <tuv lang="BE"><seg>#Зацань</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Звёздная</seg></tuv>
@@ -1209,7 +1213,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Зимний</seg></tuv>
-      <tuv lang="BE"><seg>#Зімні#Зімовы</seg></tuv>
+      <tuv lang="BE"><seg>#Зімовы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Зимняя</seg></tuv>
@@ -1852,6 +1856,10 @@
       <tuv lang="BE"><seg>#Ліпкаўская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Липковский</seg></tuv>
+      <tuv lang="BE"><seg>#Ліпкаўскі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Липовая</seg></tuv>
       <tuv lang="BE"><seg>#Ліпавая</seg></tuv>
     </tu>
@@ -1970,6 +1978,10 @@
     <tu>
       <tuv lang="RU"><seg>Малая</seg></tuv>
       <tuv lang="BE"><seg>#Малая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Малая Серебрянская</seg></tuv>
+      <tuv lang="BE"><seg>#Серабранская малая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Малинина</seg></tuv>
@@ -2325,15 +2337,15 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Нововиленская</seg></tuv>
-      <tuv lang="BE"><seg>#Нававіленская</seg></tuv>
+      <tuv lang="BE"><seg>#Нававіленская#Новавіленская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Нововиленский</seg></tuv>
-      <tuv lang="BE"><seg>#Нававіленскі</seg></tuv>
+      <tuv lang="BE"><seg>#Новавіленскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новосельская</seg></tuv>
-      <tuv lang="BE"><seg>#Навасельская</seg></tuv>
+      <tuv lang="BE"><seg>#Новасельская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новосельский</seg></tuv>
@@ -2492,6 +2504,10 @@
       <tuv lang="BE"><seg>#Заснавальнікаў</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Острожских</seg></tuv>
+      <tuv lang="BE"><seg>#Астрожскіх</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Острошицкая</seg></tuv>
       <tuv lang="BE"><seg>#Астрашыцкая</seg></tuv>
     </tu>
@@ -2622,10 +2638,6 @@
     <tu>
       <tuv lang="RU"><seg>Петруся Бровки</seg></tuv>
       <tuv lang="BE"><seg>#Пятруся Броўкі</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Пилотская</seg></tuv>
-      <tuv lang="BE"><seg>#Пілоцкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пимена Панченко</seg></tuv>
@@ -2825,7 +2837,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Проездной</seg></tuv>
-      <tuv lang="BE"><seg>#Праязны</seg></tuv>
+      <tuv lang="BE"><seg>#Праезны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Промышленная</seg></tuv>
@@ -3124,10 +3136,6 @@
       <tuv lang="BE"><seg>#Серабранская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Серебрянская малая</seg></tuv>
-      <tuv lang="BE"><seg>#Серабранская малая</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Серебрянский</seg></tuv>
       <tuv lang="BE"><seg>#Серабранскі</seg></tuv>
     </tu>
@@ -3261,7 +3269,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Софьи Ковалевской</seg></tuv>
-      <tuv lang="BE"><seg>#Соф'і Кавалеўскай</seg></tuv>
+      <tuv lang="BE"><seg>#Соф'і Кавалеўскай#Соф’і Кавалеўскай</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Социалистическая</seg></tuv>
@@ -3566,6 +3574,10 @@
     <tu>
       <tuv lang="RU"><seg>Тучинский</seg></tuv>
       <tuv lang="BE"><seg>#Тучынскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тышкевичей</seg></tuv>
+      <tuv lang="BE"><seg>#Тышкевічаў</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Тяпинского</seg></tuv>

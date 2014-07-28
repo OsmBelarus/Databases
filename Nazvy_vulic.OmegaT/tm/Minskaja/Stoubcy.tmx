@@ -44,6 +44,10 @@
       <tuv lang="BE"><seg>#Вечаркевіча</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Владислава Сырокомли</seg></tuv>
+      <tuv lang="BE"><seg>#Уладзіслава Сыракомлі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Володарского</seg></tuv>
       <tuv lang="BE"><seg>#Валадарскага</seg></tuv>
     </tu>
@@ -110,6 +114,10 @@
     <tu>
       <tuv lang="RU"><seg>Ивенецкая</seg></tuv>
       <tuv lang="BE"><seg>#Івянецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Интернациональная</seg></tuv>
+      <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Казинца</seg></tuv>
@@ -248,8 +256,12 @@
       <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Моторостроителей</seg></tuv>
+      <tuv lang="BE"><seg>#Маторабудаўнікоў</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Набережный</seg></tuv>
-      <tuv lang="BE"><seg>#Набяражны</seg></tuv>
+      <tuv lang="BE"><seg>#Набярэжны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Наднёманская</seg></tuv>

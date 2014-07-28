@@ -4,8 +4,28 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>70 лет Октября</seg></tuv>
+      <tuv lang="BE"><seg>#70 гадоў Кастрычніка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Базарный</seg></tuv>
+      <tuv lang="BE"><seg>#Базарны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Береговая</seg></tuv>
       <tuv lang="BE"><seg>#Берагавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ветеринарный</seg></tuv>
+      <tuv lang="BE"><seg>#Ветэрынарны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витоля</seg></tuv>
+      <tuv lang="BE"><seg>#Вітоля</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Горького</seg></tuv>
+      <tuv lang="BE"><seg>#Горкага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дёмина</seg></tuv>
@@ -32,6 +52,10 @@
       <tuv lang="BE"><seg>#Чырвонаармейская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Кривоноса</seg></tuv>
+      <tuv lang="BE"><seg>#Крываноса</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Ленинская</seg></tuv>
       <tuv lang="BE"><seg>#Ленінская</seg></tuv>
     </tu>
@@ -42,6 +66,10 @@
     <tu>
       <tuv lang="RU"><seg>Луговая</seg></tuv>
       <tuv lang="BE"><seg>#Лугавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Марковская</seg></tuv>
+      <tuv lang="BE"><seg>#Маркаўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Могилевская</seg></tuv>
@@ -58,6 +86,10 @@
     <tu>
       <tuv lang="RU"><seg>Новый</seg></tuv>
       <tuv lang="BE"><seg>#Новы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Озерный</seg></tuv>
+      <tuv lang="BE"><seg>#Азёрны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Островского</seg></tuv>
@@ -104,6 +136,10 @@
       <tuv lang="BE"><seg>#Савецкая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Совхозная</seg></tuv>
+      <tuv lang="BE"><seg>#Саўгасная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Социалистическая</seg></tuv>
       <tuv lang="BE"><seg>#Сацыялістычная</seg></tuv>
     </tu>
@@ -122,5 +158,9 @@
     <tu>
       <tuv lang="RU"><seg>Юбилейная</seg></tuv>
       <tuv lang="BE"><seg>#Юбілейная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Якова Зайца</seg></tuv>
+      <tuv lang="BE"><seg>#Якава Зайца</seg></tuv>
     </tu>
   </body></tmx>

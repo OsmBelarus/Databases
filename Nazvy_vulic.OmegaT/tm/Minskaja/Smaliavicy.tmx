@@ -101,7 +101,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заводская</seg></tuv>
-      <tuv lang="BE"><seg>#Завадская</seg></tuv>
+      <tuv lang="BE"><seg>#Заводская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Загорская</seg></tuv>
@@ -224,12 +224,20 @@
       <tuv lang="BE"><seg>#Маскоўская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Николаевский</seg></tuv>
+      <tuv lang="BE"><seg>#Мікалаеўскі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Новаторская</seg></tuv>
       <tuv lang="BE"><seg>#Наватарская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новобазарная</seg></tuv>
       <tuv lang="BE"><seg>#Новабазарная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новосёлов</seg></tuv>
+      <tuv lang="BE"><seg>#Навасёлаў</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Октябрьская</seg></tuv>
