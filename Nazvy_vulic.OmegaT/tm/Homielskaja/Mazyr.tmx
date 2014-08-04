@@ -52,11 +52,11 @@
       <tuv lang="BE"><seg>#Гогаля</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Дзержинского Ф. Э.</seg></tuv>
+      <tuv lang="RU"><seg>Дзержинского</seg></tuv>
       <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Доватора Л. М.</seg></tuv>
+      <tuv lang="RU"><seg>Доватора</seg></tuv>
       <tuv lang="BE"><seg>#Даватара</seg></tuv>
     </tu>
     <tu>
@@ -196,7 +196,7 @@
       <tuv lang="BE"><seg>#Матросава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Маяковского В. В.</seg></tuv>
+      <tuv lang="RU"><seg>Маяковского</seg></tuv>
       <tuv lang="BE"><seg>#Маякоўскага У. У.</seg></tuv>
     </tu>
     <tu>
@@ -296,10 +296,6 @@
       <tuv lang="BE"><seg>#Прытыцкага</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Притыцкого С. О.</seg></tuv>
-      <tuv lang="BE"><seg>#Прытыцкага</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Пролетарская</seg></tuv>
       <tuv lang="BE"><seg>#Пралетарская</seg></tuv>
     </tu>
@@ -380,7 +376,7 @@
       <tuv lang="BE"><seg>#Працоўная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Тургенева И. С.</seg></tuv>
+      <tuv lang="RU"><seg>Тургенева</seg></tuv>
       <tuv lang="BE"><seg>#Тургенева I. C.</seg></tuv>
     </tu>
     <tu>
@@ -393,11 +389,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Фрунзе</seg></tuv>
-      <tuv lang="BE"><seg>#Фрунзэ</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Фрунзе М. В.</seg></tuv>
-      <tuv lang="BE"><seg>#Фрунзе М. В.</seg></tuv>
+      <tuv lang="BE"><seg>#Фрунзе М. В.#Фрунзэ</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Царенко</seg></tuv>

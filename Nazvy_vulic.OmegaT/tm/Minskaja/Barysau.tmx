@@ -5,7 +5,7 @@
   <body>
     <tu>
       <tuv lang="RU"><seg>10 лет БССР</seg></tuv>
-      <tuv lang="BE"><seg>#10 год БССР</seg></tuv>
+      <tuv lang="BE"><seg>#10 гадоў БССР#Мінскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>1 Июля</seg></tuv>
@@ -17,7 +17,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>30 лет БССР</seg></tuv>
-      <tuv lang="BE"><seg>#30 год БССР</seg></tuv>
+      <tuv lang="BE"><seg>#10 гадоў БССР</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>30 лет ВЛКСМ</seg></tuv>
@@ -29,7 +29,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>50 лет БССР</seg></tuv>
-      <tuv lang="BE"><seg>#50 год БССР</seg></tuv>
+      <tuv lang="BE"><seg>#50 гадоў БССР</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>8 Марта</seg></tuv>
@@ -54,6 +54,10 @@
     <tu>
       <tuv lang="RU"><seg>Андреева</seg></tuv>
       <tuv lang="BE"><seg>#Андрэева</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Банный</seg></tuv>
+      <tuv lang="BE"><seg>#Лазневы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Батарейная</seg></tuv>
@@ -280,6 +284,10 @@
       <tuv lang="BE"><seg>#Камарова</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Коминтерна</seg></tuv>
+      <tuv lang="BE"><seg>#Камінтэрна</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Коммунарная</seg></tuv>
       <tuv lang="BE"><seg>#Камунарная</seg></tuv>
     </tu>
@@ -381,7 +389,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Минская</seg></tuv>
-      <tuv lang="BE"><seg>#Менская</seg></tuv>
+      <tuv lang="BE"><seg>#Мінская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Михаила Морозова</seg></tuv>
@@ -398,6 +406,10 @@
     <tu>
       <tuv lang="RU"><seg>Мопровская</seg></tuv>
       <tuv lang="BE"><seg>#Мопраўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Московской дивизии</seg></tuv>
+      <tuv lang="BE"><seg>#Маскоўскай дывізіі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мостовой</seg></tuv>
@@ -586,6 +598,10 @@
     <tu>
       <tuv lang="RU"><seg>Розы Люксембург</seg></tuv>
       <tuv lang="BE"><seg>#Розы Люксембург</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рынок Спатканне</seg></tuv>
+      <tuv lang="BE"><seg>#Рынак Спатканне</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Светлова</seg></tuv>

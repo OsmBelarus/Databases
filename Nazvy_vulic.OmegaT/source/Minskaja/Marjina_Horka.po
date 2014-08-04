@@ -79,8 +79,9 @@ msgid "Заречная"
 msgstr ""
 
 # Objects : [w60127396]
-# Names: [Ивашко ул.]
+# Names: [улица Ивашко]
 msgid "Ивашко"
+msgstr ""
 
 # Objects : [w60129667]
 # Names: [Интернациональный переулок]

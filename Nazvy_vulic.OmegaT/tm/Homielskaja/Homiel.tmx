@@ -1280,10 +1280,6 @@
       <tuv lang="BE"><seg>#Пасечная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Пенязькова</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца Пенязькова Д. Н.</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Перевалочная</seg></tuv>
       <tuv lang="BE"><seg>#Перавалачная</seg></tuv>
     </tu>
@@ -1552,7 +1548,7 @@
       <tuv lang="BE"><seg>#Сазонава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Салтыкова-Щедрина М. Е.</seg></tuv>
+      <tuv lang="RU"><seg>Салтыкова-Щедрина</seg></tuv>
       <tuv lang="BE"><seg>#Салтыкова-Шчадрына М. Е.</seg></tuv>
     </tu>
     <tu>

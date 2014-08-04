@@ -217,7 +217,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Констанции Буйло</seg></tuv>
-      <tuv lang="BE"><seg>#Канстанцыі Буйло</seg></tuv>
+      <tuv lang="BE"><seg>#Канстанцыі Буйлы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Космонавтов</seg></tuv>
@@ -300,6 +300,10 @@
       <tuv lang="BE"><seg>#Лагойская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ломоносова</seg></tuv>
+      <tuv lang="BE"><seg>#Ламаносава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Луговая</seg></tuv>
       <tuv lang="BE"><seg>#Лугавая</seg></tuv>
     </tu>
@@ -357,7 +361,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Металлистов</seg></tuv>
-      <tuv lang="BE"><seg>#Металістаў#Міхаленкі</seg></tuv>
+      <tuv lang="BE"><seg>#Металістаў</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Минская</seg></tuv>

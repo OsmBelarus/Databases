@@ -136,6 +136,7 @@ msgstr ""
 # Objects : [w208233655]
 # Names: [улица Кирова]
 msgid "Кирова"
+msgstr ""
 
 # Objects : [w25543436]
 # Names: [Кольцевая улица]
@@ -412,8 +413,9 @@ msgid "Танковая"
 msgstr ""
 
 # Objects : [w208216337]
-# Names: [улица Тихая]
+# Names: [Тихая улица]
 msgid "Тихая"
+msgstr ""
 
 # Objects : [w97685694]
 # Names: [улица Толстого]
@@ -471,8 +473,8 @@ msgid "Шарко"
 msgstr ""
 
 # Objects : [w208377250]
-# Names: [улица Школная]
-msgid "Школная"
+# Names: [улица Школьная]
+msgid "Школьная"
 msgstr ""
 
 # Objects : [w208388805]

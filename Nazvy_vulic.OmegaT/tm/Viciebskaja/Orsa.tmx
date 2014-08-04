@@ -28,6 +28,10 @@
       <tuv lang="BE"><seg>#60 гадоў БССР</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>83 км Витебского пути</seg></tuv>
+      <tuv lang="BE"><seg>#83 км Віцебскага шляху</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>8 Марта</seg></tuv>
       <tuv lang="BE"><seg>#8 Сакавіка</seg></tuv>
     </tu>
@@ -460,10 +464,6 @@
       <tuv lang="BE"><seg>#Крылова</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Курган Славы</seg></tuv>
-      <tuv lang="BE"><seg>#Курган Славы</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Кушнерский</seg></tuv>
       <tuv lang="BE"><seg>#Кушнерскі</seg></tuv>
     </tu>
@@ -845,7 +845,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Санитарная Ветка</seg></tuv>
-      <tuv lang="BE"><seg>#Санітарная галіна</seg></tuv>
+      <tuv lang="BE"><seg>#Санітарная Галіна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Свердлова</seg></tuv>

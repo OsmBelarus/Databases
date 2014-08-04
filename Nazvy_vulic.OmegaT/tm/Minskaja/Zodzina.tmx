@@ -4,6 +4,14 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>40 лет Октября</seg></tuv>
+      <tuv lang="BE"><seg>#40 гадоў Кастрычніка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>50 лет Октября</seg></tuv>
+      <tuv lang="BE"><seg>#50 гадоў Кастрычніка</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>8 Марта</seg></tuv>
       <tuv lang="BE"><seg>#8 Сакавіка</seg></tuv>
     </tu>
@@ -302,6 +310,10 @@
     <tu>
       <tuv lang="RU"><seg>Родниковая</seg></tuv>
       <tuv lang="BE"><seg>#Крынічная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рождественская</seg></tuv>
+      <tuv lang="BE"><seg>#Калядная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Рокоссовского</seg></tuv>

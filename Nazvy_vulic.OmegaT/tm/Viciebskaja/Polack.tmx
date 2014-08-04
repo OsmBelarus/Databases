@@ -88,6 +88,10 @@
       <tuv lang="BE"><seg>#Будзёнага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Буйницкого</seg></tuv>
+      <tuv lang="BE"><seg>#Буйніцкага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Василия Перова</seg></tuv>
       <tuv lang="BE"><seg>#Васіля Пярова</seg></tuv>
     </tu>
@@ -158,6 +162,10 @@
     <tu>
       <tuv lang="RU"><seg>Депутатская</seg></tuv>
       <tuv lang="BE"><seg>#Дэпутацкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Депутатский</seg></tuv>
+      <tuv lang="BE"><seg>#Дэпутацкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дзержинского</seg></tuv>
@@ -304,8 +312,16 @@
       <tuv lang="BE"><seg>#Катоўскага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Красина</seg></tuv>
+      <tuv lang="BE"><seg>#Красіна</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Красноармейская</seg></tuv>
       <tuv lang="BE"><seg>#Чырвонаармейская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Краснова</seg></tuv>
+      <tuv lang="BE"><seg>#Краснова</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Красный</seg></tuv>
@@ -492,6 +508,10 @@
       <tuv lang="BE"><seg>#Кастрычніцкі</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Орджоникидзе</seg></tuv>
+      <tuv lang="BE"><seg>#Арджанікідзэ</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Парковая</seg></tuv>
       <tuv lang="BE"><seg>#Паркавая</seg></tuv>
     </tu>
@@ -534,6 +554,10 @@
     <tu>
       <tuv lang="RU"><seg>Правонабережная</seg></tuv>
       <tuv lang="BE"><seg>#Праванабярэжная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Правонабережный</seg></tuv>
+      <tuv lang="BE"><seg>#Праванабярэжны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пригородная</seg></tuv>
@@ -770,6 +794,10 @@
     <tu>
       <tuv lang="RU"><seg>Чапаева</seg></tuv>
       <tuv lang="BE"><seg>#Чапаева</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чернышевского</seg></tuv>
+      <tuv lang="BE"><seg>#Чарнышэўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Черняховского</seg></tuv>

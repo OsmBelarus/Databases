@@ -333,7 +333,7 @@ msgstr ""
 msgid "Бакинская"
 msgstr ""
 
-# Objects : [w25229002]
+# Objects : [w25229002, w294862641]
 # Names: [Балтийская улица]
 msgid "Балтийская"
 msgstr ""
@@ -1777,7 +1777,7 @@ msgstr ""
 msgid "Карла Маркса"
 msgstr ""
 
-# Objects : [w25117949, w25773358, w203972625, w225098946]
+# Objects : [w25117949, w25773358, w278718793, w294822127, w295284319]
 # Names: [Каролинская улица]
 msgid "Каролинская"
 msgstr ""
@@ -2516,7 +2516,7 @@ msgstr ""
 msgid "Маневича"
 msgstr ""
 
-# Objects : [w25228999, w96933132]
+# Objects : [w294862642]
 # Names: [улица Марата]
 msgid "Марата"
 msgstr ""

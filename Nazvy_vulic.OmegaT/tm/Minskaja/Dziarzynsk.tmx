@@ -112,6 +112,10 @@
       <tuv lang="BE"><seg>#Карла Маркса</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Кирова</seg></tuv>
+      <tuv lang="BE"><seg>#Кірава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Кольцевая</seg></tuv>
       <tuv lang="BE"><seg>#Кальцавая</seg></tuv>
     </tu>
@@ -328,6 +332,10 @@
       <tuv lang="BE"><seg>#Танкавая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Тихая</seg></tuv>
+      <tuv lang="BE"><seg>#Ціхая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Толстого</seg></tuv>
       <tuv lang="BE"><seg>#Талстога</seg></tuv>
     </tu>
@@ -372,7 +380,7 @@
       <tuv lang="BE"><seg>#Шарко</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Школная</seg></tuv>
+      <tuv lang="RU"><seg>Школьная</seg></tuv>
       <tuv lang="BE"><seg>#Школьная</seg></tuv>
     </tu>
     <tu>

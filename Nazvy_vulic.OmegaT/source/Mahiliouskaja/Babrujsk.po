@@ -1274,7 +1274,7 @@ msgstr ""
 msgid "Розы Люксембург"
 msgstr ""
 
-# Objects : [w25254492]
+# Objects : [w25254492, w295257144]
 # Names: [улица Рокоссовского]
 msgid "Рокоссовского"
 msgstr ""

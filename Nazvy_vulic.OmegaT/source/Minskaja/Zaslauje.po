@@ -81,6 +81,7 @@ msgstr ""
 # Objects : [w25271891]
 # Names: [улица Гонолес]
 msgid "Гонолес"
+msgstr ""
 
 # Objects : [w25272997]
 # Names: [Грибная улица]

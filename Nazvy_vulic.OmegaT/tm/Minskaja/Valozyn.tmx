@@ -12,8 +12,12 @@
       <tuv lang="BE"><seg>#1 Мая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>50 лет Октября</seg></tuv>
+      <tuv lang="BE"><seg>#50 гадоў Кастрычніка</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>70 лет Октября</seg></tuv>
-      <tuv lang="BE"><seg>#70 год Кастрычніка</seg></tuv>
+      <tuv lang="BE"><seg>#70 гадоў Кастрычніка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>8 Марта</seg></tuv>

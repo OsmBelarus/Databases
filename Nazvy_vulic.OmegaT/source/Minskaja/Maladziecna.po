@@ -138,7 +138,7 @@ msgstr ""
 msgid "Гоголя"
 msgstr ""
 
-# Objects : [w25276758]
+# Objects : [w25276765]
 # Names: [улица Голинского]
 msgid "Голинского"
 msgstr ""
@@ -163,7 +163,7 @@ msgstr ""
 msgid "Грунтовая"
 msgstr ""
 
-# Objects : [w25276765, w25276768]
+# Objects : [w25276758, w25276768]
 # Names: [улица Гусовского]
 msgid "Гусовского"
 msgstr ""
@@ -371,6 +371,7 @@ msgstr ""
 # Objects : [w107392150]
 # Names: [улица Ломоносова]
 msgid "Ломоносова"
+msgstr ""
 
 # Objects : [w107188748]
 # Names: [Луговая улица]

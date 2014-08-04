@@ -4,6 +4,10 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>50 лет БССР</seg></tuv>
+      <tuv lang="BE"><seg>#50 гадоў БССР</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Абрамовича</seg></tuv>
       <tuv lang="BE"><seg>#Абрамовіча</seg></tuv>
     </tu>
@@ -44,12 +48,20 @@
       <tuv lang="BE"><seg>#Заазёрная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Калиновского</seg></tuv>
+      <tuv lang="BE"><seg>#Каліноўскага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Комсомольская</seg></tuv>
       <tuv lang="BE"><seg>#Камсамольская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Крыничная</seg></tuv>
       <tuv lang="BE"><seg>#Крынічная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ленина</seg></tuv>
+      <tuv lang="BE"><seg>#Леніна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Максима Богдановича</seg></tuv>
@@ -72,8 +84,16 @@
       <tuv lang="BE"><seg>#Пралетарская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Пушкина</seg></tuv>
+      <tuv lang="BE"><seg>#Пушкіна</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Ромашко</seg></tuv>
       <tuv lang="BE"><seg>#Рамашко</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Светлая</seg></tuv>
+      <tuv lang="BE"><seg>#Светлая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Северная</seg></tuv>

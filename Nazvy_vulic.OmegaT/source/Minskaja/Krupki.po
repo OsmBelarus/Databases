@@ -6,6 +6,7 @@ msgstr ""
 # Objects : [w84837945]
 # Names: [улица Ленина]
 msgid "Ленина"
+msgstr ""
 
 # Objects : [w80218549]
 # Names: [Майская улица]

@@ -4,6 +4,10 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>Благовещенская</seg></tuv>
+      <tuv lang="BE"><seg>#Благавешчанская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Буденного</seg></tuv>
       <tuv lang="BE"><seg>#Будзёнага</seg></tuv>
     </tu>

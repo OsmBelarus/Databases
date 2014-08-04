@@ -52,10 +52,6 @@
       <tuv lang="BE"><seg>#Лінія</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>31-я школа</seg></tuv>
-      <tuv lang="BE"><seg>#31-я школа</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>33-й Армии</seg></tuv>
       <tuv lang="BE"><seg>#33-й Арміі</seg></tuv>
     </tu>
@@ -440,10 +436,6 @@
       <tuv lang="BE"><seg>#Шпітальная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Гостиница « Лучёса»</seg></tuv>
-      <tuv lang="BE"><seg>#Гасцініца « Лучоса»</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Гражданская</seg></tuv>
       <tuv lang="BE"><seg>#Грамадзянская</seg></tuv>
     </tu>
@@ -536,10 +528,6 @@
       <tuv lang="BE"><seg>#Еўсцігнеева</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ж/ Д Вокзал</seg></tuv>
-      <tuv lang="BE"><seg>#Чыгуначны вакзал</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Железнодорожная</seg></tuv>
       <tuv lang="BE"><seg>#Чыгуначная</seg></tuv>
     </tu>
@@ -566,10 +554,6 @@
     <tu>
       <tuv lang="RU"><seg>Журжевская</seg></tuv>
       <tuv lang="BE"><seg>#Журжаўская</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Завод « Ви З А С»</seg></tuv>
-      <tuv lang="BE"><seg>#Завод « Ві З А С»</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заводская</seg></tuv>
@@ -924,10 +908,6 @@
       <tuv lang="BE"><seg>#Ліпавая</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Лицей № 5 приборостроения</seg></tuv>
-      <tuv lang="BE"><seg>#Лiцэй № 5 прыборабудавання</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Локомотивная</seg></tuv>
       <tuv lang="BE"><seg>#Лакаматыўная</seg></tuv>
     </tu>
@@ -970,10 +950,6 @@
     <tu>
       <tuv lang="RU"><seg>Маврина</seg></tuv>
       <tuv lang="BE"><seg>#Маўрына</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Магазин Юбилейный</seg></tuv>
-      <tuv lang="BE"><seg>#Юбілейны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Магистральная</seg></tuv>
@@ -1072,8 +1048,8 @@
       <tuv lang="BE"><seg>#Мясаедава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Напрудная</seg></tuv>
-      <tuv lang="BE"><seg>#Напрудная</seg></tuv>
+      <tuv lang="RU"><seg>Надпрудная</seg></tuv>
+      <tuv lang="BE"><seg>#Надпрудная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Народная</seg></tuv>
@@ -1324,10 +1300,6 @@
       <tuv lang="BE"><seg>#Полацкі</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Полоцкий рынок</seg></tuv>
-      <tuv lang="BE"><seg>#Полацкі рынак</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Полярная</seg></tuv>
       <tuv lang="BE"><seg>#Палярная</seg></tuv>
     </tu>
@@ -1362,14 +1334,6 @@
     <tu>
       <tuv lang="RU"><seg>Правды</seg></tuv>
       <tuv lang="BE"><seg>#Праўды</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Предприятие « Витязь»</seg></tuv>
-      <tuv lang="BE"><seg>#Прадпрыемства « Віцязь»</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Предприятие « Эвистор»</seg></tuv>
-      <tuv lang="BE"><seg>#Прадпрыемства « Эвістар»</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Прибережная</seg></tuv>
@@ -1812,10 +1776,6 @@
       <tuv lang="BE"><seg>#Тэхналагічная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Технологический университет</seg></tuv>
-      <tuv lang="BE"><seg>#Тэхналагічны універсітэт</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Тираспольская</seg></tuv>
       <tuv lang="BE"><seg>#Ціраспальская</seg></tuv>
     </tu>
@@ -1858,6 +1818,10 @@
     <tu>
       <tuv lang="RU"><seg>Труда</seg></tuv>
       <tuv lang="BE"><seg>#Працы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Трудовая</seg></tuv>
+      <tuv lang="BE"><seg>#Працоўная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Тувальского</seg></tuv>
@@ -2012,8 +1976,8 @@
       <tuv lang="BE"><seg>#Чкалава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Чугунный</seg></tuv>
-      <tuv lang="BE"><seg>#Чыгунны</seg></tuv>
+      <tuv lang="RU"><seg>Чугуночный</seg></tuv>
+      <tuv lang="BE"><seg>#Чыгуначны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чунчина</seg></tuv>
@@ -2042,10 +2006,6 @@
     <tu>
       <tuv lang="RU"><seg>Широкая</seg></tuv>
       <tuv lang="BE"><seg>#Шырокая</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>школа</seg></tuv>
-      <tuv lang="BE"><seg>#школа</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Школьная</seg></tuv>
