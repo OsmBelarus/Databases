@@ -385,7 +385,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Большое Стиклево</seg></tuv>
-      <tuv lang="BE"><seg>#Вялікае Сціклева#Зацань</seg></tuv>
+      <tuv lang="BE"><seg>#Вялікае Сціклева</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Боровецкий</seg></tuv>
@@ -1569,7 +1569,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Констанции Буйло</seg></tuv>
-      <tuv lang="BE"><seg>#Канстанцыі Буйло</seg></tuv>
+      <tuv lang="BE"><seg>#Канстанцыі Буйлы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кооперативный</seg></tuv>
@@ -1661,11 +1661,11 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Краснозвёздная</seg></tuv>
-      <tuv lang="BE"><seg>#Чырваназоркавая</seg></tuv>
+      <tuv lang="BE"><seg>#Чырвоназоркавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Краснозвёздный</seg></tuv>
-      <tuv lang="BE"><seg>#Чырваназоркавы</seg></tuv>
+      <tuv lang="BE"><seg>#Чырвоназоркавы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Краснослободская</seg></tuv>
@@ -2177,7 +2177,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная#Моладзевая</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молочный</seg></tuv>
@@ -2337,7 +2337,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Нововиленская</seg></tuv>
-      <tuv lang="BE"><seg>#Нававіленская#Новавіленская</seg></tuv>
+      <tuv lang="BE"><seg>#Новавіленская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Нововиленский</seg></tuv>
@@ -3004,6 +3004,10 @@
       <tuv lang="BE"><seg>#Ракасоўскага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Романовская</seg></tuv>
+      <tuv lang="BE"><seg>#Раманаўская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Романовская Слобода</seg></tuv>
       <tuv lang="BE"><seg>#Раманаўская Слабада</seg></tuv>
     </tu>
@@ -3269,7 +3273,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Софьи Ковалевской</seg></tuv>
-      <tuv lang="BE"><seg>#Соф'і Кавалеўскай#Соф’і Кавалеўскай</seg></tuv>
+      <tuv lang="BE"><seg>#Соф’і Кавалеўскай</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Социалистическая</seg></tuv>

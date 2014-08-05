@@ -404,6 +404,10 @@
       <tuv lang="BE"><seg>#Яравая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Окаемова</seg></tuv>
+      <tuv lang="BE"><seg>#Акаемава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Октябрьская</seg></tuv>
       <tuv lang="BE"><seg>#Кастрычніцкая</seg></tuv>
     </tu>
@@ -536,6 +540,10 @@
       <tuv lang="BE"><seg>#Смаленская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Смоленский</seg></tuv>
+      <tuv lang="BE"><seg>#Смаленскі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Смолякова</seg></tuv>
       <tuv lang="BE"><seg>#Смалякова</seg></tuv>
     </tu>
@@ -586,6 +594,10 @@
     <tu>
       <tuv lang="RU"><seg>Титова</seg></tuv>
       <tuv lang="BE"><seg>#Цітова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Толкачёва</seg></tuv>
+      <tuv lang="BE"><seg>#Талкачова</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Толстого</seg></tuv>

@@ -12,6 +12,10 @@
       <tuv lang="BE"><seg>#Астапчыка</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Будённого</seg></tuv>
+      <tuv lang="BE"><seg>#Будзёнага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Вороновича</seg></tuv>
       <tuv lang="BE"><seg>#Варановіча</seg></tuv>
     </tu>
@@ -62,6 +66,10 @@
     <tu>
       <tuv lang="RU"><seg>Калинина</seg></tuv>
       <tuv lang="BE"><seg>#Калініна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Калиновского</seg></tuv>
+      <tuv lang="BE"><seg>#Каліноўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>

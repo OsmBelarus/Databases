@@ -28,7 +28,7 @@ msgstr ""
 msgid "Будного"
 msgstr ""
 
-# Objects : [w25271903, w25272937]
+# Objects : [w25271903, w25272937, w295661530]
 # Names: [Великая улица]
 msgid "Великая"
 msgstr ""
@@ -285,6 +285,7 @@ msgstr ""
 # Objects : [w25271875]
 # Names: [Приморская улица]
 msgid "Приморская"
+msgstr ""
 
 # Objects : [w136841906]
 # Names: [Приозёрная улица]

@@ -44,6 +44,10 @@
       <tuv lang="BE"><seg>#Калініна</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Колхозная</seg></tuv>
+      <tuv lang="BE"><seg>#Калгасная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Комарова</seg></tuv>
       <tuv lang="BE"><seg>#Камарова</seg></tuv>
     </tu>
@@ -82,6 +86,10 @@
     <tu>
       <tuv lang="RU"><seg>Перкина</seg></tuv>
       <tuv lang="BE"><seg>#Перкіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пионерская</seg></tuv>
+      <tuv lang="BE"><seg>#Піянерская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Полевая</seg></tuv>

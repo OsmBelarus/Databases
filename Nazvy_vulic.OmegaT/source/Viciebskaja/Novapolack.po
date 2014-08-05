@@ -23,7 +23,7 @@ msgstr ""
 msgid "4-я Линия"
 msgstr ""
 
-# Objects : [w178017370]
+# Objects : [w32554496, w178017370]
 # Names: [улица 5-я Линия]
 msgid "5-я Линия"
 msgstr ""

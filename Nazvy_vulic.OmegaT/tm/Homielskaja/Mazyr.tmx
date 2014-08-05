@@ -52,6 +52,10 @@
       <tuv lang="BE"><seg>#Гогаля</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Гора коммунаров</seg></tuv>
+      <tuv lang="BE"><seg>#Гара камунараў</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Дзержинского</seg></tuv>
       <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
     </tu>
@@ -184,10 +188,6 @@
       <tuv lang="BE"><seg>#Малініна</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Малинина Н. И.</seg></tuv>
-      <tuv lang="BE"><seg>#Малініна</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Мартиновича</seg></tuv>
       <tuv lang="BE"><seg>#Марціновіча</seg></tuv>
     </tu>
@@ -218,6 +218,10 @@
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
       <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мостовой</seg></tuv>
+      <tuv lang="BE"><seg>#Маставы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Нагорная</seg></tuv>
@@ -280,6 +284,10 @@
       <tuv lang="BE"><seg>#Піянерская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Полевой</seg></tuv>
+      <tuv lang="BE"><seg>#Палявы</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Полесская</seg></tuv>
       <tuv lang="BE"><seg>#Палеская</seg></tuv>
     </tu>
@@ -290,6 +298,10 @@
     <tu>
       <tuv lang="RU"><seg>Портовый</seg></tuv>
       <tuv lang="BE"><seg>#Партовы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Привокзальный</seg></tuv>
+      <tuv lang="BE"><seg>#Прывакзальны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Притыцкого</seg></tuv>
@@ -389,7 +401,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Фрунзе</seg></tuv>
-      <tuv lang="BE"><seg>#Фрунзе М. В.#Фрунзэ</seg></tuv>
+      <tuv lang="BE"><seg>#Фрунзэ</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Царенко</seg></tuv>
@@ -406,6 +418,10 @@
     <tu>
       <tuv lang="RU"><seg>Чкалова</seg></tuv>
       <tuv lang="BE"><seg>#Чкалава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Швейный</seg></tuv>
+      <tuv lang="BE"><seg>#Швейны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Шоссейная</seg></tuv>

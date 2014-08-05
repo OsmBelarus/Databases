@@ -235,12 +235,8 @@ msgstr ""
 msgid "Заслонова"
 msgstr ""
 
-# Objects : [w76488864]
-# Names: [улица Зеленая]
-msgid "Зеленая"
-
-# Objects : [w76488601]
-# Names: [Зелёная улица]
+# Objects : [w76488601, w76488864]
+# Names: [Зелёная улица, улица Зелёная]
 msgid "Зелёная"
 msgstr ""
 

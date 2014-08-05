@@ -284,10 +284,6 @@
       <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>К. Либкнехта</seg></tuv>
-      <tuv lang="BE"><seg>#К. Лібнэхта</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Калинина</seg></tuv>
       <tuv lang="BE"><seg>#Калініна</seg></tuv>
     </tu>
@@ -454,6 +450,10 @@
     <tu>
       <tuv lang="RU"><seg>Лётный</seg></tuv>
       <tuv lang="BE"><seg>#Лётны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Либкнехта</seg></tuv>
+      <tuv lang="BE"><seg>#К. Лібнэхта</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лизы Чайкиной</seg></tuv>

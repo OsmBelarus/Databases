@@ -11,6 +11,7 @@ msgstr ""
 # Objects : [w115544867]
 # Names: [улица Будённого]
 msgid "Будённого"
+msgstr ""
 
 # Objects : [w265784913]
 # Names: [улица Василенко]
@@ -88,6 +89,7 @@ msgstr ""
 # Objects : [w265784909]
 # Names: [улица Калиновского]
 msgid "Калиновского"
+msgstr ""
 
 # Objects : [w106442670]
 # Names: [улица Кирова]

@@ -517,6 +517,7 @@ msgstr ""
 # Objects : [w208562330]
 # Names: [улица Окаемова]
 msgid "Окаемова"
+msgstr ""
 
 # Objects : [w208888464]
 # Names: [Октябрьская улица]
@@ -686,6 +687,7 @@ msgstr ""
 # Objects : [w205355271]
 # Names: [Смоленский переулок]
 msgid "Смоленский"
+msgstr ""
 
 # Objects : [w82121017]
 # Names: [улица Смолякова]
@@ -755,6 +757,7 @@ msgstr ""
 # Objects : [w208655460]
 # Names: [улица Толкачёва]
 msgid "Толкачёва"
+msgstr ""
 
 # Objects : [w209325878]
 # Names: [улица Толстого]

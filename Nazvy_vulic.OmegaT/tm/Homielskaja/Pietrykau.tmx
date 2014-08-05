@@ -72,6 +72,10 @@
       <tuv lang="BE"><seg>#Ленінская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Либкнехта</seg></tuv>
+      <tuv lang="BE"><seg>#Лібкнехта</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Липунова</seg></tuv>
       <tuv lang="BE"><seg>#Ліпунова</seg></tuv>
     </tu>
@@ -80,12 +84,20 @@
       <tuv lang="BE"><seg>#Лугавая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Лутинова</seg></tuv>
+      <tuv lang="BE"><seg>#Луцінава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Маяковского</seg></tuv>
       <tuv lang="BE"><seg>#Маякоўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Муляровская</seg></tuv>
       <tuv lang="BE"><seg>#Муляроўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ногина</seg></tuv>
+      <tuv lang="BE"><seg>#Нагіна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Октябрьская</seg></tuv>
@@ -102,6 +114,10 @@
     <tu>
       <tuv lang="RU"><seg>Осенняя</seg></tuv>
       <tuv lang="BE"><seg>#Асенняя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Островского</seg></tuv>
+      <tuv lang="BE"><seg>#Астроўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Парижской Коммуны</seg></tuv>
@@ -154,6 +170,14 @@
     <tu>
       <tuv lang="RU"><seg>Суворова</seg></tuv>
       <tuv lang="BE"><seg>#Суворава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Франциска Скорины</seg></tuv>
+      <tuv lang="BE"><seg>#Франциска Скорыны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фрунзе</seg></tuv>
+      <tuv lang="BE"><seg>#Фрунзе</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чалого</seg></tuv>

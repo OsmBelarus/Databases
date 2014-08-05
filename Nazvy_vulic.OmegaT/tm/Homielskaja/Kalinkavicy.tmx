@@ -48,6 +48,10 @@
       <tuv lang="BE"><seg>#Барысава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Брагонина</seg></tuv>
+      <tuv lang="BE"><seg>#Брагоніна</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Быковского</seg></tuv>
       <tuv lang="BE"><seg>#Быкоўскага</seg></tuv>
     </tu>
@@ -124,6 +128,10 @@
       <tuv lang="BE"><seg>#Зарэчная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Заслонова</seg></tuv>
+      <tuv lang="BE"><seg>#Заслонава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Зои Космодемьянской</seg></tuv>
       <tuv lang="BE"><seg>#Зоі Касмадзям’янскай</seg></tuv>
     </tu>
@@ -134,6 +142,10 @@
     <tu>
       <tuv lang="RU"><seg>Калинина</seg></tuv>
       <tuv lang="BE"><seg>#Калініна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Калиновая</seg></tuv>
+      <tuv lang="BE"><seg>#Калінавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Карла Маркса</seg></tuv>
@@ -376,6 +388,10 @@
       <tuv lang="BE"><seg>#Савецкі</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Солнечная</seg></tuv>
+      <tuv lang="BE"><seg>#Сонечная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Соловьева</seg></tuv>
       <tuv lang="BE"><seg>#Салаўёва</seg></tuv>
     </tu>
@@ -424,12 +440,20 @@
       <tuv lang="BE"><seg>#Працоўны</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Фестивальная</seg></tuv>
+      <tuv lang="BE"><seg>#Фестывальная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Франциска Скорины</seg></tuv>
       <tuv lang="BE"><seg>#Франциска Скорыны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Фрунзе</seg></tuv>
       <tuv lang="BE"><seg>#Фрунзэ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хобачева</seg></tuv>
+      <tuv lang="BE"><seg>#Хобачава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чернышевского</seg></tuv>
@@ -458,6 +482,10 @@
     <tu>
       <tuv lang="RU"><seg>Энгельса</seg></tuv>
       <tuv lang="BE"><seg>#Энгельса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юбилейная</seg></tuv>
+      <tuv lang="BE"><seg>#Юбілейная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Юрия Самсонова</seg></tuv>

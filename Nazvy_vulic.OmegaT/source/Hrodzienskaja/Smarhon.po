@@ -83,6 +83,11 @@ msgstr ""
 msgid "Кутузова"
 msgstr ""
 
+# Objects : [w95817233]
+# Names: [улица Машерова]
+msgid "Машерова"
+msgstr ""
+
 # Objects : [w37930831, w38237678]
 # Names: [переулок Мира, улица Мира]
 msgid "Мира"
@@ -128,9 +133,19 @@ msgstr ""
 msgid "Приозёрная"
 msgstr ""
 
+# Objects : [w40218036]
+# Names: [Прогрессивная улица]
+msgid "Прогрессивная"
+msgstr ""
+
 # Objects : [w38237674, w38237675]
 # Names: [переулок Пушкина, улица Пушкина]
 msgid "Пушкина"
+msgstr ""
+
+# Objects : [w95817234]
+# Names: [Светлая улица]
+msgid "Светлая"
 msgstr ""
 
 # Objects : [w198254982]

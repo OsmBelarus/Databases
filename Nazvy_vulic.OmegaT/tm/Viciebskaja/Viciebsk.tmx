@@ -325,7 +325,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Воинов-Интернационалистов</seg></tuv>
-      <tuv lang="BE"><seg>#Вайскоўцаў-Інтэрнацыяналістаў#Воінаў-Інтэрнацыяналістаў</seg></tuv>
+      <tuv lang="BE"><seg>#Воінаў-Інтэрнацыяналістаў</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Войкова</seg></tuv>
@@ -1528,10 +1528,6 @@
       <tuv lang="BE"><seg>#Свабодная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Свободная экономическая зона</seg></tuv>
-      <tuv lang="BE"><seg>#Свабодная эканамiчная зона</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Северная</seg></tuv>
       <tuv lang="BE"><seg>#Паўночная</seg></tuv>
     </tu>
@@ -1862,10 +1858,6 @@
     <tu>
       <tuv lang="RU"><seg>Улановский</seg></tuv>
       <tuv lang="BE"><seg>#Уланаўскі</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Университет им. Машерова</seg></tuv>
-      <tuv lang="BE"><seg>#В Д У імя П. М. Машэрава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Урицкого</seg></tuv>

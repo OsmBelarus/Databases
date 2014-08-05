@@ -464,8 +464,9 @@ msgid "Трудовая"
 msgstr ""
 
 # Objects : [w25266573]
-# Names: [Тумара]
+# Names: [улица Тумара]
 msgid "Тумара"
+msgstr ""
 
 # Objects : [w25266530]
 # Names: [Физкультурная улица]

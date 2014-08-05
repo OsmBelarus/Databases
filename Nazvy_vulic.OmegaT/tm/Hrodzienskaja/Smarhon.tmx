@@ -72,6 +72,10 @@
       <tuv lang="BE"><seg>#Кутузава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Машерова</seg></tuv>
+      <tuv lang="BE"><seg>#Машэрава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Мира</seg></tuv>
       <tuv lang="BE"><seg>#Міру</seg></tuv>
     </tu>
@@ -108,8 +112,16 @@
       <tuv lang="BE"><seg>#Прыазёрная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Прогрессивная</seg></tuv>
+      <tuv lang="BE"><seg>#Прагрэсіўная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Пушкина</seg></tuv>
       <tuv lang="BE"><seg>#Пушкіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Светлая</seg></tuv>
+      <tuv lang="BE"><seg>#Светлая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Сенкевича</seg></tuv>

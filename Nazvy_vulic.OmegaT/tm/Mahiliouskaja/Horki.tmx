@@ -140,6 +140,10 @@
       <tuv lang="BE"><seg>#Камсамольская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Кондрата Крапивы</seg></tuv>
+      <tuv lang="BE"><seg>#Кандрата Крапівы</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Королёва</seg></tuv>
       <tuv lang="BE"><seg>#Каралёва</seg></tuv>
     </tu>
@@ -206,6 +210,10 @@
     <tu>
       <tuv lang="RU"><seg>Луначарского</seg></tuv>
       <tuv lang="BE"><seg>#Луначарскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лучевая</seg></tuv>
+      <tuv lang="BE"><seg>#Прамянёвая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мазурова</seg></tuv>
@@ -317,7 +325,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Патриса Лумумбы</seg></tuv>
-      <tuv lang="BE"><seg>#Алега Кашавога</seg></tuv>
+      <tuv lang="BE"><seg>#Патрыса Лумумбы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Первомайская</seg></tuv>
@@ -398,6 +406,10 @@
     <tu>
       <tuv lang="RU"><seg>Солнечная</seg></tuv>
       <tuv lang="BE"><seg>#Сонечная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Соловьиная</seg></tuv>
+      <tuv lang="BE"><seg>#Салаўіная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Соловьиный</seg></tuv>

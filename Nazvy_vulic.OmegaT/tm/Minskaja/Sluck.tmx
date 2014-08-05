@@ -128,6 +128,10 @@
       <tuv lang="BE"><seg>#Калініна</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Карла Либкнехта</seg></tuv>
+      <tuv lang="BE"><seg>#Карла Лібкнехта</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
       <tuv lang="BE"><seg>#Кірава</seg></tuv>
     </tu>
@@ -196,6 +200,10 @@
       <tuv lang="BE"><seg>#Крылова</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Кузьмы Чорного</seg></tuv>
+      <tuv lang="BE"><seg>#Кузьмы Чорнага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Куприянова</seg></tuv>
       <tuv lang="BE"><seg>#Купрыянава</seg></tuv>
     </tu>
@@ -242,6 +250,10 @@
     <tu>
       <tuv lang="RU"><seg>Максима Богдановича</seg></tuv>
       <tuv lang="BE"><seg>#Максіма Багдановіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Максима Горького</seg></tuv>
+      <tuv lang="BE"><seg>#Максіма Горкага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мельничная</seg></tuv>
@@ -316,6 +328,10 @@
       <tuv lang="BE"><seg>#Пралетарскі</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Пупорева</seg></tuv>
+      <tuv lang="BE"><seg>#Пупарэва</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Пупоревская</seg></tuv>
       <tuv lang="BE"><seg>#Пупарэўская</seg></tuv>
     </tu>
@@ -326,6 +342,10 @@
     <tu>
       <tuv lang="RU"><seg>Революционная</seg></tuv>
       <tuv lang="BE"><seg>#Рэвалюцыйная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Розы Люксембург</seg></tuv>
+      <tuv lang="BE"><seg>#Розы Люксембург</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Садовый</seg></tuv>

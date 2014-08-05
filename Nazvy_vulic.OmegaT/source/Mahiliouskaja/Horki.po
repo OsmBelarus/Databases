@@ -171,6 +171,7 @@ msgstr ""
 # Objects : [w209759663]
 # Names: [улица Кондрата Крапивы]
 msgid "Кондрата Крапивы"
+msgstr ""
 
 # Objects : [w76477702, w203353879]
 # Names: [улица Королёва]
@@ -260,6 +261,7 @@ msgstr ""
 # Objects : [w199804018]
 # Names: [Лучевая улица]
 msgid "Лучевая"
+msgstr ""
 
 # Objects : [w76476795]
 # Names: [улица Мазурова]
@@ -508,6 +510,7 @@ msgstr ""
 # Objects : [w169531398]
 # Names: [Соловьиная улица]
 msgid "Соловьиная"
+msgstr ""
 
 # Objects : [w169531360]
 # Names: [Соловьиный проезд]

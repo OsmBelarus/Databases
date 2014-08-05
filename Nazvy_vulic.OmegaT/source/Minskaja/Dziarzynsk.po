@@ -473,7 +473,7 @@ msgid "Шарко"
 msgstr ""
 
 # Objects : [w208377250]
-# Names: [улица Школьная]
+# Names: [Школьная улица]
 msgid "Школьная"
 msgstr ""
 

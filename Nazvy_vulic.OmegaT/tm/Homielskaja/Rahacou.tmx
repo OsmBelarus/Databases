@@ -132,6 +132,10 @@
       <tuv lang="BE"><seg>#Елісеева</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Жгирева</seg></tuv>
+      <tuv lang="BE"><seg>#Жгірава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Железнодорожная</seg></tuv>
       <tuv lang="BE"><seg>#Чыгуначная</seg></tuv>
     </tu>
@@ -173,7 +177,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Интернациональная</seg></tuv>
-      <tuv lang="BE"><seg>#iнтэрнацыянальная#Інтэрнацыянальная</seg></tuv>
+      <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Исакова</seg></tuv>

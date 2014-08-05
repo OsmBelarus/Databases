@@ -44,6 +44,10 @@
       <tuv lang="BE"><seg>#Камунальная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Константина Заслонова</seg></tuv>
+      <tuv lang="BE"><seg>#Канстанціна Заслонава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Коржа</seg></tuv>
       <tuv lang="BE"><seg>#Каржа</seg></tuv>
     </tu>
@@ -56,8 +60,16 @@
       <tuv lang="BE"><seg>#Леніна</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ленинского Комсомола</seg></tuv>
+      <tuv lang="BE"><seg>#Ленінскага Камсамолу</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Лесная</seg></tuv>
       <tuv lang="BE"><seg>#Лясная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Максима Горького</seg></tuv>
+      <tuv lang="BE"><seg>#Максіма Горкага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мира</seg></tuv>
@@ -65,7 +77,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная#Моладзевая</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Наруцкого</seg></tuv>
@@ -86,6 +98,10 @@
     <tu>
       <tuv lang="RU"><seg>Пионерская</seg></tuv>
       <tuv lang="BE"><seg>#Піянерская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Подольская</seg></tuv>
+      <tuv lang="BE"><seg>#Падольская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Полесская</seg></tuv>

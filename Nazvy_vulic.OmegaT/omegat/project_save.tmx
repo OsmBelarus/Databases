@@ -4334,6 +4334,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Братьев Ясковец</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20140805T092935Z" creationid="alex" creationdate="20140805T092935Z">
+        <seg>н/Братоў Яскавец</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Брест-Литовская</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20131021T145748Z">
@@ -13640,8 +13648,8 @@
       <tuv lang="RU">
         <seg>Клещева</seg>
       </tuv>
-      <tuv lang="BE" changeid="Jim" changedate="20140302T165321Z" creationid="Jim" creationdate="20140302T165321Z">
-        <seg>н/Кляшчэева</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140805T093008Z" creationid="Jim" creationdate="20140302T165321Z">
+        <seg>н/Клешчава</seg>
       </tuv>
     </tu>
     <tu>
@@ -17770,6 +17778,14 @@
       </tuv>
       <tuv lang="BE" changeid="Skajushka" changedate="20140226T082249Z" creationid="Skajushka" creationdate="20140226T082249Z">
         <seg>н/Лупава</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Лутинова</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20140805T093058Z" creationid="alex" creationdate="20140805T093058Z">
+        <seg>н/Луцінава</seg>
       </tuv>
     </tu>
     <tu>
@@ -24993,6 +25009,14 @@
         <seg>Почтарева</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20140728T131621Z" creationid="alex" creationdate="20140728T131621Z">
+        <seg>н/Пачтарова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Почтарёва</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20140805T093152Z" creationid="alex" creationdate="20140805T093152Z">
         <seg>н/Пачтарова</seg>
       </tuv>
     </tu>

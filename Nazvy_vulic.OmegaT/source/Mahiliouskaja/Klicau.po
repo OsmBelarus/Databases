@@ -8,7 +8,7 @@ msgstr ""
 msgid "Базарный"
 msgstr ""
 
-# Objects : [w97944440, w99199560]
+# Objects : [w97944440, w97944441, w99199560]
 # Names: [Береговая улица]
 msgid "Береговая"
 msgstr ""
@@ -18,7 +18,7 @@ msgstr ""
 msgid "Ветеринарный"
 msgstr ""
 
-# Objects : [w97944441]
+# Objects : [w295802319]
 # Names: [улица Витоля]
 msgid "Витоля"
 msgstr ""

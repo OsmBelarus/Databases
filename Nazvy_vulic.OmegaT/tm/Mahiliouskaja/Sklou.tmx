@@ -144,6 +144,10 @@
       <tuv lang="BE"><seg>#Льнозаводская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Малая Заречная</seg></tuv>
+      <tuv lang="BE"><seg>#Малая Зарэчная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Мелиоративная</seg></tuv>
       <tuv lang="BE"><seg>#Меліяратыўная</seg></tuv>
     </tu>
@@ -272,6 +276,10 @@
       <tuv lang="BE"><seg>#Рачная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Рыжковская</seg></tuv>
+      <tuv lang="BE"><seg>#Рыжкоўская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Садовая</seg></tuv>
       <tuv lang="BE"><seg>#Садовая</seg></tuv>
     </tu>
@@ -302,6 +310,10 @@
     <tu>
       <tuv lang="RU"><seg>Строительная</seg></tuv>
       <tuv lang="BE"><seg>#Будаўнічая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Торфозаводская</seg></tuv>
+      <tuv lang="BE"><seg>#Торфазаводская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Урицкого</seg></tuv>

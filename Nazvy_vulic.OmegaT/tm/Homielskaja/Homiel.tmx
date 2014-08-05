@@ -240,6 +240,10 @@
       <tuv lang="BE"><seg>#Ватуціна</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Велесовой</seg></tuv>
+      <tuv lang="BE"><seg>#Вялесавай</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Вересковая</seg></tuv>
       <tuv lang="BE"><seg>#Верасовая</seg></tuv>
     </tu>
@@ -384,6 +388,10 @@
       <tuv lang="BE"><seg>#Галавачова</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Гомельская</seg></tuv>
+      <tuv lang="BE"><seg>#Гомельская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Гомсельмашевская</seg></tuv>
       <tuv lang="BE"><seg>#Гомсельмашаўская</seg></tuv>
     </tu>
@@ -413,7 +421,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гущина</seg></tuv>
-      <tuv lang="BE"><seg>#Гушчына Б. П.</seg></tuv>
+      <tuv lang="BE"><seg>#Гушчына</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Давыдовская</seg></tuv>
@@ -1280,6 +1288,10 @@
       <tuv lang="BE"><seg>#Пасечная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Первомайская</seg></tuv>
+      <tuv lang="BE"><seg>#Першамайская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Перевалочная</seg></tuv>
       <tuv lang="BE"><seg>#Перавалачная</seg></tuv>
     </tu>
@@ -1462,6 +1474,10 @@
     <tu>
       <tuv lang="RU"><seg>Радиальная</seg></tuv>
       <tuv lang="BE"><seg>#Радыяльная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Радимитская</seg></tuv>
+      <tuv lang="BE"><seg>#Радзіміцкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Радищева</seg></tuv>

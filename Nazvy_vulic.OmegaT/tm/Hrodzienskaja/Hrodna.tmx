@@ -20,10 +20,6 @@
       <tuv lang="BE"><seg>#8 Сакавіка</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>А. Бондовского</seg></tuv>
-      <tuv lang="BE"><seg>#А. Бандоўскага</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Абремского</seg></tuv>
       <tuv lang="BE"><seg>#Абрэмскага</seg></tuv>
     </tu>
@@ -194,6 +190,10 @@
     <tu>
       <tuv lang="RU"><seg>Большая Троицкая</seg></tuv>
       <tuv lang="BE"><seg>#Вялікая Траецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бондовского</seg></tuv>
+      <tuv lang="BE"><seg>#А. Бандоўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ботаническая</seg></tuv>
@@ -408,7 +408,7 @@
       <tuv lang="BE"><seg>#Гожская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Головача Ф. Р.</seg></tuv>
+      <tuv lang="RU"><seg>Головача</seg></tuv>
       <tuv lang="BE"><seg>#Галавача Ф. Р.</seg></tuv>
     </tu>
     <tu>
@@ -1236,6 +1236,10 @@
       <tuv lang="BE"><seg>#Межавая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Межсовхозная</seg></tuv>
+      <tuv lang="BE"><seg>#Міжсаўгасная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Меловые горы</seg></tuv>
       <tuv lang="BE"><seg>#Крэйдавыя горы</seg></tuv>
     </tu>
@@ -1376,7 +1380,7 @@
       <tuv lang="BE"><seg>#Нагіна</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Обухова Г. А.</seg></tuv>
+      <tuv lang="RU"><seg>Обухова</seg></tuv>
       <tuv lang="BE"><seg>#Обухава Г. А.</seg></tuv>
     </tu>
     <tu>
@@ -2284,7 +2288,7 @@
       <tuv lang="BE"><seg>#Чкалава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Чопчица А. С.</seg></tuv>
+      <tuv lang="RU"><seg>Чопчица</seg></tuv>
       <tuv lang="BE"><seg>#Чопчыца А. С.</seg></tuv>
     </tu>
     <tu>
@@ -2292,7 +2296,7 @@
       <tuv lang="BE"><seg>#Цудоўная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Чюрлёниса М. К.</seg></tuv>
+      <tuv lang="RU"><seg>Чюрлёниса</seg></tuv>
       <tuv lang="BE"><seg>#Чурлёніса М. К.</seg></tuv>
     </tu>
     <tu>

@@ -380,6 +380,7 @@ msgstr ""
 # Objects : [w100287893]
 # Names: [улица Петушкова]
 msgid "Петушкова"
+msgstr ""
 
 # Objects : [w65353899]
 # Names: [Пионерская улица]
