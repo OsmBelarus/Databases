@@ -100,6 +100,10 @@
       <tuv lang="BE"><seg>#Бярозаўская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Бобровой</seg></tuv>
+      <tuv lang="BE"><seg>#Бабровай</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Богдана Хмельницкого</seg></tuv>
       <tuv lang="BE"><seg>#Багдана Хмяльніцкага</seg></tuv>
     </tu>
@@ -234,6 +238,10 @@
     <tu>
       <tuv lang="RU"><seg>Гончарный</seg></tuv>
       <tuv lang="BE"><seg>#Ганчарны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Горелика</seg></tuv>
+      <tuv lang="BE"><seg>#Гарэліка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Грибоедова</seg></tuv>
@@ -434,6 +442,10 @@
     <tu>
       <tuv lang="RU"><seg>Кобякова</seg></tuv>
       <tuv lang="BE"><seg>#Кабякова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ковзана</seg></tuv>
+      <tuv lang="BE"><seg>#Коўзана</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Коллективная</seg></tuv>
@@ -750,6 +762,10 @@
     <tu>
       <tuv lang="RU"><seg>Ново-Строительная</seg></tuv>
       <tuv lang="BE"><seg>#Нова-Будаўнічая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ново-Шоссейная</seg></tuv>
+      <tuv lang="BE"><seg>#Нова-Шасэйная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новый Быт</seg></tuv>

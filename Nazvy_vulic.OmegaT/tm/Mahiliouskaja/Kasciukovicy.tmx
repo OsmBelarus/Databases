@@ -84,6 +84,10 @@
       <tuv lang="BE"><seg>#Інтэрнацыянальны</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Казея</seg></tuv>
+      <tuv lang="BE"><seg>#Казея</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Колхозная</seg></tuv>
       <tuv lang="BE"><seg>#Калгасная</seg></tuv>
     </tu>
@@ -126,6 +130,10 @@
     <tu>
       <tuv lang="RU"><seg>Ленинская</seg></tuv>
       <tuv lang="BE"><seg>#Ленінская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Либкнехта</seg></tuv>
+      <tuv lang="BE"><seg>#Лібкнехта</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Магистральная</seg></tuv>

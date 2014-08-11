@@ -230,10 +230,12 @@ msgstr ""
 # Objects : [w71081773]
 # Names: [Крупская улица]
 msgid "Крупская"
+msgstr ""
 
 # Objects : [w71081783]
 # Names: [Крупский переулок]
 msgid "Крупский"
+msgstr ""
 
 # Objects : [w205336458]
 # Names: [улица Куйбышева]
@@ -281,8 +283,9 @@ msgid "Маяковского"
 msgstr ""
 
 # Objects : [w100287892]
-# Names: [улица Милославичская]
+# Names: [Милославичская улица]
 msgid "Милославичская"
+msgstr ""
 
 # Objects : [w65189268]
 # Names: [Мирная улица]

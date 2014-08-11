@@ -20,6 +20,10 @@
       <tuv lang="BE"><seg>#Бялінскага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Бобруйское</seg></tuv>
+      <tuv lang="BE"><seg>#Бабруская шаша</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Богдана Хмельницкого</seg></tuv>
       <tuv lang="BE"><seg>#Багдана Хмяльніцкага</seg></tuv>
     </tu>
@@ -114,6 +118,10 @@
     <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
       <tuv lang="BE"><seg>#Кірава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Козлова</seg></tuv>
+      <tuv lang="BE"><seg>#Казлова</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Коммунистическая</seg></tuv>

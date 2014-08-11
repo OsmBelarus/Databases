@@ -99,8 +99,9 @@ msgid "Интернациональный"
 msgstr ""
 
 # Objects : [w252715515]
-# Names: [ул. Казея]
+# Names: [улица Казея]
 msgid "Казея"
+msgstr ""
 
 # Objects : [w232429731]
 # Names: [Колхозная улица]
@@ -160,6 +161,7 @@ msgstr ""
 # Objects : [w252713992]
 # Names: [улица Либкнехта]
 msgid "Либкнехта"
+msgstr ""
 
 # Objects : [w215058139, w265760982]
 # Names: [Магистральная улица]

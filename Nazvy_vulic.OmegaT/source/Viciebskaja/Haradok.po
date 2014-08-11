@@ -8,11 +8,6 @@ msgstr ""
 msgid "70 лет Октября"
 msgstr ""
 
-# Objects : [w157852042]
-# Names: [Агроснабовская улица]
-msgid "Агроснабовская"
-msgstr ""
-
 # Objects : [w30778941]
 # Names: [улица Баграмяна]
 msgid "Баграмяна"
@@ -297,7 +292,7 @@ msgstr ""
 msgid "Садовая"
 msgstr ""
 
-# Objects : [w157852043, w163827250]
+# Objects : [w157852043]
 # Names: [Северная улица]
 msgid "Северная"
 msgstr ""
@@ -370,10 +365,5 @@ msgstr ""
 # Objects : [w31782735, w169672741, w293036947]
 # Names: [Южная улица]
 msgid "Южная"
-msgstr ""
-
-# Objects : [w157852041, w163827251]
-# Names: [Яблоневая улица]
-msgid "Яблоневая"
 msgstr ""
 

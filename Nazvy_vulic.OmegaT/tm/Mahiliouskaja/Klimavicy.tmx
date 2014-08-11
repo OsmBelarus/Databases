@@ -184,6 +184,14 @@
       <tuv lang="BE"><seg>#Касманаўтаў</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Крупская</seg></tuv>
+      <tuv lang="BE"><seg>#Крупская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Крупский</seg></tuv>
+      <tuv lang="BE"><seg>#Крупскі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Куйбышева</seg></tuv>
       <tuv lang="BE"><seg>#Куйбышава</seg></tuv>
     </tu>
@@ -218,6 +226,10 @@
     <tu>
       <tuv lang="RU"><seg>Маяковского</seg></tuv>
       <tuv lang="BE"><seg>#Маякоўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Милославичская</seg></tuv>
+      <tuv lang="BE"><seg>#Мілаславіцкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мирная</seg></tuv>

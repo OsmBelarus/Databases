@@ -88,6 +88,10 @@
       <tuv lang="BE"><seg>#Луцінава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Люксембург</seg></tuv>
+      <tuv lang="BE"><seg>#Люксембург</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Маяковского</seg></tuv>
       <tuv lang="BE"><seg>#Маякоўскага</seg></tuv>
     </tu>
@@ -177,7 +181,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Фрунзе</seg></tuv>
-      <tuv lang="BE"><seg>#Фрунзе</seg></tuv>
+      <tuv lang="BE"><seg>#Фрунзэ</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чалого</seg></tuv>

@@ -410,6 +410,7 @@ msgstr ""
 # Objects : [w64864689]
 # Names: [улица Крайнего]
 msgid "Крайнего"
+msgstr ""
 
 # Objects : [w72117484]
 # Names: [Красноармейская улица]
@@ -594,6 +595,7 @@ msgstr ""
 # Objects : [w262009770]
 # Names: [улица Олега Лойки]
 msgid "Олега Лойки"
+msgstr ""
 
 # Objects : [w118454949]
 # Names: [Ольховая улица]

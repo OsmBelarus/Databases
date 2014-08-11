@@ -193,7 +193,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Бондовского</seg></tuv>
-      <tuv lang="BE"><seg>#А. Бандоўскага</seg></tuv>
+      <tuv lang="BE"><seg>#Бандоўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ботаническая</seg></tuv>
@@ -409,7 +409,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Головача</seg></tuv>
-      <tuv lang="BE"><seg>#Галавача Ф. Р.</seg></tuv>
+      <tuv lang="BE"><seg>#Галавача</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Головичи</seg></tuv>
@@ -728,6 +728,10 @@
       <tuv lang="BE"><seg>#Заслонава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Затишная</seg></tuv>
+      <tuv lang="BE"><seg>#Зацішная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Захарова</seg></tuv>
       <tuv lang="BE"><seg>#Захарава</seg></tuv>
     </tu>
@@ -802,6 +806,10 @@
     <tu>
       <tuv lang="RU"><seg>Казановского</seg></tuv>
       <tuv lang="BE"><seg>#Казаноўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Калачевская</seg></tuv>
+      <tuv lang="BE"><seg>#Калачаўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Калинина</seg></tuv>
@@ -1260,6 +1268,10 @@
       <tuv lang="BE"><seg>#Мігаўская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Милевича</seg></tuv>
+      <tuv lang="BE"><seg>#Мілевіча</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Минаева</seg></tuv>
       <tuv lang="BE"><seg>#Мінаева</seg></tuv>
     </tu>
@@ -1381,7 +1393,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Обухова</seg></tuv>
-      <tuv lang="BE"><seg>#Обухава Г. А.</seg></tuv>
+      <tuv lang="BE"><seg>#Абухава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Объездная</seg></tuv>
@@ -1820,6 +1832,10 @@
       <tuv lang="BE"><seg>#Санаторная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Сангина</seg></tuv>
+      <tuv lang="BE"><seg>#Сангіна</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Санфировой</seg></tuv>
       <tuv lang="BE"><seg>#Санфіравай</seg></tuv>
     </tu>
@@ -1965,7 +1981,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Софьи Налковской</seg></tuv>
-      <tuv lang="BE"><seg>#Зоф'і Налкоўскай</seg></tuv>
+      <tuv lang="BE"><seg>#Зоф’і Налкоўскай</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Социалистическая</seg></tuv>
@@ -2289,7 +2305,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чопчица</seg></tuv>
-      <tuv lang="BE"><seg>#Чопчыца А. С.</seg></tuv>
+      <tuv lang="BE"><seg>#Чопчыца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чудесная</seg></tuv>
@@ -2297,7 +2313,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чюрлёниса</seg></tuv>
-      <tuv lang="BE"><seg>#Чурлёніса М. К.</seg></tuv>
+      <tuv lang="BE"><seg>#Чурлёніса</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Шарипова</seg></tuv>

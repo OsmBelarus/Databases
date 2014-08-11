@@ -152,6 +152,10 @@
       <tuv lang="BE"><seg>#Кутузава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Луговой</seg></tuv>
+      <tuv lang="BE"><seg>#Лугавы</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Максима Богдановича</seg></tuv>
       <tuv lang="BE"><seg>#Максіма Багдановіча</seg></tuv>
     </tu>
@@ -241,7 +245,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Стругача</seg></tuv>
-      <tuv lang="BE"><seg>#Стругача Л. Д.</seg></tuv>
+      <tuv lang="BE"><seg>#Стругача</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Тихий</seg></tuv>

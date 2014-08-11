@@ -12,10 +12,6 @@
       <tuv lang="BE"><seg>#70 гадоў Кастрычніка</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Агроснабовская</seg></tuv>
-      <tuv lang="BE"><seg>#Аграснабаўская</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Баграмяна</seg></tuv>
       <tuv lang="BE"><seg>#Баграмяна</seg></tuv>
     </tu>
@@ -298,9 +294,5 @@
     <tu>
       <tuv lang="RU"><seg>Южная</seg></tuv>
       <tuv lang="BE"><seg>#Паўднёвая</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Яблоневая</seg></tuv>
-      <tuv lang="BE"><seg>#Яблыневая</seg></tuv>
     </tu>
   </body></tmx>

@@ -336,8 +336,8 @@
       <tuv lang="BE"><seg>#Гагарына</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>газеты "Гомельская Правда"</seg></tuv>
-      <tuv lang="BE"><seg>#газеты "Гомельская праўда"</seg></tuv>
+      <tuv lang="RU"><seg>газеты Гомельская Правда</seg></tuv>
+      <tuv lang="BE"><seg>#газеты Гомельская Праўда</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гайдара</seg></tuv>
@@ -744,6 +744,10 @@
       <tuv lang="BE"><seg>#Клянкоўская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Клёнковская</seg></tuv>
+      <tuv lang="BE"><seg>#Клёнкаўская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Клермон-Ферран</seg></tuv>
       <tuv lang="BE"><seg>#Клермон-Феран</seg></tuv>
     </tu>
@@ -858,6 +862,10 @@
     <tu>
       <tuv lang="RU"><seg>Крестьянская</seg></tuv>
       <tuv lang="BE"><seg>#Сялянская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кристалловская</seg></tuv>
+      <tuv lang="BE"><seg>#Крышталеўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кропоткина</seg></tuv>
@@ -998,6 +1006,10 @@
     <tu>
       <tuv lang="RU"><seg>Любенская</seg></tuv>
       <tuv lang="BE"><seg>#Любенская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Любенский</seg></tuv>
+      <tuv lang="BE"><seg>#Любенскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Магистральная</seg></tuv>
@@ -1565,7 +1577,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Салтыкова-Щедрина</seg></tuv>
-      <tuv lang="BE"><seg>#Салтыкова-Шчадрына М. Е.</seg></tuv>
+      <tuv lang="BE"><seg>#Салтыкова-Шчадрына</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Свердлова</seg></tuv>

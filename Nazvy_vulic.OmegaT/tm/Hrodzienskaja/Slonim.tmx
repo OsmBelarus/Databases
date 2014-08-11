@@ -161,7 +161,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гродненское</seg></tuv>
-      <tuv lang="BE"><seg>#Гродзенская шаша</seg></tuv>
+      <tuv lang="BE"><seg>#Гарадзенская шаша</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дачная</seg></tuv>
@@ -328,6 +328,10 @@
       <tuv lang="BE"><seg>#Катоўскага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Крайнего</seg></tuv>
+      <tuv lang="BE"><seg>#Крайняга</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Красноармейская</seg></tuv>
       <tuv lang="BE"><seg>#Чырвонаармейская</seg></tuv>
     </tu>
@@ -470,6 +474,10 @@
     <tu>
       <tuv lang="RU"><seg>Октябрьский</seg></tuv>
       <tuv lang="BE"><seg>#Кастрычніцкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Олега Лойки</seg></tuv>
+      <tuv lang="BE"><seg>#Алега Лойкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ольховая</seg></tuv>

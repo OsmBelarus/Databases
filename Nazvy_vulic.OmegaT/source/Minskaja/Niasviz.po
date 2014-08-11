@@ -34,8 +34,9 @@ msgid "Кирова"
 msgstr ""
 
 # Objects : [w295469518]
-# Names: [улица Клецкая]
+# Names: [Клецкая улица]
 msgid "Клецкая"
+msgstr ""
 
 # Objects : [w25579378]
 # Names: [улица Кузьмы Чорного]

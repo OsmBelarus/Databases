@@ -528,6 +528,10 @@
       <tuv lang="BE"><seg>#Памежная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Подлесная</seg></tuv>
+      <tuv lang="BE"><seg>#Падлесная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Полевая</seg></tuv>
       <tuv lang="BE"><seg>#Палявая</seg></tuv>
     </tu>

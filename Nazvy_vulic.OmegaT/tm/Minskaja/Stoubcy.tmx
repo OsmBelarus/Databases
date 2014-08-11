@@ -20,6 +20,10 @@
       <tuv lang="BE"><seg>#Беларуская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Бессмертия</seg></tuv>
+      <tuv lang="BE"><seg>#Неўміручасці</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Богдановича</seg></tuv>
       <tuv lang="BE"><seg>#Багдановіча</seg></tuv>
     </tu>
@@ -262,6 +266,10 @@
     <tu>
       <tuv lang="RU"><seg>Моторостроителей</seg></tuv>
       <tuv lang="BE"><seg>#Маторабудаўнікоў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Набережная</seg></tuv>
+      <tuv lang="BE"><seg>#Наберажная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Набережный</seg></tuv>

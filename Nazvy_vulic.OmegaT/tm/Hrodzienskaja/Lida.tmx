@@ -453,7 +453,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Либкнехта</seg></tuv>
-      <tuv lang="BE"><seg>#К. Лібнэхта</seg></tuv>
+      <tuv lang="BE"><seg>#Лібкнехта</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лизы Чайкиной</seg></tuv>
@@ -582,6 +582,10 @@
     <tu>
       <tuv lang="RU"><seg>Новаторская</seg></tuv>
       <tuv lang="BE"><seg>#Наватарская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новопрудская</seg></tuv>
+      <tuv lang="BE"><seg>#Новапрудзкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новопрудский</seg></tuv>

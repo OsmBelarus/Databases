@@ -20,6 +20,10 @@
       <tuv lang="BE"><seg>#60 гадоў БССР</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Агафонова</seg></tuv>
+      <tuv lang="BE"><seg>#Агафонава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Артура Корчуганова</seg></tuv>
       <tuv lang="BE"><seg>#Артура Карчуганава</seg></tuv>
     </tu>
@@ -50,6 +54,10 @@
     <tu>
       <tuv lang="RU"><seg>Брагонина</seg></tuv>
       <tuv lang="BE"><seg>#Брагоніна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Братьев Ясковец</seg></tuv>
+      <tuv lang="BE"><seg>#Братоў Яскавец</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Быковского</seg></tuv>
@@ -140,6 +148,10 @@
       <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Казько</seg></tuv>
+      <tuv lang="BE"><seg>#Казько</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Калинина</seg></tuv>
       <tuv lang="BE"><seg>#Калініна</seg></tuv>
     </tu>
@@ -158,6 +170,10 @@
     <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
       <tuv lang="BE"><seg>#Кірава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Клещева</seg></tuv>
+      <tuv lang="BE"><seg>#Клешчава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Князева</seg></tuv>
@@ -184,6 +200,10 @@
       <tuv lang="BE"><seg>#Катоўскага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Кравченко</seg></tuv>
+      <tuv lang="BE"><seg>#Краўчанкі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Красноармейская</seg></tuv>
       <tuv lang="BE"><seg>#Чырвонаармейская</seg></tuv>
     </tu>
@@ -200,12 +220,20 @@
       <tuv lang="BE"><seg>#Куйбышава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Куманева</seg></tuv>
+      <tuv lang="BE"><seg>#Куманева</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Кутузова</seg></tuv>
       <tuv lang="BE"><seg>#Кутузава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лазо</seg></tuv>
       <tuv lang="BE"><seg>#Лазо</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лазуненко</seg></tuv>
+      <tuv lang="BE"><seg>#Лазуненкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лермонтова</seg></tuv>
@@ -480,6 +508,10 @@
       <tuv lang="BE"><seg>#Шлыкава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Шляга</seg></tuv>
+      <tuv lang="BE"><seg>#Шлягі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Энгельса</seg></tuv>
       <tuv lang="BE"><seg>#Энгельса</seg></tuv>
     </tu>
@@ -490,6 +522,10 @@
     <tu>
       <tuv lang="RU"><seg>Юрия Самсонова</seg></tuv>
       <tuv lang="BE"><seg>#Юрыя Самсонава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юровичское</seg></tuv>
+      <tuv lang="BE"><seg>#Юровіцкая шаша</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Языковича</seg></tuv>

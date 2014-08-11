@@ -68,6 +68,10 @@
       <tuv lang="BE"><seg>#Алейнікава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Алексея Пысина</seg></tuv>
+      <tuv lang="BE"><seg>#Аляксея Пысіна</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Аллейная</seg></tuv>
       <tuv lang="BE"><seg>#Алейная</seg></tuv>
     </tu>
@@ -138,6 +142,10 @@
     <tu>
       <tuv lang="RU"><seg>Байкальский</seg></tuv>
       <tuv lang="BE"><seg>#Байкальскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бакунина</seg></tuv>
+      <tuv lang="BE"><seg>#Бакуніна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Балтийский</seg></tuv>
@@ -484,6 +492,10 @@
       <tuv lang="BE"><seg>#Гаражны</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Гаршина</seg></tuv>
+      <tuv lang="BE"><seg>#Гаршына</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Гастелло</seg></tuv>
       <tuv lang="BE"><seg>#Гастэлы</seg></tuv>
     </tu>
@@ -734,6 +746,10 @@
     <tu>
       <tuv lang="RU"><seg>Заречная</seg></tuv>
       <tuv lang="BE"><seg>#Зарэчная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Заречный</seg></tuv>
+      <tuv lang="BE"><seg>#Зарэчны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заслонова</seg></tuv>
@@ -1396,6 +1412,10 @@
       <tuv lang="BE"><seg>#Мечнікава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Мещанские полосы</seg></tuv>
+      <tuv lang="BE"><seg>#Мяшчанскія палосы</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Мигая</seg></tuv>
       <tuv lang="BE"><seg>#Мігая</seg></tuv>
     </tu>
@@ -1406,6 +1426,10 @@
     <tu>
       <tuv lang="RU"><seg>Минина</seg></tuv>
       <tuv lang="BE"><seg>#Мініна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Миномётный</seg></tuv>
+      <tuv lang="BE"><seg>#Мінамётны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Минский</seg></tuv>
@@ -1984,6 +2008,10 @@
       <tuv lang="BE"><seg>#Раманава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ромашко</seg></tuv>
+      <tuv lang="BE"><seg>#Рамашкі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Ручейная</seg></tuv>
       <tuv lang="BE"><seg>#Ручаёвая</seg></tuv>
     </tu>
@@ -2118,6 +2146,10 @@
     <tu>
       <tuv lang="RU"><seg>Славгородский</seg></tuv>
       <tuv lang="BE"><seg>#Слаўгарадзкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Славгородское</seg></tuv>
+      <tuv lang="BE"><seg>#Слаўгарадзкая шаша</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Слепокурова</seg></tuv>
@@ -2520,6 +2552,10 @@
       <tuv lang="BE"><seg>#Чаплыгіна</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Чаусское</seg></tuv>
+      <tuv lang="BE"><seg>#Чавусская шаша</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Челюскинцев</seg></tuv>
       <tuv lang="BE"><seg>#Чалюскінцаў</seg></tuv>
     </tu>
@@ -2660,6 +2696,10 @@
       <tuv lang="BE"><seg>#Янкі Купалы</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Янников Луг</seg></tuv>
+      <tuv lang="BE"><seg>#Яннікаў Луг</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Янтарная</seg></tuv>
       <tuv lang="BE"><seg>#Бурштынавая</seg></tuv>
     </tu>
@@ -2673,6 +2713,6 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Яцыно</seg></tuv>
-      <tuv lang="BE"><seg>#Яннікаў Луг#Яцына</seg></tuv>
+      <tuv lang="BE"><seg>#Яцына</seg></tuv>
     </tu>
   </body></tmx>

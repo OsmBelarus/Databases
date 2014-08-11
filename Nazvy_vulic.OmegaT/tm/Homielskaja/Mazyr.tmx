@@ -12,10 +12,6 @@
       <tuv lang="BE"><seg>#8 Сакавіка</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Авторынок</seg></tuv>
-      <tuv lang="BE"><seg>#Аўтарынак</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Берёзовый</seg></tuv>
       <tuv lang="BE"><seg>#Бярозавы</seg></tuv>
     </tu>
@@ -54,6 +50,10 @@
     <tu>
       <tuv lang="RU"><seg>Гора коммунаров</seg></tuv>
       <tuv lang="BE"><seg>#Гара камунараў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Данилевского</seg></tuv>
+      <tuv lang="BE"><seg>#Данілеўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дзержинского</seg></tuv>
@@ -197,7 +197,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Маяковского</seg></tuv>
-      <tuv lang="BE"><seg>#Маякоўскага У. У.</seg></tuv>
+      <tuv lang="BE"><seg>#Маякоўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мележа</seg></tuv>
@@ -388,8 +388,12 @@
       <tuv lang="BE"><seg>#Працоўная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Трусевича</seg></tuv>
+      <tuv lang="BE"><seg>#Трусевіча</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Тургенева</seg></tuv>
-      <tuv lang="BE"><seg>#Тургенева I. C.</seg></tuv>
+      <tuv lang="BE"><seg>#Тургенева</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ульяновская</seg></tuv>

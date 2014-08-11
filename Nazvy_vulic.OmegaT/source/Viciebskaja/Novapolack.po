@@ -207,6 +207,11 @@ msgstr ""
 msgid "Молодёжная"
 msgstr ""
 
+# Objects : [w118427369]
+# Names: [Набережная улица]
+msgid "Набережная"
+msgstr ""
+
 # Objects : [w32659930]
 # Names: [улица Надежды]
 msgid "Надежды"
@@ -287,7 +292,7 @@ msgstr ""
 msgid "Слободская"
 msgstr ""
 
-# Objects : [w41440020]
+# Objects : [w41440020, w178017353]
 # Names: [Солнечная улица]
 msgid "Солнечная"
 msgstr ""

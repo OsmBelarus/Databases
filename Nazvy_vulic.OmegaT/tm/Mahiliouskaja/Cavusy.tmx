@@ -20,6 +20,10 @@
       <tuv lang="BE"><seg>#Бордзініцкі</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Бординичская</seg></tuv>
+      <tuv lang="BE"><seg>#Бордзініцкая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Бординичский</seg></tuv>
       <tuv lang="BE"><seg>#Бордзініцкі</seg></tuv>
     </tu>
@@ -258,6 +262,10 @@
     <tu>
       <tuv lang="RU"><seg>Связистов</seg></tuv>
       <tuv lang="BE"><seg>#Сувязістаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Симонова</seg></tuv>
+      <tuv lang="BE"><seg>#Сіманава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>

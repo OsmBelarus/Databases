@@ -268,6 +268,10 @@
       <tuv lang="BE"><seg>#Лермантава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Либкнехта</seg></tuv>
+      <tuv lang="BE"><seg>#Лібкнехта</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Луначарского</seg></tuv>
       <tuv lang="BE"><seg>#Луначарскага</seg></tuv>
     </tu>
@@ -282,6 +286,10 @@
     <tu>
       <tuv lang="RU"><seg>Матросова</seg></tuv>
       <tuv lang="BE"><seg>#Матросава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Миколы Янченко</seg></tuv>
+      <tuv lang="BE"><seg>#Міколы Янчанкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Минская</seg></tuv>
@@ -362,6 +370,10 @@
     <tu>
       <tuv lang="RU"><seg>Полевая</seg></tuv>
       <tuv lang="BE"><seg>#Палявая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Почтарёва</seg></tuv>
+      <tuv lang="BE"><seg>#Пачтарова</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пролетарская</seg></tuv>

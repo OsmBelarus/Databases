@@ -140,6 +140,10 @@
       <tuv lang="BE"><seg>#Козберга</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Козинцева-Прокопчика</seg></tuv>
+      <tuv lang="BE"><seg>#Казінцава-Пракопчыка</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Колхозная</seg></tuv>
       <tuv lang="BE"><seg>#Калгасная</seg></tuv>
     </tu>
@@ -276,6 +280,10 @@
       <tuv lang="BE"><seg>#Маскоўская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Набережная</seg></tuv>
+      <tuv lang="BE"><seg>#Наберажная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Надельная</seg></tuv>
       <tuv lang="BE"><seg>#Надзельная</seg></tuv>
     </tu>
@@ -298,6 +306,10 @@
     <tu>
       <tuv lang="RU"><seg>Новосельская</seg></tuv>
       <tuv lang="BE"><seg>#Новасельская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новый</seg></tuv>
+      <tuv lang="BE"><seg>#Новы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Островского</seg></tuv>
@@ -414,6 +426,10 @@
     <tu>
       <tuv lang="RU"><seg>Толстого</seg></tuv>
       <tuv lang="BE"><seg>#Талстога</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тополева</seg></tuv>
+      <tuv lang="BE"><seg>#Топалева</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Трудовая</seg></tuv>

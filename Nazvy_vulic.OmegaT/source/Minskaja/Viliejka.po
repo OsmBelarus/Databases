@@ -315,6 +315,7 @@ msgstr ""
 # Objects : [w61695174]
 # Names: [улица Толстого]
 msgid "Толстого"
+msgstr ""
 
 # Objects : [w74185067]
 # Names: [Фрунзенский переулок]

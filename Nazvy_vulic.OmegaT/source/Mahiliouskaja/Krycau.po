@@ -116,6 +116,7 @@ msgstr ""
 # Objects : [w82148631]
 # Names: [улица Гиндиной]
 msgid "Гиндиной"
+msgstr ""
 
 # Objects : [w82152133, w257412259]
 # Names: [улица Глинки]

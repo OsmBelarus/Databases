@@ -106,6 +106,7 @@ msgstr ""
 # Objects : [w276139437]
 # Names: [улица Люксембург]
 msgid "Люксембург"
+msgstr ""
 
 # Objects : [w276265440]
 # Names: [улица Маяковского]

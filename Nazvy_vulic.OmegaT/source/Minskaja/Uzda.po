@@ -83,7 +83,7 @@ msgstr ""
 msgid "Пашкевича"
 msgstr ""
 
-# Objects : [w25273550]
+# Objects : [w25273550, w296013688]
 # Names: [Первомайская улица]
 msgid "Первомайская"
 msgstr ""
@@ -134,6 +134,7 @@ msgid "Школьная"
 msgstr ""
 
 # Objects : [w102489786]
-# Names: [Якимовича]
+# Names: [улица Якимовича]
 msgid "Якимовича"
+msgstr ""
 

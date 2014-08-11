@@ -172,7 +172,7 @@ msgstr ""
 msgid "Парковая"
 msgstr ""
 
-# Objects : [w146455859]
+# Objects : [w146455859, w150479472]
 # Names: [Парковый переулок]
 msgid "Парковый"
 msgstr ""
@@ -228,8 +228,8 @@ msgid "Речной"
 msgstr ""
 
 # Objects : [w150170034]
-# Names: [Садовый переулок]
-msgid "Садовый"
+# Names: [Садовая улица]
+msgid "Садовая"
 msgstr ""
 
 # Objects : [w150346337]
