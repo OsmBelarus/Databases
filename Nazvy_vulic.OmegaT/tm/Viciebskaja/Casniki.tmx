@@ -8,6 +8,10 @@
       <tuv lang="BE"><seg>#Базарны</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Березинский</seg></tuv>
+      <tuv lang="BE"><seg>#Беразiнскi</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Вишнёвая</seg></tuv>
       <tuv lang="BE"><seg>#Вішнёвая</seg></tuv>
     </tu>
@@ -117,7 +121,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мира</seg></tuv>
-      <tuv lang="BE"><seg>#Міру</seg></tuv>
+      <tuv lang="BE"><seg>#Міра</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжный</seg></tuv>

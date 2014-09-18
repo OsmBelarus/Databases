@@ -1290,11 +1290,6 @@ msgstr ""
 msgid "Энгельса"
 msgstr ""
 
-# Objects : [w231741535]
-# Names: [Юбилейная улица]
-msgid "Юбилейная"
-msgstr ""
-
 # Objects : [w61318782]
 # Names: [Южная улица]
 msgid "Южная"

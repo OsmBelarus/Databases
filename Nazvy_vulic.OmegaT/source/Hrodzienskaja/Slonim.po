@@ -220,7 +220,7 @@ msgstr ""
 
 # Objects : [w261058416, w261058418]
 # Names: [до ГРС]
-msgid "до Г Р С"
+msgid "до ГРС"
 
 # Objects : [w96108736]
 # Names: [Долгий переулок]

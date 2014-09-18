@@ -84,10 +84,6 @@
       <tuv lang="BE"><seg>#Інтэрнацыянальны</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Казея</seg></tuv>
-      <tuv lang="BE"><seg>#Казея</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Колхозная</seg></tuv>
       <tuv lang="BE"><seg>#Калгасная</seg></tuv>
     </tu>
@@ -146,6 +142,10 @@
     <tu>
       <tuv lang="RU"><seg>Максима Горького</seg></tuv>
       <tuv lang="BE"><seg>#Максіма Горкага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Марата Казея</seg></tuv>
+      <tuv lang="BE"><seg>#Марата Казея</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Медведовка</seg></tuv>

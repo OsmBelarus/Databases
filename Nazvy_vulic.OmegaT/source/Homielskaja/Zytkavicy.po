@@ -183,7 +183,7 @@ msgstr ""
 msgid "Ленина"
 msgstr ""
 
-# Objects : [w48954961]
+# Objects : [w48954961, w239008164, w292175723, w292175724]
 # Names: [Лесная улица]
 msgid "Лесная"
 msgstr ""
@@ -237,7 +237,7 @@ msgstr ""
 # Names: [Набережная улица]
 msgid "Набережная"
 
-# Objects : [w48959737, w272735819]
+# Objects : [w48959737]
 # Names: [Новая улица]
 msgid "Новая"
 msgstr ""
@@ -342,7 +342,7 @@ msgstr ""
 msgid "Сиреневая"
 msgstr ""
 
-# Objects : [w48954953]
+# Objects : [w48954953, w291918586]
 # Names: [Советская улица]
 msgid "Советская"
 msgstr ""
@@ -422,8 +422,8 @@ msgstr ""
 msgid "Черняховского"
 msgstr ""
 
-# Objects : [w48864216]
-# Names: [улица Чкалова]
+# Objects : [w48864216, w272735819]
+# Names: [переулок Чкалова, улица Чкалова]
 msgid "Чкалова"
 msgstr ""
 

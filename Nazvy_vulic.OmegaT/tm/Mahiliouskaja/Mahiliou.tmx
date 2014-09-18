@@ -592,10 +592,6 @@
       <tuv lang="BE"><seg>#Дашкоўская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Дебрянский спуск</seg></tuv>
-      <tuv lang="BE"><seg>#Дзябранскі спуск</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Дегтярёва</seg></tuv>
       <tuv lang="BE"><seg>#Дзягцярова</seg></tuv>
     </tu>
@@ -764,10 +760,6 @@
       <tuv lang="BE"><seg>#Зацішша</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Зеленый</seg></tuv>
-      <tuv lang="BE"><seg>#Зялёны</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Зелёный</seg></tuv>
       <tuv lang="BE"><seg>#Зялёны</seg></tuv>
     </tu>
@@ -930,10 +922,6 @@
     <tu>
       <tuv lang="RU"><seg>Кирпичная</seg></tuv>
       <tuv lang="BE"><seg>#Цагляная</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Киселева</seg></tuv>
-      <tuv lang="BE"><seg>#Кісялёва</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Киселёва</seg></tuv>
@@ -1968,10 +1956,6 @@
       <tuv lang="BE"><seg>#Рэзервовая</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Рельсовый</seg></tuv>
-      <tuv lang="BE"><seg>#Рэйкавы</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Репина</seg></tuv>
       <tuv lang="BE"><seg>#Рэпіна</seg></tuv>
     </tu>
@@ -2038,10 +2022,6 @@
     <tu>
       <tuv lang="RU"><seg>Садовая</seg></tuv>
       <tuv lang="BE"><seg>#Садовая</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Садовый</seg></tuv>
-      <tuv lang="BE"><seg>#Садовы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Сакко</seg></tuv>
@@ -2489,7 +2469,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Франциска Скорины</seg></tuv>
-      <tuv lang="BE"><seg>#Франциска Скорыны</seg></tuv>
+      <tuv lang="BE"><seg>#Францыска Скарыны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Фурманова</seg></tuv>

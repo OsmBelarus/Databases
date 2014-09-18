@@ -160,10 +160,6 @@
       <tuv lang="BE"><seg>#Куйбышава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Куйбышевский спуск</seg></tuv>
-      <tuv lang="BE"><seg>#Куйбышаўскі спуск</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Кутузова</seg></tuv>
       <tuv lang="BE"><seg>#Кутузава</seg></tuv>
     </tu>
@@ -242,10 +238,6 @@
     <tu>
       <tuv lang="RU"><seg>Никитинский</seg></tuv>
       <tuv lang="BE"><seg>#Мікіцінскі</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Никитинский Спуск</seg></tuv>
-      <tuv lang="BE"><seg>#Мікіцінскі спуск</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новоколхозная</seg></tuv>

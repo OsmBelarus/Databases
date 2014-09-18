@@ -358,7 +358,7 @@ msgid "Надельная"
 msgstr ""
 
 # Objects : [w25270788]
-# Names: [улица Надречная]
+# Names: [Надречная улица]
 msgid "Надречная"
 msgstr ""
 

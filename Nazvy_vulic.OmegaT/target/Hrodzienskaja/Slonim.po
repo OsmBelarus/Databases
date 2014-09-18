@@ -220,8 +220,8 @@ msgstr "н/Даватара"
 
 # Objects : [w261058416, w261058418]
 # Names: [до ГРС]
-msgid "до Г Р С"
-msgstr "н/да Г Р С"
+msgid "до ГРС"
+msgstr ""
 
 # Objects : [w96108736]
 # Names: [Долгий переулок]

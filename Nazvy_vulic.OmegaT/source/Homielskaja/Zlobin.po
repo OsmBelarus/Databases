@@ -138,7 +138,7 @@ msgstr ""
 msgid "Горького"
 msgstr ""
 
-# Objects : [w25248688]
+# Objects : [w25248688, w299468118, w299468119]
 # Names: [улица Губарева]
 msgid "Губарева"
 msgstr ""
@@ -193,7 +193,7 @@ msgstr ""
 msgid "Загородняя"
 msgstr ""
 
-# Objects : [w25248675]
+# Objects : [w299412272, w299412273]
 # Names: [Залинейная улица]
 msgid "Залинейная"
 msgstr ""
@@ -333,7 +333,7 @@ msgstr ""
 msgid "Космонавтов"
 msgstr ""
 
-# Objects : [w25247686, w25247696, w251151828]
+# Objects : [w25247686, w251151828]
 # Names: [переулок Котовского, улица Котовского]
 msgid "Котовского"
 msgstr ""
@@ -448,10 +448,14 @@ msgstr ""
 msgid "Льва Толстого"
 msgstr ""
 
-# Objects : [w25248683, w293986163]
+# Objects : [w25248674, w25248683, w293986163]
 # Names: [улица Малевичская]
 msgid "Малевичская"
 msgstr ""
+
+# Objects : [w25248682, w302725784]
+# Names: [1-й пер.Малевичский, 4-й пер.Малевичский]
+msgid "Малевичский"
 
 # Objects : [w25247683]
 # Names: [улица Малиновского]
@@ -493,7 +497,7 @@ msgstr ""
 msgid "Минская"
 msgstr ""
 
-# Objects : [w25247720]
+# Objects : [w25247696]
 # Names: [улица Мира]
 msgid "Мира"
 msgstr ""
@@ -525,7 +529,7 @@ msgstr ""
 
 # Objects : [w25247679]
 # Names: [улица МТС]
-msgid "М Т С"
+msgid "МТС"
 msgstr ""
 
 # Objects : [w69610124]
@@ -707,6 +711,10 @@ msgstr ""
 msgid "Рогачёвская"
 msgstr ""
 
+# Objects : [w25247685]
+# Names: [Рокосовского]
+msgid "Рокосовского"
+
 # Objects : [w284802037]
 # Names: [Рябиновая улица]
 msgid "Рябиновая"
@@ -732,7 +740,7 @@ msgstr ""
 msgid "Светлогорская"
 msgstr ""
 
-# Objects : [w25248702, w293986170]
+# Objects : [w25248679, w25248702, w293986170]
 # Names: [улица Свободы]
 msgid "Свободы"
 msgstr ""

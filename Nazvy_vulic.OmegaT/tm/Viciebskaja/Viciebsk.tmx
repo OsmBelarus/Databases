@@ -996,10 +996,6 @@
       <tuv lang="BE"><seg>#Медыцынская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Металлистов</seg></tuv>
-      <tuv lang="BE"><seg>#Металістаў</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Минская</seg></tuv>
       <tuv lang="BE"><seg>#Мінская</seg></tuv>
     </tu>
@@ -1029,7 +1025,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мопровская</seg></tuv>
-      <tuv lang="BE"><seg>#Мопраўская</seg></tuv>
+      <tuv lang="BE"><seg>#МОПРаўская#Мопраўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мопровский</seg></tuv>
@@ -1528,6 +1524,10 @@
       <tuv lang="BE"><seg>#Свабодная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Свободы</seg></tuv>
+      <tuv lang="BE"><seg>#Свабоды</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Северная</seg></tuv>
       <tuv lang="BE"><seg>#Паўночная</seg></tuv>
     </tu>
@@ -1697,11 +1697,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Старосельская</seg></tuv>
-      <tuv lang="BE"><seg>#Старасельская</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Старосельский</seg></tuv>
-      <tuv lang="BE"><seg>#Старасельскі</seg></tuv>
+      <tuv lang="BE"><seg>#Старасельская#Старасельскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Староулановская</seg></tuv>
@@ -1840,6 +1836,10 @@
       <tuv lang="BE"><seg>#Турысцкая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Тысячелетия Витебска</seg></tuv>
+      <tuv lang="BE"><seg>#Тысячагоддзя Віцебска</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Угловой</seg></tuv>
       <tuv lang="BE"><seg>#Вуглавы</seg></tuv>
     </tu>
@@ -1849,10 +1849,6 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Улановическая</seg></tuv>
-      <tuv lang="BE"><seg>#Уланавіцкая</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Улановичская</seg></tuv>
       <tuv lang="BE"><seg>#Уланавіцкая</seg></tuv>
     </tu>
     <tu>
@@ -1968,8 +1964,8 @@
       <tuv lang="BE"><seg>#Чкалава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Чугуночный</seg></tuv>
-      <tuv lang="BE"><seg>#Чыгуначны</seg></tuv>
+      <tuv lang="RU"><seg>Чугунный</seg></tuv>
+      <tuv lang="BE"><seg>#Чыгунны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чунчина</seg></tuv>
@@ -2020,11 +2016,15 @@
       <tuv lang="BE"><seg>#Шасэйны</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Шпилевская</seg></tuv>
+      <tuv lang="RU"><seg>Шпилёвская</seg></tuv>
       <tuv lang="BE"><seg>#Шпілеўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Шпилевский</seg></tuv>
+      <tuv lang="BE"><seg>#Шпілеўскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шпилёвский</seg></tuv>
       <tuv lang="BE"><seg>#Шпілеўскі</seg></tuv>
     </tu>
     <tu>

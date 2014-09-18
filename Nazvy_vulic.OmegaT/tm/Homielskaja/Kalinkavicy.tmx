@@ -116,6 +116,10 @@
       <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Доватора</seg></tuv>
+      <tuv lang="BE"><seg>#Даватара</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Железнодорожная</seg></tuv>
       <tuv lang="BE"><seg>#Чыгуначная</seg></tuv>
     </tu>
@@ -172,7 +176,7 @@
       <tuv lang="BE"><seg>#Кірава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Клещева</seg></tuv>
+      <tuv lang="RU"><seg>Клещёва</seg></tuv>
       <tuv lang="BE"><seg>#Клешчава</seg></tuv>
     </tu>
     <tu>
@@ -286,6 +290,10 @@
     <tu>
       <tuv lang="RU"><seg>Мелиоративная</seg></tuv>
       <tuv lang="BE"><seg>#Меліяратыўная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мозырский</seg></tuv>
+      <tuv lang="BE"><seg>#Мазырскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
@@ -473,7 +481,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Франциска Скорины</seg></tuv>
-      <tuv lang="BE"><seg>#Франциска Скорыны</seg></tuv>
+      <tuv lang="BE"><seg>#Францыска Скарыны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Фрунзе</seg></tuv>

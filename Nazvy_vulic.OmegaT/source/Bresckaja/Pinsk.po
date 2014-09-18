@@ -44,8 +44,8 @@ msgid "Береговая"
 msgstr ""
 
 # Objects : [w25283390]
-# Names: [Березовая улица]
-msgid "Березовая"
+# Names: [Берёзовая улица]
+msgid "Берёзовая"
 msgstr ""
 
 # Objects : [w25285066, w25285068]
@@ -104,8 +104,8 @@ msgid "Веры Хоружей"
 msgstr ""
 
 # Objects : [w25283192]
-# Names: [Веселая улица]
-msgid "Веселая"
+# Names: [Весёлая улица]
+msgid "Весёлая"
 msgstr ""
 
 # Objects : [w25283299]
@@ -384,8 +384,8 @@ msgid "Канареева"
 msgstr ""
 
 # Objects : [w25283417]
-# Names: [улица Карасева]
-msgid "Карасева"
+# Names: [улица Карасёва]
+msgid "Карасёва"
 msgstr ""
 
 # Objects : [w25285122]
@@ -429,8 +429,8 @@ msgid "Кленовая"
 msgstr ""
 
 # Objects : [w25283096, w239165004]
-# Names: [улица Клещева]
-msgid "Клещева"
+# Names: [улица Клещёва]
+msgid "Клещёва"
 msgstr ""
 
 # Objects : [w25283196]
@@ -759,7 +759,7 @@ msgid "Новгородская"
 msgstr ""
 
 # Objects : [w25283623]
-# Names: [улица Новопесчаная]
+# Names: [Новопесчаная улица]
 msgid "Новопесчаная"
 msgstr ""
 

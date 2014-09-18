@@ -25,7 +25,7 @@ msgstr ""
 
 # Objects : [w157042643]
 # Names: [в ПМС]
-msgid "в П М С"
+msgid "в ПМС"
 
 # Objects : [w106442576, w115544896, w289555677]
 # Names: [улица Гагарина]
@@ -72,7 +72,7 @@ msgstr ""
 msgid "Зелёная"
 msgstr ""
 
-# Objects : [w106442574]
+# Objects : [w106442574, w302571366]
 # Names: [улица имени Мельнова]
 msgid "имени Мельнова"
 msgstr ""

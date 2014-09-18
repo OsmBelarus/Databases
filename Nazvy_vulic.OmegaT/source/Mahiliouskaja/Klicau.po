@@ -83,12 +83,7 @@ msgstr ""
 msgid "Марковская"
 msgstr ""
 
-# Objects : [w262053279]
-# Names: [Могилевская улица]
-msgid "Могилевская"
-msgstr ""
-
-# Objects : [w207542603]
+# Objects : [w207542603, w262053279]
 # Names: [Могилёвская улица]
 msgid "Могилёвская"
 msgstr ""
@@ -108,8 +103,8 @@ msgid "Новый"
 msgstr ""
 
 # Objects : [w98006779]
-# Names: [Озерный переулок]
-msgid "Озерный"
+# Names: [Озёрный переулок]
+msgid "Озёрный"
 msgstr ""
 
 # Objects : [w97724268, w219746835]

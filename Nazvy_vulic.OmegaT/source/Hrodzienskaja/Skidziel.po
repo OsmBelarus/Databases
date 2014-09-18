@@ -33,6 +33,10 @@ msgstr ""
 msgid "Интернациональная"
 msgstr ""
 
+# Objects : [w199494845]
+# Names: [улица Калиновского]
+msgid "Калиновского"
+
 # Objects : [w199495058]
 # Names: [улица Карла Маркса]
 msgid "Карла Маркса"
@@ -53,7 +57,7 @@ msgstr ""
 msgid "Луговая"
 msgstr ""
 
-# Objects : [w199495078]
+# Objects : [w289107285]
 # Names: [улица Мира]
 msgid "Мира"
 msgstr ""
@@ -67,6 +71,10 @@ msgstr ""
 # Names: [Октябрьская улица]
 msgid "Октябрьская"
 msgstr ""
+
+# Objects : [w289107867]
+# Names: [улица Ольги Соломовой]
+msgid "Ольги Соломовой"
 
 # Objects : [w199494988]
 # Names: [Парковая улица]

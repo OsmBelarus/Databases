@@ -38,6 +38,10 @@ msgstr ""
 msgid "Мира"
 msgstr ""
 
+# Objects : [w277788994]
+# Names: [Привокзальная площадь]
+msgid "Привокзальная"
+
 # Objects : [w45653845, w45669217]
 # Names: [улица Славы]
 msgid "Славы"

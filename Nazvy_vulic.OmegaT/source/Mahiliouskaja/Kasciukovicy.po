@@ -98,11 +98,6 @@ msgstr ""
 msgid "Интернациональный"
 msgstr ""
 
-# Objects : [w252715515]
-# Names: [улица Казея]
-msgid "Казея"
-msgstr ""
-
 # Objects : [w232429731]
 # Names: [Колхозная улица]
 msgid "Колхозная"
@@ -176,6 +171,11 @@ msgstr ""
 # Objects : [w204112814]
 # Names: [улица Максима Горького]
 msgid "Максима Горького"
+msgstr ""
+
+# Objects : [w252715515]
+# Names: [улица Марата Казея]
+msgid "Марата Казея"
 msgstr ""
 
 # Objects : [w210707788, w249673780]

@@ -1120,10 +1120,6 @@
       <tuv lang="BE"><seg>#Мічурына</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Могилевская</seg></tuv>
-      <tuv lang="BE"><seg>#Магілёўская</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Могилёвская</seg></tuv>
       <tuv lang="BE"><seg>#Магілёўская</seg></tuv>
     </tu>
@@ -1909,7 +1905,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Франциска Скорины</seg></tuv>
-      <tuv lang="BE"><seg>#Франциска Скорыны</seg></tuv>
+      <tuv lang="BE"><seg>#Францыска Скарыны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Фрунзе</seg></tuv>

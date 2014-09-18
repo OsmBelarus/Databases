@@ -148,12 +148,12 @@
       <tuv lang="BE"><seg>#Суворава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Тельмана</seg></tuv>
-      <tuv lang="BE"><seg>#Тэльмана</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Центральная</seg></tuv>
       <tuv lang="BE"><seg>#Цэнтральная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чапского</seg></tuv>
+      <tuv lang="BE"><seg>#Тэльмана</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чехова</seg></tuv>

@@ -132,7 +132,7 @@ msgid "Набережная"
 msgid "Назаренко"
 msgstr ""
 
-# Objects : [w30659849]
+# Objects : [w30659849, w303661742]
 # Names: [Октябрьская улица]
 msgid "Октябрьская"
 msgstr ""

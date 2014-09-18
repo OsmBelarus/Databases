@@ -13,7 +13,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>28 Июля</seg></tuv>
-      <tuv lang="BE"><seg>#28 Ліпеня</seg></tuv>
+      <tuv lang="BE"><seg>#28 ліпеня</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>5-й Форт</seg></tuv>
@@ -177,11 +177,11 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Брестских дивизий</seg></tuv>
-      <tuv lang="BE"><seg>#Брэсцкіх дывізій</seg></tuv>
+      <tuv lang="BE"><seg>#Брэсцкіх Дывізій#Брэсцкіх дывізій</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Брест-Центральная</seg></tuv>
-      <tuv lang="BE"><seg>#Брэст-Цэнтральная</seg></tuv>
+      <tuv lang="RU"><seg>Брест-Центральный</seg></tuv>
+      <tuv lang="BE"><seg>#Брэст-Цэнтральная#Пуцявая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Брусничная</seg></tuv>
@@ -876,6 +876,10 @@
       <tuv lang="BE"><seg>#Чырвоны</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Крепостной</seg></tuv>
+      <tuv lang="BE"><seg>#Крапасны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Крестьянская</seg></tuv>
       <tuv lang="BE"><seg>#Сялянская</seg></tuv>
     </tu>
@@ -1105,7 +1109,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мира</seg></tuv>
-      <tuv lang="BE"><seg>#Міру</seg></tuv>
+      <tuv lang="BE"><seg>#Міра</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мирная</seg></tuv>
@@ -1149,7 +1153,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>М О П Ра</seg></tuv>
-      <tuv lang="BE"><seg>#М А Д Ра</seg></tuv>
+      <tuv lang="BE"><seg>#МАДРа</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Морозова</seg></tuv>
@@ -1929,7 +1933,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Франциска Скорины</seg></tuv>
-      <tuv lang="BE"><seg>#Франциска Скорыны</seg></tuv>
+      <tuv lang="BE"><seg>#Францыска Скарыны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Фруктовая</seg></tuv>

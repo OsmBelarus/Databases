@@ -8,6 +8,10 @@ msgstr ""
 msgid "Барского"
 msgstr ""
 
+# Objects : [w125120971]
+# Names: [Восточная улица]
+msgid "Восточная"
+
 # Objects : [w169439865, w169439866]
 # Names: [улица Карбышева]
 msgid "Карбышева"
@@ -33,10 +37,18 @@ msgstr ""
 msgid "Кунькова"
 msgstr ""
 
+# Objects : [w233443033]
+# Names: [М. Танка]
+msgid "М. Танка"
+
 # Objects : [w233443043]
 # Names: [улица Макаревича]
 msgid "Макаревича"
 msgstr ""
+
+# Objects : [w125120970]
+# Names: [Мелиоративная улица]
+msgid "Мелиоративная"
 
 # Objects : [w233443082]
 # Names: [Новая улица]
@@ -47,6 +59,10 @@ msgstr ""
 # Names: [Первомайская улица]
 msgid "Первомайская"
 msgstr ""
+
+# Objects : [w303578406]
+# Names: [Пинская]
+msgid "Пинская"
 
 # Objects : [w41466841]
 # Names: [Северная улица]

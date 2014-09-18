@@ -8,7 +8,7 @@ msgstr ""
 msgid "Вилейская"
 msgstr ""
 
-# Objects : [w52077343, w95205817]
+# Objects : [w52077343, w95205817, w300925024]
 # Names: [улица Водопьянова]
 msgid "Водопьянова"
 msgstr ""

@@ -78,7 +78,7 @@ msgstr ""
 msgid "Новая"
 msgstr ""
 
-# Objects : [w25278710]
+# Objects : [w25278710, w300601987]
 # Names: [Объездная]
 msgid "Объездная"
 msgstr ""

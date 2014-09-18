@@ -4,8 +4,8 @@ msgid "Асланова"
 msgstr ""
 
 # Objects : [w225437493]
-# Names: [Березовый проезд]
-msgid "Березовый"
+# Names: [Берёзовый проезд]
+msgid "Берёзовый"
 msgstr ""
 
 # Objects : [w38318351, w40218039]

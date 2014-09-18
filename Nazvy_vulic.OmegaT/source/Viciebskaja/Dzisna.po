@@ -28,7 +28,7 @@ msgstr ""
 msgid "Кирова"
 msgstr ""
 
-# Objects : [w35094125]
+# Objects : [w35094125, w302075155]
 # Names: [улица Комарова]
 msgid "Комарова"
 msgstr ""

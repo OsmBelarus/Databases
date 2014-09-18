@@ -72,10 +72,6 @@
       <tuv lang="BE"><seg>#Маркаўская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Могилевская</seg></tuv>
-      <tuv lang="BE"><seg>#Магілёўская</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Могилёвская</seg></tuv>
       <tuv lang="BE"><seg>#Магілёўская</seg></tuv>
     </tu>
@@ -88,7 +84,7 @@
       <tuv lang="BE"><seg>#Новы</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Озерный</seg></tuv>
+      <tuv lang="RU"><seg>Озёрный</seg></tuv>
       <tuv lang="BE"><seg>#Азёрны</seg></tuv>
     </tu>
     <tu>

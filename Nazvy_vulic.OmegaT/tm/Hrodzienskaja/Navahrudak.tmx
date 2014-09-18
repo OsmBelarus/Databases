@@ -308,6 +308,10 @@
       <tuv lang="BE"><seg>#Спартовы</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Тавлая</seg></tuv>
+      <tuv lang="BE"><seg>#Таўлая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Танкистов</seg></tuv>
       <tuv lang="BE"><seg>#Танкістаў</seg></tuv>
     </tu>
@@ -333,7 +337,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Франциска Скорины</seg></tuv>
-      <tuv lang="BE"><seg>#Франциска Скорыны</seg></tuv>
+      <tuv lang="BE"><seg>#Францыска Скарыны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Фрунзе</seg></tuv>
