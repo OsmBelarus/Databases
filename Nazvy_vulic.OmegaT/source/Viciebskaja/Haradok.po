@@ -48,7 +48,7 @@ msgstr ""
 msgid "Володарского"
 msgstr ""
 
-# Objects : [w31782745]
+# Objects : [w31782745, w304052018]
 # Names: [улица Воровского]
 msgid "Воровского"
 msgstr ""
@@ -360,6 +360,7 @@ msgstr ""
 # Objects : [w169672740]
 # Names: [Школьная улица]
 msgid "Школьная"
+msgstr ""
 
 # Objects : [w157813409]
 # Names: [Юбилейная улица]

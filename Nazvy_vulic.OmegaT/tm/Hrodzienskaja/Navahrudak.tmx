@@ -40,6 +40,10 @@
       <tuv lang="BE"><seg>#Валчэцкага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ворошилова</seg></tuv>
+      <tuv lang="BE"><seg>#Варашылава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Гагарина</seg></tuv>
       <tuv lang="BE"><seg>#Гагарына</seg></tuv>
     </tu>
@@ -50,6 +54,10 @@
     <tu>
       <tuv lang="RU"><seg>Герцена</seg></tuv>
       <tuv lang="BE"><seg>#Герцэна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гоголя</seg></tuv>
+      <tuv lang="BE"><seg>#Гогаля</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гродненский</seg></tuv>
@@ -104,12 +112,20 @@
       <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Интернациональный</seg></tuv>
+      <tuv lang="BE"><seg>#Інтэрнацыянальны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Калиновского</seg></tuv>
       <tuv lang="BE"><seg>#Каліноўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
       <tuv lang="BE"><seg>#Кірава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Колодежная</seg></tuv>
+      <tuv lang="BE"><seg>#Калодзежная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Колхозная</seg></tuv>
@@ -180,6 +196,10 @@
       <tuv lang="BE"><seg>#Ламаносава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Луговая</seg></tuv>
+      <tuv lang="BE"><seg>#Лугавая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Люси Сечко</seg></tuv>
       <tuv lang="BE"><seg>#Люсі Сячко</seg></tuv>
     </tu>
@@ -198,6 +218,10 @@
     <tu>
       <tuv lang="RU"><seg>Маяковского</seg></tuv>
       <tuv lang="BE"><seg>#Маякоўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Менделеева</seg></tuv>
+      <tuv lang="BE"><seg>#Мендзялеева</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Минский</seg></tuv>
@@ -234,6 +258,10 @@
     <tu>
       <tuv lang="RU"><seg>Октябрьский</seg></tuv>
       <tuv lang="BE"><seg>#Кастрычніцкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Островского</seg></tuv>
+      <tuv lang="BE"><seg>#Астроўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Парковая</seg></tuv>

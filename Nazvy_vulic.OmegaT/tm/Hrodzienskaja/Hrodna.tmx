@@ -344,10 +344,6 @@
       <tuv lang="BE"><seg>#Гагарына</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>ГАП №1</seg></tuv>
-      <tuv lang="BE"><seg>#ГАП №1</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Гаражная</seg></tuv>
       <tuv lang="BE"><seg>#Гаражная</seg></tuv>
     </tu>
@@ -812,7 +808,7 @@
       <tuv lang="BE"><seg>#Казаноўскага</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Калачёвская</seg></tuv>
+      <tuv lang="RU"><seg>Калачевская</seg></tuv>
       <tuv lang="BE"><seg>#Калачаўская</seg></tuv>
     </tu>
     <tu>
@@ -898,10 +894,6 @@
     <tu>
       <tuv lang="RU"><seg>Ковальская</seg></tuv>
       <tuv lang="BE"><seg>#Кавальская</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Колбасино</seg></tuv>
-      <tuv lang="BE"><seg>#Каўбасіно</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Колбасинская</seg></tuv>
@@ -2202,10 +2194,6 @@
     <tu>
       <tuv lang="RU"><seg>Уютная</seg></tuv>
       <tuv lang="BE"><seg>#Утульная</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Фабрика "Динамо"</seg></tuv>
-      <tuv lang="BE"><seg>#Фабрыка "Дынама"</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Фабричная</seg></tuv>

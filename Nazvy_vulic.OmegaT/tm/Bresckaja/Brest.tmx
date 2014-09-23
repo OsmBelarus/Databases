@@ -13,7 +13,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>28 Июля</seg></tuv>
-      <tuv lang="BE"><seg>#28 ліпеня</seg></tuv>
+      <tuv lang="BE"><seg>#28 Ліпеня</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>5-й Форт</seg></tuv>
@@ -177,11 +177,11 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Брестских дивизий</seg></tuv>
-      <tuv lang="BE"><seg>#Брэсцкіх Дывізій#Брэсцкіх дывізій</seg></tuv>
+      <tuv lang="BE"><seg>#Брэсцкіх дывізій</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Брест-Центральный</seg></tuv>
-      <tuv lang="BE"><seg>#Брэст-Цэнтральная#Пуцявая</seg></tuv>
+      <tuv lang="BE"><seg>#Брэст-Цэнтральны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Брусничная</seg></tuv>
@@ -496,6 +496,10 @@
       <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Дмитрия Гвишиани</seg></tuv>
+      <tuv lang="BE"><seg>#Дзмітрыя Гвішыяні</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Дмитрия Донского</seg></tuv>
       <tuv lang="BE"><seg>#Дзмітрыя Данскога</seg></tuv>
     </tu>
@@ -662,10 +666,6 @@
     <tu>
       <tuv lang="RU"><seg>Изумрудная</seg></tuv>
       <tuv lang="BE"><seg>#Ізумрудная</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>имени Дмитрия Гвишиани</seg></tuv>
-      <tuv lang="BE"><seg>#імя Змітра Гвішыані</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Инженерная</seg></tuv>
@@ -877,7 +877,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Крепостной</seg></tuv>
-      <tuv lang="BE"><seg>#Крапасны</seg></tuv>
+      <tuv lang="BE"><seg>#Крэпасны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Крестьянская</seg></tuv>
@@ -1048,6 +1048,10 @@
       <tuv lang="BE"><seg>#Лысая Гара</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Лыщинский</seg></tuv>
+      <tuv lang="BE"><seg>#Лышчынскі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Мазурука</seg></tuv>
       <tuv lang="BE"><seg>#Мазурука</seg></tuv>
     </tu>
@@ -1109,7 +1113,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мира</seg></tuv>
-      <tuv lang="BE"><seg>#Міра</seg></tuv>
+      <tuv lang="BE"><seg>#Міру</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мирная</seg></tuv>

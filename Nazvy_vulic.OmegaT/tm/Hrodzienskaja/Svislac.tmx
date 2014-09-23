@@ -60,14 +60,6 @@
       <tuv lang="BE"><seg>#Зялёная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>имени Мельнова</seg></tuv>
-      <tuv lang="BE"><seg>#імя Мельнава</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>имени Свердлова</seg></tuv>
-      <tuv lang="BE"><seg>#імя Свярдлова</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Калинина</seg></tuv>
       <tuv lang="BE"><seg>#Калініна</seg></tuv>
     </tu>
@@ -110,6 +102,10 @@
     <tu>
       <tuv lang="RU"><seg>Мелиораторов</seg></tuv>
       <tuv lang="BE"><seg>#Меліяратараў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мельнова</seg></tuv>
+      <tuv lang="BE"><seg>#Мельнова</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мичурина</seg></tuv>
@@ -161,7 +157,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Свердлова</seg></tuv>
-      <tuv lang="BE"><seg>#Свярдлова</seg></tuv>
+      <tuv lang="BE"><seg>#Свярдлова#імя Свярдлова</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Северная</seg></tuv>

@@ -16,6 +16,7 @@ msgstr ""
 # Objects : [w51807091]
 # Names: [Граничная улица]
 msgid "Граничная"
+msgstr ""
 
 # Objects : [w25277903, w25277910, w84786737]
 # Names: [улица Дзержинского]
@@ -70,6 +71,7 @@ msgstr ""
 # Objects : [w297714611]
 # Names: [Садовая улица]
 msgid "Садовая"
+msgstr ""
 
 # Objects : [w25277912]
 # Names: [улица Терешковой]

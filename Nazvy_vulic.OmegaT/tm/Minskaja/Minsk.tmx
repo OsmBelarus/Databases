@@ -193,7 +193,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заречанский</seg></tuv>
-      <tuv lang="BE"><seg>#Зарэчанскі</seg></tuv>
+      <tuv lang="BE"><seg>#Зарачанскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заславская</seg></tuv>
@@ -574,10 +574,6 @@
     <tu>
       <tuv lang="RU"><seg>Свирский</seg></tuv>
       <tuv lang="BE"><seg>#Свірскі</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Свободы</seg></tuv>
-      <tuv lang="BE"><seg>#Свабоды</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Скалинская</seg></tuv>

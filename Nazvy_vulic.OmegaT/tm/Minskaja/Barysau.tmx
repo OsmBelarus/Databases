@@ -96,6 +96,10 @@
       <tuv lang="BE"><seg>#Братоў Вайнрубаў</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Брилёвская</seg></tuv>
+      <tuv lang="BE"><seg>#Брылёўская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Бумажная</seg></tuv>
       <tuv lang="BE"><seg>#Папяровая</seg></tuv>
     </tu>
@@ -198,6 +202,10 @@
     <tu>
       <tuv lang="RU"><seg>Днепровская</seg></tuv>
       <tuv lang="BE"><seg>#Дняпроўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Днепровский</seg></tuv>
+      <tuv lang="BE"><seg>#Дняпроўскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дымки</seg></tuv>
@@ -521,7 +529,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Планерная</seg></tuv>
-      <tuv lang="BE"><seg>#Планёрная</seg></tuv>
+      <tuv lang="BE"><seg>#Планерная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пограничная</seg></tuv>
@@ -596,6 +604,10 @@
       <tuv lang="BE"><seg>#Працоўны Хімік</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Рака</seg></tuv>
+      <tuv lang="BE"><seg>#Рака</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Революции</seg></tuv>
       <tuv lang="BE"><seg>#Рэвалюцыі</seg></tuv>
     </tu>
@@ -626,6 +638,10 @@
     <tu>
       <tuv lang="RU"><seg>Сергея Лазо</seg></tuv>
       <tuv lang="BE"><seg>#Сяргея Лазо</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Серебренникова</seg></tuv>
+      <tuv lang="BE"><seg>#Серэбрэннікава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Смолевическая</seg></tuv>
@@ -726,6 +742,10 @@
     <tu>
       <tuv lang="RU"><seg>Тургенева</seg></tuv>
       <tuv lang="BE"><seg>#Тургенева</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тухачевского</seg></tuv>
+      <tuv lang="BE"><seg>#Тухачэўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Урицкого</seg></tuv>

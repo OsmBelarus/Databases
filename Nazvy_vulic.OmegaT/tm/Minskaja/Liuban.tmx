@@ -8,6 +8,10 @@
       <tuv lang="BE"><seg>#9 Мая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Аэродромная</seg></tuv>
+      <tuv lang="BE"><seg>#Аэрадромная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Брагина</seg></tuv>
       <tuv lang="BE"><seg>#Брагіна</seg></tuv>
     </tu>
@@ -30,6 +34,10 @@
     <tu>
       <tuv lang="RU"><seg>Ершова</seg></tuv>
       <tuv lang="BE"><seg>#Яршова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зелёный</seg></tuv>
+      <tuv lang="BE"><seg>#Зялёны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Интернациональная</seg></tuv>
@@ -86,6 +94,10 @@
     <tu>
       <tuv lang="RU"><seg>Пушкина</seg></tuv>
       <tuv lang="BE"><seg>#Пушкіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Северная</seg></tuv>
+      <tuv lang="BE"><seg>#Паўночная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>

@@ -263,10 +263,6 @@ msgstr ""
 msgid "Пушкина"
 msgstr ""
 
-# Objects : [w194681650, w194681652]
-# Names: [Р29]
-msgid "Р29"
-
 # Objects : [w179045062]
 # Names: [улица Свободы]
 msgid "Свободы"

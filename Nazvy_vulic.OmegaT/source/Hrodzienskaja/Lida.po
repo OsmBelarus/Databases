@@ -678,6 +678,11 @@ msgstr ""
 msgid "Московская"
 msgstr ""
 
+# Objects : [w128979831]
+# Names: [Московский переулок]
+msgid "Московский"
+msgstr ""
+
 # Objects : [w60839078]
 # Names: [улица Мясникова]
 msgid "Мясникова"

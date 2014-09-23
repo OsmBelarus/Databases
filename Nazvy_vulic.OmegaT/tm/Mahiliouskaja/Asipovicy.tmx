@@ -72,6 +72,10 @@
       <tuv lang="BE"><seg>#Варашылава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Восточный</seg></tuv>
+      <tuv lang="BE"><seg>#Усходні</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Гагарина</seg></tuv>
       <tuv lang="BE"><seg>#Гагарына</seg></tuv>
     </tu>
@@ -106,6 +110,10 @@
     <tu>
       <tuv lang="RU"><seg>Горная</seg></tuv>
       <tuv lang="BE"><seg>#Горная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Горького</seg></tuv>
+      <tuv lang="BE"><seg>#Горкага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Декабристов</seg></tuv>
@@ -222,6 +230,10 @@
     <tu>
       <tuv lang="RU"><seg>Космическая</seg></tuv>
       <tuv lang="BE"><seg>#Касмічная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Космонавтов</seg></tuv>
+      <tuv lang="BE"><seg>#Касманаўтаў</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Крупской</seg></tuv>
@@ -394,6 +406,10 @@
     <tu>
       <tuv lang="RU"><seg>Потоцкого</seg></tuv>
       <tuv lang="BE"><seg>#Патоцкага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Привокзальная</seg></tuv>
+      <tuv lang="BE"><seg>#Прывакзальная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Проектируемая</seg></tuv>

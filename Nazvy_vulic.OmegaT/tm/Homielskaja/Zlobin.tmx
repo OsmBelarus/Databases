@@ -368,6 +368,10 @@
       <tuv lang="BE"><seg>#Малевіцкая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Малевичский</seg></tuv>
+      <tuv lang="BE"><seg>#Малевіцкі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Малиновского</seg></tuv>
       <tuv lang="BE"><seg>#Маліноўскага</seg></tuv>
     </tu>
@@ -566,6 +570,10 @@
     <tu>
       <tuv lang="RU"><seg>Рогачёвская</seg></tuv>
       <tuv lang="BE"><seg>#Рагачоўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рокосовского</seg></tuv>
+      <tuv lang="BE"><seg>#Ракасоўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Рябиновая</seg></tuv>

@@ -164,10 +164,6 @@
       <tuv lang="BE"><seg>#Зоі Касмадзям’янскай</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>имени Партизанского отряда Анатолия Таира</seg></tuv>
-      <tuv lang="BE"><seg>#імя Партызанскага атрада Анатолія Таіра</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Интернациональная</seg></tuv>
       <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
     </tu>
@@ -434,6 +430,10 @@
     <tu>
       <tuv lang="RU"><seg>Партизанский</seg></tuv>
       <tuv lang="BE"><seg>#Партызанскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Партизанского отряда Анатолия Таира</seg></tuv>
+      <tuv lang="BE"><seg>#імя Партызанскага атрада Анатолія Таіра</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Первомайская</seg></tuv>

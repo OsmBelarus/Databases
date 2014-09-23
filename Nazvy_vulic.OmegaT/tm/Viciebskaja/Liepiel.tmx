@@ -140,6 +140,10 @@
       <tuv lang="BE"><seg>#Кірава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Кляшторного</seg></tuv>
+      <tuv lang="BE"><seg>#Кляшторнага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Ковалёва</seg></tuv>
       <tuv lang="BE"><seg>#Кавалёва</seg></tuv>
     </tu>
@@ -166,6 +170,10 @@
     <tu>
       <tuv lang="RU"><seg>Короленко</seg></tuv>
       <tuv lang="BE"><seg>#Караленкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Коцарева</seg></tuv>
+      <tuv lang="BE"><seg>#Коцарава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Красноармейская</seg></tuv>
@@ -214,6 +222,10 @@
     <tu>
       <tuv lang="RU"><seg>Мельничный</seg></tuv>
       <tuv lang="BE"><seg>#Млынавы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Минская</seg></tuv>
+      <tuv lang="BE"><seg>#Мінская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мира</seg></tuv>
@@ -402,6 +414,10 @@
     <tu>
       <tuv lang="RU"><seg>Юбилейная</seg></tuv>
       <tuv lang="BE"><seg>#Юбілейная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Южный</seg></tuv>
+      <tuv lang="BE"><seg>#Паўднёвы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Якуба Коласа</seg></tuv>

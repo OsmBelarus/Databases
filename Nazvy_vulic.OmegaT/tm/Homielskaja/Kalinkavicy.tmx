@@ -177,7 +177,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Клещёва</seg></tuv>
-      <tuv lang="BE"><seg>#Клешчава</seg></tuv>
+      <tuv lang="BE"><seg>#Кляшчова</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Князева</seg></tuv>
@@ -238,6 +238,10 @@
     <tu>
       <tuv lang="RU"><seg>Лазуненко</seg></tuv>
       <tuv lang="BE"><seg>#Лазуненкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ленинградская</seg></tuv>
+      <tuv lang="BE"><seg>#Ленінградская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лермонтова</seg></tuv>
@@ -518,6 +522,10 @@
     <tu>
       <tuv lang="RU"><seg>Шляга</seg></tuv>
       <tuv lang="BE"><seg>#Шлягі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шоссейный</seg></tuv>
+      <tuv lang="BE"><seg>#Шасэйны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Энгельса</seg></tuv>

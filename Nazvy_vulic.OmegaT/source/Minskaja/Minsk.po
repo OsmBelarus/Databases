@@ -725,11 +725,6 @@ msgstr ""
 msgid "Свирский"
 msgstr ""
 
-# Objects : [r190920]
-# Names: [площадь Свободы]
-msgid "Свободы"
-msgstr ""
-
 # Objects : [w25229382]
 # Names: [Скалинская улица]
 msgid "Скалинская"

@@ -452,6 +452,10 @@
       <tuv lang="BE"><seg>#Грыгор’ева</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Грищенко</seg></tuv>
+      <tuv lang="BE"><seg>#Грышчанкі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Громова</seg></tuv>
       <tuv lang="BE"><seg>#Громава</seg></tuv>
     </tu>
@@ -1025,7 +1029,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мопровская</seg></tuv>
-      <tuv lang="BE"><seg>#МОПРаўская#Мопраўская</seg></tuv>
+      <tuv lang="BE"><seg>#Мопраўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мопровский</seg></tuv>
@@ -1360,6 +1364,10 @@
       <tuv lang="BE"><seg>#Прыяравая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Приозёрная</seg></tuv>
+      <tuv lang="BE"><seg>#Прыазёрная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Прогонная</seg></tuv>
       <tuv lang="BE"><seg>#Прагонная</seg></tuv>
     </tu>
@@ -1522,10 +1530,6 @@
     <tu>
       <tuv lang="RU"><seg>Свободная</seg></tuv>
       <tuv lang="BE"><seg>#Свабодная</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Свободы</seg></tuv>
-      <tuv lang="BE"><seg>#Свабоды</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Северная</seg></tuv>
@@ -1697,7 +1701,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Старосельская</seg></tuv>
-      <tuv lang="BE"><seg>#Старасельская#Старасельскі</seg></tuv>
+      <tuv lang="BE"><seg>#Старасельская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Староулановская</seg></tuv>
@@ -1834,10 +1838,6 @@
     <tu>
       <tuv lang="RU"><seg>Туристская</seg></tuv>
       <tuv lang="BE"><seg>#Турысцкая</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Тысячелетия Витебска</seg></tuv>
-      <tuv lang="BE"><seg>#Тысячагоддзя Віцебска</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Угловой</seg></tuv>
@@ -2016,15 +2016,11 @@
       <tuv lang="BE"><seg>#Шасэйны</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Шпилёвская</seg></tuv>
+      <tuv lang="RU"><seg>Шпилевская</seg></tuv>
       <tuv lang="BE"><seg>#Шпілеўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Шпилевский</seg></tuv>
-      <tuv lang="BE"><seg>#Шпілеўскі</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Шпилёвский</seg></tuv>
       <tuv lang="BE"><seg>#Шпілеўскі</seg></tuv>
     </tu>
     <tu>
