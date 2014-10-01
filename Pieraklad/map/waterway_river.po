@@ -1,0 +1,4440 @@
+# Objects : [r1179867, r189775, w168201090, w229727190, w238911840, w244944070, w25070595, w296652600, w296652609]
+# name:be: [Гуйка, Ипуть, Нёман, Обаль, Прыпяць, Чорная Ганча]
+msgid "<null>"
+
+# Objects : [w25067178]
+# name:be: []
+msgid "Aktica"
+
+# Objects : [r3765079, w283743368]
+# name:be: [Нізянка]
+msgid "Balbata"
+
+# Objects : [w130573214]
+# name:be: []
+msgid "Baltoji Ančia"
+
+# Objects : [w25167745]
+# name:be: []
+msgid "Birvėta"
+
+# Objects : [w179598294]
+# name:be: [Заходні Буг]
+msgid "Bug"
+
+# Objects : [w161115516, w180786062, w180786064, w215625044, w265977099, w265977100, w265977101, w30041076, w30046526, w30046527, w30046530, w30046531, w30046534]
+# name:be: [Заходні Буг]
+msgid "Bug / Західний Буг"
+
+# Objects : [r332594]
+# name:be: [Чорная Ганча]
+msgid "Czarna Hańcza"
+
+# Objects : [w221132453]
+# name:be: []
+msgid "Czyżówka"
+
+# Objects : [w249685759, w29495678]
+# name:be: [Заходняя Дзвiна]
+msgid "Daugava"
+
+# Objects : [w22993150, w62178566]
+# name:be: [Дисна]
+msgid "Dysna"
+
+# Objects : [w40909129]
+# name:be: []
+msgid "Hwoźna"
+
+# Objects : [w150507572, w150514206, w254678256]
+# name:be: []
+msgid "Kamaja"
+
+# Objects : [w25179081, w68732906]
+# name:be: []
+msgid "Kanal Schewnaja"
+
+# Objects : [w128228049]
+# name:be: []
+msgid "Krzna"
+
+# Objects : [w108570778]
+# name:be: []
+msgid "Kusenka"
+
+# Objects : [w87430505]
+# name:be: []
+msgid "Leśna Prawa"
+
+# Objects : [w238964614]
+# name:be: []
+msgid "Losośna"
+
+# Objects : [w195947380]
+# name:be: []
+msgid "Merkys"
+
+# Objects : [w40908239]
+# name:be: []
+msgid "Narewka"
+
+# Objects : [w38674296, w68577689, w68577715]
+# name:be: [Нёман]
+msgid "Nemunas"
+
+# Objects : [w4869903]
+# name:be: [Вилия]
+msgid "Neris"
+
+# Objects : [w25175407, w304802479]
+# name:be: []
+msgid "Šalčia"
+
+# Objects : [w304802478]
+# name:be: []
+msgid "Šalčia/Шальчя"
+
+# Objects : [w36774470]
+# name:be: []
+msgid "Šalčykščia"
+
+# Objects : [w263052741]
+# name:be: []
+msgid "Seina"
+
+# Objects : [w233273704]
+# name:be: [Шляміца]
+msgid "Szlamica"
+
+# Objects : [w304103866]
+# name:be: []
+msgid "Włodawka"
+
+# Objects : [w25176807]
+# name:be: [Абрамаўшчына]
+msgid "Абрамовщина"
+
+# Objects : [w25082407]
+# name:be: []
+msgid "Авчеса"
+
+# Objects : [r3547023, w25039970]
+# name:be: [Адаменка]
+msgid "Адаменка"
+
+# Objects : [r3547072, w25039354, w25041094, w75787367, w75787372]
+# name:be: [Адроў]
+msgid "Адров"
+
+# Objects : [w25067177, w25067179, w25067180]
+# name:be: []
+msgid "Актица"
+
+# Objects : [w25068691]
+# name:be: []
+msgid "Аржаница"
+
+# Objects : [w25038188]
+# name:be: []
+msgid "Ария"
+
+# Objects : [w172258165, w25037055, w25038112]
+# name:be: []
+msgid "Артисловка"
+
+# Objects : [w25065340]
+# name:be: [Авута]
+msgid "Аута"
+
+# Objects : [w25069144]
+# name:be: []
+msgid "Бабенка"
+
+# Objects : [w25059468]
+# name:be: [р. Байна]
+msgid "Байна"
+
+# Objects : [w25033876]
+# name:be: [р. Балазна]
+msgid "Балазна"
+
+# Objects : [w25168707]
+# name:be: []
+msgid "Балванка"
+
+# Objects : [w25038491, w253459233, w253459238]
+# name:be: [р. Барагінка]
+msgid "Барагинка"
+
+# Objects : [w25175332, w25175338]
+# name:be: [Басінка]
+msgid "Басинка"
+
+# Objects : [w211107965, w211107966, w25081103]
+# name:be: [Бася]
+msgid "Бася"
+
+# Objects : [w25034426]
+# name:be: []
+msgid "БАСЯ"
+
+# Objects : [w292288641]
+# name:be: []
+msgid "Батывля"
+
+# Objects : [w25063885]
+# name:be: [р. Бедрыца]
+msgid "Бедрица"
+
+# Objects : [w25058340]
+# name:be: []
+msgid "Бежица"
+
+# Objects : [w205483009, w238767882, w238767883, w25037595, w25082213]
+# name:be: [р. Бязуння]
+msgid "Безунья"
+
+# Objects : [w25030809]
+# name:be: []
+msgid "Бел. Натопа"
+
+# Objects : [w25174405]
+# name:be: []
+msgid "Белава"
+
+# Objects : [w25050916, w25070002, w25181381]
+# name:be: [Белая]
+msgid "Белая"
+
+# Objects : [w25037152, w25046645, w25052549, w25061745]
+# name:be: [Беліца]
+msgid "Белица"
+
+# Objects : [w25036195]
+# name:be: []
+msgid "Беличанка"
+
+# Objects : [w25034990, w25034996]
+# name:be: []
+msgid "Беляевка"
+
+# Objects : [w25030226]
+# name:be: []
+msgid "Белянка"
+
+# Objects : [w25175102]
+# name:be: []
+msgid "Бенка"
+
+# Objects : [w29173645]
+# name:be: [Бервенка]
+msgid "Бервенка"
+
+# Objects : [w25175887]
+# name:be: []
+msgid "Береза"
+
+# Objects : [r190850, r899660, w152229589, w156664420, w195015715, w204662570, w25042275, w25057793, w25059804, w25059831, w25061685, w25062957, w25063002, w25063030, w25064299, w25065423, w25065447, w25066623, w25066624, w25067738, w25081016, w25166507, w25168293, w25168307, w267010653, w288985727, w34504291, w34951297, w39539780, w48920024, w48920025, w48953645, w57997152, w70727684, w70728847]
+# name:be: [Бярэ́зіна, Бярэзіна, р. Бярэ́зіна, р. Бярэзіна]
+msgid "Березина"
+
+# Objects : [w25053241]
+# name:be: [Бярозка]
+msgid "Березка"
+
+# Objects : [w25049341]
+# name:be: [Бярозка]
+msgid "Берёзка"
+
+# Objects : [w151831834, w171991142, w25041359, w25049823, w25064921, w25067195, w25068640]
+# name:be: [Беразоўка]
+msgid "Березовка"
+
+# Objects : [w25041323]
+# name:be: [Бярозаўка]
+msgid "Берёзовка"
+
+# Objects : [w25179566]
+# name:be: []
+msgid "Берестовичанка"
+
+# Objects : [w25061526]
+# name:be: [р. Бярэшча]
+msgid "Береща"
+
+# Objects : [w25032417]
+# name:be: []
+msgid "Берлянка"
+
+# Objects : [w25047812, w25047946, w290854811, w290854814]
+# name:be: [р. Бярноўка]
+msgid "Берновка"
+
+# Objects : [w25027486, w25027704, w25029242, w25033710, w25033712, w25033716, w25077192, w25077791, w25079611]
+# name:be: []
+msgid "Беседь"
+
+# Objects : [w25049083, w282801373, w282801374, w282837844, w282837845]
+# name:be: [Бікложа]
+msgid "Бикложа"
+
+# Objects : [w113516524]
+# name:be: []
+msgid "Бирвета"
+
+# Objects : [w25089245]
+# name:be: []
+msgid "Блудыня"
+
+# Objects : [w25172810]
+# name:be: []
+msgid "Блюшка"
+
+# Objects : [w25086174, w25087171, w25088181, w25089280, w25089294, w289495693]
+# name:be: [Бобр]
+msgid "Бобр"
+
+# Objects : [w25173864, w264416724]
+# name:be: []
+msgid "Бобрик"
+
+# Objects : [w25033294, w25038203, w25070506]
+# name:be: []
+msgid "Бобровка"
+
+# Objects : [w304748855, w304748856, w304748857]
+# name:be: []
+msgid "Бобруйка"
+
+# Objects : [w25051342]
+# name:be: []
+msgid "Бол. Вязанка"
+
+# Objects : [w25171036]
+# name:be: []
+msgid "Бол. Перекоп"
+
+# Objects : [w25062202, w25063504]
+# name:be: []
+msgid "Болгач"
+
+# Objects : [w25044345]
+# name:be: []
+msgid "Болоновка"
+
+# Objects : [w41392558]
+# name:be: []
+msgid "Болотниця"
+
+# Objects : [w25061829]
+# name:be: []
+msgid "Болочанка"
+
+# Objects : [w105189282, w25174122]
+# name:be: [Болошинка]
+msgid "Болошинка"
+
+# Objects : [w25176711]
+# name:be: [Вялікая Лябёдка]
+msgid "Большая Лебедка"
+
+# Objects : [w25030528]
+# name:be: [Бароўка]
+msgid "Боровка"
+
+# Objects : [w25060045, w25060062, w25061833]
+# name:be: []
+msgid "Ботча"
+
+# Objects : [w88995039]
+# name:be: []
+msgid "Боярка"
+
+# Objects : [w230059251, w25038427, w25038475, w256596611]
+# name:be: []
+msgid "Брагинка"
+
+# Objects : [w25061613, w25065629, w285715442, w285715444, w285715445]
+# name:be: []
+msgid "Бродня"
+
+# Objects : [w25089618]
+# name:be: []
+msgid "Брожка"
+
+# Objects : [w25171971, w25171972]
+# name:be: []
+msgid "Брусса"
+
+# Objects : [w25038186]
+# name:be: []
+msgid "Бруськая"
+
+# Objects : [w25054940]
+# name:be: []
+msgid "Брусята"
+
+# Objects : [w25080969, w279946460, w279946461, w279946462, w279946463, w279949698, w279949699]
+# name:be: [р. Брыжоўка]
+msgid "Брыжовка"
+
+# Objects : [r1314266]
+# name:be: [Заходні Буг]
+msgid "Буг/Bug"
+
+# Objects : [w25037156]
+# name:be: []
+msgid "Будлянка"
+
+# Objects : [w25051837, w25051839]
+# name:be: [Будавесць]
+msgid "Будовесть"
+
+# Objects : [w25051848, w290847542, w290847543, w290847639, w290847640, w290847689, w290847690]
+# name:be: []
+msgid "Будовица"
+
+# Objects : [w249793062, w250437444, w250437445, w250437446]
+# name:be: [Бузянка]
+msgid "Бузянка"
+
+# Objects : [w25176233]
+# name:be: []
+msgid "Булла"
+
+# Objects : [w25175913]
+# name:be: []
+msgid "Булянка"
+
+# Objects : [w25062948]
+# name:be: []
+msgid "Бурчак"
+
+# Objects : [w25090605]
+# name:be: []
+msgid "Бусль"
+
+# Objects : [w25176253]
+# name:be: []
+msgid "Бусяж"
+
+# Objects : [w25032988, w25033852]
+# name:be: [Быкаўка]
+msgid "Быковка"
+
+# Objects : [w25031844, w25079158]
+# name:be: []
+msgid "Быстрая"
+
+# Objects : [w39234438]
+# name:be: []
+msgid "Бычок"
+
+# Objects : [w25172544, w38282051, w38282295, w38282297, w38282696, w38282698]
+# name:be: []
+msgid "Бяла"
+
+# Objects : [w25043419, w25043510, w25084512]
+# name:be: []
+msgid "Вабич"
+
+# Objects : [r3762460, w283469952]
+# name:be: [Вавёрка]
+msgid "Вавюрка"
+
+# Objects : [w25061322]
+# name:be: []
+msgid "Вароница"
+
+# Objects : [w25072581]
+# name:be: []
+msgid "Вдова"
+
+# Objects : [w25052409]
+# name:be: []
+msgid "Ведерка"
+
+# Objects : [w25032711, w25032747]
+# name:be: []
+msgid "Ведерня"
+
+# Objects : [w25052813]
+# name:be: [р. Вядзеціца]
+msgid "Ведетица"
+
+# Objects : [w225677251, w25051496, w25084107]
+# name:be: []
+msgid "Ведрич"
+
+# Objects : [w25175167]
+# name:be: [Вядроўка]
+msgid "Ведровка"
+
+# Objects : [w25173008]
+# name:be: []
+msgid "Ведьма"
+
+# Objects : [w25033859]
+# name:be: [р. Веліжка]
+msgid "Велижка"
+
+# Objects : [w25062890, w25062894]
+# name:be: [р. Вялікая]
+msgid "Великая"
+
+# Objects : [w25060849]
+# name:be: []
+msgid "Вельница"
+
+# Objects : [w25050830]
+# name:be: []
+msgid "Вепринка"
+
+# Objects : [w25033236, w25033326]
+# name:be: []
+msgid "Вербовка"
+
+# Objects : [w25073981]
+# name:be: [Вярэдаўка]
+msgid "Вередавка"
+
+# Objects : [w25174855]
+# name:be: []
+msgid "Веренка"
+
+# Objects : [w25052728, w25052748, w25052749]
+# name:be: []
+msgid "Вересожка"
+
+# Objects : [w25177887]
+# name:be: [Вератейка]
+msgid "Веретейка"
+
+# Objects : [w25175105, w25175109]
+# name:be: []
+msgid "Вержа"
+
+# Objects : [w29157374, w44110432, w66882467, w66882570]
+# name:be: [Вержбалоўка]
+msgid "Вержболовка"
+
+# Objects : [w25035527, w25035535, w25036781, w25081035]
+# name:be: [Вярхіта, р. Вярхіта]
+msgid "Верхита"
+
+# Objects : [w25068064]
+# name:be: []
+msgid "Весейка"
+
+# Objects : [w25068065]
+# name:be: []
+msgid "Весея"
+
+# Objects : [w25076642]
+# name:be: []
+msgid "Ветлица"
+
+# Objects : [w25177527, w69138045, w69138736]
+# name:be: []
+msgid "Вехотнянка"
+
+# Objects : [w25035894, w25035911, w25035939, w25039431]
+# name:be: [Вілейка]
+msgid "Вилейка"
+
+# Objects : [w105189331, w152994779, w25066664, w25067770, w25168223, w25168235, w25173339, w40220799, w62219206]
+# name:be: [Ві́лія, Вілія]
+msgid "Вилия"
+
+# Objects : [w25174205]
+# name:be: []
+msgid "Вилия (Нярис)"
+
+# Objects : [w202176240, w202176241, w202176242, w25038152, w25038155, w25038158, w25039612]
+# name:be: []
+msgid "Вильчанка"
+
+# Objects : [w160563733, w25042423, w290858117, w290858119, w290858121, w290858123, w290858127, w290858129, w290858478, w290858479, w290858504, w290858506]
+# name:be: []
+msgid "Вировлянка"
+
+# Objects : [w25053479, w25053482]
+# name:be: []
+msgid "Вирь"
+
+# Objects : [w25055673]
+# name:be: []
+msgid "Висла"
+
+# Objects : [w25173879]
+# name:be: []
+msgid "Вислица"
+
+# Objects : [w168244425, w237477184, w237478377, w25082253, w75609705, w75609707, w96698453]
+# name:be: [Віцьба]
+msgid "Витьба"
+
+# Objects : [w230105873]
+# name:be: []
+msgid "вихра"
+
+# Objects : [w230105388, w230105489, w25028403, w25028404, w25029817, w25077823]
+# name:be: []
+msgid "Вихра"
+
+# Objects : [w25055680, w292395574]
+# name:be: []
+msgid "Виша"
+
+# Objects : [w25180006]
+# name:be: [Вішня]
+msgid "Вишня"
+
+# Objects : [w25063560]
+# name:be: []
+msgid "Водьга"
+
+# Objects : [w25065666]
+# name:be: []
+msgid "Вожа"
+
+# Objects : [w25027542, w25077074]
+# name:be: []
+msgid "Войская"
+
+# Objects : [w25172764]
+# name:be: []
+msgid "Волеватка"
+
+# Objects : [w25168552, w25169727]
+# name:be: []
+msgid "Волка"
+
+# Objects : [w25177204]
+# name:be: []
+msgid "Волковыя"
+
+# Objects : [w29173822]
+# name:be: [Валкушанка]
+msgid "Волкушанка"
+
+# Objects : [w173008643, w181734806, w25065669, w25066790, w25066806, w25168450, w25169743, w25169760]
+# name:be: []
+msgid "Волма"
+
+# Objects : [w25174921]
+# name:be: [Валоўка]
+msgid "Воловка"
+
+# Objects : [w25177530]
+# name:be: []
+msgid "Волпянка"
+
+# Objects : [w25067350]
+# name:be: []
+msgid "Волта"
+
+# Objects : [w25071031, w25071090]
+# name:be: []
+msgid "Волхва"
+
+# Objects : [w25058279, w25060123]
+# name:be: []
+msgid "Волчанка"
+
+# Objects : [w25032034, w25032060]
+# name:be: []
+msgid "Волчес"
+
+# Objects : [w25082176, w291274704, w291274705]
+# name:be: [р. Валынка]
+msgid "Волынка"
+
+# Objects : [w25081901]
+# name:be: []
+msgid "Ворля"
+
+# Objects : [w25037463]
+# name:be: [р. Варонка]
+msgid "Воронка"
+
+# Objects : [w25041408]
+# name:be: [Варапiнка]
+msgid "Воропинка"
+
+# Objects : [w25174109]
+# name:be: []
+msgid "Воротец"
+
+# Objects : [w25074230]
+# name:be: []
+msgid "Выгоничанка"
+
+# Objects : [w25065946]
+# name:be: []
+msgid "Выгоща"
+
+# Objects : [w25076203]
+# name:be: []
+msgid "Выдранка"
+
+# Objects : [w25036728]
+# name:be: [р. Выдрэйка]
+msgid "Выдрейка"
+
+# Objects : [w25172090]
+# name:be: []
+msgid "Выдренка"
+
+# Objects : [w25036788, w25048116, w280440547, w280440548, w291047157, w291047158, w292397995, w30058552]
+# name:be: [Выдрыца, р. Выдрыца]
+msgid "Выдрица"
+
+# Objects : [w25072646, w25072654]
+# name:be: []
+msgid "Вызенка"
+
+# Objects : [w25035392, w25037642, w76073291]
+# name:be: [р. Вымнянка]
+msgid "Вымнянка"
+
+# Objects : [w25168670]
+# name:be: []
+msgid "Выня"
+
+# Objects : [w25068950]
+# name:be: []
+msgid "Выпрата"
+
+# Objects : [w205487132, w25072298, w25165018]
+# name:be: [Вязенская]
+msgid "Вязенская"
+
+# Objects : [w25175817, w25175818, w25175819, w25175834]
+# name:be: []
+msgid "Вязовка"
+
+# Objects : [w25066275]
+# name:be: []
+msgid "Вянужка"
+
+# Objects : [w25068319]
+# name:be: []
+msgid "Вята"
+
+# Objects : [w25068984, w37412707]
+# name:be: [Вяча]
+msgid "Вяча"
+
+# Objects : [r3240256, w124256857, w206804561, w25174806, w25174815]
+# name:be: [Гаўя]
+msgid "Гавья"
+
+# Objects : [w226093693, w25066746, w25066751, w25067865, w277177504, w277177505, w277177506, w32683073]
+# name:be: []
+msgid "Гайна"
+
+# Objects : [w157739928]
+# name:be: [Галядза]
+msgid "Галядза"
+
+# Objects : [w25059951, w25061806, w25169546]
+# name:be: []
+msgid "Ганутка"
+
+# Objects : [w25174789]
+# name:be: [Гаружанка]
+msgid "Гаружанка"
+
+# Objects : [w25173582]
+# name:be: []
+msgid "Гасток"
+
+# Objects : [w176133008, w24283672, w25064531, w25065661, w43723515, w43723516, w69414987]
+# name:be: []
+msgid "Гать"
+
+# Objects : [w25179939]
+# name:be: []
+msgid "Гвозна Хвозьна"
+
+# Objects : [w38282682, w38282684, w38282686]
+# name:be: []
+msgid "Гервятка"
+
+# Objects : [w292400960]
+# name:be: []
+msgid "Глина"
+
+# Objects : [w25032162]
+# name:be: []
+msgid "Глинец"
+
+# Objects : [w25061583]
+# name:be: []
+msgid "Глиница"
+
+# Objects : [w25037773, w276152251, w276152253, w276152254, w276152255, w276152256, w276152257]
+# name:be: []
+msgid "Глухая"
+
+# Objects : [w25052885]
+# name:be: [р. Глыбачка]
+msgid "Глыбочка"
+
+# Objects : [w25035115, w25035138]
+# name:be: []
+msgid "Гнива"
+
+# Objects : [w25174025]
+# name:be: []
+msgid "Гнилая Припять"
+
+# Objects : [w25066974, w25168623]
+# name:be: [Глініца]
+msgid "Гнилица"
+
+# Objects : [w25049879]
+# name:be: []
+msgid "Гнилка"
+
+# Objects : [w25070077, w83537706]
+# name:be: []
+msgid "Гнилуха"
+
+# Objects : [w25168617]
+# name:be: []
+msgid "Говезнянка"
+
+# Objects : [w25169609]
+# name:be: []
+msgid "Годея"
+
+# Objects : [r2811110, w209157200, w222790754, w222790755, w29173188, w38852205, w38852207]
+# name:be: [Гажанка]
+msgid "Гожанка"
+
+# Objects : [w25174221]
+# name:be: []
+msgid "Гозовка"
+
+# Objects : [w25071766]
+# name:be: []
+msgid "Голбица"
+
+# Objects : [w25176050]
+# name:be: [Галдаўлянка]
+msgid "Голдовлянка"
+
+# Objects : [w25033543]
+# name:be: []
+msgid "Голуба"
+
+# Objects : [w25035766]
+# name:be: []
+msgid "Голубина"
+
+# Objects : [w25068381, w295600326, w295600329]
+# name:be: []
+msgid "Голчицы"
+
+# Objects : [w25035728]
+# name:be: []
+msgid "Голыша"
+
+# Objects : [w25174307, w25174320]
+# name:be: []
+msgid "Гольшанка"
+
+# Objects : [w25053364]
+# name:be: []
+msgid "Гончанка"
+
+# Objects : [w25174391, w25174406]
+# name:be: []
+msgid "Горача"
+
+# Objects : [w25031603]
+# name:be: []
+msgid "Горенка"
+
+# Objects : [r3164596, w235093323, w25170603, w47328572]
+# name:be: []
+msgid "Горинь"
+
+# Objects : [w25036138, w25037311]
+# name:be: []
+msgid "Горна"
+
+# Objects : [r2971656, w29173345, w29173784, w44466789]
+# name:be: [Горніца]
+msgid "Горница"
+
+# Objects : [w25062377, w25082245]
+# name:be: [Горнаўка, р. Горнаўка]
+msgid "Горновка"
+
+# Objects : [w25175970]
+# name:be: []
+msgid "Горностайка"
+
+# Objects : [w25063872]
+# name:be: [Гарадзенка]
+msgid "Городенка"
+
+# Objects : [w25055116]
+# name:be: []
+msgid "Городеченка"
+
+# Objects : [w25031801, w25031802, w25031803, w25031804, w25031805, w25033055]
+# name:be: []
+msgid "Городня"
+
+# Objects : [w75664256]
+# name:be: [Гарадок]
+msgid "Городок"
+
+# Objects : [w25040591, w25042470, w25084188, w87340766, w87340771]
+# name:be: [Гаражанка]
+msgid "Горожанка"
+
+# Objects : [w25042508, w25042536, w25084229, w295600222, w295600223]
+# name:be: [р. Гаражанская]
+msgid "Горожанская"
+
+# Objects : [w116702478, w116702872, w125874022, w25076842, w25165781, w25167336]
+# name:be: []
+msgid "Горынь"
+
+# Objects : [w25030801]
+# name:be: []
+msgid "Горянка"
+
+# Objects : [w25061857]
+# name:be: []
+msgid "Гравка"
+
+# Objects : [w25180915, w291364790, w291364791, w291364792, w291364793, w291364794, w291364795]
+# name:be: []
+msgid "Градовка"
+
+# Objects : [w25067994, w286591066, w286591067, w286591588, w286591589, w286591590, w286591591]
+# name:be: []
+msgid "Гребенка"
+
+# Objects : [w25027759, w25077264]
+# name:be: []
+msgid "Гребля"
+
+# Objects : [w25041858, w25041885, w25044923, w25083887]
+# name:be: []
+msgid "Греза"
+
+# Objects : [w228707232]
+# name:be: []
+msgid "Грезля"
+
+# Objects : [r183856, w38302026]
+# name:be: [Грыўда]
+msgid "Гривда"
+
+# Objects : [w25072527]
+# name:be: []
+msgid "Гривчик"
+
+# Objects : [w25082709]
+# name:be: [р. Громаць]
+msgid "Громоть"
+
+# Objects : [w25056021]
+# name:be: []
+msgid "Грязива"
+
+# Objects : [w25062901, w39539778]
+# name:be: []
+msgid "Гурба"
+
+# Objects : [w25062149]
+# name:be: []
+msgid "Гуристая"
+
+# Objects : [w25071582]
+# name:be: []
+msgid "Густатка"
+
+# Objects : [w25038244]
+# name:be: []
+msgid "Гутлянка"
+
+# Objects : [w25078051]
+# name:be: []
+msgid "Даворка"
+
+# Objects : [w25179064]
+# name:be: []
+msgid "Дахловка"
+
+# Objects : [w25067830]
+# name:be: []
+msgid "Двиноса"
+
+# Objects : [w25034936, w25034963, w25034965, w25070957]
+# name:be: []
+msgid "Девица"
+
+# Objects : [w42454570]
+# name:be: [Дзяменка]
+msgid "Деменка"
+
+# Objects : [w25176430]
+# name:be: []
+msgid "Дераженка"
+
+# Objects : [w25040389]
+# name:be: []
+msgid "Деражня"
+
+# Objects : [w25036920]
+# name:be: [р. Дзеравіж]
+msgid "Деревиж"
+
+# Objects : [w220555289, w220555290, w25174995, w25175003]
+# name:be: [Дзеравянка]
+msgid "Деревянка"
+
+# Objects : [w25037016, w25037045]
+# name:be: []
+msgid "Дерна"
+
+# Objects : [w150588314, w25083726]
+# name:be: [Дзярноўка]
+msgid "Дерновка"
+
+# Objects : [w201615406, w201615408, w25065464, w25066663]
+# name:be: [Дзяражына, р. Дзяражына]
+msgid "Деряжина"
+
+# Objects : [w25029179, w25077974]
+# name:be: []
+msgid "Деряжня"
+
+# Objects : [w25030715]
+# name:be: []
+msgid "Десенка"
+
+# Objects : [w121862205, w125627634, w219044364, w219044368, w25057239]
+# name:be: [Дзiва]
+msgid "Дива"
+
+# Objects : [r3763317, w283586640, w283586641]
+# name:be: [Дзікушка]
+msgid "Дикушка"
+
+# Objects : [w160338548, w25066336, w25167718]
+# name:be: [Дзісна]
+msgid "Дисна"
+
+# Objects : [w252783287, w252783309, w252783311, w252783317, w254784027, w254784030]
+# name:be: [Дисна]
+msgid "Дисна / Dysna"
+
+# Objects : [r3240235, w25175750, w25175978, w25176038]
+# name:be: [Дзітва]
+msgid "Дитва"
+
+# Objects : [r2086905, w167825337, w173016317, w196248160, w25035562, w25039461, w25039837, w25039932, w25040103, w25040361, w25081063, w29548268, w34504298, w51161449, w51161450]
+# name:be: [Дняпро, р. Дняпро]
+msgid "Днепр"
+
+# Objects : [w25034070]
+# name:be: []
+msgid "Днепрец"
+
+# Objects : [w25042305]
+# name:be: []
+msgid "Днеприк"
+
+# Objects : [w142171397]
+# name:be: [Дняпро]
+msgid "Дніпро"
+
+# Objects : [w25041072]
+# name:be: [Добрынка]
+msgid "Добринка"
+
+# Objects : [w25037278, w25037293, w25041934, w25050964, w25060016, w25061822, w25084806, w82434318]
+# name:be: []
+msgid "Добрица"
+
+# Objects : [w25036127, w25037284, w25037290]
+# name:be: []
+msgid "Добрич"
+
+# Objects : [w25031084]
+# name:be: []
+msgid "Добрость"
+
+# Objects : [w25067620, w25068624]
+# name:be: []
+msgid "Добрыловка"
+
+# Objects : [w25034220]
+# name:be: []
+msgid "Добрянка"
+
+# Objects : [w203019330, w203019331, w25042185, w25042211, w25042212, w25046657, w25046728, w25050931]
+# name:be: []
+msgid "Добысна"
+
+# Objects : [w25177428, w29173444, w89700913, w89700977]
+# name:be: []
+msgid "Довжица"
+
+# Objects : [w25063323]
+# name:be: []
+msgid "Доколька"
+
+# Objects : [w103631682, w25052405, w25086361]
+# name:be: []
+msgid "Должанка"
+
+# Objects : [w25043522]
+# name:be: []
+msgid "Домса"
+
+# Objects : [w25168338]
+# name:be: []
+msgid "Доровлянка"
+
+# Objects : [w25034907, w25034933]
+# name:be: []
+msgid "Дороживель"
+
+# Objects : [w25039627, w25083082]
+# name:be: []
+msgid "Доска"
+
+# Objects : [w25059136, w25061008]
+# name:be: [р. Дахнарка]
+msgid "Дохнарка"
+
+# Objects : [w25171434, w40428652, w40428653, w40428655]
+# name:be: []
+msgid "Драй"
+
+# Objects : [w25167614, w25167679, w25170626, w25170629]
+# name:be: []
+msgid "Дрисвята"
+
+# Objects : [w25169173]
+# name:be: []
+msgid "Дрисвятка"
+
+# Objects : [w25052792, w25065025, w85668159]
+# name:be: [Дрыса, р. Дрыса]
+msgid "Дрисса"
+
+# Objects : [w25052852, w25052859]
+# name:be: [р. Даржбітка]
+msgid "Дрожбитка"
+
+# Objects : [w25071603, w25071606]
+# name:be: []
+msgid "Дружнянка"
+
+# Objects : [w151565777, w25069853, w25071481, w25071503, w25073004, w26234854]
+# name:be: []
+msgid "Друйка"
+
+# Objects : [w25177605]
+# name:be: []
+msgid "Друнювка"
+
+# Objects : [w25042067, w25042084, w25044947, w25045376, w25045994, w25046186, w25050050, w25052162, w25084712, w298119351, w85615439, w85615441]
+# name:be: [Друць, р. Друць]
+msgid "Друть"
+
+# Objects : [w25057595]
+# name:be: []
+msgid "Дубешня"
+
+# Objects : [w25177092]
+# name:be: [Дубніца]
+msgid "Дубница"
+
+# Objects : [w164625151, w167888625, w76053394]
+# name:be: []
+msgid "Дубовка"
+
+# Objects : [w115708757, w128146206, w25035595, w25039546, w25039556, w25039572]
+# name:be: [р. Дубровенка]
+msgid "Дубровенка"
+
+# Objects : [w75664550]
+# name:be: [Дубраўка]
+msgid "Дубровка"
+
+# Objects : [w25174856]
+# name:be: [Дудлянка]
+msgid "Дудлянка"
+
+# Objects : [w25053314]
+# name:be: []
+msgid "Дулебка"
+
+# Objects : [w193178788, w252156244]
+# name:be: []
+msgid "Думбля"
+
+# Objects : [w25174381, w25176752]
+# name:be: [Дунай]
+msgid "Дунай"
+
+# Objects : [w25064499]
+# name:be: []
+msgid "Дыевка"
+
+# Objects : [w25052642]
+# name:be: [Дымарка]
+msgid "Дымарка"
+
+# Objects : [w25175560, w261198661]
+# name:be: [Дзятлаўка]
+msgid "Дятловка"
+
+# Objects : [w25041917]
+# name:be: []
+msgid "Езва"
+
+# Objects : [w25027498, w25031131, w25031255, w25033063, w25053233, w25075084, w25075149]
+# name:be: [Еленка]
+msgid "Еленка"
+
+# Objects : [w202317889, w202319877, w202319878]
+# name:be: []
+msgid "Елец"
+
+# Objects : [w25033539, w25177067]
+# name:be: [Ельня]
+msgid "Ельня"
+
+# Objects : [w25066292, w25066317, w25066432]
+# name:be: []
+msgid "Ельнянка"
+
+# Objects : [w25056147]
+# name:be: []
+msgid "Ершовская"
+
+# Objects : [w25065825, w25065828, w25065830]
+# name:be: []
+msgid "Ехна"
+
+# Objects : [w25027241, w25028044, w25077738]
+# name:be: []
+msgid "Жадунька"
+
+# Objects : [w41392519, w41392609]
+# name:be: []
+msgid "Жалібниця"
+
+# Objects : [w25171869]
+# name:be: []
+msgid "Жатеревка"
+
+# Objects : [w25034873, w25034897]
+# name:be: []
+msgid "Жауница"
+
+# Objects : [w25053699, w25053746, w25058819, w25060636]
+# name:be: []
+msgid "Желонь"
+
+# Objects : [r3763318, w25176101, w25176435, w283586642, w283586643]
+# name:be: [Жалудзянка]
+msgid "Желудянка"
+
+# Objects : [w25052842]
+# name:be: [р. Жэльцанка]
+msgid "Жельцанка"
+
+# Objects : [w25051469, w288450496, w30058612, w38454784, w38481543]
+# name:be: []
+msgid "Жердянка"
+
+# Objects : [w25040268, w25040280, w25040302]
+# name:be: []
+msgid "Жерело"
+
+# Objects : [w203285515, w203285516, w239058952, w25070758]
+# name:be: []
+msgid "Жесть"
+
+# Objects : [w25083850]
+# name:be: []
+msgid "Живорезка"
+
+# Objects : [w25175110, w25175148, w25175404, w25175415]
+# name:be: [Жыжма]
+msgid "Жижма"
+
+# Objects : [w25061843]
+# name:be: []
+msgid "Житинка"
+
+# Objects : [w41531130]
+# name:be: []
+msgid "Жолонь"
+
+# Objects : [w25089372]
+# name:be: [Жорнаўка]
+msgid "Жорновка"
+
+# Objects : [w25061587]
+# name:be: [р. Жартайка]
+msgid "Жортайка"
+
+# Objects : [w25176754]
+# name:be: [Жужма]
+msgid "Жужма"
+
+# Objects : [w25070513]
+# name:be: []
+msgid "Жучок"
+
+# Objects : [w25041863]
+# name:be: []
+msgid "Забава"
+
+# Objects : [w25174770]
+# name:be: [Загорнікі]
+msgid "Загорники"
+
+# Objects : [w128146207]
+# name:be: [Задубровенка]
+msgid "Задубровенка"
+
+# Objects : [w25045473]
+# name:be: []
+msgid "Зазерье"
+
+# Objects : [w25033945]
+# name:be: [Закабыліца]
+msgid "Закобылица"
+
+# Objects : [w25052617, w287866023, w290491326]
+# name:be: []
+msgid "Закованка"
+
+# Objects : [w288600849]
+# name:be: []
+msgid "Закота"
+
+# Objects : [r549362, w160338459, w294746121, w80109123, w81886452]
+# name:be: [Заходняя Дзвіна]
+msgid "Западная Двина"
+
+# Objects : [w25062152]
+# name:be: []
+msgid "Запаличная"
+
+# Objects : [w149100929, w25070206, w25071843, w25071866]
+# name:be: [р. Заражанка]
+msgid "Зарежанка"
+
+# Objects : [w43191145]
+# name:be: [Зарніца]
+msgid "Зарница"
+
+# Objects : [w25048313]
+# name:be: [Заронаўка]
+msgid "Зароновка"
+
+# Objects : [w25063314]
+# name:be: []
+msgid "Зарудеча"
+
+# Objects : [w173047128, w173047129, w25040611]
+# name:be: [р. Зачэрнаўская]
+msgid "Зачерновская"
+
+# Objects : [w25033628]
+# name:be: []
+msgid "Зборхов"
+
+# Objects : [w25062417]
+# name:be: [р. Званіца]
+msgid "Званица"
+
+# Objects : [w25051872, w281161961, w281161962]
+# name:be: [Звездзік]
+msgid "Звездик"
+
+# Objects : [w25056294]
+# name:be: [р. Зверынка]
+msgid "Зверинка"
+
+# Objects : [w104477855, w104477857, w25039090, w276152258, w276152259, w305766647, w305766648]
+# name:be: [Зелянуха, р. Зелянуха]
+msgid "Зеленуха"
+
+# Objects : [r2237770, w167812732, w167812735, w25176500, w25176534, w25176555, w25176893, w25176894, w25177235]
+# name:be: [Зяльвянка]
+msgid "Зельвянка"
+
+# Objects : [w271990641]
+# name:be: []
+msgid "земчанка"
+
+# Objects : [w25174526]
+# name:be: []
+msgid "Земчатка"
+
+# Objects : [w25176722]
+# name:be: []
+msgid "Зеняпишка"
+
+# Objects : [w25080266]
+# name:be: []
+msgid "Зерня"
+
+# Objects : [w25061466]
+# name:be: [Зеха]
+msgid "Зеха"
+
+# Objects : [w25064846, w25064865]
+# name:be: []
+msgid "Зилупе (Синюха)"
+
+# Objects : [w25173735]
+# name:be: []
+msgid "Змейка"
+
+# Objects : [w25176788]
+# name:be: []
+msgid "Зозулька"
+
+# Objects : [w25028288]
+# name:be: []
+msgid "Зубар"
+
+# Objects : [w25068797]
+# name:be: [Зуйка]
+msgid "Зуйка"
+
+# Objects : [w25176234]
+# name:be: [Іванаўка]
+msgid "Ивановка"
+
+# Objects : [w25033048, w25033050]
+# name:be: [р. Івата]
+msgid "Ивата"
+
+# Objects : [w25175296]
+# name:be: [Івязянка]
+msgid "Ивезянка"
+
+# Objects : [w112186777, w167580281, w25037373, w25037376]
+# name:be: []
+msgid "Иволька"
+
+# Objects : [w29172433, w88668357, w88670676, w88679369]
+# name:be: []
+msgid "Игорка"
+
+# Objects : [w25175216]
+# name:be: []
+msgid "Изва"
+
+# Objects : [w25171713]
+# name:be: []
+msgid "Изледь"
+
+# Objects : [w25175212]
+# name:be: []
+msgid "Изовка"
+
+# Objects : [w239544794, w25068938]
+# name:be: []
+msgid "Илия"
+
+# Objects : [w88884433]
+# name:be: []
+msgid "Индурка"
+
+# Objects : [w169478145, w169478146, w25082693]
+# name:be: [р. Іардынка]
+msgid "Иордынка"
+
+# Objects : [w25055659, w25088612]
+# name:be: []
+msgid "Ипа"
+
+# Objects : [w108188475, w117869286, w213436566, w25027289, w25027296, w25077108, w64972730, w97943248, w98168523]
+# name:be: [Іпуць]
+msgid "Ипуть"
+
+# Objects : [w25034033]
+# name:be: [Ірвяніца]
+msgid "Ирвеница"
+
+# Objects : [w25084498]
+# name:be: [р. Іржэўка]
+msgid "Иржевка"
+
+# Objects : [w130808915, w213193663, w213193664, w213832604, w213832605, w213832609, w213832618, w214789508, w214789509, w25074303]
+# name:be: [Іслач]
+msgid "Ислочь"
+
+# Objects : [w25056073]
+# name:be: []
+msgid "Испол"
+
+# Objects : [r3439698, w25174988, w25174991, w97115169]
+# name:be: [Іса]
+msgid "Исса"
+
+# Objects : [w25063900]
+# name:be: []
+msgid "Истянка"
+
+# Objects : [r3763319, w25176387, w25176401, w283586644]
+# name:be: [Ішчальнянка]
+msgid "Ищелнянка"
+
+# Objects : [w41721152]
+# name:be: [Ілля]
+msgid "Ілля"
+
+# Objects : [w218479551, w25040602]
+# name:be: [р. Кабішчанка]
+msgid "Кабищанка"
+
+# Objects : [w25028312]
+# name:be: []
+msgid "Кавпита"
+
+# Objects : [w25035080]
+# name:be: [Калінаўка]
+msgid "Калиновка"
+
+# Objects : [w152865582, w152865587, w25169234, w25170766, w254678269]
+# name:be: []
+msgid "Камайка"
+
+# Objects : [w25066669]
+# name:be: [Камяніца]
+msgid "Каменица"
+
+# Objects : [w168559938, w168559941, w172440389, w172440390, w202584329, w202584395, w202584396, w203052364, w208892121, w25033384, w25033533, w25034691, w25038035, w25040549, w25042437, w25080374, w25090684, w25169764, w25171768, w25175701, w25180980, w42786653, w76053374, w76053379, w76053425, w76053430, w89810202]
+# name:be: [Каменка, р. Каменка]
+msgid "Каменка"
+
+# Objects : [w25085266]
+# name:be: [р. Камянчанка]
+msgid "Каменчанка"
+
+# Objects : [w25076894]
+# name:be: []
+msgid "канава"
+
+# Objects : [w25174752]
+# name:be: []
+msgid "Капонишкю"
+
+# Objects : [w25038082]
+# name:be: []
+msgid "Капустник"
+
+# Objects : [w153943477, w25035812]
+# name:be: []
+msgid "Касинка"
+
+# Objects : [w105642601, w170568112]
+# name:be: [р. Каспля]
+msgid "Каспля"
+
+# Objects : [w25073852]
+# name:be: []
+msgid "Каханка"
+
+# Objects : [w25173407]
+# name:be: []
+msgid "Кернова"
+
+# Objects : [r899342, w206804562, w25052327, w25088297, w25089409, w25174337, w25174339, w25174792, w25174797]
+# name:be: [Клява]
+msgid "Клева"
+
+# Objects : [w25173314]
+# name:be: []
+msgid "Клевель"
+
+# Objects : [w25053295]
+# name:be: [Клявіца]
+msgid "Клевица"
+
+# Objects : [w25061761, w25061763, w25061765]
+# name:be: []
+msgid "Кленовка"
+
+# Objects : [w25173589]
+# name:be: []
+msgid "Климок"
+
+# Objects : [w25027783, w25027789]
+# name:be: []
+msgid "Клинна"
+
+# Objects : [w25034870, w25034879, w25034884]
+# name:be: []
+msgid "Кляпинка"
+
+# Objects : [w169431241, w169431242, w169431243, w169431244, w169431245, w169431246, w169431247, w169431248, w169454260, w169454262, w169454264, w169454267, w25164911]
+# name:be: []
+msgid "Княгинька"
+
+# Objects : [w39735515]
+# name:be: []
+msgid "Кобринка"
+
+# Objects : [w25069147]
+# name:be: []
+msgid "Ковалевка"
+
+# Objects : [w25032134]
+# name:be: []
+msgid "Козел"
+
+# Objects : [w25032391]
+# name:be: []
+msgid "Козелька"
+
+# Objects : [w25177590]
+# name:be: []
+msgid "Колонна"
+
+# Objects : [w25032411, w25032453, w25032459, w25032460, w25032461, w25032463, w25032470, w25032472, w25033596]
+# name:be: []
+msgid "Колпита"
+
+# Objects : [w25061966]
+# name:be: []
+msgid "Комаринка"
+
+# Objects : [w25168696, w25170176]
+# name:be: []
+msgid "Коник"
+
+# Objects : [w25070528]
+# name:be: []
+msgid "Конотопка"
+
+# Objects : [w25072555]
+# name:be: []
+msgid "Копанка"
+
+# Objects : [w25051683]
+# name:be: []
+msgid "Копань"
+
+# Objects : [w268558711, w268558712]
+# name:be: []
+msgid "Копаювка"
+
+# Objects : [w76477648]
+# name:be: []
+msgid "Копылка"
+
+# Objects : [w25040498]
+# name:be: [р. Карляча]
+msgid "Корляча"
+
+# Objects : [w25071736]
+# name:be: []
+msgid "Корнеевка"
+
+# Objects : [w25064797]
+# name:be: []
+msgid "Коростинка"
+
+# Objects : [w193627557, w25173713, w25174550]
+# name:be: []
+msgid "Корчевка"
+
+# Objects : [w25175833]
+# name:be: []
+msgid "Корытенка"
+
+# Objects : [w25036030]
+# name:be: []
+msgid "Косолянка"
+
+# Objects : [r3762451, w25176374, w25176759]
+# name:be: [Касцянёўка]
+msgid "Костеневка"
+
+# Objects : [w25053419]
+# name:be: []
+msgid "Костричка"
+
+# Objects : [r282218, w200682006, w25176704, w258506183, w258506184, w258506186, w258506187, w258506188, w284127768, w35993901, w42083205]
+# name:be: [Котра]
+msgid "Котра"
+
+# Objects : [w230179115, w25031971]
+# name:be: []
+msgid "Кошанка"
+
+# Objects : [w25068897, w25068913, w25070426]
+# name:be: []
+msgid "Крайщанка"
+
+# Objects : [w25036866, w25057835]
+# name:be: [р. Крапівенка]
+msgid "Крапивенка"
+
+# Objects : [w25042304]
+# name:be: []
+msgid "Крапивинка"
+
+# Objects : [w25038365]
+# name:be: []
+msgid "Крапивня"
+
+# Objects : [w25061905]
+# name:be: [Красная]
+msgid "Красная"
+
+# Objects : [w25052845]
+# name:be: [р. Красамай]
+msgid "Красомай"
+
+# Objects : [w25043106]
+# name:be: [р. Крывая]
+msgid "Кривая"
+
+# Objects : [w25052045]
+# name:be: [Крывінка]
+msgid "Кривинка"
+
+# Objects : [w25181488]
+# name:be: []
+msgid "Кривуля"
+
+# Objects : [w25055459]
+# name:be: [Крынiца]
+msgid "Криница"
+
+# Objects : [w25172815]
+# name:be: []
+msgid "Кроманка"
+
+# Objects : [w25063530]
+# name:be: []
+msgid "Крупец"
+
+# Objects : [w25033435, w25175721]
+# name:be: [Крупка]
+msgid "Крупка"
+
+# Objects : [w25027583]
+# name:be: []
+msgid "Крупня"
+
+# Objects : [w25028975]
+# name:be: []
+msgid "Крупянка"
+
+# Objects : [w185446877, w185446878, w25171511]
+# name:be: []
+msgid "Кужец"
+
+# Objects : [w25177912]
+# name:be: []
+msgid "Куклянка"
+
+# Objects : [w25068444]
+# name:be: []
+msgid "Кулаж"
+
+# Objects : [w25035664, w25036923]
+# name:be: [р. Кулажанка]
+msgid "Кулаженка"
+
+# Objects : [w90110452, w90110520]
+# name:be: []
+msgid "Кусенка"
+
+# Objects : [w25066730]
+# name:be: []
+msgid "Лавоша"
+
+# Objects : [w25035371]
+# name:be: [р. Ладыгіна]
+msgid "Ладыгино"
+
+# Objects : [w25035584]
+# name:be: [Лазарэтная]
+msgid "Лазаретная"
+
+# Objects : [w114452010, w25038166, w25038176]
+# name:be: []
+msgid "Лазневка"
+
+# Objects : [w291530032, w44136507]
+# name:be: [Лазоўка]
+msgid "Лазовка"
+
+# Objects : [w25168774, w25170013]
+# name:be: []
+msgid "Лань"
+
+# Objects : [w25070111]
+# name:be: []
+msgid "Ласица"
+
+# Objects : [w192217675, w192217676, w25039568, w25039740, w25041501]
+# name:be: []
+msgid "Лахва"
+
+# Objects : [w169007582, w169007583, w25041531, w25041535, w25041566]
+# name:be: []
+msgid "Лахвица"
+
+# Objects : [w177264390, w177264391, w29173300]
+# name:be: []
+msgid "Лашанка"
+
+# Objects : [r3760045, w25176151, w25176359]
+# name:be: [Лебяда]
+msgid "Лебеда"
+
+# Objects : [w25033153]
+# name:be: []
+msgid "Лебедевка"
+
+# Objects : [w283464539]
+# name:be: [Лябёдка]
+msgid "Лебедка"
+
+# Objects : [w25171785]
+# name:be: []
+msgid "Лебежода"
+
+# Objects : [w25062276]
+# name:be: []
+msgid "Леменка"
+
+# Objects : [w100619284, w25180839, w87943913, w87959845]
+# name:be: [Лясная]
+msgid "Лесная"
+
+# Objects : [w25179044]
+# name:be: []
+msgid "Лесная Левая"
+
+# Objects : [w25180767]
+# name:be: []
+msgid "Лесная Правая"
+
+# Objects : [r3875650, w29173199, w29173201]
+# name:be: [Лесніца]
+msgid "Лесница"
+
+# Objects : [w25167433]
+# name:be: []
+msgid "Лесовая Речка"
+
+# Objects : [w25180750]
+# name:be: []
+msgid "Лесьна-Права"
+
+# Objects : [w25061770]
+# name:be: []
+msgid "Лешинка"
+
+# Objects : [w25037041, w25062282]
+# name:be: [Лешня]
+msgid "Лешня"
+
+# Objects : [w25038032]
+# name:be: [Лешча]
+msgid "Леща"
+
+# Objects : [w25168557]
+# name:be: []
+msgid "Ливанка"
+
+# Objects : [w129258834, w25175723, w76235438]
+# name:be: [Лідзейка]
+msgid "Лидейка"
+
+# Objects : [w25066616, w25066620]
+# name:be: []
+msgid "Лидница"
+
+# Objects : [w177264392, w177264395, w223401946, w223401947, w29173291]
+# name:be: [Лікоўка]
+msgid "Ликовка"
+
+# Objects : [w25081824]
+# name:be: [р. Лімна]
+msgid "Лимна"
+
+# Objects : [w25038317, w25062904]
+# name:be: [р. Ліпа]
+msgid "Липа"
+
+# Objects : [w25173828]
+# name:be: []
+msgid "Липнянка"
+
+# Objects : [w25052390]
+# name:be: [Ліпаўка]
+msgid "Липовка"
+
+# Objects : [w25060168]
+# name:be: []
+msgid "Лиса"
+
+# Objects : [w25176973, w25177320]
+# name:be: []
+msgid "Литкова"
+
+# Objects : [w25027597]
+# name:be: []
+msgid "Лобжанка"
+
+# Objects : [w25033470]
+# name:be: []
+msgid "Лобчанка"
+
+# Objects : [r2824507, w10615283, w168740298, w168740299, w25038525]
+# name:be: [р. Ловаць]
+msgid "Ловать"
+
+# Objects : [w25051908]
+# name:be: [Лог]
+msgid "Лог"
+
+# Objects : [w25067875, w25067897]
+# name:be: []
+msgid "Логозинка"
+
+# Objects : [w25070861]
+# name:be: []
+msgid "Локнея"
+
+# Objects : [w25067783]
+# name:be: [Лонва]
+msgid "Лонва"
+
+# Objects : [w25062216, w25088859]
+# name:be: [Лонніца]
+msgid "Лонница"
+
+# Objects : [w25176312]
+# name:be: []
+msgid "Лосинцы"
+
+# Objects : [w209211437, w33737665, w35343256, w35378237]
+# name:be: [Ласосна]
+msgid "Лососна"
+
+# Objects : [r1060386, w29157264, w42772647, w42776501]
+# name:be: [Ласасянка]
+msgid "Лососянка"
+
+# Objects : [w25064839, w25064840, w25064842]
+# name:be: []
+msgid "Лохница"
+
+# Objects : [w41929955]
+# name:be: []
+msgid "Лохниця"
+
+# Objects : [w220555291, w220555292, w220701598, w25174993, w25175336]
+# name:be: [Лахазва]
+msgid "Лохозва"
+
+# Objects : [w25070792, w25070811, w25072530, w25173406, w25174762, w25174765, w38546070, w40368917, w40799235, w40799332, w40799387, w40799389]
+# name:be: [Лоша]
+msgid "Лоша"
+
+# Objects : [w204140164, w25069092, w25465417, w278976954, w278976956, w278982131, w278982300, w278982301, w278982302, w278982303, w279041100, w279041102, w279041103, w279042338, w279042345, w279044202, w279044203]
+# name:be: [Лошыца]
+msgid "Лошица"
+
+# Objects : [w25033851, w25033855, w25169829, w82922561]
+# name:be: [Лубянка]
+msgid "Лубянка"
+
+# Objects : [w129704187]
+# name:be: [Лужаснянка]
+msgid "Лужеснянка"
+
+# Objects : [w25176440]
+# name:be: [Лука]
+msgid "Лука"
+
+# Objects : [w127157683, w25054713, w25057349, w256336711, w256336712, w256336753, w256336754, w303670286, w303670287]
+# name:be: [Лукамка, р. Лукамка]
+msgid "Лукомка"
+
+# Objects : [w25176226]
+# name:be: [Луконіца]
+msgid "Луконица"
+
+# Objects : [w25067554, w25166241]
+# name:be: []
+msgid "Лучайка"
+
+# Objects : [w25176335]
+# name:be: []
+msgid "Лучка"
+
+# Objects : [w80118833]
+# name:be: [Лучоса]
+msgid "Лучоса"
+
+# Objects : [w25172305]
+# name:be: []
+msgid "Лынтупка"
+
+# Objects : [w25071250, w25071251, w25076899, w25167450, w25167477, w25167478, w25167481, w25167489]
+# name:be: []
+msgid "Льва"
+
+# Objects : [w25086535]
+# name:be: []
+msgid "Любица"
+
+# Objects : [w25037335]
+# name:be: []
+msgid "Любича"
+
+# Objects : [w25034024]
+# name:be: [Любкіння]
+msgid "Любкинья"
+
+# Objects : [w25072691]
+# name:be: []
+msgid "Люта"
+
+# Objects : [w25182072]
+# name:be: []
+msgid "Лютая"
+
+# Objects : [w25060787]
+# name:be: []
+msgid "Люти"
+
+# Objects : [w25168405, w25169679]
+# name:be: []
+msgid "Лютинка"
+
+# Objects : [w25062932]
+# name:be: []
+msgid "Лютка"
+
+# Objects : [w25027571]
+# name:be: []
+msgid "Лядешня"
+
+# Objects : [w25175565, w25175579]
+# name:be: []
+msgid "Лядинка"
+
+# Objects : [w25041955, w25041963]
+# name:be: []
+msgid "Мадорка"
+
+# Objects : [w25075578, w25075696]
+# name:be: []
+msgid "Мажа"
+
+# Objects : [w25063100]
+# name:be: []
+msgid "Маконь"
+
+# Objects : [w25175766]
+# name:be: []
+msgid "Мал. Речка"
+
+# Objects : [w25085315, w25169363, w92941188]
+# name:be: [Малінаўка]
+msgid "Малиновка"
+
+# Objects : [w25180394]
+# name:be: [Маларыта]
+msgid "Малорита"
+
+# Objects : [w25052402]
+# name:be: []
+msgid "Малыш"
+
+# Objects : [w25057692]
+# name:be: []
+msgid "Манча"
+
+# Objects : [w25070191]
+# name:be: []
+msgid "Маргва"
+
+# Objects : [w25056284]
+# name:be: [р. Марынец]
+msgid "Маринец"
+
+# Objects : [w217828747, w217828748, w25037485]
+# name:be: [р. Марысіна]
+msgid "Марисина"
+
+# Objects : [r3419502, w233783131, w233783133, w254047802, w273325013, w288981470, w288991485]
+# name:be: [Марыха]
+msgid "Марыха"
+
+# Objects : [w25039441]
+# name:be: []
+msgid "Марьянка"
+
+# Objects : [w25063088]
+# name:be: []
+msgid "Маска"
+
+# Objects : [w25034052, w25035643]
+# name:be: [Маханаўка]
+msgid "Махановка"
+
+# Objects : [w25068435]
+# name:be: []
+msgid "Мацица"
+
+# Objects : [w25176911]
+# name:be: []
+msgid "Мацовка"
+
+# Objects : [w25055690]
+# name:be: []
+msgid "Медведь"
+
+# Objects : [w25177599, w25177609]
+# name:be: []
+msgid "Медянка"
+
+# Objects : [w25089856, w25089858]
+# name:be: [Межава]
+msgid "Межево"
+
+# Objects : [w25064449]
+# name:be: []
+msgid "Мена"
+
+# Objects : [w25166425]
+# name:be: []
+msgid "Ментынь"
+
+# Objects : [w25175086]
+# name:be: []
+msgid "Меречанка"
+
+# Objects : [w25033047, w25033126, w75664317, w75664427]
+# name:be: [р. Марэя]
+msgid "Мерея"
+
+# Objects : [w25068321]
+# name:be: []
+msgid "Мерица"
+
+# Objects : [w25078146]
+# name:be: []
+msgid "Мертвица"
+
+# Objects : [w25053285]
+# name:be: []
+msgid "Месреда"
+
+# Objects : [w25037004]
+# name:be: []
+msgid "Миловка"
+
+# Objects : [w25036853]
+# name:be: [р. Мілостаўка]
+msgid "Милостовка"
+
+# Objects : [w25036214]
+# name:be: []
+msgid "Мильча"
+
+# Objects : [w25171871]
+# name:be: [Міранка]
+msgid "Миранка"
+
+# Objects : [w25037858, w275863860, w275863861, w275863862, w275863863, w275863864, w275863865]
+# name:be: [Міронаўка]
+msgid "Мироновка"
+
+# Objects : [w25060093, w290549046, w76487938, w76488987]
+# name:be: []
+msgid "Млынка"
+
+# Objects : [w25055900, w25058714]
+# name:be: []
+msgid "Млынок"
+
+# Objects : [w25066561, w25066575]
+# name:be: []
+msgid "Мнюта"
+
+# Objects : [w25053237, w25054937, w82586564]
+# name:be: [Можа]
+msgid "Можа"
+
+# Objects : [w25065484, w25065488]
+# name:be: [р. Можніца]
+msgid "Можница"
+
+# Objects : [w204635999, w204636000, w25041888]
+# name:be: []
+msgid "Мокрянка"
+
+# Objects : [w25035007]
+# name:be: []
+msgid "Молинка"
+
+# Objects : [w25032357, w25032384, w253063986]
+# name:be: []
+msgid "Молостовка"
+
+# Objects : [w25175007, w25175008]
+# name:be: []
+msgid "Молотовка"
+
+# Objects : [r269655, w25174974, w25175264, w25175514, w41191245]
+# name:be: []
+msgid "Молчадь"
+
+# Objects : [w25067744]
+# name:be: [р. Морай]
+msgid "Морай"
+
+# Objects : [w25071019, w25072588, w25167058, w25167085]
+# name:be: []
+msgid "Морочь"
+
+# Objects : [w25071241, w25071262]
+# name:be: []
+msgid "Моства"
+
+# Objects : [w25028285, w25029274]
+# name:be: []
+msgid "Мошевка"
+
+# Objects : [w39539781]
+# name:be: []
+msgid "Мошка"
+
+# Objects : [w25036723, w279926963, w279926964]
+# name:be: [р. Мошна]
+msgid "Мошна"
+
+# Objects : [w25063609]
+# name:be: [Машніца]
+msgid "Мошница"
+
+# Objects : [w25065495]
+# name:be: [Мрай]
+msgid "Мрай"
+
+# Objects : [w25059674]
+# name:be: []
+msgid "Мужанка"
+
+# Objects : [w25027496]
+# name:be: []
+msgid "Мужичок"
+
+# Objects : [w25065982]
+# name:be: []
+msgid "Муквятица"
+
+# Objects : [w25089091]
+# name:be: [руч. Муравец]
+msgid "Муравец"
+
+# Objects : [w25068227]
+# name:be: []
+msgid "Мутвица"
+
+# Objects : [w25174938]
+# name:be: []
+msgid "Мутница"
+
+# Objects : [w25067143]
+# name:be: []
+msgid "Мутнянка"
+
+# Objects : [r554885, w225815828, w25177675, w25179112, w25180222, w25181769, w25181780, w45736777, w55359977, w55362226, w55367598, w55367635, w55367640]
+# name:be: [Мухавец]
+msgid "Мухавец"
+
+# Objects : [w25055883, w25055901]
+# name:be: []
+msgid "Мытва"
+
+# Objects : [w237143411]
+# name:be: []
+msgid "Мытная"
+
+# Objects : [w227129637, w25174587]
+# name:be: []
+msgid "Мышанка"
+
+# Objects : [w116902464, w116902465, w142750729, w142750730, w204141112, w204141114, w204141115, w279052658, w281650971, w34156905, w36790375, w55284216]
+# name:be: [Мышка]
+msgid "Мышка"
+
+# Objects : [w128726555]
+# name:be: []
+msgid "Мышь"
+
+# Objects : [w243822883, w243822885, w25167880, w25168010]
+# name:be: [Мядзелка]
+msgid "Мяделка"
+
+# Objects : [w25168065]
+# name:be: [Мядзелка]
+msgid "Мяделька"
+
+# Objects : [w25175103, w25175106]
+# name:be: []
+msgid "Мяркис"
+
+# Objects : [w25164600]
+# name:be: []
+msgid "Наква"
+
+# Objects : [w25174902]
+# name:be: []
+msgid "Налибовка"
+
+# Objects : [w25175189]
+# name:be: []
+msgid "Нарва"
+
+# Objects : [w25177612]
+# name:be: []
+msgid "Нарев"
+
+# Objects : [w25179944]
+# name:be: []
+msgid "Наревка"
+
+# Objects : [w25053662, w25053663, w25087486, w25088646]
+# name:be: []
+msgid "Наровлянка"
+
+# Objects : [w25168139]
+# name:be: [Нарач]
+msgid "Нарочь"
+
+# Objects : [w25177896]
+# name:be: []
+msgid "Наумка"
+
+# Objects : [w25066973]
+# name:be: []
+msgid "Науть"
+
+# Objects : [w25059617, w25062505, w25062964, w25172003, w82586561, w82586565]
+# name:be: [Нача]
+msgid "Нача"
+
+# Objects : [w25176327]
+# name:be: []
+msgid "Начка"
+
+# Objects : [w25174928]
+# name:be: []
+msgid "Невда"
+
+# Objects : [w25169615]
+# name:be: []
+msgid "Невежа"
+
+# Objects : [w25064850]
+# name:be: []
+msgid "Неверица"
+
+# Objects : [w25176732, w25176735]
+# name:be: []
+msgid "Невиша"
+
+# Objects : [w25174923]
+# name:be: []
+msgid "Негримовка"
+
+# Objects : [w25065485]
+# name:be: [р. Недалька]
+msgid "Недалька"
+
+# Objects : [w25038343]
+# name:be: []
+msgid "Недойка"
+
+# Objects : [w25066948, w25066949, w25068116]
+# name:be: []
+msgid "Нежаровка"
+
+# Objects : [w25062574]
+# name:be: [Нежлеўка]
+msgid "Нежлевка"
+
+# Objects : [w176955280, w194585031, w218044409, w256170097, w38572399, w38624543, w53537420, w54625472, w54625473, w71968783, w71970744, w91234513]
+# name:be: [Нёман]
+msgid "Неман"
+
+# Objects : [r189938, w221549869, w221549870, w38555832]
+# name:be: []
+msgid "Неманец"
+
+# Objects : [w25033686, w25033705]
+# name:be: []
+msgid "Неманка"
+
+# Objects : [w25064704]
+# name:be: []
+msgid "Немегля"
+
+# Objects : [w25179927]
+# name:be: [Немяржанка]
+msgid "Немержанка"
+
+# Objects : [w25049530]
+# name:be: [р. Немайцянка]
+msgid "Немойтянка"
+
+# Objects : [w25080846]
+# name:be: []
+msgid "Немыльня"
+
+# Objects : [w287310681]
+# name:be: []
+msgid "неначь"
+
+# Objects : [w25053594]
+# name:be: []
+msgid "Неначь"
+
+# Objects : [w25060340, w25088554, w80753956]
+# name:be: []
+msgid "Нератовка"
+
+# Objects : [w25083653]
+# name:be: [р. Нерайшанка]
+msgid "Нерейшанка"
+
+# Objects : [w25050113, w25050273]
+# name:be: []
+msgid "Неропля"
+
+# Objects : [w25040432]
+# name:be: []
+msgid "Несвич"
+
+# Objects : [w25055119]
+# name:be: []
+msgid "Несета"
+
+# Objects : [w25058372]
+# name:be: []
+msgid "Неславка"
+
+# Objects : [w25175679]
+# name:be: []
+msgid "Неслуха"
+
+# Objects : [w25180745]
+# name:be: []
+msgid "Нетупа"
+
+# Objects : [w25177565, w25177894, w25179569]
+# name:be: []
+msgid "Нетура"
+
+# Objects : [w25175714]
+# name:be: []
+msgid "Нешкрупа"
+
+# Objects : [w25056232]
+# name:be: []
+msgid "Нещедра"
+
+# Objects : [w25065815]
+# name:be: []
+msgid "Нещенка"
+
+# Objects : [w25088768, w25088773]
+# name:be: [р. Нешчарда]
+msgid "Нещерда"
+
+# Objects : [w25066900, w25066905, w25068113]
+# name:be: []
+msgid "Ниж. Весейка"
+
+# Objects : [w25176707]
+# name:be: [Нізянка]
+msgid "Низянка"
+
+# Objects : [w25065531, w25065534, w25065566, w25066702]
+# name:be: []
+msgid "Николаевщина"
+
+# Objects : [w25174571]
+# name:be: []
+msgid "Нитка"
+
+# Objects : [w223835142, w25060714, w25060856, w94387979]
+# name:be: [р. Нішча]
+msgid "Нища"
+
+# Objects : [w25060690]
+# name:be: [Расія — Беларусь]
+msgid "Нища; Россия — Беларусь"
+
+# Objects : [w25174617]
+# name:be: []
+msgid "Новосадка"
+
+# Objects : [w25175417]
+# name:be: []
+msgid "Новьянка"
+
+# Objects : [w25067835]
+# name:be: []
+msgid "Ночвиха"
+
+# Objects : [w25071434]
+# name:be: []
+msgid "Обабица"
+
+# Objects : [w25052611]
+# name:be: [Абедаўка]
+msgid "Обедовка"
+
+# Objects : [w100985867, w107882409, w118276510, w118276511, w118276512, w118276513, w156349247, w168201092, w25042340, w25047608, w25047811, w25047981, w25051711, w25051793, w25086820, w273949934, w291046798, w291046799, w291046934, w291046935, w291047099, w291047100, w291216300, w291216301, w291216366, w291216367, w291270052, w291270053, w291270164, w291270165, w294268020]
+# name:be: [Обаль, р. Обаль]
+msgid "Оболь"
+
+# Objects : [r3546003, w126583832, w25049621]
+# name:be: [Абалянка]
+msgid "Оболянка"
+
+# Objects : [r3546098, w25038918, w76089853, w76089868]
+# name:be: [Абручоўка]
+msgid "Обручевка"
+
+# Objects : [w25053149]
+# name:be: [Абчуга]
+msgid "Обчуга"
+
+# Objects : [w25034857, w25036026]
+# name:be: []
+msgid "Овсовина"
+
+# Objects : [w168540596, w168541178, w168541179, w223544647, w223544648, w25036271, w25037493, w25037495, w25037500, w25038667, w25040520, w25040539, w25081526, w93878903]
+# name:be: [р. Аўсянка]
+msgid "Овсянка"
+
+# Objects : [w25083306]
+# name:be: [Агнеш]
+msgid "Огнеш"
+
+# Objects : [r3546381]
+# name:be: []
+msgid "Огороднический ручей"
+
+# Objects : [w25067631]
+# name:be: [Агурнёўка]
+msgid "Огурнеевка"
+
+# Objects : [w25180662, w29173819]
+# name:be: []
+msgid "Одла"
+
+# Objects : [w25032485]
+# name:be: [Азярышчанская]
+msgid "Озерищенская"
+
+# Objects : [w264547207]
+# name:be: [Азяродка]
+msgid "Озеродка"
+
+# Objects : [r3555263, w173732889, w173732890, w25072947]
+# name:be: [Акмяніца]
+msgid "Окменица"
+
+# Objects : [w25040177]
+# name:be: []
+msgid "Окра"
+
+# Objects : [w25171324, w25172542, w37895778, w38281044, w38281045, w38281046, w38281047, w38282036, w38282043, w38282293, w38282692]
+# name:be: []
+msgid "Оксна"
+
+# Objects : [w25167536]
+# name:be: [Акунёўка]
+msgid "Окуневка"
+
+# Objects : [r3563150, w25053412, w250948661, w82368018]
+# name:be: [Ала]
+msgid "Ола"
+
+# Objects : [w25070752]
+# name:be: [Алёхаўка]
+msgid "Олеховка"
+
+# Objects : [w284404268]
+# name:be: [Алешня]
+msgid "Олешня"
+
+# Objects : [w25063330]
+# name:be: []
+msgid "Ольница"
+
+# Objects : [w223921160, w223925713, w25055249, w25088316, w25088421, w25088425]
+# name:be: [Ольса]
+msgid "Ольса"
+
+# Objects : [w25041615, w25062056]
+# name:be: [Альхоўка]
+msgid "Ольховка"
+
+# Objects : [w218581413]
+# name:be: [р. Вольша]
+msgid "Ольша"
+
+# Objects : [w121786539, w25027996, w25169241, w25173574, w279415855]
+# name:be: [Альшанка]
+msgid "Ольшанка"
+
+# Objects : [w25027260]
+# name:be: []
+msgid "Ольшовка"
+
+# Objects : [w25175123, w25175154]
+# name:be: [Апіта]
+msgid "Опита"
+
+# Objects : [w25082890]
+# name:be: [р. Арджанка]
+msgid "Ордежанка"
+
+# Objects : [w25082320]
+# name:be: [Ардышоўка]
+msgid "Ордышевка"
+
+# Objects : [w25065761, w25065842]
+# name:be: []
+msgid "Оресса"
+
+# Objects : [w25073525, w25073748]
+# name:be: [Аржоўка]
+msgid "Оржовка"
+
+# Objects : [w25176280]
+# name:be: [Орля]
+msgid "Орля"
+
+# Objects : [w25044076]
+# name:be: []
+msgid "Орлянка"
+
+# Objects : [w25037832, w25037937, w75778273, w75778287]
+# name:be: [Аршыца, р. Аршыца]
+msgid "Оршица"
+
+# Objects : [w25064722]
+# name:be: []
+msgid "Орыжня"
+
+# Objects : [w25066903]
+# name:be: []
+msgid "Освица"
+
+# Objects : [w25034906]
+# name:be: []
+msgid "Осетский"
+
+# Objects : [w25040528, w76053354, w76053432]
+# name:be: [р. Асеча]
+msgid "Осеча"
+
+# Objects : [w25068059]
+# name:be: [Асінаўка]
+msgid "Осиновка"
+
+# Objects : [w25177697]
+# name:be: []
+msgid "Осиповка"
+
+# Objects : [w25052232]
+# name:be: []
+msgid "Осливка"
+
+# Objects : [w25028313, w25029528, w25029544, w25077568]
+# name:be: []
+msgid "Ослянка"
+
+# Objects : [w25175708]
+# name:be: []
+msgid "Осовка"
+
+# Objects : [w25052159]
+# name:be: [р. Асака]
+msgid "Осока"
+
+# Objects : [w25069142]
+# name:be: []
+msgid "Осочанка"
+
+# Objects : [w25174482]
+# name:be: []
+msgid "Осса"
+
+# Objects : [r537633, w44762269, w53625153]
+# name:be: []
+msgid "Осташанка"
+
+# Objects : [w25027799, w25028453, w25030174]
+# name:be: []
+msgid "Остер"
+
+# Objects : [w23963255]
+# name:be: []
+msgid "Остёр"
+
+# Objects : [w25042529]
+# name:be: [р. Астраўлянка]
+msgid "Островлянка"
+
+# Objects : [w274016305, w274016310, w301417748, w301417749]
+# name:be: []
+msgid "Островница"
+
+# Objects : [w25177023]
+# name:be: []
+msgid "Острынка"
+
+# Objects : [w25031657, w25031658, w25031659, w25031667]
+# name:be: []
+msgid "Очеса"
+
+# Objects : [w116645626, w25172459, w25172820, w25173397, w25174279, w25174778]
+# name:be: [Ашмянка]
+msgid "Ошмянка"
+
+# Objects : [w187898869, w25030673, w25031626]
+# name:be: []
+msgid "Палуж"
+
+# Objects : [w169482646, w169482647, w173051426, w173051434, w25083377]
+# name:be: [р. Пальмінка]
+msgid "Пальминка"
+
+# Objects : [w25174229, w25174236, w40799359, w40799405]
+# name:be: []
+msgid "Парока"
+
+# Objects : [w25036015, w25036018]
+# name:be: []
+msgid "Пацея"
+
+# Objects : [w25172272, w25172307]
+# name:be: []
+msgid "Пеляка"
+
+# Objects : [w25176703]
+# name:be: []
+msgid "Пеляса"
+
+# Objects : [w25180779, w25180780, w25180783]
+# name:be: []
+msgid "Переволока"
+
+# Objects : [w25034035]
+# name:be: [Перавалочка]
+msgid "Переволочка"
+
+# Objects : [w25028916, w25028943]
+# name:be: []
+msgid "Переволочная"
+
+# Objects : [w25037232]
+# name:be: []
+msgid "Перегонка"
+
+# Objects : [w25168490, w25168525]
+# name:be: [Перакуль]
+msgid "Перекуль"
+
+# Objects : [w25031639]
+# name:be: []
+msgid "Перелевка"
+
+# Objects : [w25179970]
+# name:be: []
+msgid "Переровница"
+
+# Objects : [w25053384]
+# name:be: []
+msgid "Пересека"
+
+# Objects : [w25052439]
+# name:be: []
+msgid "Пересопенка"
+
+# Objects : [w38557086]
+# name:be: []
+msgid "Перетуть"
+
+# Objects : [w25039087]
+# name:be: [Песачанка]
+msgid "Песочанка"
+
+# Objects : [w25037417, w25038465]
+# name:be: []
+msgid "Песоченка"
+
+# Objects : [w25080810]
+# name:be: []
+msgid "Песошенька"
+
+# Objects : [w25084240, w280015034, w280015035]
+# name:be: [Пестуніца]
+msgid "Пестуница"
+
+# Objects : [w169467557, w169467558, w169468051, w169468052, w217280546, w217280547, w217281514, w217281515, w25034664, w25036005, w25038586, w25055619, w280110209, w280110211]
+# name:be: [Пясчанка]
+msgid "Песчанка"
+
+# Objects : [w25173728]
+# name:be: []
+msgid "Петуховка"
+
+# Objects : [w25063559]
+# name:be: []
+msgid "Пижевка"
+
+# Objects : [w25177836]
+# name:be: []
+msgid "Пикелка"
+
+# Objects : [w25175399]
+# name:be: []
+msgid "Пина"
+
+# Objects : [w25168270]
+# name:be: []
+msgid "Писаревка"
+
+# Objects : [w25053289, w25066477]
+# name:be: []
+msgid "Плавня"
+
+# Objects : [w25175956]
+# name:be: []
+msgid "Плеса"
+
+# Objects : [w25035880, w25035900]
+# name:be: []
+msgid "Плесна"
+
+# Objects : [w25071495]
+# name:be: []
+msgid "Плесовица"
+
+# Objects : [w25181512]
+# name:be: []
+msgid "Плессо"
+
+# Objects : [w25175302, w25175588]
+# name:be: []
+msgid "Плеховка"
+
+# Objects : [w25052164, w25174903]
+# name:be: [Пліса, р. Пліса]
+msgid "Плиса"
+
+# Objects : [w25070115]
+# name:be: []
+msgid "Плисовка"
+
+# Objects : [w25063055, w25064424, w25066781, w25066782, w39247151, w39247152, w39247153]
+# name:be: []
+msgid "Плисса"
+
+# Objects : [w25177158, w25177476, w25177480]
+# name:be: []
+msgid "Плища"
+
+# Objects : [w25065974]
+# name:be: []
+msgid "Плотница"
+
+# Objects : [w25035636]
+# name:be: [Пнёўка]
+msgid "Пневка"
+
+# Objects : [w25033714]
+# name:be: []
+msgid "Побужанка"
+
+# Objects : [w25037762]
+# name:be: []
+msgid "Погребенка"
+
+# Objects : [w25066687]
+# name:be: []
+msgid "Подвейна"
+
+# Objects : [w25171337]
+# name:be: []
+msgid "Поддубянка"
+
+# Objects : [w25175574, w25175575, w25175842]
+# name:be: []
+msgid "Подьяворка"
+
+# Objects : [w25035048]
+# name:be: []
+msgid "Покоть"
+
+# Objects : [w25181406]
+# name:be: []
+msgid "Полична"
+
+# Objects : [w25035696, w25038178]
+# name:be: []
+msgid "Полна"
+
+# Objects : [w25036551]
+# name:be: [р. Паловец]
+msgid "Половец"
+
+# Objects : [w104758630, w25067472, w25067521, w25071708, w25073231, w25166153, w25167760]
+# name:be: []
+msgid "Половица"
+
+# Objects : [w25171167, w40422446, w40422448]
+# name:be: []
+msgid "Половойка"
+
+# Objects : [w25090565, w305467021, w305467022]
+# name:be: []
+msgid "Полоза"
+
+# Objects : [w25049556]
+# name:be: [Палонка]
+msgid "Полонка"
+
+# Objects : [w219800235, w219800236, w25052818, w25052825]
+# name:be: [Палата, р. Палата]
+msgid "Полота"
+
+# Objects : [w25172547]
+# name:be: [Панарка]
+msgid "Понарка"
+
+# Objects : [w177626165, w177626166, w25175241, w25175246, w25175253]
+# name:be: []
+msgid "Пониква"
+
+# Objects : [w142701477, w25067753]
+# name:be: [р. Поня]
+msgid "Поня"
+
+# Objects : [w25179026, w25179028]
+# name:be: []
+msgid "Поперечная"
+
+# Objects : [w148667110, w169531399, w169531411, w169531412, w25035617, w76477263, w76477808]
+# name:be: [Парасіца, р. Парасіца]
+msgid "Поросица"
+
+# Objects : [w25065798]
+# name:be: []
+msgid "Портка"
+
+# Objects : [w168413369, w168413370, w168413371, w168413372, w25039308, w75778275, w75778294]
+# name:be: [Пачаліца, р. Пачаліца]
+msgid "Почалица"
+
+# Objects : [w244944063]
+# name:be: [Прыпяць]
+msgid "Прип'ять"
+
+# Objects : [w29157076, w45137743, w45137744]
+# name:be: []
+msgid "Припилия"
+
+# Objects : [w25170584]
+# name:be: []
+msgid "Припятка"
+
+# Objects : [r1131872, w167797780, w167797782, w167797787, w167797792, w167797808, w167797831, w190760486, w217136925, w217136926, w217136927, w242961348, w244944073, w25174720, w25174722, w25174724, w25174727, w25175100, w68572609]
+# name:be: [Прыпяць]
+msgid "Припять"
+
+# Objects : [w25064091]
+# name:be: [р. Прабойніца]
+msgid "Пробойница"
+
+# Objects : [w25174937]
+# name:be: []
+msgid "Промша"
+
+# Objects : [w25034483, w25034607, w76477340]
+# name:be: [Проня]
+msgid "Проня"
+
+# Objects : [w98736176]
+# name:be: []
+msgid "Прорва"
+
+# Objects : [w76489082]
+# name:be: []
+msgid "Протасевичский"
+
+# Objects : [w25035346, w282047232, w282047233]
+# name:be: [Прудзіща]
+msgid "Прудище"
+
+# Objects : [w25082062]
+# name:be: []
+msgid "Прудовка"
+
+# Objects : [w25054101]
+# name:be: [Прудок]
+msgid "Прудок"
+
+# Objects : [w25172717]
+# name:be: []
+msgid "Пруженица"
+
+# Objects : [w25181061]
+# name:be: []
+msgid "Прырва"
+
+# Objects : [r3751404, w119010992, w119010993, w131196196, w170367525, w212756884, w212756885, w212763895, w212763896, w216515703, w216515704, w229111640, w234000383, w234000384, w25060199, w25060348, w25060401, w25060458, w25060463, w25064677, w25064679, w25065719, w25065721, w25065730, w25065733, w25065735, w25066850, w25066865, w25066879, w25066887, w25066891, w25066897, w25074448, w25090951, w25090958, w25090973, w274487120, w274487122, w274487131, w282599305, w292987510, w39262239]
+# name:be: [Пціч]
+msgid "Птичь"
+
+# Objects : [w120657169, w121488148, w121488154, w121488155]
+# name:be: []
+msgid "Пульва"
+
+# Objects : [w25176717]
+# name:be: []
+msgid "Путиско"
+
+# Objects : [w25179782]
+# name:be: []
+msgid "Пчелка"
+
+# Objects : [r3769030, w284127780, w29173646]
+# name:be: [Пыранка]
+msgid "Пырянка"
+
+# Objects : [w25065502]
+# name:be: []
+msgid "Пядонь"
+
+# Objects : [w216766439]
+# name:be: []
+msgid "р.Ботча"
+
+# Objects : [w25082850]
+# name:be: [р. Ворле (Ворлес)]
+msgid "р. Ворле (Ворлес)"
+
+# Objects : [w25081009, w279407353, w279407356]
+# name:be: [р. Заальшанка (Альшанка)]
+msgid "р. Заольшанка"
+
+# Objects : [w25039278, w25039281, w25039295, w75778269]
+# name:be: [р. Скуп’я]
+msgid "р. Скупья"
+
+# Objects : [w25084398]
+# name:be: [р. Топкая Лучка (Турчанка)]
+msgid "р. Топкая Лучка"
+
+# Objects : [w211731280]
+# name:be: []
+msgid "р. Уса старыца"
+
+# Objects : [w92941192]
+# name:be: []
+msgid "р. Хвощевка"
+
+# Objects : [w25169222]
+# name:be: []
+msgid "Равкета"
+
+# Objects : [w25176318]
+# name:be: []
+msgid "Радунька"
+
+# Objects : [w25034327]
+# name:be: []
+msgid "Радуча"
+
+# Objects : [w25087156]
+# name:be: [р. Ракітаўка]
+msgid "Ракитовка"
+
+# Objects : [w128670691, w128670693, w25080772]
+# name:be: []
+msgid "Рандовка"
+
+# Objects : [w25031565]
+# name:be: []
+msgid "Рассомаха"
+
+# Objects : [w25172508, w38280914, w38280915, w38282301, w40220548]
+# name:be: []
+msgid "Ратагол"
+
+# Objects : [w177044217, w177044218, w25072276]
+# name:be: [Ратамка]
+msgid "Ратомка"
+
+# Objects : [w25039885, w25039941]
+# name:be: []
+msgid "Рдица"
+
+# Objects : [w25034401, w25035872]
+# name:be: []
+msgid "Ревза"
+
+# Objects : [w276953240]
+# name:be: []
+msgid "река"
+
+# Objects : [w25038304, w25038307]
+# name:be: []
+msgid "Рекотун"
+
+# Objects : [w25027242, w25027243, w25027244, w25027910, w25027937, w25032950, w25033422, w25034464, w25084698]
+# name:be: []
+msgid "Ректа"
+
+# Objects : [w25031955]
+# name:be: []
+msgid "Ремествлянка"
+
+# Objects : [w181038651, w25035850, w25081256]
+# name:be: []
+msgid "Реста"
+
+# Objects : [w25052869, w25087768, w73535780, w73535796]
+# name:be: [р. Рэчыца]
+msgid "Речица"
+
+# Objects : [w25061732]
+# name:be: []
+msgid "Речка"
+
+# Objects : [w25038306, w25038312, w25040120, w25042179]
+# name:be: [Ржаўка]
+msgid "Ржавка"
+
+# Objects : [w25040162]
+# name:be: []
+msgid "Ржача"
+
+# Objects : [w25169048, w97798985]
+# name:be: []
+msgid "Ричанка"
+
+# Objects : [w25062102]
+# name:be: []
+msgid "Ров"
+
+# Objects : [w25063094, w25063096]
+# name:be: []
+msgid "Рова"
+
+# Objects : [w25027878]
+# name:be: []
+msgid "Рогожинка"
+
+# Objects : [w25052050]
+# name:be: [р. Рагожыца]
+msgid "Рогожица"
+
+# Objects : [w25051619]
+# name:be: []
+msgid "Рожава"
+
+# Objects : [w25175809, w25175815, w25175816]
+# name:be: []
+msgid "Розважчанка"
+
+# Objects : [w25067194]
+# name:be: []
+msgid "Росица"
+
+# Objects : [w25034017, w25035546]
+# name:be: [Расасенка, р. Расасенка]
+msgid "Россасенка"
+
+# Objects : [w223835045]
+# name:be: [Расія — Беларусь]
+msgid "Россия — Беларусь"
+
+# Objects : [r2719397, w112046493, w112046495, w25177474, w25177596, w69138820, w69139280, w69139614, w69139955, w69140111, w99815645]
+# name:be: [Рось]
+msgid "Россь"
+
+# Objects : [w25035492]
+# name:be: [Рубежніца]
+msgid "Рубежница"
+
+# Objects : [w25177914, w25178989]
+# name:be: [Рудаўка]
+msgid "Рудавка"
+
+# Objects : [w25040207]
+# name:be: []
+msgid "Руденка"
+
+# Objects : [w25035945, w25038121, w25038122, w25082448]
+# name:be: []
+msgid "Рудея"
+
+# Objects : [w25052431]
+# name:be: []
+msgid "Рудка"
+
+# Objects : [w211918710, w211918711, w214587459, w214587461, w214588536, w214588541, w25037464, w25037468, w25067158, w25067162, w25081699]
+# name:be: [Рудніца, р. Рудніца]
+msgid "Рудница"
+
+# Objects : [w25036295, w25058842, w25062327, w280086027, w280086028, w280092593, w280092604]
+# name:be: [Рудня]
+msgid "Рудня"
+
+# Objects : [w25175654]
+# name:be: []
+msgid "Руднянка"
+
+# Objects : [w292687914]
+# name:be: []
+msgid "Рудянка"
+
+# Objects : [w25176569, w25176571]
+# name:be: []
+msgid "Ружанка"
+
+# Objects : [w25174503]
+# name:be: []
+msgid "Рута"
+
+# Objects : [w25050040]
+# name:be: []
+msgid "Рутка"
+
+# Objects : [w25031858, w25031905]
+# name:be: []
+msgid "Рухва"
+
+# Objects : [w25063300]
+# name:be: []
+msgid "Ручь"
+
+# Objects : [w100946389]
+# name:be: []
+msgid "Рыбчанка"
+
+# Objects : [w25180273, w25180274, w25180404, w25180405]
+# name:be: []
+msgid "Рыта"
+
+# Objects : [w235548431, w235548432, w25177033]
+# name:be: [Рыча]
+msgid "Рыча"
+
+# Objects : [w25031025]
+# name:be: []
+msgid "Рышта"
+
+# Objects : [w25038675]
+# name:be: [р. Рабінка]
+msgid "Рябинка"
+
+# Objects : [w25053667, w25053672]
+# name:be: []
+msgid "Сажилка"
+
+# Objects : [w25177189]
+# name:be: []
+msgid "Самаровка"
+
+# Objects : [w25175385]
+# name:be: []
+msgid "Саморувка"
+
+# Objects : [w25074789, w25074804]
+# name:be: []
+msgid "Самотечь"
+
+# Objects : [w25065987, w25067175]
+# name:be: []
+msgid "Сарьянка"
+
+# Objects : [w113393011, w25176884]
+# name:be: []
+msgid "Сасва"
+
+# Objects : [w25042289, w288447804]
+# name:be: []
+msgid "Сведь"
+
+# Objects : [w25177570, w25177576]
+# name:be: []
+msgid "Свентица"
+
+# Objects : [r4055919]
+# name:be: [Свянціца]
+msgid "Свенцица"
+
+# Objects : [w25052058, w25053049, w25053050]
+# name:be: [р. Свяча]
+msgid "Свеча"
+
+# Objects : [w25054214, w25087036]
+# name:be: [Свячанка]
+msgid "Свечанка"
+
+# Objects : [w25064825]
+# name:be: []
+msgid "Свидовец"
+
+# Objects : [w25173062]
+# name:be: []
+msgid "Свидровка"
+
+# Objects : [w25066604]
+# name:be: []
+msgid "Свилица"
+
+# Objects : [w25051676, w25051702, w291270710, w291270711]
+# name:be: [р. Свіна]
+msgid "Свина"
+
+# Objects : [w25077793]
+# name:be: []
+msgid "Свинка"
+
+# Objects : [w25067146]
+# name:be: []
+msgid "Свиновод"
+
+# Objects : [w25172384]
+# name:be: []
+msgid "Свирица"
+
+# Objects : [r182084, w112040035, w174318955, w174683876, w174683882, w174689498, w174689499, w174689502, w174689503, w174689504, w174689508, w189596488, w211367590, w211367591, w211367592, w211369919, w25061860, w25177940, w25179562, w29173405, w29173813, w38238451, w38241404, w38241406, w38241407, w38243602, w41752617, w76488007, w76489040]
+# name:be: [Свіслач]
+msgid "Свислочь"
+
+# Objects : [w25174478]
+# name:be: [Свіцязь]
+msgid "Свитязь"
+
+# Objects : [w25062186, w25062205, w25062206, w25062232]
+# name:be: []
+msgid "Свольна"
+
+# Objects : [w25174968, w25174972]
+# name:be: []
+msgid "Своротва"
+
+# Objects : [w148637365]
+# name:be: [р. Свядзіца]
+msgid "Свядица"
+
+# Objects : [w25064882]
+# name:be: []
+msgid "Святица"
+
+# Objects : [w25027557]
+# name:be: []
+msgid "Селянка"
+
+# Objects : [w25030598]
+# name:be: []
+msgid "Сененка"
+
+# Objects : [w25030551, w25031331, w25043970]
+# name:be: []
+msgid "Сенна"
+
+# Objects : [w168740547, w168740548, w206680108, w206680109, w206680694, w206680695, w215178606, w25038545]
+# name:be: [р. Сярвайка]
+msgid "Сервайка"
+
+# Objects : [w153016693, w167046595, w25068786, w25173730, w25174573, w25174582]
+# name:be: [Сэрвач, р. Сэрвач]
+msgid "Сервеч"
+
+# Objects : [w25062819, w25064152]
+# name:be: [Сяргуч, р. Сяргуч]
+msgid "Сергуч"
+
+# Objects : [w25029842, w25029867, w25039516]
+# name:be: [Серабранка]
+msgid "Серебрянка"
+
+# Objects : [w25181851]
+# name:be: []
+msgid "Середовая Речка"
+
+# Objects : [w25169848]
+# name:be: []
+msgid "Сермяжка"
+
+# Objects : [w25039111]
+# name:be: []
+msgid "Серокоротнянка"
+
+# Objects : [w25068880]
+# name:be: []
+msgid "Серчистая"
+
+# Objects : [w25051868, w281147176, w281147177, w281161963, w281161964]
+# name:be: [Сечна]
+msgid "Сечна"
+
+# Objects : [w25070982]
+# name:be: []
+msgid "Сивельга"
+
+# Objects : [w25169752]
+# name:be: []
+msgid "Сивичанка"
+
+# Objects : [w25173410]
+# name:be: []
+msgid "Сикунка"
+
+# Objects : [w197893273, w25173479]
+# name:be: []
+msgid "Сикуня"
+
+# Objects : [w25037610, w279942080, w279942081, w280017668, w280017669, w76073331, w76073335]
+# name:be: [р. Сільніца]
+msgid "Сильница"
+
+# Objects : [w25174412]
+# name:be: []
+msgid "Сима"
+
+# Objects : [w25064735]
+# name:be: []
+msgid "Синеровка"
+
+# Objects : [w25074982]
+# name:be: []
+msgid "Синицкая"
+
+# Objects : [w182595456, w182595457, w25064658]
+# name:be: []
+msgid "Синявка"
+
+# Objects : [w25063262, w76488035, w76488090, w76488238, w76488348, w76488598, w76488968, w76489091]
+# name:be: []
+msgid "Синяя"
+
+# Objects : [w25176206, w25176473, w25176483]
+# name:be: []
+msgid "Сипа"
+
+# Objects : [w25168111]
+# name:be: []
+msgid "Скема"
+
+# Objects : [w29173463, w45439916, w97672045, w97672056]
+# name:be: []
+msgid "Скиделянка"
+
+# Objects : [w25062151, w289337638, w289337642]
+# name:be: []
+msgid "Сколодина"
+
+# Objects : [w25176712]
+# name:be: []
+msgid "Скорбянка"
+
+# Objects : [w25066998, w25067041, w292830364, w292830365, w77683938]
+# name:be: []
+msgid "Скрипица"
+
+# Objects : [w25036745]
+# name:be: [р. Скулянка]
+msgid "Скулянка"
+
+# Objects : [w25039300, w75778280]
+# name:be: [Скуп’я]
+msgid "Скупья"
+
+# Objects : [w25036860]
+# name:be: [р. Слепчанка]
+msgid "Слепчанка"
+
+# Objects : [w155575729, w155575734, w219935367, w219935368, w219935862, w25069046, w25069048, w25381260, w256092141, w256092143, w27448637, w27448715, w27448730, w28312771, w34417373, w34417377, w34417379, w34417381, w37077119, w37077120, w38291326, w38291327, w85693657]
+# name:be: [Сляпянская водная сістема, Сляпянская водная сістэма]
+msgid "Слепянская водная система"
+
+# Objects : [w25068973]
+# name:be: []
+msgid "Слижанка"
+
+# Objects : [w205932281, w25062162]
+# name:be: [Славечна]
+msgid "Словечна"
+
+# Objects : [w179152113, w179152114, w68937754, w95932056]
+# name:be: [Слоўст]
+msgid "Слоуст"
+
+# Objects : [w200855163, w200855164, w200855165, w200855503, w203127466, w203127467, w249910956, w25036211, w25068063, w25069167, w25069230, w25069332, w25069428, w285191335, w85397840]
+# name:be: [Случ]
+msgid "Случь"
+
+# Objects : [w25076192, w25076340]
+# name:be: []
+msgid "Смердь"
+
+# Objects : [w39539782]
+# name:be: []
+msgid "Смольница"
+
+# Objects : [w25062887, w25174588]
+# name:be: [р. Смалянка]
+msgid "Смолянка"
+
+# Objects : [w25090601]
+# name:be: [Смалярня]
+msgid "Смолярня"
+
+# Objects : [w25027291]
+# name:be: []
+msgid "Смородинка"
+
+# Objects : [w25073381]
+# name:be: [Смычыца]
+msgid "Смычица"
+
+# Objects : [w25064746, w25171962]
+# name:be: []
+msgid "Сновка"
+
+# Objects : [w25027587, w25077127]
+# name:be: []
+msgid "Соболевка"
+
+# Objects : [w25028353, w25028421, w25028439, w25028450, w25028458, w25028460, w25028464, w25030185, w25030235, w25030270, w25030271, w25030289, w25031268, w25032250, w25033490, w25033496, w25034590, w25034679, w25034812, w25035014, w25035101, w25077576, w25080526, w25080735, w255791505, w258467157, w82155395, w82156344, w82156349]
+# name:be: [Сож]
+msgid "Сож"
+
+# Objects : [w25028441]
+# name:be: []
+msgid "Соженка"
+
+# Objects : [w25041255, w25043048]
+# name:be: [р. Сакалянка]
+msgid "Соколянка"
+
+# Objects : [w25033372, w25033377]
+# name:be: []
+msgid "Солодец"
+
+# Objects : [w230273091, w25053646, w25053649]
+# name:be: []
+msgid "Солокуча"
+
+# Objects : [w25179981]
+# name:be: [Саломенка]
+msgid "Соломенка"
+
+# Objects : [w25064711]
+# name:be: []
+msgid "Солон"
+
+# Objects : [w169469140, w169469141, w25082683]
+# name:be: [р. Салонаўка]
+msgid "Солоновка"
+
+# Objects : [w25175699]
+# name:be: []
+msgid "Сольчица"
+
+# Objects : [w25051361, w25087733]
+# name:be: [р. Сосніца]
+msgid "Сосница"
+
+# Objects : [w25027861, w25027869, w25028491]
+# name:be: [Сасноўка]
+msgid "Сосновка"
+
+# Objects : [w25181039]
+# name:be: []
+msgid "Спановка"
+
+# Objects : [w25076993, w25077063]
+# name:be: []
+msgid "Сплавень"
+
+# Objects : [w25033740]
+# name:be: []
+msgid "Спонка"
+
+# Objects : [r3170529, w235548433, w235548434, w25176774, w25176776, w29173486]
+# name:be: [Спушанка]
+msgid "Спушанка"
+
+# Objects : [w25169482]
+# name:be: []
+msgid "Спяглица"
+
+# Objects : [w25068076]
+# name:be: []
+msgid "Сред. Весейка"
+
+# Objects : [w25058479, w25089707]
+# name:be: []
+msgid "Стар. Птичь"
+
+# Objects : [w25064756]
+# name:be: []
+msgid "Стар. Русло Ореса"
+
+# Objects : [w25089212]
+# name:be: [Старобінка]
+msgid "Старобинка"
+
+# Objects : [w25072683]
+# name:be: []
+msgid "Старуха"
+
+# Objects : [w108883424, w108883551, w217136205, w217136206, w217136207, w217136209, w217136210, w25069663]
+# name:be: [Сцвіга]
+msgid "Ствига"
+
+# Objects : [r3174963, w169039127]
+# name:be: []
+msgid "Стир"
+
+# Objects : [w25031635]
+# name:be: []
+msgid "Столбунка"
+
+# Objects : [w25047001]
+# name:be: []
+msgid "Столпинка"
+
+# Objects : [w25053949]
+# name:be: [р. Страдань]
+msgid "Страдань"
+
+# Objects : [w25054754]
+# name:be: []
+msgid "Стражница"
+
+# Objects : [w25170934, w25172407, w25173343]
+# name:be: []
+msgid "Страча"
+
+# Objects : [w25052745]
+# name:be: []
+msgid "Стрелка"
+
+# Objects : [w25175382]
+# name:be: [Струга]
+msgid "Струга"
+
+# Objects : [w107975168, w114869662]
+# name:be: [Струна]
+msgid "Струна"
+
+# Objects : [w25172222, w25172224]
+# name:be: []
+msgid "Стубла"
+
+# Objects : [w25172536]
+# name:be: [Студзянец]
+msgid "Студенец"
+
+# Objects : [w25033861, w25065471, w291292046, w291292047]
+# name:be: [Студзенка, Студзёнка]
+msgid "Студенка"
+
+# Objects : [w25072455]
+# name:be: []
+msgid "Студянка"
+
+# Objects : [w235953597, w25174093]
+# name:be: []
+msgid "Стыр"
+
+# Objects : [w25049553]
+# name:be: [р. Субота]
+msgid "Суббота"
+
+# Objects : [w125940469, w25169875, w305565691, w305565692]
+# name:be: [Сула]
+msgid "Сула"
+
+# Objects : [w25027577]
+# name:be: []
+msgid "Суров"
+
+# Objects : [w25042433, w295600619, w295600620, w295600627, w295600628]
+# name:be: [Сутокі]
+msgid "Сутоки"
+
+# Objects : [w25035401]
+# name:be: [р. Сухая Паленніца]
+msgid "Сух. Поленница"
+
+# Objects : [w25036749]
+# name:be: [р. Сухадроўка]
+msgid "Суходровка"
+
+# Objects : [w25051823]
+# name:be: []
+msgid "Сучанка"
+
+# Objects : [w25052437]
+# name:be: []
+msgid "Суша"
+
+# Objects : [w25086403]
+# name:be: []
+msgid "Сушанка"
+
+# Objects : [w25061632, w25061639]
+# name:be: []
+msgid "Сха"
+
+# Objects : [w25170608, w25170609]
+# name:be: []
+msgid "Сырец"
+
+# Objects : [w25167555]
+# name:be: []
+msgid "Сьцервинка"
+
+# Objects : [w25066915, w25066933, w25066942]
+# name:be: []
+msgid "Талица"
+
+# Objects : [w25065705, w277781595, w277781596, w277781597, w277781598]
+# name:be: []
+msgid "Таль"
+
+# Objects : [w29157125, w53167175, w53167178, w53169814, w53169818]
+# name:be: [Татарка]
+msgid "Татарка"
+
+# Objects : [w25053348]
+# name:be: []
+msgid "Тереболь"
+
+# Objects : [w25031791, w25037380, w25078379, w25079001, w25079003]
+# name:be: []
+msgid "Терюха"
+
+# Objects : [w25030763]
+# name:be: []
+msgid "Тетева"
+
+# Objects : [w25066848]
+# name:be: []
+msgid "Титовка"
+
+# Objects : [w25179634]
+# name:be: []
+msgid "Тишовка"
+
+# Objects : [w25168685]
+# name:be: []
+msgid "Томашевка"
+
+# Objects : [w25169807]
+# name:be: []
+msgid "Тонва"
+
+# Objects : [w25061892]
+# name:be: []
+msgid "Точенка"
+
+# Objects : [w100982137]
+# name:be: []
+msgid "Точия"
+
+# Objects : [w25041909]
+# name:be: []
+msgid "Тощица"
+
+# Objects : [w25032313]
+# name:be: []
+msgid "Травинка"
+
+# Objects : [w25037230]
+# name:be: []
+msgid "Трасна"
+
+# Objects : [w168036877, w168036878, w25040450]
+# name:be: [р. Трызубка]
+msgid "Трезубка"
+
+# Objects : [w25058425, w25088557, w44884107, w44884109]
+# name:be: []
+msgid "Тремля"
+
+# Objects : [w25175854]
+# name:be: []
+msgid "Трицевка"
+
+# Objects : [w25039445]
+# name:be: []
+msgid "Тросенка"
+
+# Objects : [w25034541, w25034546]
+# name:be: []
+msgid "Тросливка"
+
+# Objects : [w25056600]
+# name:be: [р. Тросніца]
+msgid "Тросница"
+
+# Objects : [w25177691]
+# name:be: []
+msgid "Тростяница"
+
+# Objects : [w25058319, w25077245]
+# name:be: [Трасцянка]
+msgid "Тростянка"
+
+# Objects : [w76487988, w76489029]
+# name:be: []
+msgid "Трубинка"
+
+# Objects : [w132560655, w132560658, w76488254, w76488504, w76489048]
+# name:be: []
+msgid "Трубунка"
+
+# Objects : [w25062201]
+# name:be: []
+msgid "Трудница"
+
+# Objects : [w292835237]
+# name:be: []
+msgid "Тур"
+
+# Objects : [w253144594]
+# name:be: []
+msgid "Туровля"
+
+# Objects : [w25059258]
+# name:be: [р. Тураўлянка]
+msgid "Туровлянка"
+
+# Objects : [w25055123]
+# name:be: []
+msgid "Турчанка"
+
+# Objects : [r3174070, w235871713, w235871721, w235871723, w25032320, w25032325, w25032369, w25065997, w25075277, w25168592, w25168647, w25176761, w25176779]
+# name:be: [Тур'я]
+msgid "Турья"
+
+# Objects : [w25172020]
+# name:be: []
+msgid "Тученка"
+
+# Objects : [w25171066]
+# name:be: []
+msgid "Тущанка"
+
+# Objects : [w25063394, w25068240, w297512046]
+# name:be: []
+msgid "Уборть"
+
+# Objects : [w25032712, w25032779]
+# name:be: []
+msgid "Увич"
+
+# Objects : [w25033408]
+# name:be: []
+msgid "Удога"
+
+# Objects : [w25068977]
+# name:be: [Удра]
+msgid "Удра"
+
+# Objects : [w25070897]
+# name:be: []
+msgid "Ужанка"
+
+# Objects : [w240823414, w25063528]
+# name:be: []
+msgid "Ужица"
+
+# Objects : [w179685947, w179685948, w25057732, w25083473, w25083486, w38691568, w74215561, w75918926, w77248578, w77248590]
+# name:be: [Вужніца, Ужніца]
+msgid "Ужница"
+
+# Objects : [w130450391, w130450398, w130450399, w25036207, w25038340]
+# name:be: []
+msgid "Уза"
+
+# Objects : [w25041925]
+# name:be: []
+msgid "Узбинка"
+
+# Objects : [w116822280, w25072459]
+# name:be: []
+msgid "Уздянка"
+
+# Objects : [w25071980, w25168169]
+# name:be: []
+msgid "Узлянка"
+
+# Objects : [w25036756, w25036776, w279012375, w279012377, w279012378]
+# name:be: [р. Узменка]
+msgid "Узменка"
+
+# Objects : [w25061811]
+# name:be: []
+msgid "Узничи"
+
+# Objects : [w25066475]
+# name:be: []
+msgid "Улинец"
+
+# Objects : [w176292781, w184870133, w184870148, w25059393, w25087969]
+# name:be: [Ула]
+msgid "Улла"
+
+# Objects : [w25083041]
+# name:be: [Ульянка]
+msgid "Ульянка"
+
+# Objects : [w207557703, w25039435]
+# name:be: [Ульянаўка]
+msgid "Ульяновка"
+
+# Objects : [w25063148, w25090638, w25168470, w25169798, w25171748, w71968777]
+# name:be: []
+msgid "Уса"
+
+# Objects : [w25049680, w25053121, w25054559]
+# name:be: [р. Усвейка]
+msgid "Усвейка"
+
+# Objects : [w25071508]
+# name:be: []
+msgid "Усвица"
+
+# Objects : [w167288301, w25035305, w93878808]
+# name:be: [р. Усвяча]
+msgid "Усвяча"
+
+# Objects : [w25180726]
+# name:be: []
+msgid "Уснарка"
+
+# Objects : [w25033857]
+# name:be: [р. Успол (Тураўка)]
+msgid "Успол"
+
+# Objects : [r189971, w211640277, w211918328, w212756886, w212756887, w221612296, w221612308, w221974502, w221974503, w38546076]
+# name:be: [Уса]
+msgid "Усса"
+
+# Objects : [w25172467]
+# name:be: []
+msgid "Устизерки"
+
+# Objects : [w127012431, w25042500, w25085088, w290840497, w290840498, w290841345, w290841346, w290842203, w290842204, w291047159, w291047160]
+# name:be: [р. Усыса]
+msgid "Усыса"
+
+# Objects : [w25065620, w25066762, w25066776, w32198558]
+# name:be: [Усяжа]
+msgid "Усяжа"
+
+# Objects : [w25065886]
+# name:be: []
+msgid "Утвоха"
+
+# Objects : [w25035052]
+# name:be: []
+msgid "Утонька"
+
+# Objects : [w219900536, w25030760, w25032953, w25032955, w25032966, w255002710]
+# name:be: [Вуць]
+msgid "Уть"
+
+# Objects : [w25037180, w25038196]
+# name:be: []
+msgid "Ухлясть"
+
+# Objects : [w114670794, w179761639, w180691576, w184582375, w184582376, w187175795, w25061764, w25169969, w25169990, w25169999, w286938332, w286938333, w89912954]
+# name:be: [Уша]
+msgid "Уша"
+
+# Objects : [w25068012, w286589620, w286589621, w286589762, w286589763, w286591064, w286591070]
+# name:be: []
+msgid "Ушанка"
+
+# Objects : [w105246102, w160034425, w25061182, w25061227, w25061293, w25062508, w25062719, w25062765, w25062766, w25062774, w25064101]
+# name:be: [р. Ушача]
+msgid "Ушача"
+
+# Objects : [w25052775, w25052777, w94087946]
+# name:be: []
+msgid "Уща"
+
+# Objects : [w25176271]
+# name:be: []
+msgid "Федоска"
+
+# Objects : [w25171755]
+# name:be: []
+msgid "Фербина"
+
+# Objects : [w128726574]
+# name:be: []
+msgid "Филипповка"
+
+# Objects : [w230273092, w230273093, w25053714, w25053732, w25053741, w25053750]
+# name:be: []
+msgid "Ханя"
+
+# Objects : [w25054976]
+# name:be: []
+msgid "Харчичка"
+
+# Objects : [w25037989]
+# name:be: [Хватаўка]
+msgid "Хватовка"
+
+# Objects : [w25175859]
+# name:be: []
+msgid "Хитрая"
+
+# Objects : [w25175848]
+# name:be: []
+msgid "Хлевная"
+
+# Objects : [w25085577]
+# name:be: []
+msgid "Хмелинка"
+
+# Objects : [w25041217]
+# name:be: [р. Халастоўка]
+msgid "Холостовка"
+
+# Objects : [w29173756]
+# name:be: [Хамутоўка]
+msgid "Хомутовка"
+
+# Objects : [w25062195, w25062228]
+# name:be: []
+msgid "Хонка"
+
+# Objects : [w25069876, w26253352]
+# name:be: []
+msgid "Хоробровка"
+
+# Objects : [w25030724, w25031733, w25032862]
+# name:be: []
+msgid "Хоропуть"
+
+# Objects : [w25177214]
+# name:be: []
+msgid "Хоружевка"
+
+# Objects : [w25036000]
+# name:be: []
+msgid "Хотинка"
+
+# Objects : [w25037225]
+# name:be: []
+msgid "Хотище"
+
+# Objects : [w25176914]
+# name:be: []
+msgid "Хотова"
+
+# Objects : [w25037357]
+# name:be: []
+msgid "Хочемля"
+
+# Objects : [w25083406]
+# name:be: [р. Храпаўлянка]
+msgid "Храповлянка"
+
+# Objects : [w25053744]
+# name:be: []
+msgid "Храпунь"
+
+# Objects : [w25027804, w25027809]
+# name:be: []
+msgid "Хрыновец"
+
+# Objects : [w25033840, w25079833]
+# name:be: []
+msgid "Цата"
+
+# Objects : [w241192606, w25168286, w25168287]
+# name:be: []
+msgid "Цветень"
+
+# Objects : [w25052875]
+# name:be: [р. Ценіца]
+msgid "Ценица"
+
+# Objects : [w25090617]
+# name:be: []
+msgid "Центрица"
+
+# Objects : [w25168682, w25170169]
+# name:be: []
+msgid "Цепра"
+
+# Objects : [w25168421]
+# name:be: []
+msgid "Цецеревка"
+
+# Objects : [w25042154]
+# name:be: []
+msgid "Циперка"
+
+# Objects : [w224486877, w224486878, w25065509, w25065513, w25066672, w25069023, w25173078, w264285699, w264285700, w36345306, w36345433]
+# name:be: [Цна]
+msgid "Цна"
+
+# Objects : [w172258166, w25037037]
+# name:be: []
+msgid "Чаенка"
+
+# Objects : [w25075615, w25166992]
+# name:be: []
+msgid "Чайка"
+
+# Objects : [w25169009]
+# name:be: []
+msgid "Чаква"
+
+# Objects : [w25061721]
+# name:be: []
+msgid "Чапа"
+
+# Objects : [w25174382]
+# name:be: [Чапунька]
+msgid "Чапунька"
+
+# Objects : [w25036658]
+# name:be: [р. Чарна]
+msgid "Чарна"
+
+# Objects : [w25174926]
+# name:be: [Чамяроўка]
+msgid "Чемеровка"
+
+# Objects : [w25063163]
+# name:be: []
+msgid "Червенка"
+
+# Objects : [w25085287, w25086119]
+# name:be: [р. Чарвінка]
+msgid "Червинка"
+
+# Objects : [w25085585]
+# name:be: []
+msgid "Черебомирка"
+
+# Objects : [w25083241]
+# name:be: []
+msgid "Черемха"
+
+# Objects : [w25032037]
+# name:be: []
+msgid "Черн. Натопа"
+
+# Objects : [w25047914, w290853749, w290853752, w290853754, w290853762, w290853871, w290853873, w290854070, w290854079, w290854564, w290854565, w291047115, w291047116, w291047117, w291047118]
+# name:be: [р. Чарняўка]
+msgid "Чернавка"
+
+# Objects : [w150730479, w25029642, w25067700, w25166414, w25172839, w25175210]
+# name:be: [Чорная, р. Чорная]
+msgid "Черная"
+
+# Objects : [w25037818]
+# name:be: [Чорная]
+msgid "Чёрная"
+
+# Objects : [w229728742, w229728743, w254047803, w254047820, w254276724, w254276725, w254276726, w29173220, w39549436, w39549437, w44755997, w44755998]
+# name:be: [Чорная Ганча]
+msgid "Чёрная Ганьча"
+
+# Objects : [w25089942]
+# name:be: [р. Чарнейка]
+msgid "Чернейка"
+
+# Objects : [w130332235, w25047366, w25047376, w25047670, w25051654, w25051658, w25051659, w25051660, w291270560, w291270561]
+# name:be: [р. Чарнец]
+msgid "Чернец"
+
+# Objects : [w125714152, w125714153, w130186786, w130186790, w169226605, w169226606, w169226607, w169226610, w169431249, w169431250, w169454269, w169454272, w186447840, w201455060, w201455062, w218549909, w25033908, w25033918, w25039443, w25063078, w25064065, w25064071, w25065645, w25066681, w25072212, w25083400, w25085965, w25173583, w274394319, w290842674, w290842675, w290842744, w290842745, w293505932, w81378970, w81378973]
+# name:be: [Чарніца]
+msgid "Черница"
+
+# Objects : [w25035784]
+# name:be: [Чарніцы]
+msgid "Черницы"
+
+# Objects : [w169957387, w25042692]
+# name:be: [Чарнічанка]
+msgid "Черничанка"
+
+# Objects : [w25041422]
+# name:be: []
+msgid "Черноводка"
+
+# Objects : [w25049003]
+# name:be: [Чарнагосціца]
+msgid "Черногостница"
+
+# Objects : [w25042376, w25047649, w291046568, w291046569, w291270402, w291270403, w291270408, w291270409]
+# name:be: [р. Чарнуйка]
+msgid "Чернуйка"
+
+# Objects : [w29173200]
+# name:be: [Чарнуха]
+msgid "Чернуха"
+
+# Objects : [w25035914]
+# name:be: [Чэрнушка]
+msgid "Чернушка"
+
+# Objects : [w25042343]
+# name:be: [р. Чарнуя]
+msgid "Чернуя"
+
+# Objects : [w25041434]
+# name:be: []
+msgid "Черный"
+
+# Objects : [w168180479, w168180482, w202316374, w202316375, w25029255, w25037137, w25038199, w25038218, w25038223, w25039721, w25048054, w25068992, w25070629, w25081934, w25082503, w25175822, w25176946, w290851799, w290851801, w291047119, w291047120, w291047121, w291047122, w304149048, w304149053, w304149056, w304149060, w304149067, w304149075, w304149082, w304149089, w89854170]
+# name:be: [Чарняўка]
+msgid "Чернявка"
+
+# Objects : [w25058766, w25060594]
+# name:be: []
+msgid "Чертень"
+
+# Objects : [w25071803]
+# name:be: []
+msgid "Чертка"
+
+# Objects : [w25031759, w25037322]
+# name:be: []
+msgid "Чечера"
+
+# Objects : [w25036805]
+# name:be: [Чыжоўка]
+msgid "Чижовка"
+
+# Objects : [w25052600, w30058613]
+# name:be: []
+msgid "Чирка"
+
+# Objects : [w25034555, w25034557, w25034570]
+# name:be: []
+msgid "Чистая Лужа"
+
+# Objects : [w80567722]
+# name:be: []
+msgid "Чистянка"
+
+# Objects : [w25041001]
+# name:be: [р. Чудзінка]
+msgid "Чудинка"
+
+# Objects : [w227219268]
+# name:be: []
+msgid "Шальчя"
+
+# Objects : [w238911850, w25072135]
+# name:be: []
+msgid "Шарка"
+
+# Objects : [w25069152]
+# name:be: []
+msgid "Шать"
+
+# Objects : [w201718342, w201718343, w25171985, w62072414]
+# name:be: []
+msgid "Шевелевка"
+
+# Objects : [w25042608]
+# name:be: [Шэвінка]
+msgid "Шевинка"
+
+# Objects : [w25040645]
+# name:be: [р. Шэсценка]
+msgid "Шестенка"
+
+# Objects : [w25052626]
+# name:be: []
+msgid "Шиздра"
+
+# Objects : [w25034291]
+# name:be: []
+msgid "Шиповка"
+
+# Objects : [w242455946, w242455947, w25038598]
+# name:be: [р. Шыша]
+msgid "Шиша"
+
+# Objects : [r3761924, w199568785, w199568786, w25176721]
+# name:be: [Шкардзянка]
+msgid "Шкордянка"
+
+# Objects : [r3404067, w254047804, w38246838]
+# name:be: [Шляміца]
+msgid "Шлямица"
+
+# Objects : [w25177274]
+# name:be: []
+msgid "Шопск"
+
+# Objects : [w25065377]
+# name:be: []
+msgid "Шоша"
+
+# Objects : [w25169849]
+# name:be: []
+msgid "Шура"
+
+# Objects : [w25073271]
+# name:be: []
+msgid "Шурица"
+
+# Objects : [w25036596]
+# name:be: [р. Шухроўская]
+msgid "Шухровская"
+
+# Objects : [w25065938]
+# name:be: []
+msgid "Шушеровка"
+
+# Objects : [r2189214, w25173742, w25175610, w259131488, w59124689]
+# name:be: [Шчара]
+msgid "Щара"
+
+# Objects : [w25062559]
+# name:be: [р. Шчабірка]
+msgid "Щебирка"
+
+# Objects : [w25056342]
+# name:be: [р. Шчаперня]
+msgid "Щеперня"
+
+# Objects : [w25038163, w25082468]
+# name:be: []
+msgid "Щетинка"
+
+# Objects : [r554822, w25176905, w25177242]
+# name:be: [Щчыба]
+msgid "Щиба"
+
+# Objects : [w25079976]
+# name:be: [р. Шчавоня]
+msgid "Щовоня"
+
+# Objects : [w25057572]
+# name:be: [Эса]
+msgid "Эса"
+
+# Objects : [w25061509, w278333105]
+# name:be: [Эса]
+msgid "Эсса"
+
+# Objects : [w236311345]
+# name:be: [р. Югна]
+msgid "Югна"
+
+# Objects : [w25061578]
+# name:be: [руч. Юраўка]
+msgid "Юровка"
+
+# Objects : [w25176853]
+# name:be: [Юхнаўка]
+msgid "Юхновка"
+
+# Objects : [w25048563]
+# name:be: [Язвінка]
+msgid "Язвинка"
+
+# Objects : [w25174360]
+# name:be: []
+msgid "Якунька"
+
+# Objects : [w25034835]
+# name:be: []
+msgid "Якушевка"
+
+# Objects : [w25071669, w25073074, w25073142, w25166081, w50281450]
+# name:be: []
+msgid "Янка"
+
+# Objects : [w25172263]
+# name:be: []
+msgid "Яновица"
+
+# Objects : [w25166538]
+# name:be: []
+msgid "Яршевка"
+
+# Objects : [w151535689, w25173924, w25175675, w25177264]
+# name:be: []
+msgid "Ясельда"
+
+# Objects : [w25062166]
+# name:be: []
+msgid "Ясенец"
+
+# Objects : [w25058099]
+# name:be: []
+msgid "Ясенка"
+
+# Objects : [w25165843]
+# name:be: []
+msgid "Ятель"
+
+# Objects : [w25174945, w25174957]
+# name:be: []
+msgid "Ятранка"
+
+# Objects : [w25168558]
+# name:be: []
+msgid "Яченка"
+

@@ -1,0 +1,600 @@
+# Objects : [n3039642272]
+# name:be: []
+msgid "5-й Коммунальный"
+
+# Objects : [n2237727366]
+# name:be: []
+msgid "Адамково"
+
+# Objects : [n853016461]
+# name:be: [Ангарская]
+msgid "Ангарская"
+
+# Objects : [n2237715130]
+# name:be: []
+msgid "Аркадия"
+
+# Objects : [n2498780907]
+# name:be: []
+msgid "Аэродром"
+
+# Objects : [n2237673604]
+# name:be: []
+msgid "Берёзовка"
+
+# Objects : [n2237715127]
+# name:be: []
+msgid "Бернады"
+
+# Objects : [n2369004261]
+# name:be: []
+msgid "Билево"
+
+# Objects : [n243043819]
+# name:be: [Білева-1]
+msgid "Билево-1"
+
+# Objects : [n1346254768]
+# name:be: [Білева-2]
+msgid "Билево-2"
+
+# Objects : [n1428261988]
+# name:be: [Білева-3]
+msgid "Билево-3"
+
+# Objects : [n243035533, w25090507]
+# name:be: [Біцялёва]
+msgid "Бителёво"
+
+# Objects : [n674421309]
+# name:be: [Бабры]
+msgid "Бобры"
+
+# Objects : [n243043840]
+# name:be: [Баронікі]
+msgid "Бороники"
+
+# Objects : [n281118735]
+# name:be: [Брылевічы]
+msgid "Брилевичи"
+
+# Objects : [n243035562, w25090474]
+# name:be: [Васькавічы]
+msgid "Васьковичи"
+
+# Objects : [n243043827]
+# name:be: [Васюты]
+msgid "Васюты"
+
+# Objects : [n242979057]
+# name:be: [Вялікі лес]
+msgid "Великий лес"
+
+# Objects : [n1156503515]
+# name:be: [Верхні горад]
+msgid "Верхний город"
+
+# Objects : [n853016464]
+# name:be: [Вяснянка]
+msgid "Веснянка"
+
+# Objects : [n2254105962]
+# name:be: []
+msgid "Военный городок"
+
+# Objects : [n2237715117]
+# name:be: []
+msgid "Волынка"
+
+# Objects : [n2078995790, n2679581748]
+# name:be: [Усход]
+msgid "Восток"
+
+# Objects : [n2237673584]
+# name:be: []
+msgid "Восток-1"
+
+# Objects : [n2237673579]
+# name:be: []
+msgid "Восток-2"
+
+# Objects : [n2237673594]
+# name:be: []
+msgid "Восток-3"
+
+# Objects : [n2237673575]
+# name:be: []
+msgid "Восток-4"
+
+# Objects : [n2237673588]
+# name:be: []
+msgid "Восток-5"
+
+# Objects : [n2237673600]
+# name:be: []
+msgid "Восток-6"
+
+# Objects : [n2237715138]
+# name:be: []
+msgid "Вулька-Подгородская"
+
+# Objects : [n2237715141]
+# name:be: []
+msgid "Вычулки"
+
+# Objects : [n2237673593]
+# name:be: []
+msgid "Граевка"
+
+# Objects : [n2498780908]
+# name:be: []
+msgid "Громы"
+
+# Objects : [n853016456]
+# name:be: [Грушаўка]
+msgid "Грушевка"
+
+# Objects : [n3039636096]
+# name:be: []
+msgid "Гуторовщина"
+
+# Objects : [n1003880200]
+# name:be: [Давыдаўка]
+msgid "Давыдовка"
+
+# Objects : [n853016458]
+# name:be: [Дамброўка]
+msgid "Домбровка"
+
+# Objects : [n853016459]
+# name:be: [Дражня]
+msgid "Дражня"
+
+# Objects : [n960602277]
+# name:be: [ДБК]
+msgid "ДСК"
+
+# Objects : [n2237727369]
+# name:be: []
+msgid "Дубровка"
+
+# Objects : [n3039626734]
+# name:be: []
+msgid "Елаги"
+
+# Objects : [n1015608199]
+# name:be: [Журжава]
+msgid "Журжево"
+
+# Objects : [n2237673591, n2254107230]
+# name:be: []
+msgid "Заводская"
+
+# Objects : [n3051751781]
+# name:be: []
+msgid "Загорье"
+
+# Objects : [n2498780909]
+# name:be: []
+msgid "Задвинье"
+
+# Objects : [n1497730189]
+# name:be: []
+msgid "Заднепровье"
+
+# Objects : [n853016463]
+# name:be: [Захад]
+msgid "Запад"
+
+# Objects : [n2498780910]
+# name:be: []
+msgid "Заполотье"
+
+# Objects : [n2254109041]
+# name:be: []
+msgid "Зелёная"
+
+# Objects : [n960602282]
+# name:be: [Зялёны Гарадок]
+msgid "Зелёный Городок"
+
+# Objects : [n853016468]
+# name:be: [Зялёны луг]
+msgid "Зеленый луг"
+
+# Objects : [n243044957]
+# name:be: [Іпуць]
+msgid "Ипуть"
+
+# Objects : [n243035493]
+# name:be: [Казіміроўка]
+msgid "Казимировка"
+
+# Objects : [n853016452]
+# name:be: [Каменная горка]
+msgid "Каменная горка"
+
+# Objects : [n2237727373]
+# name:be: []
+msgid "Катин Бор"
+
+# Objects : [n2237673590]
+# name:be: []
+msgid "Киевка"
+
+# Objects : [n960602286]
+# name:be: [Кліны]
+msgid "Клины"
+
+# Objects : [n2237715135]
+# name:be: []
+msgid "Ковалёво"
+
+# Objects : [n2237727375]
+# name:be: []
+msgid "Козловичи"
+
+# Objects : [w196757169]
+# name:be: []
+msgid "Козьи горы"
+
+# Objects : [n243043317]
+# name:be: [Колас]
+msgid "Колос"
+
+# Objects : [n2498780911]
+# name:be: []
+msgid "Коровники"
+
+# Objects : [n853023134]
+# name:be: [Чырвоны Бор]
+msgid "Красный Бор"
+
+# Objects : [n2237715137]
+# name:be: []
+msgid "Красный Двор"
+
+# Objects : [n2279531472]
+# name:be: []
+msgid "Куландино"
+
+# Objects : [n1632803112]
+# name:be: [Кунцаўшчына]
+msgid "Кунцевщина"
+
+# Objects : [n243024290]
+# name:be: [Лястрансгас]
+msgid "Лестранхоз"
+
+# Objects : [n2498780912]
+# name:be: []
+msgid "Лозовка"
+
+# Objects : [n853023124]
+# name:be: [Лошыца]
+msgid "Лошица"
+
+# Objects : [n960602249]
+# name:be: [Лучоса]
+msgid "Лучёса"
+
+# Objects : [n2237727362]
+# name:be: []
+msgid "Лысая Гора"
+
+# Objects : [n918006256]
+# name:be: [Мазурына]
+msgid "Мазурино"
+
+# Objects : [n674420151]
+# name:be: []
+msgid "Майская"
+
+# Objects : [n853038690]
+# name:be: [Малінаўка]
+msgid "Малиновка"
+
+# Objects : [n2981931602]
+# name:be: [Марыненка]
+msgid "Мариненко"
+
+# Objects : [n1003880220]
+# name:be: [Маркаўшчына]
+msgid "Марковщина"
+
+# Objects : [n853038693]
+# name:be: [Мядзведжына]
+msgid "Медвежино"
+
+# Objects : [n1346329755]
+# name:be: [Медцэнтр]
+msgid "Медцентр"
+
+# Objects : [n1487705248]
+# name:be: [Мір]
+msgid "Мир"
+
+# Objects : [n243018676]
+# name:be: [Міхайлаўка]
+msgid "Михайловка"
+
+# Objects : [n853038697]
+# name:be: [Міхалова]
+msgid "Михалово"
+
+# Objects : [n2254105967]
+# name:be: [Міцары]
+msgid "Мицары"
+
+# Objects : [n960602291]
+# name:be: [Мішкава]
+msgid "Мишково"
+
+# Objects : [n2237673595]
+# name:be: [Машчонка]
+msgid "Мощёнка"
+
+# Objects : [n1279071672]
+# name:be: []
+msgid "Национальный аэропорт Минск"
+
+# Objects : [n1105815520]
+# name:be: [Нікраполле]
+msgid "Никрополье"
+
+# Objects : [n243046804]
+# name:be: []
+msgid "Новая Жизнь"
+
+# Objects : [n243046799]
+# name:be: [Новая Мільча]
+msgid "Новая Мильча"
+
+# Objects : [n243015509]
+# name:be: [Навінкі]
+msgid "Новинки"
+
+# Objects : [n2498780913]
+# name:be: []
+msgid "Новка"
+
+# Objects : [n2237673597]
+# name:be: [Новыя Задворцы]
+msgid "Новые Задворцы"
+
+# Objects : [n243035603, w25090541]
+# name:be: [Арэхава]
+msgid "Орехово"
+
+# Objects : [n3051752062]
+# name:be: []
+msgid "Павловичи"
+
+# Objects : [n2254105964]
+# name:be: []
+msgid "Первомайский"
+
+# Objects : [n1003880196]
+# name:be: [Пескавацік]
+msgid "Песковатик"
+
+# Objects : [n853038707]
+# name:be: [Пятроўшчына]
+msgid "Петровщина"
+
+# Objects : [n2237673589]
+# name:be: []
+msgid "Плоска"
+
+# Objects : [n2254105972]
+# name:be: [Плянты]
+msgid "Плянты"
+
+# Objects : [n3063204670]
+# name:be: []
+msgid "Посёлок"
+
+# Objects : [w25089230]
+# name:be: []
+msgid "поселок Колос"
+
+# Objects : [w208060946]
+# name:be: []
+msgid "промышленный узел "Колядичи""
+
+# Objects : [w189170590]
+# name:be: []
+msgid "Простоквашино"
+
+# Objects : [n355666588]
+# name:be: [Птушкафабрыка]
+msgid "Птушкофабрика"
+
+# Objects : [n2237715123]
+# name:be: []
+msgid "Пугачёво"
+
+# Objects : [n3039634754]
+# name:be: []
+msgid "Пятый полк"
+
+# Objects : [n1156504074]
+# name:be: [Ракаўскае прадмесце]
+msgid "Раковское предместье"
+
+# Objects : [n2237727365]
+# name:be: []
+msgid "Речица"
+
+# Objects : [n853041365]
+# name:be: [Ржавец]
+msgid "Ржавец"
+
+# Objects : [n243044962]
+# name:be: [Раманавічы]
+msgid "Романовичи"
+
+# Objects : [n243024292]
+# name:be: [Садоўка]
+msgid "Садовка"
+
+# Objects : [n1003880224]
+# name:be: [Себяхі]
+msgid "Себяхи"
+
+# Objects : [n853041367]
+# name:be: [Паўночны пасёлак]
+msgid "Северный посёлок"
+
+# Objects : [n243043821]
+# name:be: [Селівоўшчына]
+msgid "Селивовщина"
+
+# Objects : [n853043722]
+# name:be: [Серабранка]
+msgid "Серебрянка"
+
+# Objects : [n853043723, w26788497]
+# name:be: [Сокал]
+msgid "Сокол"
+
+# Objects : [n1003880204]
+# name:be: [Сакалоўка]
+msgid "Соколовка"
+
+# Objects : [w193531815]
+# name:be: [Сонечны]
+msgid "Солнечный"
+
+# Objects : [n853048398]
+# name:be: [Сосны]
+msgid "Сосны"
+
+# Objects : [n2498780914]
+# name:be: []
+msgid "Спасская Слобода"
+
+# Objects : [n2237673581]
+# name:be: [Старыя Задворцы]
+msgid "Старые Задворцы"
+
+# Objects : [n853048399]
+# name:be: [Сцяпянка]
+msgid "Степянка"
+
+# Objects : [n243010388]
+# name:be: [Сухарава]
+msgid "Сухарево"
+
+# Objects : [n960602261]
+# name:be: [Тарны]
+msgid "Тарный"
+
+# Objects : [n959123350]
+# name:be: [Ціраспаль]
+msgid "Тирасполь"
+
+# Objects : [n2237673592]
+# name:be: []
+msgid "Тришин"
+
+# Objects : [n1156503204]
+# name:be: [Траецкае прадмесце]
+msgid "Троицкое предместье"
+
+# Objects : [n2505717789]
+# name:be: [Тулава-1]
+msgid "Тулово-1"
+
+# Objects : [n2505732884]
+# name:be: [Тулава-2]
+msgid "Тулово-2"
+
+# Objects : [n960602256]
+# name:be: [Уланавічы]
+msgid "Улановичи"
+
+# Objects : [n853048401]
+# name:be: [Уручча]
+msgid "Уручье"
+
+# Objects : [n587794913]
+# name:be: [Фруктовы]
+msgid "Фруктовый"
+
+# Objects : [n3048025580]
+# name:be: []
+msgid "Фрунзе"
+
+# Objects : [n2237673587]
+# name:be: []
+msgid "Центр"
+
+# Objects : [n242979104]
+# name:be: []
+msgid "Чапаево"
+
+# Objects : [n1003880226]
+# name:be: [Чэпіна]
+msgid "Чепино"
+
+# Objects : [n853048396]
+# name:be: [Чыжоўка]
+msgid "Чижовка"
+
+# Objects : [n3032693049]
+# name:be: []
+msgid "Шабаны"
+
+# Objects : [n243043831, w25088167]
+# name:be: [Шпілі]
+msgid "Шпили"
+
+# Objects : [n1489675531]
+# name:be: [Юбілейны]
+msgid "Юбилейный"
+
+# Objects : [n959123351]
+# name:be: [Поўдзень-1]
+msgid "Юг-1"
+
+# Objects : [n959123348]
+# name:be: [Поўдзень-2]
+msgid "Юг-2"
+
+# Objects : [n959123353]
+# name:be: [Поўдзень-3]
+msgid "Юг-3"
+
+# Objects : [n959123349]
+# name:be: [Поўдзень-4]
+msgid "Юг-4"
+
+# Objects : [n959123354]
+# name:be: [Поўдзень-5]
+msgid "Юг-5"
+
+# Objects : [n959123347]
+# name:be: [Поўдзень-6]
+msgid "Юг-6"
+
+# Objects : [n959123352]
+# name:be: [Поўдзень-7]
+msgid "Юг-7"
+
+# Objects : [n959123346]
+# name:be: [Поўдзень-7А]
+msgid "Юг-7А"
+
+# Objects : [n2237715116, n2254105956, n662089510]
+# name:be: [Паўднёвы Захад]
+msgid "Юго-Запад"
+
+# Objects : [n2237715132]
+# name:be: []
+msgid "Южный"
+
+# Objects : [n3039633751]
+# name:be: []
+msgid "Янополь"
+
