@@ -120,10 +120,6 @@
       <tuv lang="BE"><seg>#Аксанаўская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Аксановский</seg></tuv>
-      <tuv lang="BE"><seg>#Аксанаўскі</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Актёров Ерёменко</seg></tuv>
       <tuv lang="BE"><seg>#Акцёраў Яроменкаў</seg></tuv>
     </tu>
@@ -1080,6 +1076,10 @@
       <tuv lang="BE"><seg>#Новая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Новожлобинская</seg></tuv>
+      <tuv lang="BE"><seg>#Новажлобінская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Новоколлективная</seg></tuv>
       <tuv lang="BE"><seg>#Новакалектыўная</seg></tuv>
     </tu>
@@ -1258,6 +1258,10 @@
     <tu>
       <tuv lang="RU"><seg>Пешеходная</seg></tuv>
       <tuv lang="BE"><seg>#Пешаходная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>пешеходная галерея</seg></tuv>
+      <tuv lang="BE"><seg>#пешаходная галерэя</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пионерская</seg></tuv>
@@ -1702,6 +1706,10 @@
     <tu>
       <tuv lang="RU"><seg>Старосельская</seg></tuv>
       <tuv lang="BE"><seg>#Старасельская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Старосельский</seg></tuv>
+      <tuv lang="BE"><seg>#Старасельскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Староулановская</seg></tuv>

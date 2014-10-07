@@ -530,10 +530,6 @@ msgstr ""
 msgid "Тимирязева"
 msgstr ""
 
-# Objects : [w205606604]
-# Names: [ТИМОНОВА]
-msgid "ТИМОНОВА"
-
 # Objects : [w65491371]
 # Names: [Трудовая улица]
 msgid "Трудовая"

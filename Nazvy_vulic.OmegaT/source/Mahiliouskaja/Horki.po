@@ -352,7 +352,7 @@ msgstr ""
 msgid "Молокова"
 msgstr ""
 
-# Objects : [w76477898]
+# Objects : [w76477898, w306266500]
 # Names: [Мстиславский переулок]
 msgid "Мстиславский"
 msgstr ""

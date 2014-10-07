@@ -43,7 +43,7 @@ msgstr ""
 msgid "Врублевского"
 msgstr ""
 
-# Objects : [w249431152]
+# Objects : [w249431152, w249994818]
 # Names: [улица Гагарина]
 msgid "Гагарина"
 msgstr ""

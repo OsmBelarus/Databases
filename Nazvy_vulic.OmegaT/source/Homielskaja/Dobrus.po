@@ -598,8 +598,8 @@ msgid "Чапаева"
 msgstr ""
 
 # Objects : [w99863171]
-# Names: [улица Челюскинцев]
-msgid "Челюскинцев"
+# Names: [улица Челюскина]
+msgid "Челюскина"
 msgstr ""
 
 # Objects : [w107175198]

@@ -16,6 +16,10 @@
       <tuv lang="BE"><seg>#Абросімава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Автомобильный</seg></tuv>
+      <tuv lang="BE"><seg>#Аўтамабільны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Анны Коваль</seg></tuv>
       <tuv lang="BE"><seg>#Анны Каваль</seg></tuv>
     </tu>
@@ -414,6 +418,10 @@
     <tu>
       <tuv lang="RU"><seg>Проектируемая</seg></tuv>
       <tuv lang="BE"><seg>#Праектуемая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пролетарский</seg></tuv>
+      <tuv lang="BE"><seg>#Пралетарскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пушкина</seg></tuv>

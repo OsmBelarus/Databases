@@ -508,7 +508,7 @@ msgstr ""
 msgid "Новосёлов"
 msgstr ""
 
-# Objects : [w95661460, w232362167]
+# Objects : [w304772982]
 # Names: [Новошоссейная улица]
 msgid "Новошоссейная"
 msgstr ""

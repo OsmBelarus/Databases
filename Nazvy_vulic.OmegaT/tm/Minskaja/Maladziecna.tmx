@@ -112,6 +112,10 @@
       <tuv lang="BE"><seg>#Галіцкага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Германа</seg></tuv>
+      <tuv lang="BE"><seg>#Германа</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Гидротехников</seg></tuv>
       <tuv lang="BE"><seg>#Гідратэхнікаў</seg></tuv>
     </tu>
@@ -120,8 +124,8 @@
       <tuv lang="BE"><seg>#Гогаля</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Голинского</seg></tuv>
-      <tuv lang="BE"><seg>#Галінскага</seg></tuv>
+      <tuv lang="RU"><seg>Голынского</seg></tuv>
+      <tuv lang="BE"><seg>#Галынскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Городокская</seg></tuv>

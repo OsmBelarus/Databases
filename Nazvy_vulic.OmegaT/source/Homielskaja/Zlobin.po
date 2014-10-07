@@ -413,7 +413,7 @@ msgstr ""
 msgid "Лермонтова"
 msgstr ""
 
-# Objects : [w25247726, w293998612]
+# Objects : [w25247726, w293998612, w304658089]
 # Names: [Лесная улица]
 msgid "Лесная"
 msgstr ""
@@ -567,7 +567,7 @@ msgstr ""
 msgid "Октябрьский"
 msgstr ""
 
-# Objects : [w110888297]
+# Objects : [w304647035, w304647036]
 # Names: [площадь Освободителей]
 msgid "Освободителей"
 msgstr ""

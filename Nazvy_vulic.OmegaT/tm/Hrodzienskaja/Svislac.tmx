@@ -157,7 +157,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Свердлова</seg></tuv>
-      <tuv lang="BE"><seg>#Свярдлова#імя Свярдлова</seg></tuv>
+      <tuv lang="BE"><seg>#Свярдлова</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Северная</seg></tuv>
@@ -178,6 +178,10 @@
     <tu>
       <tuv lang="RU"><seg>Франциска Скорины</seg></tuv>
       <tuv lang="BE"><seg>#Францыска Скарыны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Цагельник</seg></tuv>
+      <tuv lang="BE"><seg>#Цагельнік</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Цветочная</seg></tuv>

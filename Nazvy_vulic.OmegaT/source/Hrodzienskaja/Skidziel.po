@@ -63,6 +63,10 @@ msgstr ""
 msgid "Мира"
 msgstr ""
 
+# Objects : [w199494858]
+# Names: [ул.Мицкевича]
+msgid "Мицкевича"
+
 # Objects : [w199495081]
 # Names: [улица Некрасова]
 msgid "Некрасова"
