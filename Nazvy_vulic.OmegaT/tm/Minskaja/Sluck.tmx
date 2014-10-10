@@ -52,6 +52,10 @@
       <tuv lang="BE"><seg>#Вялікая Горка</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Большое кольцо</seg></tuv>
+      <tuv lang="BE"><seg>#Вялікае кальцо</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Борисовца</seg></tuv>
       <tuv lang="BE"><seg>#Барысаўца</seg></tuv>
     </tu>
@@ -280,10 +284,6 @@
       <tuv lang="BE"><seg>#Маскоўская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Набережная</seg></tuv>
-      <tuv lang="BE"><seg>#Наберажная</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Надельная</seg></tuv>
       <tuv lang="BE"><seg>#Надзельная</seg></tuv>
     </tu>
@@ -326,6 +326,10 @@
     <tu>
       <tuv lang="RU"><seg>Пионерская</seg></tuv>
       <tuv lang="BE"><seg>#Піянерская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Плац</seg></tuv>
+      <tuv lang="BE"><seg>#Пляц</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Полевая</seg></tuv>

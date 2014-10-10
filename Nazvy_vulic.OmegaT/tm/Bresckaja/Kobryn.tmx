@@ -32,6 +32,10 @@
       <tuv lang="BE"><seg>#Андронаўская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Аэродромная</seg></tuv>
+      <tuv lang="BE"><seg>#Аэрадромная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Базарная</seg></tuv>
       <tuv lang="BE"><seg>#Базарная</seg></tuv>
     </tu>
@@ -276,6 +280,10 @@
       <tuv lang="BE"><seg>#Прамяністая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Мартынова</seg></tuv>
+      <tuv lang="BE"><seg>#Мартынава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Маршала Жукова</seg></tuv>
       <tuv lang="BE"><seg>#Маршала Жукава</seg></tuv>
     </tu>
@@ -294,6 +302,10 @@
     <tu>
       <tuv lang="RU"><seg>Мирный</seg></tuv>
       <tuv lang="BE"><seg>#Мірны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Можайского</seg></tuv>
+      <tuv lang="BE"><seg>#Мажайскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>

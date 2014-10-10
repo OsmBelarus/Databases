@@ -176,6 +176,10 @@
       <tuv lang="BE"><seg>#Багатая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Богдана Хмельницкого</seg></tuv>
+      <tuv lang="BE"><seg>#Багдана Хмяльніцкага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Богдановича</seg></tuv>
       <tuv lang="BE"><seg>#Багдановіча</seg></tuv>
     </tu>
@@ -2250,10 +2254,6 @@
     <tu>
       <tuv lang="RU"><seg>Хлебосольный</seg></tuv>
       <tuv lang="BE"><seg>#Хлебасольны</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Хмельницкого</seg></tuv>
-      <tuv lang="BE"><seg>#Хмяльніцкага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Холмистая</seg></tuv>

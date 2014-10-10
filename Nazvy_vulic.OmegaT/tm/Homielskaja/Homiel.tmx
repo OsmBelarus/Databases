@@ -252,6 +252,10 @@
       <tuv lang="BE"><seg>#Вялесавай</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Вербная</seg></tuv>
+      <tuv lang="BE"><seg>#Вербная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Вересковая</seg></tuv>
       <tuv lang="BE"><seg>#Верасовая</seg></tuv>
     </tu>
@@ -538,6 +542,10 @@
     <tu>
       <tuv lang="RU"><seg>Жарковского</seg></tuv>
       <tuv lang="BE"><seg>#Жаркоўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Жасминовая</seg></tuv>
+      <tuv lang="BE"><seg>#Язмінавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Железнодорожный</seg></tuv>
@@ -1202,6 +1210,10 @@
     <tu>
       <tuv lang="RU"><seg>Николая Островского</seg></tuv>
       <tuv lang="BE"><seg>#Мікалая Астроўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новая</seg></tuv>
+      <tuv lang="BE"><seg>#Новая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Нововетренная</seg></tuv>
@@ -2000,6 +2012,10 @@
       <tuv lang="BE"><seg>#Цалінная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Центральная</seg></tuv>
+      <tuv lang="BE"><seg>#Цэнтральная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Центролит</seg></tuv>
       <tuv lang="BE"><seg>#Цэнтраліт</seg></tuv>
     </tu>
@@ -2098,6 +2114,10 @@
     <tu>
       <tuv lang="RU"><seg>Щорса</seg></tuv>
       <tuv lang="BE"><seg>#Шчорса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Электрическая</seg></tuv>
+      <tuv lang="BE"><seg>#Электрычная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Электрический</seg></tuv>

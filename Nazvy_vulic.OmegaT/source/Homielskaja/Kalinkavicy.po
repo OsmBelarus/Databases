@@ -553,7 +553,7 @@ msgstr ""
 msgid "Сосновая"
 msgstr ""
 
-# Objects : [w53310347]
+# Objects : [w53310347, w53310752]
 # Names: [улица Строителей]
 msgid "Строителей"
 msgstr ""

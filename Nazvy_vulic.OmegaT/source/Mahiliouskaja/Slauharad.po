@@ -52,10 +52,6 @@ msgid "деревня Кургановка"
 msgid "Держинского"
 msgstr ""
 
-# Objects : [w215197183]
-# Names: [дорожка в парке]
-msgid "дорожка в парке"
-
 # Objects : [w204211091]
 # Names: [улица Дружбы]
 msgid "Дружбы"
@@ -106,11 +102,7 @@ msgstr ""
 msgid "Комарова"
 msgstr ""
 
-# Objects : [w267621376]
-# Names: [улица Комсамольская]
-msgid "Комсамольская"
-
-# Objects : [w203346514]
+# Objects : [w203346514, w267621376]
 # Names: [Комсомольская улица]
 msgid "Комсомольская"
 msgstr ""
@@ -163,6 +155,7 @@ msgstr ""
 # Objects : [w203346525]
 # Names: [улица Мюд]
 msgid "Мюд"
+msgstr ""
 
 # Objects : [w204211096]
 # Names: [Набережная улица]

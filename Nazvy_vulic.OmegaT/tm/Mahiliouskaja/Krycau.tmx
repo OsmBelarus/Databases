@@ -248,6 +248,10 @@
       <tuv lang="BE"><seg>#Камсамольскі</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Комсомольский микрорайон</seg></tuv>
+      <tuv lang="BE"><seg>#Камсамольскі мікрараён</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Кооперативная</seg></tuv>
       <tuv lang="BE"><seg>#Кааператыўная</seg></tuv>
     </tu>
@@ -433,7 +437,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Партизанского отряда Анатолия Таира</seg></tuv>
-      <tuv lang="BE"><seg>#імя Партызанскага атрада Анатолія Таіра</seg></tuv>
+      <tuv lang="BE"><seg>#Партызанскага атрада Анатолія Таіра</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Первомайская</seg></tuv>

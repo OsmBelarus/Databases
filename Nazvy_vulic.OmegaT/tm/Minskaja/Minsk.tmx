@@ -189,7 +189,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Аполинарьевская</seg></tuv>
-      <tuv lang="BE"><seg>#Апалінар'еўская</seg></tuv>
+      <tuv lang="BE"><seg>#Апалінар’еўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Аранская</seg></tuv>
@@ -380,6 +380,10 @@
       <tuv lang="BE"><seg>#Вялікая Слепня</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Большое Стиклево</seg></tuv>
+      <tuv lang="BE"><seg>#Вялікае Сціклева</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Боровецкий</seg></tuv>
       <tuv lang="BE"><seg>#Баравецкі</seg></tuv>
     </tu>
@@ -512,10 +516,6 @@
       <tuv lang="BE"><seg>#Веласіпедны</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Велотрек</seg></tuv>
-      <tuv lang="BE"><seg>#Велатрэк</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Вересковая</seg></tuv>
       <tuv lang="BE"><seg>#Верасовая</seg></tuv>
     </tu>
@@ -530,6 +530,10 @@
     <tu>
       <tuv lang="RU"><seg>Верхняя</seg></tuv>
       <tuv lang="BE"><seg>#Верхняя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веры Слуцкой</seg></tuv>
+      <tuv lang="BE"><seg>#Веры Слуцкай</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Веры Хоружей</seg></tuv>
@@ -1461,7 +1465,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кедышко</seg></tuv>
-      <tuv lang="BE"><seg>#Кядышкі</seg></tuv>
+      <tuv lang="BE"><seg>#Кедышкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Киевская</seg></tuv>
@@ -1477,7 +1481,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кирилла Туровского</seg></tuv>
-      <tuv lang="BE"><seg>#Кірыла Тураўскага</seg></tuv>
+      <tuv lang="BE"><seg>#Кірылы Тураўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
@@ -1937,11 +1941,15 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лукьяновича</seg></tuv>
-      <tuv lang="BE"><seg>#Лук'яновіча</seg></tuv>
+      <tuv lang="BE"><seg>#Лук’яновіча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лучайская</seg></tuv>
       <tuv lang="BE"><seg>#Лучайская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лыжероллерная Трасса</seg></tuv>
+      <tuv lang="BE"><seg>#Лыжаролерная траса</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Льва Сапеги</seg></tuv>
@@ -2053,7 +2061,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Марьевская</seg></tuv>
-      <tuv lang="BE"><seg>#Мар'еўская</seg></tuv>
+      <tuv lang="BE"><seg>#Мар’еўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Масюковщина</seg></tuv>
@@ -2577,7 +2585,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Папернянская</seg></tuv>
-      <tuv lang="BE"><seg>#Папернянская</seg></tuv>
+      <tuv lang="BE"><seg>#Папярнянская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Папернянский</seg></tuv>
@@ -3244,10 +3252,6 @@
       <tuv lang="BE"><seg>#Слонімская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Слуцкой</seg></tuv>
-      <tuv lang="BE"><seg>#Слуцкай</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Смирнова</seg></tuv>
       <tuv lang="BE"><seg>#Смірнова</seg></tuv>
     </tu>
@@ -3309,7 +3313,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Софьи Ковалевской</seg></tuv>
-      <tuv lang="BE"><seg>#Соф'і Кавалеўскай</seg></tuv>
+      <tuv lang="BE"><seg>#Соф’і Кавалеўскай</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Социалистическая</seg></tuv>
@@ -3574,6 +3578,10 @@
     <tu>
       <tuv lang="RU"><seg>Транспортный</seg></tuv>
       <tuv lang="BE"><seg>#Транспартны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Троицкая</seg></tuv>
+      <tuv lang="BE"><seg>#Траецкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Тростенецкая</seg></tuv>

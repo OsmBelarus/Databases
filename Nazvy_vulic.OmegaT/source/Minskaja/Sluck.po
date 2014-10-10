@@ -59,8 +59,9 @@ msgid "Большая Горка"
 msgstr ""
 
 # Objects : [w164248344]
-# Names: [Большое кольцо]
+# Names: [улица Большое кольцо]
 msgid "Большое кольцо"
+msgstr ""
 
 # Objects : [w25270625]
 # Names: [улица Борисовца]
@@ -348,9 +349,8 @@ msgid "Московская"
 msgstr ""
 
 # Objects : [w139538432]
-# Names: [Набережная]
+# Names: [Набережная улица]
 msgid "Набережная"
-msgstr ""
 
 # Objects : [w25270791]
 # Names: [Надельная улица]
@@ -410,6 +410,7 @@ msgstr ""
 # Objects : [w173579806]
 # Names: [Плац]
 msgid "Плац"
+msgstr ""
 
 # Objects : [w25270737]
 # Names: [Полевая улица]
