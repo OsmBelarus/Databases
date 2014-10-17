@@ -133,7 +133,7 @@ msgstr ""
 msgid "Кошевого"
 msgstr ""
 
-# Objects : [w95741535]
+# Objects : [w95741535, w241926113]
 # Names: [улица Красина]
 msgid "Красина"
 msgstr ""
@@ -188,7 +188,12 @@ msgstr ""
 msgid "Молокова"
 msgstr ""
 
-# Objects : [w61167737, w93656792]
+# Objects : [w73339048]
+# Names: [Набережная улица]
+msgid "Набережная"
+msgstr ""
+
+# Objects : [w61167737]
 # Names: [улица Независимости]
 msgid "Независимости"
 msgstr ""
@@ -246,6 +251,16 @@ msgstr ""
 # Objects : [w58765303, w94231699]
 # Names: [Пионерская улица]
 msgid "Пионерская"
+msgstr ""
+
+# Objects : [w308026926]
+# Names: [площадь Победы]
+msgid "Победы"
+msgstr ""
+
+# Objects : [w241924146, w307966434, w307966497]
+# Names: [1-й Полевой переулок, 2-й Полевой переулок, Полевой переулок]
+msgid "Полевой"
 msgstr ""
 
 # Objects : [w73339045]
@@ -353,7 +368,7 @@ msgstr ""
 msgid "Школьный"
 msgstr ""
 
-# Objects : [w58765305, w199307814]
+# Objects : [w58765305, w199307814, w308038246]
 # Names: [улица Шубина]
 msgid "Шубина"
 msgstr ""

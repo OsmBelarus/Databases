@@ -12,6 +12,14 @@
       <tuv lang="BE"><seg>#18 Лістапада</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>1-й Тупик</seg></tuv>
+      <tuv lang="BE"><seg>#Тупік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>2-й Тупик</seg></tuv>
+      <tuv lang="BE"><seg>#Тупік</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>323 Километр</seg></tuv>
       <tuv lang="BE"><seg>#323 Кіламетр</seg></tuv>
     </tu>
@@ -22,6 +30,10 @@
     <tu>
       <tuv lang="RU"><seg>35-ой Гвардейской Миномётной Бригады</seg></tuv>
       <tuv lang="BE"><seg>#35-ай Гвардзейскай Мінамётнай Брыгады</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>3-й Тупик</seg></tuv>
+      <tuv lang="BE"><seg>#Тупік</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>40 лет Октября</seg></tuv>
@@ -442,6 +454,10 @@
     <tu>
       <tuv lang="RU"><seg>Мопровская</seg></tuv>
       <tuv lang="BE"><seg>#Мопраўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Набережная</seg></tuv>
+      <tuv lang="BE"><seg>#Набярэжная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Набережный</seg></tuv>

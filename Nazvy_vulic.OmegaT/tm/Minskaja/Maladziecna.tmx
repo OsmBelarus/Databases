@@ -420,6 +420,10 @@
       <tuv lang="BE"><seg>#Мядзельская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Набережная</seg></tuv>
+      <tuv lang="BE"><seg>#Набярэжная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Нагорная</seg></tuv>
       <tuv lang="BE"><seg>#Нагорная</seg></tuv>
     </tu>
@@ -578,6 +582,10 @@
     <tu>
       <tuv lang="RU"><seg>Спортивная</seg></tuv>
       <tuv lang="BE"><seg>#Спартыўная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Старое Место</seg></tuv>
+      <tuv lang="BE"><seg>#Старае Месца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Строителей</seg></tuv>

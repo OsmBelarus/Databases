@@ -104,6 +104,10 @@
       <tuv lang="BE"><seg>#Чырвонаармейская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Криничная</seg></tuv>
+      <tuv lang="BE"><seg>#Крынічная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Ленинская</seg></tuv>
       <tuv lang="BE"><seg>#Ленінская</seg></tuv>
     </tu>
@@ -142,6 +146,10 @@
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
       <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Набережная</seg></tuv>
+      <tuv lang="BE"><seg>#Набярэжная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Надежды</seg></tuv>

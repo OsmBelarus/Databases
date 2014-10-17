@@ -413,6 +413,11 @@ msgstr ""
 msgid "Колхозный"
 msgstr ""
 
+# Objects : [w94595233]
+# Names: [Кольцевая улица]
+msgid "Кольцевая"
+msgstr ""
+
 # Objects : [w60844859]
 # Names: [Колядная улица]
 msgid "Колядная"
@@ -691,6 +696,7 @@ msgstr ""
 # Objects : [w25286948]
 # Names: [Набережная улица]
 msgid "Набережная"
+msgstr ""
 
 # Objects : [w60066133]
 # Names: [улица Наказных]

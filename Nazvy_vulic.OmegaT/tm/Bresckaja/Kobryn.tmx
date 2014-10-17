@@ -100,6 +100,10 @@
       <tuv lang="BE"><seg>#Гастэлы</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Гетмана</seg></tuv>
+      <tuv lang="BE"><seg>#Гетмана</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Гоголя</seg></tuv>
       <tuv lang="BE"><seg>#Гогаля</seg></tuv>
     </tu>
@@ -118,6 +122,10 @@
     <tu>
       <tuv lang="RU"><seg>Грушевый</seg></tuv>
       <tuv lang="BE"><seg>#Грушавы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гусарская</seg></tuv>
+      <tuv lang="BE"><seg>#Гусарская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Данилевской</seg></tuv>
@@ -176,6 +184,10 @@
       <tuv lang="BE"><seg>#Замкавая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Заморина</seg></tuv>
+      <tuv lang="BE"><seg>#Заморына</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Заречная</seg></tuv>
       <tuv lang="BE"><seg>#Зарэчная</seg></tuv>
     </tu>
@@ -202,6 +214,14 @@
     <tu>
       <tuv lang="RU"><seg>Интернациональная</seg></tuv>
       <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Каменецкая</seg></tuv>
+      <tuv lang="BE"><seg>#Каменецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кирмановича</seg></tuv>
+      <tuv lang="BE"><seg>#Кірмановіча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кирпичная</seg></tuv>
@@ -396,6 +416,10 @@
       <tuv lang="BE"><seg>#Палявая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Полковая</seg></tuv>
+      <tuv lang="BE"><seg>#Палкавая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Пролетарская</seg></tuv>
       <tuv lang="BE"><seg>#Пралетарская</seg></tuv>
     </tu>
@@ -422,6 +446,10 @@
     <tu>
       <tuv lang="RU"><seg>Садовая</seg></tuv>
       <tuv lang="BE"><seg>#Садовая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сандалова</seg></tuv>
+      <tuv lang="BE"><seg>#Сандалава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Свердлова</seg></tuv>
@@ -538,6 +566,10 @@
     <tu>
       <tuv lang="RU"><seg>Щорса</seg></tuv>
       <tuv lang="BE"><seg>#Шчорса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Экипажа Белицкого</seg></tuv>
+      <tuv lang="BE"><seg>#Экіпажа Бяліцкага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Энтузиастов</seg></tuv>

@@ -261,7 +261,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Звездный</seg></tuv>
-      <tuv lang="BE"><seg>#Зорны тупік</seg></tuv>
+      <tuv lang="BE"><seg>#Зорны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Згоды</seg></tuv>
@@ -286,6 +286,10 @@
     <tu>
       <tuv lang="RU"><seg>Ильина</seg></tuv>
       <tuv lang="BE"><seg>#Ільіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Индустриальная</seg></tuv>
+      <tuv lang="BE"><seg>#Індустрыяльная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Интернациональная</seg></tuv>
@@ -521,7 +525,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Луговой</seg></tuv>
-      <tuv lang="BE"><seg>#Лугавы тупік</seg></tuv>
+      <tuv lang="BE"><seg>#Лугавы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лунная</seg></tuv>
@@ -921,7 +925,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Трудовой</seg></tuv>
-      <tuv lang="BE"><seg>#Працоўны тупік</seg></tuv>
+      <tuv lang="BE"><seg>#Працоўны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Урицкого</seg></tuv>

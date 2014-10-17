@@ -29,7 +29,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лукомльское</seg></tuv>
-      <tuv lang="BE"><seg>#Лукомльская шаша</seg></tuv>
+      <tuv lang="BE"><seg>#Лукомльская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мира</seg></tuv>
@@ -42,6 +42,10 @@
     <tu>
       <tuv lang="RU"><seg>Молодёжный</seg></tuv>
       <tuv lang="BE"><seg>#Моладзевы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Набережная</seg></tuv>
+      <tuv lang="BE"><seg>#Набярэжная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Озмителя</seg></tuv>

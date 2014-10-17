@@ -18,7 +18,7 @@ msgstr ""
 msgid "Авиаторов"
 msgstr ""
 
-# Objects : [w30293343, w176232314]
+# Objects : [w30293343, w176232314, w216024810]
 # Names: [Академическая улица]
 msgid "Академическая"
 msgstr ""
@@ -221,6 +221,7 @@ msgstr ""
 # Objects : [w127887309]
 # Names: [Набережная улица]
 msgid "Набережная"
+msgstr ""
 
 # Objects : [w30293882]
 # Names: [улица Некрасова]
@@ -270,11 +271,6 @@ msgstr ""
 # Objects : [w127886519]
 # Names: [Поперечная улица]
 msgid "Поперечная"
-msgstr ""
-
-# Objects : [w127887308, w216024810]
-# Names: [пос. Первомайский]
-msgid "пос. Первомайский"
 msgstr ""
 
 # Objects : [w127883753]

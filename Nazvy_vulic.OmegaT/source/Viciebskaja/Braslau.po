@@ -48,11 +48,6 @@ msgstr ""
 msgid "Весенняя"
 msgstr ""
 
-# Objects : [w156329627]
-# Names: [улица Ветеранов]
-msgid "Ветеранов"
-msgstr ""
-
 # Objects : [w156421035]
 # Names: [улица Ворошилова]
 msgid "Ворошилова"
@@ -306,6 +301,7 @@ msgstr ""
 # Objects : [w158821219]
 # Names: [Набережная улица]
 msgid "Набережная"
+msgstr ""
 
 # Objects : [w158996334]
 # Names: [Набережный переулок]

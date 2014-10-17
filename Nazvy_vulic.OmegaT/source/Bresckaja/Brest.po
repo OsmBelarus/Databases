@@ -88,7 +88,7 @@ msgstr ""
 msgid "Бархатный"
 msgstr ""
 
-# Objects : [w25297260, w25297325, w100599863]
+# Objects : [w25297260, w25297325, w100599863, w307635641]
 # Names: [Бауманская улица]
 msgid "Бауманская"
 msgstr ""
@@ -178,7 +178,7 @@ msgstr ""
 msgid "Боброва"
 msgstr ""
 
-# Objects : [w25295480]
+# Objects : [w25295480, w307635836]
 # Names: [улица Богдановича]
 msgid "Богдановича"
 msgstr ""

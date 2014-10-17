@@ -317,7 +317,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Зелёный</seg></tuv>
-      <tuv lang="BE"><seg>#Зялёны тупік</seg></tuv>
+      <tuv lang="BE"><seg>#Зялёны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Зои Космодемьянской</seg></tuv>
@@ -329,7 +329,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Инженерный</seg></tuv>
-      <tuv lang="BE"><seg>#Інжынерны#Інжынерны тупік</seg></tuv>
+      <tuv lang="BE"><seg>#Інжынерны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Инструментальщиков</seg></tuv>
@@ -625,7 +625,11 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Музейный</seg></tuv>
-      <tuv lang="BE"><seg>#Музейны#Музейны тупік</seg></tuv>
+      <tuv lang="BE"><seg>#Музейны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Набережная</seg></tuv>
+      <tuv lang="BE"><seg>#Набярэжная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Народная</seg></tuv>
@@ -1009,7 +1013,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Февральский</seg></tuv>
-      <tuv lang="BE"><seg>#Лютаўскі#Лютаўскі тупік</seg></tuv>
+      <tuv lang="BE"><seg>#Лютаўскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Флёрова</seg></tuv>

@@ -44,10 +44,6 @@
       <tuv lang="BE"><seg>#Вясновая</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ветеранов</seg></tuv>
-      <tuv lang="BE"><seg>#Ветэранаў</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Ворошилова</seg></tuv>
       <tuv lang="BE"><seg>#Варашылава</seg></tuv>
     </tu>
@@ -246,6 +242,10 @@
     <tu>
       <tuv lang="RU"><seg>Муражская</seg></tuv>
       <tuv lang="BE"><seg>#Муражская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Набережная</seg></tuv>
+      <tuv lang="BE"><seg>#Набярэжная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Набережный</seg></tuv>

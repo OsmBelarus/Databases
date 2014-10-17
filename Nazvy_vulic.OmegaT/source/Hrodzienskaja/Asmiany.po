@@ -226,6 +226,7 @@ msgstr ""
 # Objects : [w260269153]
 # Names: [Набережная улица]
 msgid "Набережная"
+msgstr ""
 
 # Objects : [w260268594]
 # Names: [Новый переулок]

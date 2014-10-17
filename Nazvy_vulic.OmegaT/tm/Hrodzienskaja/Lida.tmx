@@ -336,6 +336,10 @@
       <tuv lang="BE"><seg>#Калгасны</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Кольцевая</seg></tuv>
+      <tuv lang="BE"><seg>#Кальцавая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Колядная</seg></tuv>
       <tuv lang="BE"><seg>#Калядная</seg></tuv>
     </tu>
@@ -554,6 +558,10 @@
     <tu>
       <tuv lang="RU"><seg>Мясникова</seg></tuv>
       <tuv lang="BE"><seg>#Мяснікова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Набережная</seg></tuv>
+      <tuv lang="BE"><seg>#Набярэжная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Наказных</seg></tuv>

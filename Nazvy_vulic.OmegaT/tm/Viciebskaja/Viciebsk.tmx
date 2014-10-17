@@ -193,7 +193,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Бешенковичское</seg></tuv>
-      <tuv lang="BE"><seg>#Бешанковіцкая шаша</seg></tuv>
+      <tuv lang="BE"><seg>#Бешанковіцкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Билевская</seg></tuv>
@@ -1044,6 +1044,10 @@
       <tuv lang="BE"><seg>#Мясаедава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Набережная</seg></tuv>
+      <tuv lang="BE"><seg>#Набярэжная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Надпрудная</seg></tuv>
       <tuv lang="BE"><seg>#Надпрудная</seg></tuv>
     </tu>
@@ -1089,7 +1093,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новооршанское</seg></tuv>
-      <tuv lang="BE"><seg>#Новааршанская шаша</seg></tuv>
+      <tuv lang="BE"><seg>#Новааршанская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новоостровенская</seg></tuv>
@@ -1258,10 +1262,6 @@
     <tu>
       <tuv lang="RU"><seg>Пешеходная</seg></tuv>
       <tuv lang="BE"><seg>#Пешаходная</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>пешеходная галерея</seg></tuv>
-      <tuv lang="BE"><seg>#пешаходная галерэя</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пионерская</seg></tuv>
@@ -1701,7 +1701,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Староостровенское</seg></tuv>
-      <tuv lang="BE"><seg>#Стараастровенская шаша</seg></tuv>
+      <tuv lang="BE"><seg>#Стараастровенская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Старосельская</seg></tuv>

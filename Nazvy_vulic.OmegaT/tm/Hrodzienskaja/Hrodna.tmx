@@ -597,7 +597,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Друскеницкий</seg></tuv>
-      <tuv lang="BE"><seg>#Друскеніцкі тупік</seg></tuv>
+      <tuv lang="BE"><seg>#Друскеніцкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Друцк</seg></tuv>
@@ -701,7 +701,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Замковый</seg></tuv>
-      <tuv lang="BE"><seg>#Замкавы тупік</seg></tuv>
+      <tuv lang="BE"><seg>#Замкавы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Зана</seg></tuv>
@@ -785,7 +785,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Индурское</seg></tuv>
-      <tuv lang="BE"><seg>#Індурская шаша</seg></tuv>
+      <tuv lang="BE"><seg>#Індурская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Индустриальная</seg></tuv>
@@ -945,7 +945,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Коммунальный</seg></tuv>
-      <tuv lang="BE"><seg>#Камунальны тупік</seg></tuv>
+      <tuv lang="BE"><seg>#Камунальны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Комсомольская</seg></tuv>
@@ -1209,7 +1209,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Малый</seg></tuv>
-      <tuv lang="BE"><seg>#Малы тупік</seg></tuv>
+      <tuv lang="BE"><seg>#Малы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Малыщинская</seg></tuv>
@@ -1425,7 +1425,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Озёрское</seg></tuv>
-      <tuv lang="BE"><seg>#Азёрская шаша</seg></tuv>
+      <tuv lang="BE"><seg>#Азёрская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Окрестная</seg></tuv>
@@ -1746,6 +1746,10 @@
     <tu>
       <tuv lang="RU"><seg>Райгородская</seg></tuv>
       <tuv lang="BE"><seg>#Райгародская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рамесны</seg></tuv>
+      <tuv lang="BE"><seg>#Рамесны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ранишняя</seg></tuv>

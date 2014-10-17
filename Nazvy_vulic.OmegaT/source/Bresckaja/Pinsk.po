@@ -28,7 +28,7 @@ msgstr ""
 msgid "Барановичская"
 msgstr ""
 
-# Objects : [w25283812]
+# Objects : [w25283812, w305444608]
 # Names: [улица Белова]
 msgid "Белова"
 msgstr ""
@@ -63,7 +63,7 @@ msgstr ""
 msgid "Богдановича"
 msgstr ""
 
-# Objects : [w25285006]
+# Objects : [w25285006, w307618439, w307618440]
 # Names: [Брестская улица]
 msgid "Брестская"
 msgstr ""
@@ -273,7 +273,7 @@ msgstr ""
 msgid "Жукова"
 msgstr ""
 
-# Objects : [w25283781]
+# Objects : [w25283781, w307375885]
 # Names: [Завальная улица]
 msgid "Завальная"
 msgstr ""
@@ -351,6 +351,11 @@ msgstr ""
 # Objects : [w25283425]
 # Names: [улица Ильина]
 msgid "Ильина"
+msgstr ""
+
+# Objects : [w25283934]
+# Names: [Индустриальная улица]
+msgid "Индустриальная"
 msgstr ""
 
 # Objects : [w25283285]
@@ -583,7 +588,7 @@ msgstr ""
 msgid "Лазо"
 msgstr ""
 
-# Objects : [w25283758, w25283796, w38810928, w43029582]
+# Objects : [w25283758, w25283796, w38810928, w43029582, w66678697]
 # Names: [площадь Ленина, улица Ленина]
 msgid "Ленина"
 msgstr ""

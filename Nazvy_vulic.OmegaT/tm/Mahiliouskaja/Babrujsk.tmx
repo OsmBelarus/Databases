@@ -4,12 +4,28 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>10-й съезд Советов</seg></tuv>
+      <tuv lang="BE"><seg>#з’езд Саветаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>1-й Переездный</seg></tuv>
+      <tuv lang="BE"><seg>#Пераездны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>1-я Линия</seg></tuv>
       <tuv lang="BE"><seg>#Лінія</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>2-й Переездный</seg></tuv>
+      <tuv lang="BE"><seg>#Пераездны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>2-я Линия</seg></tuv>
       <tuv lang="BE"><seg>#Лінія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>3-й Переездный</seg></tuv>
+      <tuv lang="BE"><seg>#Пераездны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>3-я Линия</seg></tuv>
@@ -708,6 +724,10 @@
       <tuv lang="BE"><seg>#Мяснікова</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Набережная</seg></tuv>
+      <tuv lang="BE"><seg>#Набярэжная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Набережный</seg></tuv>
       <tuv lang="BE"><seg>#Набярэжны</seg></tuv>
     </tu>
@@ -766,10 +786,6 @@
     <tu>
       <tuv lang="RU"><seg>Новый Быт</seg></tuv>
       <tuv lang="BE"><seg>#Новы Быт</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Новый Свет</seg></tuv>
-      <tuv lang="BE"><seg>#Новы Свет</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Обводная</seg></tuv>

@@ -17,7 +17,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Борисовский</seg></tuv>
-      <tuv lang="BE"><seg>#Барысаўскі#Барысаўскі тупік</seg></tuv>
+      <tuv lang="BE"><seg>#Барысаўскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Братьев Захаровых</seg></tuv>
@@ -53,7 +53,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гайненское</seg></tuv>
-      <tuv lang="BE"><seg>#Гайненская шаша</seg></tuv>
+      <tuv lang="BE"><seg>#Гайненская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дачная</seg></tuv>
@@ -196,6 +196,10 @@
       <tuv lang="BE"><seg>#Моладзевы</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Набережная</seg></tuv>
+      <tuv lang="BE"><seg>#Набярэжная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Новая</seg></tuv>
       <tuv lang="BE"><seg>#Новая</seg></tuv>
     </tu>
@@ -233,7 +237,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Партизанский</seg></tuv>
-      <tuv lang="BE"><seg>#Партызанскі тупік</seg></tuv>
+      <tuv lang="BE"><seg>#Партызанскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Первомайская</seg></tuv>

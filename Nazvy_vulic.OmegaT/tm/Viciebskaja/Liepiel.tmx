@@ -244,6 +244,10 @@
       <tuv lang="BE"><seg>#Мопраўскі</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Набережная</seg></tuv>
+      <tuv lang="BE"><seg>#Набярэжная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Нападовского</seg></tuv>
       <tuv lang="BE"><seg>#Нападоўскага</seg></tuv>
     </tu>
@@ -265,7 +269,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Оршанское</seg></tuv>
-      <tuv lang="BE"><seg>#Аршанская шаша</seg></tuv>
+      <tuv lang="BE"><seg>#Аршанская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Парковая</seg></tuv>

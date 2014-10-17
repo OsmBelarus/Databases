@@ -32,10 +32,6 @@
       <tuv lang="BE"><seg>#Аўтамабільная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>аграрная</seg></tuv>
-      <tuv lang="BE"><seg>#Чырвоназорная</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Аграрная</seg></tuv>
       <tuv lang="BE"><seg>#Аграрная</seg></tuv>
     </tu>
@@ -417,7 +413,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Витебский</seg></tuv>
-      <tuv lang="BE"><seg>#Віцебскі#Віцебскі тупік</seg></tuv>
+      <tuv lang="BE"><seg>#Віцебскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Вишнёвая</seg></tuv>
@@ -521,7 +517,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гомельское</seg></tuv>
-      <tuv lang="BE"><seg>#Гомельская шаша</seg></tuv>
+      <tuv lang="BE"><seg>#Гомельская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гончарная</seg></tuv>
@@ -590,6 +586,10 @@
     <tu>
       <tuv lang="RU"><seg>Дашковская</seg></tuv>
       <tuv lang="BE"><seg>#Дашкоўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дебрянский спуск</seg></tuv>
+      <tuv lang="BE"><seg>#Дзябранскі спуск</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дегтярёва</seg></tuv>
@@ -725,7 +725,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Загородное</seg></tuv>
-      <tuv lang="BE"><seg>#Загарадная шаша</seg></tuv>
+      <tuv lang="BE"><seg>#Загарадная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Загородный</seg></tuv>
@@ -1425,7 +1425,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Минское</seg></tuv>
-      <tuv lang="BE"><seg>#Мінская шаша</seg></tuv>
+      <tuv lang="BE"><seg>#Мінская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мира</seg></tuv>
@@ -2017,7 +2017,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Рыночный</seg></tuv>
-      <tuv lang="BE"><seg>#Рынкавы тупік</seg></tuv>
+      <tuv lang="BE"><seg>#Рынкавы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Рябиновый</seg></tuv>
@@ -2133,7 +2133,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Славгородское</seg></tuv>
-      <tuv lang="BE"><seg>#Слаўгарадзкая шаша</seg></tuv>
+      <tuv lang="BE"><seg>#Слаўгарадзкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Слепокурова</seg></tuv>
@@ -2537,7 +2537,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чаусское</seg></tuv>
-      <tuv lang="BE"><seg>#Чавусская шаша</seg></tuv>
+      <tuv lang="BE"><seg>#Чавусская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Челюскинцев</seg></tuv>

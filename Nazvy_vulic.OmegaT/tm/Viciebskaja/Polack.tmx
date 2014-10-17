@@ -208,6 +208,10 @@
       <tuv lang="BE"><seg>#Загарадная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Загородный</seg></tuv>
+      <tuv lang="BE"><seg>#Загарадны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Замковая</seg></tuv>
       <tuv lang="BE"><seg>#Замкавая</seg></tuv>
     </tu>
@@ -382,6 +386,10 @@
     <tu>
       <tuv lang="RU"><seg>Луговая</seg></tuv>
       <tuv lang="BE"><seg>#Лугавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Луговой</seg></tuv>
+      <tuv lang="BE"><seg>#Лугавы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Максима Богдановича</seg></tuv>

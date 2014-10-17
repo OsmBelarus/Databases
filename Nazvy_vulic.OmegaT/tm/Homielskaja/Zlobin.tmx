@@ -429,7 +429,11 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>МТС</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца МТС</seg></tuv>
+      <tuv lang="BE"><seg>#МТС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Набережная</seg></tuv>
+      <tuv lang="BE"><seg>#Набярэжная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Нахимова</seg></tuv>

@@ -180,6 +180,10 @@
       <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Набережная</seg></tuv>
+      <tuv lang="BE"><seg>#Набярэжная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Некрасова</seg></tuv>
       <tuv lang="BE"><seg>#Някрасава</seg></tuv>
     </tu>
@@ -218,10 +222,6 @@
     <tu>
       <tuv lang="RU"><seg>Поперечная</seg></tuv>
       <tuv lang="BE"><seg>#Папярочная</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>пос. Первомайский</seg></tuv>
-      <tuv lang="BE"><seg>#Акадэмічная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пролетарская</seg></tuv>

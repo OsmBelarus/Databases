@@ -448,6 +448,10 @@
       <tuv lang="BE"><seg>#Новы</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Объездная дорога</seg></tuv>
+      <tuv lang="BE"><seg>#Аб’язная дарога</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Окружная</seg></tuv>
       <tuv lang="BE"><seg>#Акружная</seg></tuv>
     </tu>

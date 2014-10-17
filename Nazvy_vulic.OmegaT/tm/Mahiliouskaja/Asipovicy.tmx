@@ -420,6 +420,10 @@
       <tuv lang="BE"><seg>#Праектуемая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Проектная</seg></tuv>
+      <tuv lang="BE"><seg>#Праектная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Пролетарский</seg></tuv>
       <tuv lang="BE"><seg>#Пралетарскі</seg></tuv>
     </tu>
@@ -430,6 +434,10 @@
     <tu>
       <tuv lang="RU"><seg>Рабоче-Крестьянская</seg></tuv>
       <tuv lang="BE"><seg>#Працоўна-Сялянская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рабоче-Крестьянский</seg></tuv>
+      <tuv lang="BE"><seg>#Працоўна-Сялянскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Революционная</seg></tuv>
