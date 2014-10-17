@@ -192,8 +192,16 @@
       <tuv lang="BE"><seg>#Набярэжная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Никандровой</seg></tuv>
+      <tuv lang="BE"><seg>#вулiца Нікандравай</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Новая</seg></tuv>
       <tuv lang="BE"><seg>#Новая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>объездная</seg></tuv>
+      <tuv lang="BE"><seg>#Аб’язная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Октябрьская</seg></tuv>

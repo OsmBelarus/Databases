@@ -48,6 +48,10 @@
       <tuv lang="BE"><seg>#Калініна</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Кирова</seg></tuv>
+      <tuv lang="BE"><seg>#Кірава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Ленина</seg></tuv>
       <tuv lang="BE"><seg>#Леніна</seg></tuv>
     </tu>
@@ -106,6 +110,10 @@
     <tu>
       <tuv lang="RU"><seg>Солнечная</seg></tuv>
       <tuv lang="BE"><seg>#Сонечная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Социалистическая</seg></tuv>
+      <tuv lang="BE"><seg>#Сацыялістычная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Тихая</seg></tuv>

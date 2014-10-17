@@ -1,4 +1,4 @@
-# Objects : [w36263215]
+# Objects : [w36263215, w70664846, w103256511]
 # Names: [улица 30 лет ВЛКСМ]
 msgid "30 лет ВЛКСМ"
 msgstr ""
@@ -56,6 +56,11 @@ msgstr ""
 # Objects : [w98297740, w110431845]
 # Names: [Вокзальный переулок]
 msgid "Вокзальный"
+msgstr ""
+
+# Objects : [w70663101]
+# Names: [улица Волковича]
+msgid "Волковича"
 msgstr ""
 
 # Objects : [w110709783]
@@ -141,6 +146,11 @@ msgstr ""
 # Objects : [w69713718, w91797843]
 # Names: [Загородная улица]
 msgid "Загородная"
+msgstr ""
+
+# Objects : [w72839872]
+# Names: [Занеманская улица]
+msgid "Занеманская"
 msgstr ""
 
 # Objects : [w32804335]
@@ -313,6 +323,11 @@ msgstr ""
 msgid "Октябрьская"
 msgstr ""
 
+# Objects : [w103256508]
+# Names: [Первомайская улица]
+msgid "Первомайская"
+msgstr ""
+
 # Objects : [w32799096]
 # Names: [Первомайский переулок]
 msgid "Первомайский"
@@ -343,7 +358,7 @@ msgstr ""
 msgid "Притыцкого"
 msgstr ""
 
-# Objects : [w91797850]
+# Objects : [w25288410, w91797850]
 # Names: [Пролетарская улица]
 msgid "Пролетарская"
 msgstr ""
@@ -391,6 +406,11 @@ msgstr ""
 # Objects : [w101932617]
 # Names: [Северный переулок]
 msgid "Северный"
+msgstr ""
+
+# Objects : [w25288397, w270938382]
+# Names: [Советская улица]
+msgid "Советская"
 msgstr ""
 
 # Objects : [w32839488]

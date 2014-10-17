@@ -48,6 +48,10 @@
       <tuv lang="BE"><seg>#Вароўскага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Гагарина</seg></tuv>
+      <tuv lang="BE"><seg>#Гагарына</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Галицкого</seg></tuv>
       <tuv lang="BE"><seg>#Галіцкага</seg></tuv>
     </tu>
@@ -182,6 +186,10 @@
     <tu>
       <tuv lang="RU"><seg>Набережный</seg></tuv>
       <tuv lang="BE"><seg>#Набярэжны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Невельское</seg></tuv>
+      <tuv lang="BE"><seg>#Невельская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новая</seg></tuv>

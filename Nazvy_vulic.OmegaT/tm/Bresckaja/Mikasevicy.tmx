@@ -100,6 +100,10 @@
       <tuv lang="BE"><seg>#Малінавая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Маяковского</seg></tuv>
+      <tuv lang="BE"><seg>#Маякоўскага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Мелиоративная</seg></tuv>
       <tuv lang="BE"><seg>#Меліяратыўная</seg></tuv>
     </tu>
@@ -174,6 +178,10 @@
     <tu>
       <tuv lang="RU"><seg>Рябиновая</seg></tuv>
       <tuv lang="BE"><seg>#Рабінавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Садовая</seg></tuv>
+      <tuv lang="BE"><seg>#Садовая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Светлая</seg></tuv>

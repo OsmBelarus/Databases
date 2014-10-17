@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Звёздная</seg></tuv>
+      <tuv lang="BE"><seg>#Зорная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Комсомольская</seg></tuv>
+      <tuv lang="BE"><seg>#Камсамольская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ленина</seg></tuv>
+      <tuv lang="BE"><seg>#Леніна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Советская</seg></tuv>
+      <tuv lang="BE"><seg>#Савецкая</seg></tuv>
+    </tu>
+  </body></tmx>

@@ -156,6 +156,10 @@
       <tuv lang="BE"><seg>#Паркавая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Партизанская</seg></tuv>
+      <tuv lang="BE"><seg>#Партызанская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Пионерская</seg></tuv>
       <tuv lang="BE"><seg>#Піянерская</seg></tuv>
     </tu>
@@ -218,6 +222,10 @@
     <tu>
       <tuv lang="RU"><seg>Энергетиков</seg></tuv>
       <tuv lang="BE"><seg>#Энергетыкаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юбилейная</seg></tuv>
+      <tuv lang="BE"><seg>#Юбілейная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Юбилейный</seg></tuv>

@@ -24,6 +24,10 @@
       <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ленина</seg></tuv>
+      <tuv lang="BE"><seg>#Леніна</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Максима Танка</seg></tuv>
       <tuv lang="BE"><seg>#Максіма Танка</seg></tuv>
     </tu>
@@ -46,5 +50,9 @@
     <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>
       <tuv lang="BE"><seg>#Савецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Черткова</seg></tuv>
+      <tuv lang="BE"><seg>#Черткова</seg></tuv>
     </tu>
   </body></tmx>

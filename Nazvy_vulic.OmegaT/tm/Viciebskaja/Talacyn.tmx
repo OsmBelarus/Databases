@@ -28,6 +28,10 @@
       <tuv lang="BE"><seg>#Вішнёвы</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Вокзальная</seg></tuv>
+      <tuv lang="BE"><seg>#Вакзальная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Володарского</seg></tuv>
       <tuv lang="BE"><seg>#Валадарскага</seg></tuv>
     </tu>
@@ -144,6 +148,10 @@
       <tuv lang="BE"><seg>#Меліяратараў</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Минская</seg></tuv>
+      <tuv lang="BE"><seg>#Мінская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Мира</seg></tuv>
       <tuv lang="BE"><seg>#Міру</seg></tuv>
     </tu>
@@ -192,6 +200,10 @@
       <tuv lang="BE"><seg>#Кастрычніцкі</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Оршанская</seg></tuv>
+      <tuv lang="BE"><seg>#Аршанская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Оршанский</seg></tuv>
       <tuv lang="BE"><seg>#Аршанскі</seg></tuv>
     </tu>
@@ -222,6 +234,10 @@
     <tu>
       <tuv lang="RU"><seg>Пионерская</seg></tuv>
       <tuv lang="BE"><seg>#Піянерская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Плосковская</seg></tuv>
+      <tuv lang="BE"><seg>#Плоскаўская вулiца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Плосковский</seg></tuv>

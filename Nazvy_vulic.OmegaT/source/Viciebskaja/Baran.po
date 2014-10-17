@@ -103,6 +103,11 @@ msgstr ""
 msgid "Молодёжная"
 msgstr ""
 
+# Objects : [w97540258]
+# Names: [Набережная улица]
+msgid "Набережная"
+msgstr ""
+
 # Objects : [w30087486, w37562981]
 # Names: [Набережный переулок]
 msgid "Набережный"
@@ -123,7 +128,7 @@ msgstr ""
 msgid "Олега Кошевого"
 msgstr ""
 
-# Objects : [w30087440, w205172948]
+# Objects : [w30087440, w153601966, w205172948]
 # Names: [Оршанская улица]
 msgid "Оршанская"
 msgstr ""

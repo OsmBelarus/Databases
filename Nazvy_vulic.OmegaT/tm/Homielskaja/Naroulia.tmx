@@ -72,6 +72,10 @@
       <tuv lang="BE"><seg>#Корзуна</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ленина</seg></tuv>
+      <tuv lang="BE"><seg>#Леніна</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Лизы Чайкиной</seg></tuv>
       <tuv lang="BE"><seg>#Лізы Чайкінай</seg></tuv>
     </tu>
@@ -94,6 +98,10 @@
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
       <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Октябрьская</seg></tuv>
+      <tuv lang="BE"><seg>#Кастрычніцкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Октябрьский</seg></tuv>

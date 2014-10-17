@@ -43,6 +43,11 @@ msgstr ""
 msgid "Кречет"
 msgstr ""
 
+# Objects : [w52017880, w52017923]
+# Names: [улица Ленина]
+msgid "Ленина"
+msgstr ""
+
 # Objects : [w123748042]
 # Names: [Луговая улица]
 msgid "Луговая"

@@ -1380,6 +1380,10 @@
       <tuv lang="BE"><seg>#Новая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Новики</seg></tuv>
+      <tuv lang="BE"><seg>#Новікі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Новооктябрьская</seg></tuv>
       <tuv lang="BE"><seg>#Новакастрычніцкая</seg></tuv>
     </tu>
@@ -1602,6 +1606,10 @@
     <tu>
       <tuv lang="RU"><seg>Подкрыжаки</seg></tuv>
       <tuv lang="BE"><seg>#Падкрыжакі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Подкрыжацкая</seg></tuv>
+      <tuv lang="BE"><seg>#Падкрыжацкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Подольная</seg></tuv>
@@ -1904,6 +1912,10 @@
       <tuv lang="BE"><seg>#Казачная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Скидельское</seg></tuv>
+      <tuv lang="BE"><seg>#Скідзельская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Скоморошки</seg></tuv>
       <tuv lang="BE"><seg>#Скамарошкі</seg></tuv>
     </tu>
@@ -2012,6 +2024,10 @@
       <tuv lang="BE"><seg>#Старазамкавая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Старомалыщинская</seg></tuv>
+      <tuv lang="BE"><seg>#Старамалышчынская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Стахановская</seg></tuv>
       <tuv lang="BE"><seg>#Стаханаўская</seg></tuv>
     </tu>
@@ -2070,6 +2086,10 @@
     <tu>
       <tuv lang="RU"><seg>Тавлая</seg></tuv>
       <tuv lang="BE"><seg>#Таўлая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тарусичская</seg></tuv>
+      <tuv lang="BE"><seg>#Тарусіцкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Тарусичский</seg></tuv>
@@ -2154,6 +2174,10 @@
     <tu>
       <tuv lang="RU"><seg>Транспортная</seg></tuv>
       <tuv lang="BE"><seg>#Транспартная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>тропа Здоровья</seg></tuv>
+      <tuv lang="BE"><seg>#сцежка Здароў’я</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Трудовая</seg></tuv>
@@ -2374,6 +2398,10 @@
     <tu>
       <tuv lang="RU"><seg>Элизы Ожешко</seg></tuv>
       <tuv lang="BE"><seg>#Элізы Ажэшкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юбилейная</seg></tuv>
+      <tuv lang="BE"><seg>#Юбілейная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Южная</seg></tuv>

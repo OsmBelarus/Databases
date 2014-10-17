@@ -273,6 +273,11 @@ msgstr ""
 msgid "Мележа"
 msgstr ""
 
+# Objects : [w39635626]
+# Names: [Мелиоративная улица]
+msgid "Мелиоративная"
+msgstr ""
+
 # Objects : [w39636609]
 # Names: [улица Мира]
 msgid "Мира"

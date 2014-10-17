@@ -48,6 +48,10 @@
       <tuv lang="BE"><seg>#Варашылава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Гагарина</seg></tuv>
+      <tuv lang="BE"><seg>#Гагарына</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Газетный</seg></tuv>
       <tuv lang="BE"><seg>#Газетны</seg></tuv>
     </tu>
@@ -138,6 +142,10 @@
     <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
       <tuv lang="BE"><seg>#Кірава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кирпичная</seg></tuv>
+      <tuv lang="BE"><seg>#Цагляная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кирпичный</seg></tuv>
@@ -422,6 +430,10 @@
     <tu>
       <tuv lang="RU"><seg>Энергетиков</seg></tuv>
       <tuv lang="BE"><seg>#Энергетыкаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юбилейная</seg></tuv>
+      <tuv lang="BE"><seg>#Юбілейная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Юбилейный</seg></tuv>

@@ -252,6 +252,10 @@
       <tuv lang="BE"><seg>#Міру</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Михайловка</seg></tuv>
+      <tuv lang="BE"><seg>#Міхайлаўка</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
       <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
@@ -326,6 +330,10 @@
     <tu>
       <tuv lang="RU"><seg>Садовый</seg></tuv>
       <tuv lang="BE"><seg>#Садовы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Северная</seg></tuv>
+      <tuv lang="BE"><seg>#Паўночная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Северный</seg></tuv>

@@ -4,8 +4,16 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>17-го Сентября</seg></tuv>
+      <tuv lang="BE"><seg>#17-га Верасня</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Апанасевича</seg></tuv>
       <tuv lang="BE"><seg>#Апанасевіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гагарина</seg></tuv>
+      <tuv lang="BE"><seg>#Гагарына</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ильина</seg></tuv>
@@ -28,6 +36,10 @@
       <tuv lang="BE"><seg>#Камсамольская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ленина</seg></tuv>
+      <tuv lang="BE"><seg>#Леніна</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Машерова</seg></tuv>
       <tuv lang="BE"><seg>#Машэрава</seg></tuv>
     </tu>
@@ -44,6 +56,10 @@
       <tuv lang="BE"><seg>#Піянерская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Победоносная</seg></tuv>
+      <tuv lang="BE"><seg>#Пабеданосная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Победы</seg></tuv>
       <tuv lang="BE"><seg>#Перамогі</seg></tuv>
     </tu>
@@ -54,6 +70,10 @@
     <tu>
       <tuv lang="RU"><seg>Садовая</seg></tuv>
       <tuv lang="BE"><seg>#Садовая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Советская</seg></tuv>
+      <tuv lang="BE"><seg>#Савецкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Строителей</seg></tuv>

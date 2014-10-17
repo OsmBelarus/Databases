@@ -8,6 +8,10 @@ msgstr ""
 msgid "Аэродромная"
 msgstr ""
 
+# Objects : [w80219986, w283117808, w283117809]
+# Names: [улица Боровика]
+msgid "Боровика"
+
 # Objects : [w105742895]
 # Names: [улица Брагина]
 msgid "Брагина"
@@ -53,6 +57,11 @@ msgstr ""
 msgid "Калинина"
 msgstr ""
 
+# Objects : [w25268324]
+# Names: [улица Кирова]
+msgid "Кирова"
+msgstr ""
+
 # Objects : [w106234159]
 # Names: [улица Ленина]
 msgid "Ленина"
@@ -93,7 +102,7 @@ msgstr ""
 msgid "Октябрьский"
 msgstr ""
 
-# Objects : [w91989111, w144313592, w217468711]
+# Objects : [w91989111, w144313591, w144313592, w217468711]
 # Names: [Первомайская улица]
 msgid "Первомайская"
 msgstr ""
@@ -126,6 +135,11 @@ msgstr ""
 # Objects : [w106234176]
 # Names: [Солнечная улица]
 msgid "Солнечная"
+msgstr ""
+
+# Objects : [w25268328]
+# Names: [Социалистическая улица]
+msgid "Социалистическая"
 msgstr ""
 
 # Objects : [w217468611]

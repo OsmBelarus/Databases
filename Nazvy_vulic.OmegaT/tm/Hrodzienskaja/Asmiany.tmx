@@ -32,6 +32,10 @@
       <tuv lang="BE"><seg>#Бальнічны</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Борунская</seg></tuv>
+      <tuv lang="BE"><seg>#Барунская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Весенняя</seg></tuv>
       <tuv lang="BE"><seg>#Вясновая</seg></tuv>
     </tu>
@@ -42,6 +46,10 @@
     <tu>
       <tuv lang="RU"><seg>Гагарина</seg></tuv>
       <tuv lang="BE"><seg>#Гагарына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гольшанская</seg></tuv>
+      <tuv lang="BE"><seg>#Гальшанская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Голяса</seg></tuv>
@@ -214,6 +222,10 @@
     <tu>
       <tuv lang="RU"><seg>Пролетарская</seg></tuv>
       <tuv lang="BE"><seg>#Пралетарская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пушкина</seg></tuv>
+      <tuv lang="BE"><seg>#Пушкіна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Садовая</seg></tuv>

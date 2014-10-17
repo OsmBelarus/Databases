@@ -3,6 +3,11 @@
 msgid "Вальная"
 msgstr ""
 
+# Objects : [w78136851]
+# Names: [Восточный тракт]
+msgid "Восточный"
+msgstr ""
+
 # Objects : [w32048275, w238889485]
 # Names: [Заводская улица]
 msgid "Заводская"

@@ -58,6 +58,11 @@ msgstr ""
 msgid "Жукова"
 msgstr ""
 
+# Objects : [w127382033, w127382036, w263194419]
+# Names: [Заводская улица]
+msgid "Заводская"
+msgstr ""
+
 # Objects : [w60946396]
 # Names: [Зелёная улица]
 msgid "Зелёная"

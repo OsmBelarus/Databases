@@ -1,0 +1,167 @@
+# Objects : [w143726054]
+# Names: [улица Бирюкова]
+msgid "Бирюкова"
+msgstr ""
+
+# Objects : [w30969976]
+# Names: [Борисовская улица]
+msgid "Борисовская"
+msgstr ""
+
+# Objects : [w30970634]
+# Names: [улица Володарского]
+msgid "Володарского"
+msgstr ""
+
+# Objects : [w30108159]
+# Names: [улица Ворошилова]
+msgid "Ворошилова"
+msgstr ""
+
+# Objects : [w197633627]
+# Names: [улица Дзержинского]
+msgid "Дзержинского"
+
+# Objects : [w143731264]
+# Names: [улица Калинина]
+msgid "Калинина"
+msgstr ""
+
+# Objects : [w30971156, w197494172]
+# Names: [улица Кирова]
+msgid "Кирова"
+msgstr ""
+
+# Objects : [w30108164, w30970631]
+# Names: [Красноармейская улица]
+msgid "Красноармейская"
+msgstr ""
+
+# Objects : [w30108163]
+# Names: [Красноармейский переулок]
+msgid "Красноармейский"
+msgstr ""
+
+# Objects : [w30969956]
+# Names: [Ленинская улица]
+msgid "Ленинская"
+msgstr ""
+
+# Objects : [w40468867]
+# Names: [Лепельская улица]
+msgid "Лепельская"
+msgstr ""
+
+# Objects : [w143731054]
+# Names: [Лесная улица]
+msgid "Лесная"
+msgstr ""
+
+# Objects : [w30108166, w143725932, w143725935]
+# Names: [улица Манковича]
+msgid "Манковича"
+msgstr ""
+
+# Objects : [w143727336]
+# Names: [ул. Мачульского]
+msgid "Мачульского"
+msgstr ""
+
+# Objects : [w197511095]
+# Names: [улица Машерова]
+msgid "Машерова"
+
+# Objects : [w30108165]
+# Names: [улица Маяковского]
+msgid "Маяковского"
+msgstr ""
+
+# Objects : [w30970626]
+# Names: [Минская улица]
+msgid "Минская"
+msgstr ""
+
+# Objects : [w30108162, w148918097]
+# Names: [переулок Мира, улица Мира]
+msgid "Мира"
+msgstr ""
+
+# Objects : [w30971155]
+# Names: [Молодёжная улица]
+msgid "Молодёжная"
+msgstr ""
+
+# Objects : [w30971157]
+# Names: [Озёрная улица]
+msgid "Озёрная"
+msgstr ""
+
+# Objects : [w30106509]
+# Names: [Октябрьская улица]
+msgid "Октябрьская"
+msgstr ""
+
+# Objects : [w143726053]
+# Names: [улица П. Панченко]
+msgid "П. Панченко"
+
+# Objects : [w30970630]
+# Names: [Партизанская улица]
+msgid "Партизанская"
+msgstr ""
+
+# Objects : [w30108167]
+# Names: [Партизанский переулок]
+msgid "Партизанский"
+msgstr ""
+
+# Objects : [w30969953]
+# Names: [Первомайская улица]
+msgid "Первомайская"
+msgstr ""
+
+# Objects : [w30108161, w176482998]
+# Names: [улица Победы]
+msgid "Победы"
+msgstr ""
+
+# Objects : [w30106513, w143730936]
+# Names: [улица Пушкина]
+msgid "Пушкина"
+msgstr ""
+
+# Objects : [w30106510]
+# Names: [Садовая улица]
+msgid "Садовая"
+msgstr ""
+
+# Objects : [w35401807]
+# Names: [Советская улица]
+msgid "Советская"
+msgstr ""
+
+# Objects : [w30106511]
+# Names: [улица Суворова]
+msgid "Суворова"
+msgstr ""
+
+# Objects : [w30106515, w143727702]
+# Names: [улица Титкова]
+msgid "Титкова"
+msgstr ""
+
+# Objects : [w30108160, w143725934]
+# Names: [ул. Черныша]
+msgid "Черныша"
+msgstr ""
+
+# Objects : [w30970627]
+# Names: [улица Чкалова]
+msgid "Чкалова"
+msgstr ""
+
+# Objects : [w30953555, w205810518]
+# Names: [улица Юхновца]
+msgid "Юхновца"
+msgstr ""
+

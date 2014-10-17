@@ -183,6 +183,10 @@ msgstr ""
 msgid "Левобереговая"
 msgstr ""
 
+# Objects : [w77502252]
+# Names: [Ленинский переулок]
+msgid "Ленинский"
+
 # Objects : [w85893924]
 # Names: [улица Лопанькова]
 msgid "Лопанькова"
@@ -233,9 +237,19 @@ msgstr ""
 msgid "Набережная"
 msgstr ""
 
+# Objects : [w85546817]
+# Names: [улица Никандровой]
+msgid "Никандровой"
+msgstr ""
+
 # Objects : [w156162057]
 # Names: [Новая улица]
 msgid "Новая"
+msgstr ""
+
+# Objects : [w85892301]
+# Names: [объездная]
+msgid "объездная"
 msgstr ""
 
 # Objects : [w151569125]

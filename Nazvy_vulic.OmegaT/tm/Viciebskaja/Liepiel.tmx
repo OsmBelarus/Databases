@@ -8,6 +8,10 @@
       <tuv lang="BE"><seg>#8 Сакавіка</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Беленицкая</seg></tuv>
+      <tuv lang="BE"><seg>#Бяленіцкая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Береговая</seg></tuv>
       <tuv lang="BE"><seg>#Берагавая</seg></tuv>
     </tu>
@@ -24,6 +28,10 @@
       <tuv lang="BE"><seg>#Бярэзінскі</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Берёзовая</seg></tuv>
+      <tuv lang="BE"><seg>#Бярозавая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Борисовский</seg></tuv>
       <tuv lang="BE"><seg>#Барысаўскі</seg></tuv>
     </tu>
@@ -34,6 +42,10 @@
     <tu>
       <tuv lang="RU"><seg>Веры Маргевич</seg></tuv>
       <tuv lang="BE"><seg>#Веры Маргевіч</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Весенняя</seg></tuv>
+      <tuv lang="BE"><seg>#Вясновая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Витебская</seg></tuv>
@@ -70,6 +82,10 @@
     <tu>
       <tuv lang="RU"><seg>Данукалова</seg></tuv>
       <tuv lang="BE"><seg>#Данукалава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дачная</seg></tuv>
+      <tuv lang="BE"><seg>#Дачная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Деповская</seg></tuv>
@@ -228,6 +244,10 @@
       <tuv lang="BE"><seg>#Мінская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Минское</seg></tuv>
+      <tuv lang="BE"><seg>#Мінская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Мира</seg></tuv>
       <tuv lang="BE"><seg>#Міру</seg></tuv>
     </tu>
@@ -250,6 +270,10 @@
     <tu>
       <tuv lang="RU"><seg>Нападовского</seg></tuv>
       <tuv lang="BE"><seg>#Нападоўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новая</seg></tuv>
+      <tuv lang="BE"><seg>#Новая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Озёрная</seg></tuv>
@@ -308,6 +332,10 @@
       <tuv lang="BE"><seg>#Пржавальскага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Приозёрный</seg></tuv>
+      <tuv lang="BE"><seg>#Прыазёрны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Пушкинская</seg></tuv>
       <tuv lang="BE"><seg>#Пушкінская</seg></tuv>
     </tu>
@@ -326,6 +354,10 @@
     <tu>
       <tuv lang="RU"><seg>Речной</seg></tuv>
       <tuv lang="BE"><seg>#Рачны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рябиновая</seg></tuv>
+      <tuv lang="BE"><seg>#Рабінавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Садовая</seg></tuv>
@@ -372,6 +404,10 @@
       <tuv lang="BE"><seg>#Цяністая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Тепличный</seg></tuv>
+      <tuv lang="BE"><seg>#Цяплічны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Тракторная</seg></tuv>
       <tuv lang="BE"><seg>#Трактарная</seg></tuv>
     </tu>
@@ -390,6 +426,10 @@
     <tu>
       <tuv lang="RU"><seg>Цветочная</seg></tuv>
       <tuv lang="BE"><seg>#Кветкавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральная</seg></tuv>
+      <tuv lang="BE"><seg>#Цэнтральная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чапаева</seg></tuv>

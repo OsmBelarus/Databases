@@ -1109,7 +1109,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новосенненская</seg></tuv>
-      <tuv lang="BE"><seg>#Новасенненская</seg></tuv>
+      <tuv lang="BE"><seg>#Навасенненская вулiца#Новасенненская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новосуражская</seg></tuv>
@@ -1557,7 +1557,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Сенненская</seg></tuv>
-      <tuv lang="BE"><seg>#Сенненская</seg></tuv>
+      <tuv lang="BE"><seg>#Сенненская#Сенненская вулiца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Сенненский</seg></tuv>
@@ -1830,6 +1830,10 @@
     <tu>
       <tuv lang="RU"><seg>Тувальского</seg></tuv>
       <tuv lang="BE"><seg>#Тувальскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Туловская</seg></tuv>
+      <tuv lang="BE"><seg>#Тулаўская вулiца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Туловский</seg></tuv>

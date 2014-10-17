@@ -112,6 +112,10 @@
       <tuv lang="BE"><seg>#Круглікава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ленина</seg></tuv>
+      <tuv lang="BE"><seg>#Леніна</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Лилии Каростояновой</seg></tuv>
       <tuv lang="BE"><seg>#Ліліі Карастаянавай</seg></tuv>
     </tu>
@@ -190,6 +194,10 @@
     <tu>
       <tuv lang="RU"><seg>Садовая</seg></tuv>
       <tuv lang="BE"><seg>#Садовая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Советская</seg></tuv>
+      <tuv lang="BE"><seg>#Савецкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Суворова</seg></tuv>

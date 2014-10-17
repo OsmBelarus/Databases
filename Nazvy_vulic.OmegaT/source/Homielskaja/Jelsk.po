@@ -1,3 +1,7 @@
+# Objects : [w25257857]
+# Names: [улица 50 лет СССР]
+msgid "50 лет СССР"
+
 # Objects : [w25257839]
 # Names: [улица 8 Марта]
 msgid "8 Марта"
@@ -31,6 +35,11 @@ msgstr ""
 # Objects : [w25257817]
 # Names: [Восточная улица]
 msgid "Восточная"
+msgstr ""
+
+# Objects : [w25257785, w25257912]
+# Names: [улица Гагарина]
+msgid "Гагарина"
 msgstr ""
 
 # Objects : [w25257892]
@@ -201,6 +210,11 @@ msgstr ""
 # Objects : [w25257858]
 # Names: [улица Мира]
 msgid "Мира"
+msgstr ""
+
+# Objects : [w25257783]
+# Names: [Мозырский тракт]
+msgid "Мозырский"
 msgstr ""
 
 # Objects : [w25257861]

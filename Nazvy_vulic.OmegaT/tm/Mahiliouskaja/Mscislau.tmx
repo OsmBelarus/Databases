@@ -212,6 +212,10 @@
       <tuv lang="BE"><seg>#Мічурына</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Могилёвская</seg></tuv>
+      <tuv lang="BE"><seg>#Магілёўская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Могилёвский</seg></tuv>
       <tuv lang="BE"><seg>#Магілёўскі</seg></tuv>
     </tu>
@@ -294,6 +298,10 @@
     <tu>
       <tuv lang="RU"><seg>Пушкина</seg></tuv>
       <tuv lang="BE"><seg>#Пушкіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Революционная</seg></tuv>
+      <tuv lang="BE"><seg>#Рэвалюцыйная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Республиканская</seg></tuv>

@@ -1,0 +1,35 @@
+# Objects : [w286819497]
+# Names: [Августовская улица]
+msgid "Августовская"
+msgstr ""
+
+# Objects : [w39644297]
+# Names: [Величинского]
+msgid "Величинского"
+msgstr ""
+
+# Objects : [w286819498]
+# Names: [Гродненская улица]
+msgid "Гродненская"
+msgstr "пж/Гродзенская"
+
+# Objects : [w255206156, w286819500]
+# Names: [улица Ожешко]
+msgid "Ожешко"
+msgstr "н/Ажэшкі"
+
+# Objects : [w29155200]
+# Names: [Теолинская улица]
+msgid "Теолинская"
+msgstr ""
+
+# Objects : [w255206161]
+# Names: [Школьная улица]
+msgid "Школьная"
+msgstr "пж/Школьная"
+
+# Objects : [w199414607]
+# Names: [улица Яна Павла II]
+msgid "Яна Павла II"
+msgstr ""
+

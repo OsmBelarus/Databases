@@ -1444,6 +1444,10 @@
       <tuv lang="BE"><seg>#Кіеўская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Киреева</seg></tuv>
+      <tuv lang="BE"><seg>#Кірэева</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Киреенко</seg></tuv>
       <tuv lang="BE"><seg>#Кірэенкі</seg></tuv>
     </tu>
@@ -2150,6 +2154,10 @@
     <tu>
       <tuv lang="RU"><seg>Мичурина</seg></tuv>
       <tuv lang="BE"><seg>#Мічурына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>МКАД</seg></tuv>
+      <tuv lang="BE"><seg>#МКАД</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Могилёвская</seg></tuv>
@@ -3198,6 +3206,10 @@
     <tu>
       <tuv lang="RU"><seg>Слонимская</seg></tuv>
       <tuv lang="BE"><seg>#Слонімская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Смиловичский</seg></tuv>
+      <tuv lang="BE"><seg>#Смілавіцкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Смирнова</seg></tuv>

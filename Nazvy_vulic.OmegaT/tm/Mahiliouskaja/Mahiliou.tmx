@@ -1264,6 +1264,10 @@
       <tuv lang="BE"><seg>#Лізы Чайкінай</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Липовая Аллея</seg></tuv>
+      <tuv lang="BE"><seg>#Ліпавая Алея</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Лобачевского</seg></tuv>
       <tuv lang="BE"><seg>#Лабачэўскага</seg></tuv>
     </tu>
@@ -2698,5 +2702,37 @@
     <tu>
       <tuv lang="RU"><seg>Яцыно</seg></tuv>
       <tuv lang="BE"><seg>#Яцына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№1</seg></tuv>
+      <tuv lang="BE"><seg>#№1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№2</seg></tuv>
+      <tuv lang="BE"><seg>#№2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№5</seg></tuv>
+      <tuv lang="BE"><seg>#№5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№6</seg></tuv>
+      <tuv lang="BE"><seg>#№6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№7</seg></tuv>
+      <tuv lang="BE"><seg>#№7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№8</seg></tuv>
+      <tuv lang="BE"><seg>#№8</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№8а</seg></tuv>
+      <tuv lang="BE"><seg>#№8а</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>№9</seg></tuv>
+      <tuv lang="BE"><seg>#№9</seg></tuv>
     </tu>
   </body></tmx>

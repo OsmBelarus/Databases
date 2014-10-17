@@ -53,6 +53,11 @@ msgstr ""
 msgid "Кутузова"
 msgstr ""
 
+# Objects : [w78075672]
+# Names: [улица Ленина]
+msgid "Ленина"
+msgstr ""
+
 # Objects : [w223681839]
 # Names: [улица Лермонтова]
 msgid "Лермонтова"
@@ -91,6 +96,11 @@ msgstr ""
 # Objects : [w223681389]
 # Names: [Пролетарская улица]
 msgid "Пролетарская"
+msgstr ""
+
+# Objects : [w35094124, w302075157]
+# Names: [улица Пушкина]
+msgid "Пушкина"
 msgstr ""
 
 # Objects : [w35093058]

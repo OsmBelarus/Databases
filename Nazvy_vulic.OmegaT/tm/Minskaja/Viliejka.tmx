@@ -4,6 +4,14 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>17 Сентября</seg></tuv>
+      <tuv lang="BE"><seg>#17 Верасня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>1 Мая</seg></tuv>
+      <tuv lang="BE"><seg>#1-Мая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>8 Марта</seg></tuv>
       <tuv lang="BE"><seg>#8 Сакавіка</seg></tuv>
     </tu>
@@ -254,6 +262,10 @@
     <tu>
       <tuv lang="RU"><seg>Социалистическая</seg></tuv>
       <tuv lang="BE"><seg>#Сацыялістычная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Стахановская</seg></tuv>
+      <tuv lang="BE"><seg>#Стаханаўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Строителей</seg></tuv>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>50 лет ВЛКСМ</seg></tuv>
+      <tuv lang="BE"><seg>#50 гадоў ВЛКСМ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>50 лет СССР</seg></tuv>
+      <tuv lang="BE"><seg>#50 гадоў СССР</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вишнёвая</seg></tuv>
+      <tuv lang="BE"><seg>#Вішнёвая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вокзальная</seg></tuv>
+      <tuv lang="BE"><seg>#Вакзальная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гагарина</seg></tuv>
+      <tuv lang="BE"><seg>#Гагарына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дзержинского</seg></tuv>
+      <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>К. Маркса</seg></tuv>
+      <tuv lang="BE"><seg>#К. Маркса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Карбышева</seg></tuv>
+      <tuv lang="BE"><seg>#Карбышава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Карла Маркса</seg></tuv>
+      <tuv lang="BE"><seg>#Карла Маркса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Комсомольская</seg></tuv>
+      <tuv lang="BE"><seg>#Камсамольская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кутузова</seg></tuv>
+      <tuv lang="BE"><seg>#Кутузава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Михайлова</seg></tuv>
+      <tuv lang="BE"><seg>#Міхалова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мостовская</seg></tuv>
+      <tuv lang="BE"><seg>#Мастоўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мостовский</seg></tuv>
+      <tuv lang="BE"><seg>#Мастоўскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Первомайская</seg></tuv>
+      <tuv lang="BE"><seg>#Першамайская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Первомайский</seg></tuv>
+      <tuv lang="BE"><seg>#Першамайскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пушкина</seg></tuv>
+      <tuv lang="BE"><seg>#Пушкіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Смирнова</seg></tuv>
+      <tuv lang="BE"><seg>#Смірнова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Советская</seg></tuv>
+      <tuv lang="BE"><seg>#Савецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чапаева</seg></tuv>
+      <tuv lang="BE"><seg>#Чапаева</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школьная</seg></tuv>
+      <tuv lang="BE"><seg>#Школьная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шоссейная</seg></tuv>
+      <tuv lang="BE"><seg>#Шасэйная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Якуба Колоса</seg></tuv>
+      <tuv lang="BE"><seg>#Якуба Коласа</seg></tuv>
+    </tu>
+  </body></tmx>

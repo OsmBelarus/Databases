@@ -83,6 +83,15 @@ msgstr ""
 msgid "Корзуна"
 msgstr ""
 
+# Objects : [w171597720]
+# Names: [Ласковая]
+msgid "Ласковая"
+
+# Objects : [w80249974, w232834410]
+# Names: [улица Ленина]
+msgid "Ленина"
+msgstr ""
+
 # Objects : [w171597765]
 # Names: [улица Лизы Чайкиной]
 msgid "Лизы Чайкиной"
@@ -111,6 +120,11 @@ msgstr ""
 # Objects : [w112949707, w242951779]
 # Names: [Молодёжная улица]
 msgid "Молодёжная"
+msgstr ""
+
+# Objects : [w80249979]
+# Names: [Октябрьская улица]
+msgid "Октябрьская"
 msgstr ""
 
 # Objects : [w112949720, w273214865, w273214866]

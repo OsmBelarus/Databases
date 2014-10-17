@@ -144,6 +144,10 @@
       <tuv lang="BE"><seg>#Гогаля</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Гомельская</seg></tuv>
+      <tuv lang="BE"><seg>#Гомельская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Горбатый</seg></tuv>
       <tuv lang="BE"><seg>#Гарбаты</seg></tuv>
     </tu>
@@ -638,6 +642,10 @@
     <tu>
       <tuv lang="RU"><seg>Светлогорский</seg></tuv>
       <tuv lang="BE"><seg>#Светлагорскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Светлогорское</seg></tuv>
+      <tuv lang="BE"><seg>#Светлагорская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Северная</seg></tuv>

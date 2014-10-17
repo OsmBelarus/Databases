@@ -18,6 +18,10 @@ msgstr ""
 msgid "Белорусская"
 msgstr ""
 
+# Objects : [w80228666]
+# Names: [улица Блока]
+msgid "Блока"
+
 # Objects : [w223633640, w223633655]
 # Names: [переулок Богданова, улица Богданова]
 msgid "Богданова"
@@ -128,7 +132,7 @@ msgstr ""
 msgid "Коржа"
 msgstr ""
 
-# Objects : [w79370158]
+# Objects : [w79370158, w79740568]
 # Names: [Красная улица]
 msgid "Красная"
 msgstr ""
@@ -216,6 +220,11 @@ msgstr ""
 # Objects : [w80216898]
 # Names: [Новая улица]
 msgid "Новая"
+msgstr ""
+
+# Objects : [w132913941]
+# Names: [Октябрьская улица]
+msgid "Октябрьская"
 msgstr ""
 
 # Objects : [w223633641, w223633644]

@@ -8,6 +8,11 @@ msgstr ""
 msgid "Благовещенская"
 msgstr ""
 
+# Objects : [w80189680, w208374613]
+# Names: [улица Болдина]
+msgid "Болдина"
+msgstr ""
+
 # Objects : [w238300411]
 # Names: [переулок Будённого]
 msgid "Будённого"
@@ -228,7 +233,7 @@ msgstr ""
 msgid "Пушкина"
 msgstr ""
 
-# Objects : [w209749235]
+# Objects : [w80189683, w209749235]
 # Names: [улица Рокоссовского]
 msgid "Рокоссовского"
 msgstr ""

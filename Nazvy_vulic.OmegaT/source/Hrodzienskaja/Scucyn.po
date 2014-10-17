@@ -213,7 +213,7 @@ msgstr ""
 msgid "Мичурина"
 msgstr ""
 
-# Objects : [w250193171]
+# Objects : [w25288073, w79795409, w250193171]
 # Names: [Молодёжная улица]
 msgid "Молодёжная"
 msgstr ""

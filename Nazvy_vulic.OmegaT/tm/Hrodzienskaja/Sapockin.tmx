@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Августовская</seg></tuv>
+      <tuv lang="BE"><seg>#Аўгустоўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гродненская</seg></tuv>
+      <tuv lang="BE"><seg>#Гродзенская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школьная</seg></tuv>
+      <tuv lang="BE"><seg>#Школьная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Яна Павла II</seg></tuv>
+      <tuv lang="BE"><seg>#Яна Паўла II</seg></tuv>
+    </tu>
+  </body></tmx>

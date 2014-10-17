@@ -33,10 +33,14 @@ msgstr ""
 msgid "Веры Хоружей"
 msgstr ""
 
-# Objects : [w25280045]
+# Objects : [w25280045, w107388242]
 # Names: [улица Гагарина]
 msgid "Гагарина"
 msgstr ""
+
+# Objects : [w201527110]
+# Names: [Ганцевичи — Пасеки]
+msgid "Ганцевичи — Пасеки"
 
 # Objects : [w215255758]
 # Names: [улица Гастелло]
@@ -83,7 +87,7 @@ msgstr ""
 msgid "Западная"
 msgstr ""
 
-# Objects : [w107260273]
+# Objects : [w107260272, w107260273]
 # Names: [улица Заслонова]
 msgid "Заслонова"
 msgstr ""
@@ -138,6 +142,11 @@ msgstr ""
 msgid "Крапивы"
 msgstr ""
 
+# Objects : [w25280112]
+# Names: [Красноармейская улица]
+msgid "Красноармейская"
+msgstr ""
+
 # Objects : [w25280012]
 # Names: [улица Кутузова]
 msgid "Кутузова"
@@ -183,7 +192,7 @@ msgstr ""
 msgid "Максима Горького"
 msgstr ""
 
-# Objects : [w25279957]
+# Objects : [w25279957, w157479675]
 # Names: [улица Матросова]
 msgid "Матросова"
 msgstr ""
@@ -236,6 +245,11 @@ msgstr ""
 # Objects : [w212730598]
 # Names: [Новая улица]
 msgid "Новая"
+msgstr ""
+
+# Objects : [w25279944, w78627798]
+# Names: [Октябрьская улица]
+msgid "Октябрьская"
 msgstr ""
 
 # Objects : [w25280105]
@@ -391,6 +405,11 @@ msgstr ""
 # Objects : [w212737506, w215114551]
 # Names: [Центральная улица]
 msgid "Центральная"
+msgstr ""
+
+# Objects : [w25279949]
+# Names: [улица Чайковского]
+msgid "Чайковского"
 msgstr ""
 
 # Objects : [w25280069]

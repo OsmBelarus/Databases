@@ -13,6 +13,11 @@ msgstr ""
 msgid "70 лет Октября"
 msgstr ""
 
+# Objects : [w52173533, w124263753]
+# Names: [улица 8 Марта]
+msgid "8 Марта"
+msgstr ""
+
 # Objects : [w100619274]
 # Names: [улица 9 Мая]
 msgid "9 Мая"

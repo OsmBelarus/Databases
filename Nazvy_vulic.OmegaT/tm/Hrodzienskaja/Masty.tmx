@@ -52,6 +52,10 @@
       <tuv lang="BE"><seg>#Вакзальны</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Волковича</seg></tuv>
+      <tuv lang="BE"><seg>#Ваўковіча</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Володося</seg></tuv>
       <tuv lang="BE"><seg>#Валодася</seg></tuv>
     </tu>
@@ -118,6 +122,10 @@
     <tu>
       <tuv lang="RU"><seg>Загородная</seg></tuv>
       <tuv lang="BE"><seg>#Загарадная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Занеманская</seg></tuv>
+      <tuv lang="BE"><seg>#Занёманская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Занёманская</seg></tuv>
@@ -256,6 +264,10 @@
       <tuv lang="BE"><seg>#Кастрычніцкая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Первомайская</seg></tuv>
+      <tuv lang="BE"><seg>#Першамайская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Первомайский</seg></tuv>
       <tuv lang="BE"><seg>#Першамайскі</seg></tuv>
     </tu>
@@ -318,6 +330,10 @@
     <tu>
       <tuv lang="RU"><seg>Северный</seg></tuv>
       <tuv lang="BE"><seg>#Паўночны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Советская</seg></tuv>
+      <tuv lang="BE"><seg>#Савецкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Солнечная</seg></tuv>

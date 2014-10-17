@@ -20,6 +20,10 @@
       <tuv lang="BE"><seg>#Усходняя</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Гагарина</seg></tuv>
+      <tuv lang="BE"><seg>#Гагарына</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Гастелло</seg></tuv>
       <tuv lang="BE"><seg>#Гастэлы</seg></tuv>
     </tu>
@@ -48,6 +52,10 @@
       <tuv lang="BE"><seg>#Інжынерная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Каминского</seg></tuv>
+      <tuv lang="BE"><seg>#Камінскага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Каштановая</seg></tuv>
       <tuv lang="BE"><seg>#Каштанавая</seg></tuv>
     </tu>
@@ -70,6 +78,10 @@
     <tu>
       <tuv lang="RU"><seg>Кутузова</seg></tuv>
       <tuv lang="BE"><seg>#Кутузава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ленина</seg></tuv>
+      <tuv lang="BE"><seg>#Леніна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Машерова</seg></tuv>
@@ -134,6 +146,10 @@
     <tu>
       <tuv lang="RU"><seg>Скорины</seg></tuv>
       <tuv lang="BE"><seg>#Скарыны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Советская</seg></tuv>
+      <tuv lang="BE"><seg>#Савецкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Солнечная</seg></tuv>

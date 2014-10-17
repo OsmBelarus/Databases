@@ -13,6 +13,11 @@ msgstr ""
 msgid "50 лет Октября"
 msgstr ""
 
+# Objects : [w80222294, w178454083]
+# Names: [улица 60 лет БССР]
+msgid "60 лет БССР"
+msgstr ""
+
 # Objects : [w89781259, w195015774, w195015775, w195015776, w195015777]
 # Names: [улица 70 лет Октября]
 msgid "70 лет Октября"
@@ -56,6 +61,11 @@ msgstr ""
 # Objects : [w89782215]
 # Names: [улица Гастиловича]
 msgid "Гастиловича"
+msgstr ""
+
+# Objects : [w89781906]
+# Names: [улица Горького]
+msgid "Горького"
 msgstr ""
 
 # Objects : [w89781905, w89781918, w171303201, w195015778]
@@ -113,7 +123,7 @@ msgstr ""
 msgid "Королёва"
 msgstr ""
 
-# Objects : [w89781510]
+# Objects : [w89781473, w89781510, w178454084]
 # Names: [улица Ленина]
 msgid "Ленина"
 msgstr ""
@@ -188,6 +198,11 @@ msgstr ""
 msgid "Подгорная"
 msgstr ""
 
+# Objects : [w80222300]
+# Names: [улица Пушкина]
+msgid "Пушкина"
+msgstr ""
+
 # Objects : [w89781916]
 # Names: [Садовая улица]
 msgid "Садовая"
@@ -216,6 +231,11 @@ msgstr ""
 # Objects : [w89781244]
 # Names: [улица Скорины]
 msgid "Скорины"
+msgstr ""
+
+# Objects : [w80222290]
+# Names: [Советская улица]
+msgid "Советская"
 msgstr ""
 
 # Objects : [w89782212]
@@ -247,6 +267,10 @@ msgstr ""
 # Names: [улица Чапаева]
 msgid "Чапаева"
 msgstr ""
+
+# Objects : [w195015771, w195015772, w195015773]
+# Names: [улица Щербины]
+msgid "Щербины"
 
 # Objects : [w89782191, w170822347]
 # Names: [улица Энгельса]

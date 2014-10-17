@@ -1,0 +1,134 @@
+# Objects : [w34575268]
+# Names: [улица Батова]
+msgid "Батова"
+
+# Objects : [w34574755]
+# Names: [улица Волкова]
+msgid "Волкова"
+
+# Objects : [w34575652]
+# Names: [улица Гагарина]
+msgid "Гагарина"
+msgstr ""
+
+# Objects : [w34575346]
+# Names: [улица Дзержинского]
+msgid "Дзержинского"
+
+# Objects : [w34575663]
+# Names: [Днепровская улица]
+msgid "Днепровская"
+msgstr ""
+
+# Objects : [w34574966]
+# Names: [улица Ермакова]
+msgid "Ермакова"
+
+# Objects : [w34575585]
+# Names: [улица Калинина]
+msgid "Калинина"
+msgstr ""
+
+# Objects : [w34575722]
+# Names: [улица Козлова]
+msgid "Козлова"
+msgstr ""
+
+# Objects : [w34575519]
+# Names: [Комсомольская улица]
+msgid "Комсомольская"
+msgstr ""
+
+# Objects : [w34574690]
+# Names: [улица Константинова]
+msgid "Константинова"
+
+# Objects : [w80249234]
+# Names: [улица Ленина]
+msgid "Ленина"
+msgstr ""
+
+# Objects : [w34574964]
+# Names: [ул. Мележа]
+msgid "Мележа"
+msgstr ""
+
+# Objects : [w34574965]
+# Names: [Новая улица]
+msgid "Новая"
+msgstr ""
+
+# Objects : [w34575767]
+# Names: [Октябрьская улица]
+msgid "Октябрьская"
+msgstr ""
+
+# Objects : [w34575553]
+# Names: [Первомайская улица]
+msgid "Первомайская"
+msgstr ""
+
+# Objects : [w34575248]
+# Names: [улица Пинчука]
+msgid "Пинчука"
+
+# Objects : [w34575027, w255229980]
+# Names: [Пионерская улица]
+msgid "Пионерская"
+msgstr ""
+
+# Objects : [w34575260]
+# Names: [Пролетарская улица]
+msgid "Пролетарская"
+msgstr ""
+
+# Objects : [w34574908]
+# Names: [Садовая улица]
+msgid "Садовая"
+msgstr ""
+
+# Objects : [w34573697, w34574424, w34574425]
+# Names: [улица Синякова]
+msgid "Синякова"
+
+# Objects : [w102208392]
+# Names: [Советская улица]
+msgid "Советская"
+msgstr ""
+
+# Objects : [w34574963]
+# Names: [Солнечная улица]
+msgid "Солнечная"
+msgstr ""
+
+# Objects : [w34575101]
+# Names: [улица Тельмана]
+msgid "Тельмана"
+msgstr ""
+
+# Objects : [w34575350]
+# Names: [улица Фроленкова]
+msgid "Фроленкова"
+
+# Objects : [w34574698]
+# Names: [улица Царикова]
+msgid "Царикова"
+
+# Objects : [w34574843, w137929781]
+# Names: [улица Чапаева]
+msgid "Чапаева"
+msgstr ""
+
+# Objects : [w80249233, w137929782]
+# Names: [улица Шевелёва]
+msgid "Шевелёва"
+
+# Objects : [w34575275]
+# Names: [улица Шипилова]
+msgid "Шипилова"
+
+# Objects : [w137929785]
+# Names: [Школьная улица]
+msgid "Школьная"
+msgstr ""
+

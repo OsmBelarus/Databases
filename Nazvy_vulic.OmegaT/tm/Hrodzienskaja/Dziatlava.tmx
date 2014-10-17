@@ -252,6 +252,10 @@
       <tuv lang="BE"><seg>#Свярдлова</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Слонимская</seg></tuv>
+      <tuv lang="BE"><seg>#Слонімская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>
       <tuv lang="BE"><seg>#Савецкая</seg></tuv>
     </tu>
@@ -286,6 +290,10 @@
     <tu>
       <tuv lang="RU"><seg>Чехова</seg></tuv>
       <tuv lang="BE"><seg>#Чэхава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чкалова</seg></tuv>
+      <tuv lang="BE"><seg>#Чкалава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Юбилейная</seg></tuv>

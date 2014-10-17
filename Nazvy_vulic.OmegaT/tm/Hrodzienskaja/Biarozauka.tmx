@@ -44,6 +44,10 @@
       <tuv lang="BE"><seg>#Калініна</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Карзюкова</seg></tuv>
+      <tuv lang="BE"><seg>#Лідская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
       <tuv lang="BE"><seg>#Кірава</seg></tuv>
     </tu>
@@ -154,6 +158,10 @@
     <tu>
       <tuv lang="RU"><seg>Чкалова</seg></tuv>
       <tuv lang="BE"><seg>#Чкалава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школьная</seg></tuv>
+      <tuv lang="BE"><seg>#Школьная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Энгельса</seg></tuv>

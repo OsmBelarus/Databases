@@ -80,6 +80,10 @@
       <tuv lang="BE"><seg>#Калініна</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Карла Маркса</seg></tuv>
+      <tuv lang="BE"><seg>#Карла Маркса</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Каштановая</seg></tuv>
       <tuv lang="BE"><seg>#Каштанавая</seg></tuv>
     </tu>
@@ -162,6 +166,10 @@
     <tu>
       <tuv lang="RU"><seg>Новый</seg></tuv>
       <tuv lang="BE"><seg>#Новы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Октябрьская</seg></tuv>
+      <tuv lang="BE"><seg>#Кастрычніцкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Октябрьский</seg></tuv>
@@ -284,6 +292,10 @@
       <tuv lang="BE"><seg>#Фрунзэ</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Чапаева</seg></tuv>
+      <tuv lang="BE"><seg>#Чапаева</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Чепика</seg></tuv>
       <tuv lang="BE"><seg>#Чэпіка</seg></tuv>
     </tu>
@@ -298,6 +310,10 @@
     <tu>
       <tuv lang="RU"><seg>Элеваторная</seg></tuv>
       <tuv lang="BE"><seg>#Элеватарная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Энгельса</seg></tuv>
+      <tuv lang="BE"><seg>#Энгельса</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Юго-Восточная</seg></tuv>

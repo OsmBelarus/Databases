@@ -80,6 +80,10 @@
       <tuv lang="BE"><seg>#Зялёная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Зеневича</seg></tuv>
+      <tuv lang="BE"><seg>#вулiца Зяневіча</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Зои Космодемьянской</seg></tuv>
       <tuv lang="BE"><seg>#Зоі Касмадзям’янскай</seg></tuv>
     </tu>
@@ -142,6 +146,10 @@
     <tu>
       <tuv lang="RU"><seg>Красный</seg></tuv>
       <tuv lang="BE"><seg>#Чырвоны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ленинская</seg></tuv>
+      <tuv lang="BE"><seg>#Ленінская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ленинский</seg></tuv>

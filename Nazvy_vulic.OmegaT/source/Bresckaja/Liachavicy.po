@@ -48,7 +48,7 @@ msgstr ""
 msgid "Двор"
 msgstr ""
 
-# Objects : [w34781862]
+# Objects : [w34781862, w128988596]
 # Names: [улица Десюкевича]
 msgid "Десюкевича"
 msgstr ""
@@ -108,8 +108,8 @@ msgstr ""
 msgid "Куйбышева"
 msgstr ""
 
-# Objects : [w129001519]
-# Names: [площадь Ленина]
+# Objects : [w128988600, w128989846, w128989860, w129001519]
+# Names: [площадь Ленина, улица Ленина]
 msgid "Ленина"
 msgstr ""
 
@@ -126,6 +126,15 @@ msgstr ""
 # Objects : [w129559543]
 # Names: [Луговая улица]
 msgid "Луговая"
+msgstr ""
+
+# Objects : [w80221184]
+# Names: [улица М. Пташука]
+msgid "М. Пташука"
+
+# Objects : [w25281564]
+# Names: [улица Матросова]
+msgid "Матросова"
 msgstr ""
 
 # Objects : [w129001526]
@@ -153,8 +162,8 @@ msgstr ""
 msgid "Октябрьская"
 msgstr ""
 
-# Objects : [w256677011]
-# Names: [переулок Орловского]
+# Objects : [w59112562, w256677011, w281392744, w281392745]
+# Names: [переулок Орловского, улица Орловского]
 msgid "Орловского"
 msgstr ""
 
@@ -182,6 +191,10 @@ msgstr ""
 # Names: [площадь Победы]
 msgid "Победы"
 msgstr ""
+
+# Objects : [w129008678]
+# Names: [Подлесская улица]
+msgid "Подлесская"
 
 # Objects : [w129001528]
 # Names: [Полевой переулок]
@@ -293,7 +306,7 @@ msgstr ""
 msgid "Южакова"
 msgstr ""
 
-# Objects : [w207240071]
+# Objects : [w80231020, w207240071]
 # Names: [улица Янки Купалы]
 msgid "Янки Купалы"
 msgstr ""

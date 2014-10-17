@@ -29,11 +29,15 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Красных Партизан</seg></tuv>
-      <tuv lang="BE"><seg>#Чырвоных Партызанаў</seg></tuv>
+      <tuv lang="BE"><seg>#Чырвоных Партызан#Чырвоных Партызанаў</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кунькова</seg></tuv>
       <tuv lang="BE"><seg>#Кунькова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ленина</seg></tuv>
+      <tuv lang="BE"><seg>#Леніна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Макаревича</seg></tuv>

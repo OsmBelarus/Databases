@@ -48,6 +48,11 @@ msgstr ""
 msgid "Калинина"
 msgstr ""
 
+# Objects : [w97567892]
+# Names: [Карзюкова]
+msgid "Карзюкова"
+msgstr ""
+
 # Objects : [w97576288]
 # Names: [улица Кирова]
 msgid "Кирова"
@@ -62,6 +67,10 @@ msgstr ""
 # Names: [Комсомольская улица]
 msgid "Комсомольская"
 msgstr ""
+
+# Objects : [w97567888]
+# Names: [улица Корзюка]
+msgid "Корзюка"
 
 # Objects : [w97406694]
 # Names: [Красноармейская улица]
@@ -186,6 +195,11 @@ msgstr ""
 # Objects : [w97406647]
 # Names: [улица Чкалова]
 msgid "Чкалова"
+msgstr ""
+
+# Objects : [w97406670]
+# Names: [Школьная улица]
+msgid "Школьная"
 msgstr ""
 
 # Objects : [w97406672]

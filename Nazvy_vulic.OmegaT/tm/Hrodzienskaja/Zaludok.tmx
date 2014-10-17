@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>17 Сентября</seg></tuv>
+      <tuv lang="BE"><seg>#17 Верасня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>40 лет БССР</seg></tuv>
+      <tuv lang="BE"><seg>#40 год БССР</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>70 лет Октября</seg></tuv>
+      <tuv lang="BE"><seg>#70 год Кастрычніка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Врублевского</seg></tuv>
+      <tuv lang="BE"><seg>#Урублеўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гагарина</seg></tuv>
+      <tuv lang="BE"><seg>#Гагарына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дзержинского</seg></tuv>
+      <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зелёная</seg></tuv>
+      <tuv lang="BE"><seg>#Зялёная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Карла Маркса</seg></tuv>
+      <tuv lang="BE"><seg>#Карла Маркса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Коммунистическая</seg></tuv>
+      <tuv lang="BE"><seg>#Камуністычная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Краснопартизанская</seg></tuv>
+      <tuv lang="BE"><seg>#Чырвонапартызанская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Краснопартизанский</seg></tuv>
+      <tuv lang="BE"><seg>#Чырвонапартызанскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Октябрьская</seg></tuv>
+      <tuv lang="BE"><seg>#Кастрычніцкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Советская</seg></tuv>
+      <tuv lang="BE"><seg>#Савецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Советский</seg></tuv>
+      <tuv lang="BE"><seg>#Савецкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Янки Купалы</seg></tuv>
+      <tuv lang="BE"><seg>#Янкі Купалы</seg></tuv>
+    </tu>
+  </body></tmx>

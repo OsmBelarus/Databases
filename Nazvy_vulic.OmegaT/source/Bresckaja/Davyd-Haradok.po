@@ -33,6 +33,11 @@ msgstr ""
 msgid "Заводская"
 msgstr ""
 
+# Objects : [w116701657]
+# Names: [улица имени Калинина]
+msgid "имени Калинина"
+msgstr ""
+
 # Objects : [w118924904]
 # Names: [улица Ищенко]
 msgid "Ищенко"
@@ -83,6 +88,11 @@ msgstr ""
 msgid "Новогорынская"
 msgstr ""
 
+# Objects : [w25273787]
+# Names: [Октябрьская улица]
+msgid "Октябрьская"
+msgstr ""
+
 # Objects : [w37654540]
 # Names: [улица Островского]
 msgid "Островского"
@@ -113,7 +123,7 @@ msgstr ""
 msgid "Снежная"
 msgstr ""
 
-# Objects : [w118924878]
+# Objects : [w80236816, w116701609, w116701655, w118924878, w118924897]
 # Names: [Советская улица]
 msgid "Советская"
 msgstr ""

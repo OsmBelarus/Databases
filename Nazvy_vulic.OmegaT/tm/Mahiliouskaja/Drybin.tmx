@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Горецкая</seg></tuv>
+      <tuv lang="BE"><seg>#Горацкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дзержинского</seg></tuv>
+      <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Первомайская</seg></tuv>
+      <tuv lang="BE"><seg>#Першамайская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Стародрибинская</seg></tuv>
+      <tuv lang="BE"><seg>#Старадрыбінская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Стародрибинский</seg></tuv>
+      <tuv lang="BE"><seg>#Старадрыбінскі</seg></tuv>
+    </tu>
+  </body></tmx>

@@ -1,3 +1,13 @@
+# Objects : [w80225815, w80225828]
+# Names: [улица 17 Сентября]
+msgid "17 Сентября"
+msgstr ""
+
+# Objects : [w80225817]
+# Names: [улица 1 Мая]
+msgid "1 Мая"
+msgstr ""
+
 # Objects : [w74185064]
 # Names: [улица 8 Марта]
 msgid "8 Марта"
@@ -17,6 +27,10 @@ msgstr ""
 # Names: [улица Волкова]
 msgid "Волкова"
 msgstr ""
+
+# Objects : [w80225812]
+# Names: [улица Волынца]
+msgid "Волынца"
 
 # Objects : [w199307789]
 # Names: [Восточная улица]
@@ -311,6 +325,11 @@ msgstr ""
 # Objects : [w61694714]
 # Names: [Социалистическая улица]
 msgid "Социалистическая"
+msgstr ""
+
+# Objects : [w80225829]
+# Names: [Стахановская улица]
+msgid "Стахановская"
 msgstr ""
 
 # Objects : [w199307805]

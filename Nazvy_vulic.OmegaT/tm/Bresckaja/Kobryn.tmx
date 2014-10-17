@@ -420,6 +420,10 @@
       <tuv lang="BE"><seg>#Палкавая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Привокзальная</seg></tuv>
+      <tuv lang="BE"><seg>#Прывакзальная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Пролетарская</seg></tuv>
       <tuv lang="BE"><seg>#Пралетарская</seg></tuv>
     </tu>
@@ -542,6 +546,10 @@
     <tu>
       <tuv lang="RU"><seg>Цветочный</seg></tuv>
       <tuv lang="BE"><seg>#Кветкавы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральная</seg></tuv>
+      <tuv lang="BE"><seg>#Цэнтральная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Черёмуховый</seg></tuv>

@@ -33,6 +33,11 @@ msgstr ""
 msgid "Карла Маркса"
 msgstr ""
 
+# Objects : [w80219161, w238756809, w238756810]
+# Names: [улица Кирова]
+msgid "Кирова"
+msgstr ""
+
 # Objects : [w164372971, w238756718]
 # Names: [Колхозная улица]
 msgid "Колхозная"
@@ -51,6 +56,11 @@ msgstr ""
 # Objects : [w238756763]
 # Names: [Минская улица]
 msgid "Минская"
+msgstr ""
+
+# Objects : [w80219160]
+# Names: [Московская улица]
+msgid "Московская"
 msgstr ""
 
 # Objects : [w238756720]

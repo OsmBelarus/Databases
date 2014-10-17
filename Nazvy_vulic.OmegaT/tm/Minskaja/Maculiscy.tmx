@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Аэродромная</seg></tuv>
+      <tuv lang="BE"><seg>#Аэрадромная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гвардейская</seg></tuv>
+      <tuv lang="BE"><seg>#Гвардзейская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Героев</seg></tuv>
+      <tuv lang="BE"><seg>#Герояў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дачная</seg></tuv>
+      <tuv lang="BE"><seg>#Дачная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дружная</seg></tuv>
+      <tuv lang="BE"><seg>#Дружная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зелёная</seg></tuv>
+      <tuv lang="BE"><seg>#Зялёная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Коммунальная</seg></tuv>
+      <tuv lang="BE"><seg>#Камунальная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лесная</seg></tuv>
+      <tuv lang="BE"><seg>#Лясная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Молодёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Парковая</seg></tuv>
+      <tuv lang="BE"><seg>#Цэнтральная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Парковый</seg></tuv>
+      <tuv lang="BE"><seg>#Паркавы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Садовая</seg></tuv>
+      <tuv lang="BE"><seg>#Садовая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Связистов</seg></tuv>
+      <tuv lang="BE"><seg>#Сувязістаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Солнечная</seg></tuv>
+      <tuv lang="BE"><seg>#Сонечная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сосновая</seg></tuv>
+      <tuv lang="BE"><seg>#Сасновая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Спортивная</seg></tuv>
+      <tuv lang="BE"><seg>#Спартыўная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральная</seg></tuv>
+      <tuv lang="BE"><seg>#Цэнтральная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школьная</seg></tuv>
+      <tuv lang="BE"><seg>#Школьная</seg></tuv>
+    </tu>
+  </body></tmx>

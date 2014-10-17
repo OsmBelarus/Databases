@@ -52,6 +52,10 @@
       <tuv lang="BE"><seg>#Вандыша</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Великий Гостинец</seg></tuv>
+      <tuv lang="BE"><seg>#вулiца Вялікі Гасцінец</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Великодная</seg></tuv>
       <tuv lang="BE"><seg>#Вялікодная</seg></tuv>
     </tu>
@@ -166,6 +170,10 @@
     <tu>
       <tuv lang="RU"><seg>Заводская</seg></tuv>
       <tuv lang="BE"><seg>#Заводская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Замковая</seg></tuv>
+      <tuv lang="BE"><seg>#Замкавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заречная</seg></tuv>
@@ -354,6 +362,10 @@
     <tu>
       <tuv lang="RU"><seg>Матросова</seg></tuv>
       <tuv lang="BE"><seg>#Матросава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Машерова</seg></tuv>
+      <tuv lang="BE"><seg>#Машэрава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мелиоративная</seg></tuv>

@@ -28,7 +28,7 @@ msgstr ""
 msgid "Кирова"
 msgstr ""
 
-# Objects : [w80229972]
+# Objects : [w25286398, w80229972, w173032322]
 # Names: [улица Красных Партизан]
 msgid "Красных Партизан"
 msgstr ""
@@ -36,6 +36,11 @@ msgstr ""
 # Objects : [w233443121]
 # Names: [улица Кунькова]
 msgid "Кунькова"
+msgstr ""
+
+# Objects : [w80229973]
+# Names: [улица Ленина]
+msgid "Ленина"
 msgstr ""
 
 # Objects : [w233443043]

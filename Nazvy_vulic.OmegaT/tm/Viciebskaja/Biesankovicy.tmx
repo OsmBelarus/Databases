@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Витебское</seg></tuv>
+      <tuv lang="BE"><seg>#Віцебская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Володарского</seg></tuv>
+      <tuv lang="BE"><seg>#Валадарскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Интернациональная</seg></tuv>
+      <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Карла Маркса</seg></tuv>
+      <tuv lang="BE"><seg>#Карла Маркса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Коммунистическая</seg></tuv>
+      <tuv lang="BE"><seg>#Камуністычная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Понтонный</seg></tuv>
+      <tuv lang="BE"><seg>#Пантонны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Романова</seg></tuv>
+      <tuv lang="BE"><seg>#Раманава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свободы</seg></tuv>
+      <tuv lang="BE"><seg>#Свабоды</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Советская</seg></tuv>
+      <tuv lang="BE"><seg>#Савецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Урицкого</seg></tuv>
+      <tuv lang="BE"><seg>#Урыцкага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Черняховского</seg></tuv>
+      <tuv lang="BE"><seg>#Чарняхоўскага</seg></tuv>
+    </tu>
+  </body></tmx>

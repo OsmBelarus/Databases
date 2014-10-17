@@ -98,6 +98,10 @@ msgstr ""
 msgid "Березинская"
 msgstr ""
 
+# Objects : [w25263718]
+# Names: [Березинское шоссе]
+msgid "Березинское"
+
 # Objects : [w25263635]
 # Names: [улица Блюхера]
 msgid "Блюхера"

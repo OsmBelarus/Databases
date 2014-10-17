@@ -18,6 +18,11 @@ msgstr ""
 msgid "Восточная"
 msgstr ""
 
+# Objects : [w31152454]
+# Names: [улица Гагарина]
+msgid "Гагарина"
+msgstr ""
+
 # Objects : [w126487635]
 # Names: [улица Гастелло]
 msgid "Гастелло"
@@ -53,6 +58,11 @@ msgstr ""
 msgid "Инженерная"
 msgstr ""
 
+# Objects : [w80255572]
+# Names: [улица Каминского]
+msgid "Каминского"
+msgstr ""
+
 # Objects : [w225437496]
 # Names: [Каштановая улица]
 msgid "Каштановая"
@@ -81,6 +91,11 @@ msgstr ""
 # Objects : [w35992825, w207970491, w207970492]
 # Names: [улица Кутузова]
 msgid "Кутузова"
+msgstr ""
+
+# Objects : [w37908115, w37908116, w80255558, w80255570]
+# Names: [улица Ленина]
+msgid "Ленина"
 msgstr ""
 
 # Objects : [w95817233]
@@ -148,7 +163,7 @@ msgstr ""
 msgid "Светлая"
 msgstr ""
 
-# Objects : [w198254982]
+# Objects : [w170407712, w198254982]
 # Names: [улица Сенкевича]
 msgid "Сенкевича"
 msgstr ""
@@ -161,6 +176,11 @@ msgstr ""
 # Objects : [w37930825]
 # Names: [улица Скорины]
 msgid "Скорины"
+msgstr ""
+
+# Objects : [w38002473, w38282699, w170773396, w207970441, w207970442, w207970443]
+# Names: [Советская улица]
+msgid "Советская"
 msgstr ""
 
 # Objects : [w37930826]

@@ -48,6 +48,10 @@
       <tuv lang="BE"><seg>#Кутузава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ленина</seg></tuv>
+      <tuv lang="BE"><seg>#Леніна</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Лермонтова</seg></tuv>
       <tuv lang="BE"><seg>#Лермантава</seg></tuv>
     </tu>
@@ -78,6 +82,10 @@
     <tu>
       <tuv lang="RU"><seg>Пролетарская</seg></tuv>
       <tuv lang="BE"><seg>#Пралетарская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пушкина</seg></tuv>
+      <tuv lang="BE"><seg>#Пушкіна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Смирнова</seg></tuv>

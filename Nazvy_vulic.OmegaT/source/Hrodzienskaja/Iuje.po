@@ -1,5 +1,10 @@
-# Objects : [w277266951]
-# Names: [переулок 1 Мая]
+# Objects : [w125514302]
+# Names: [улица 17 Сентября]
+msgid "17 Сентября"
+msgstr ""
+
+# Objects : [w25285336, w178664387, w277266951]
+# Names: [переулок 1 Мая, улица 1 Мая]
 msgid "1 Мая"
 msgstr ""
 
@@ -58,8 +63,8 @@ msgstr ""
 msgid "Зелёная"
 msgstr ""
 
-# Objects : [w262729245]
-# Names: [переулок Карла Маркса]
+# Objects : [w80262016, w262729245]
+# Names: [переулок Карла Маркса, улица Карла Маркса]
 msgid "Карла Маркса"
 msgstr ""
 
@@ -73,9 +78,18 @@ msgstr ""
 msgid "Коммунальная"
 msgstr ""
 
+# Objects : [w276129182]
+# Names: [улица Кульниса]
+msgid "Кульниса"
+
 # Objects : [w133187517]
 # Names: [улица Кутузова]
 msgid "Кутузова"
+msgstr ""
+
+# Objects : [w80262024, w80262026]
+# Names: [улица Ленина]
+msgid "Ленина"
 msgstr ""
 
 # Objects : [w125513725]
@@ -131,6 +145,11 @@ msgstr ""
 # Objects : [w114686765]
 # Names: [улица Некрасова]
 msgid "Некрасова"
+msgstr ""
+
+# Objects : [w25285332]
+# Names: [Октябрьская улица]
+msgid "Октябрьская"
 msgstr ""
 
 # Objects : [w262729416]
@@ -293,8 +312,8 @@ msgstr ""
 msgid "Чехова"
 msgstr ""
 
-# Objects : [w261070995]
-# Names: [переулок Чкалова]
+# Objects : [w80262027, w261070995]
+# Names: [переулок Чкалова, улица Чкалова]
 msgid "Чкалова"
 msgstr ""
 

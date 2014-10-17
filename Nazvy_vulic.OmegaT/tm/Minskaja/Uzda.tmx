@@ -48,6 +48,10 @@
       <tuv lang="BE"><seg>#Камсамольская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ленинская</seg></tuv>
+      <tuv lang="BE"><seg>#Ленінская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
       <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
@@ -94,6 +98,10 @@
     <tu>
       <tuv lang="RU"><seg>Рокоссовского</seg></tuv>
       <tuv lang="BE"><seg>#Ракасоўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Советская</seg></tuv>
+      <tuv lang="BE"><seg>#Савецкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Солнечная</seg></tuv>

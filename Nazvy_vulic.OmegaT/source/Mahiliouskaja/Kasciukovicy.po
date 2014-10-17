@@ -88,7 +88,7 @@ msgstr ""
 msgid "Зиньковича"
 msgstr ""
 
-# Objects : [w207541424]
+# Objects : [w207541424, w211660031]
 # Names: [Интернациональная улица]
 msgid "Интернациональная"
 msgstr ""
@@ -143,7 +143,7 @@ msgstr ""
 msgid "Краснопольская"
 msgstr ""
 
-# Objects : [w256016129]
+# Objects : [w80193241, w256016129]
 # Names: [улица Кулешова]
 msgid "Кулешова"
 msgstr ""
@@ -183,8 +183,8 @@ msgstr ""
 msgid "Медведовка"
 msgstr ""
 
-# Objects : [w215051106]
-# Names: [2-я Минская улица]
+# Objects : [w215051106, w217275715]
+# Names: [2-я Минская улица, Минская улица]
 msgid "Минская"
 msgstr ""
 
@@ -213,7 +213,7 @@ msgstr ""
 msgid "Молодёжная"
 msgstr ""
 
-# Objects : [w211128469]
+# Objects : [w211128469, w217275714]
 # Names: [Московская улица]
 msgid "Московская"
 msgstr ""
@@ -337,6 +337,10 @@ msgstr ""
 # Names: [улица Строителей]
 msgid "Строителей"
 msgstr ""
+
+# Objects : [w211660035]
+# Names: [Студенецкая улица]
+msgid "Студенецкая"
 
 # Objects : [w219001046, w219001047]
 # Names: [улица Терешковой]

@@ -133,6 +133,11 @@ msgstr ""
 msgid "Кругликова"
 msgstr ""
 
+# Objects : [w80253950]
+# Names: [улица Ленина]
+msgid "Ленина"
+msgstr ""
+
 # Objects : [w241008675]
 # Names: [улица Лилии Каростояновой]
 msgid "Лилии Каростояновой"
@@ -203,7 +208,7 @@ msgstr ""
 msgid "Пионерская"
 msgstr ""
 
-# Objects : [w240747940]
+# Objects : [w80253953, w240747940]
 # Names: [улица Победы]
 msgid "Победы"
 msgstr ""
@@ -231,6 +236,11 @@ msgstr ""
 # Objects : [w240841972, w248836056]
 # Names: [Садовая улица]
 msgid "Садовая"
+msgstr ""
+
+# Objects : [w80253942]
+# Names: [Советская улица]
+msgid "Советская"
 msgstr ""
 
 # Objects : [w137958453]

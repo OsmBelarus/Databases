@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Касплянская</seg></tuv>
+      <tuv lang="BE"><seg>#Касплянская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Касплянский</seg></tuv>
+      <tuv lang="BE"><seg>#Касплянскi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Красноармейская</seg></tuv>
+      <tuv lang="BE"><seg>#Чырвонаармейская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ленинградская</seg></tuv>
+      <tuv lang="BE"><seg>#Ленінградская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Льнозаводская</seg></tuv>
+      <tuv lang="BE"><seg>#Ільнозаводская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Матросова</seg></tuv>
+      <tuv lang="BE"><seg>#Матросава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мира</seg></tuv>
+      <tuv lang="BE"><seg>#Міру</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Молодёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Молодёжный</seg></tuv>
+      <tuv lang="BE"><seg>#Маладзёжны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Партизанская</seg></tuv>
+      <tuv lang="BE"><seg>#Партызанская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сильницкого</seg></tuv>
+      <tuv lang="BE"><seg>#Сільніцкага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Советская</seg></tuv>
+      <tuv lang="BE"><seg>#Савецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школьная</seg></tuv>
+      <tuv lang="BE"><seg>#Школьная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шмырёва</seg></tuv>
+      <tuv lang="BE"><seg>#Шмырова</seg></tuv>
+    </tu>
+  </body></tmx>

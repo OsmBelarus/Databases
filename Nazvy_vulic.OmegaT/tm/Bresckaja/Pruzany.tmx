@@ -20,6 +20,10 @@
       <tuv lang="BE"><seg>#60 гадоў Кастрычніка</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>8 Марта</seg></tuv>
+      <tuv lang="BE"><seg>#8 Сакавіка</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Аптекарский</seg></tuv>
       <tuv lang="BE"><seg>#Аптэкарскі</seg></tuv>
     </tu>
@@ -196,12 +200,24 @@
       <tuv lang="BE"><seg>#Кухарава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Лазо</seg></tuv>
+      <tuv lang="BE"><seg>#Лазо</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ленина</seg></tuv>
+      <tuv lang="BE"><seg>#Леніна</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Лесная</seg></tuv>
       <tuv lang="BE"><seg>#Лясная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Луговая</seg></tuv>
       <tuv lang="BE"><seg>#Лугавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Макаренко</seg></tuv>
+      <tuv lang="BE"><seg>#Макаранкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Максима Богдановича</seg></tuv>

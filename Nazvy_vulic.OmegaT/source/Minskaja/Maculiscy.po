@@ -1,0 +1,94 @@
+# Objects : [w107699686, w107699689]
+# Names: [Аэродромная улица]
+msgid "Аэродромная"
+msgstr ""
+
+# Objects : [w96756525]
+# Names: [Гвардейская улица]
+msgid "Гвардейская"
+msgstr ""
+
+# Objects : [w103512001, w104791402, w104791405]
+# Names: [улица Героев]
+msgid "Героев"
+msgstr ""
+
+# Objects : [w96773175]
+# Names: [Дачная улица]
+msgid "Дачная"
+msgstr ""
+
+# Objects : [w96366147]
+# Names: [Дружная улица]
+msgid "Дружная"
+msgstr ""
+
+# Objects : [w103849708]
+# Names: [Зелёная улица]
+msgid "Зелёная"
+msgstr ""
+
+# Objects : [w96154887]
+# Names: [Коммунальная улица]
+msgid "Коммунальная"
+msgstr ""
+
+# Objects : [w98572337, w176173468]
+# Names: [Лесная улица]
+msgid "Лесная"
+msgstr ""
+
+# Objects : [w97877585]
+# Names: [Молодёжная улица]
+msgid "Молодёжная"
+msgstr ""
+
+# Objects : [w176173469]
+# Names: [Пантелеймоновская улица]
+msgid "Пантелеймоновская"
+
+# Objects : [w144953412]
+# Names: [Парковая улица]
+msgid "Парковая"
+msgstr ""
+
+# Objects : [w107699688]
+# Names: [Парковый переулок]
+msgid "Парковый"
+msgstr ""
+
+# Objects : [w103947524]
+# Names: [Садовая улица]
+msgid "Садовая"
+msgstr ""
+
+# Objects : [w51928755]
+# Names: [улица Связистов]
+msgid "Связистов"
+msgstr ""
+
+# Objects : [w96771531]
+# Names: [Солнечная улица]
+msgid "Солнечная"
+msgstr ""
+
+# Objects : [w96588429]
+# Names: [Сосновая улица]
+msgid "Сосновая"
+msgstr ""
+
+# Objects : [w96154909, w103434681]
+# Names: [Спортивная улица]
+msgid "Спортивная"
+msgstr ""
+
+# Objects : [w96957413, w96957414]
+# Names: [Центральная улица]
+msgid "Центральная"
+msgstr ""
+
+# Objects : [w96757955, w98752874]
+# Names: [Школьная улица]
+msgid "Школьная"
+msgstr ""
+

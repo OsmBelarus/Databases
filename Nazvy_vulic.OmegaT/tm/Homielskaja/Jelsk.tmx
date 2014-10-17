@@ -32,6 +32,10 @@
       <tuv lang="BE"><seg>#Усходняя</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Гагарина</seg></tuv>
+      <tuv lang="BE"><seg>#Гагарына</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Горького</seg></tuv>
       <tuv lang="BE"><seg>#Горкага</seg></tuv>
     </tu>
@@ -166,6 +170,10 @@
     <tu>
       <tuv lang="RU"><seg>Мира</seg></tuv>
       <tuv lang="BE"><seg>#Міру</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мозырский</seg></tuv>
+      <tuv lang="BE"><seg>#Мозырскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>

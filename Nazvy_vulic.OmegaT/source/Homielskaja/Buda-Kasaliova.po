@@ -138,7 +138,7 @@ msgstr ""
 msgid "Лавриновича"
 msgstr ""
 
-# Objects : [w142060062, w142208410, w142208412]
+# Objects : [w133269376, w142060062, w142208410, w142208412]
 # Names: [улица Ленина]
 msgid "Ленина"
 msgstr ""
@@ -151,6 +151,11 @@ msgstr ""
 # Objects : [w142060064]
 # Names: [Лесная улица]
 msgid "Лесная"
+msgstr ""
+
+# Objects : [w75664553]
+# Names: [улица Ломоносова]
+msgid "Ломоносова"
 msgstr ""
 
 # Objects : [w142060065]

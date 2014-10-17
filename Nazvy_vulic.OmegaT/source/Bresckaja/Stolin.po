@@ -38,6 +38,11 @@ msgstr ""
 msgid "Кленовая"
 msgstr ""
 
+# Objects : [w25277907, w128490816]
+# Names: [Комсомольская площадь]
+msgid "Комсомольская"
+msgstr ""
+
 # Objects : [w37656055, w75484186, w94890637]
 # Names: [Красноармейская улица]
 msgid "Красноармейская"
@@ -58,7 +63,11 @@ msgstr ""
 msgid "Мира"
 msgstr ""
 
-# Objects : [w51807085]
+# Objects : [w297714612]
+# Names: [Пинская улица]
+msgid "Пинская"
+
+# Objects : [w51807085, w76666350]
 # Names: [Полесская улица]
 msgid "Полесская"
 msgstr ""
@@ -71,6 +80,11 @@ msgstr ""
 # Objects : [w297714611]
 # Names: [Садовая улица]
 msgid "Садовая"
+msgstr ""
+
+# Objects : [w25277877]
+# Names: [Советская улица]
+msgid "Советская"
 msgstr ""
 
 # Objects : [w25277912]

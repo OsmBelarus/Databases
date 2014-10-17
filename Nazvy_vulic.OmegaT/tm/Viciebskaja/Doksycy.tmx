@@ -80,6 +80,10 @@
       <tuv lang="BE"><seg>#Калініна</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Карла Маркса</seg></tuv>
+      <tuv lang="BE"><seg>#Карла Маркса</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Кольцевая</seg></tuv>
       <tuv lang="BE"><seg>#Кальцавая</seg></tuv>
     </tu>
@@ -94,6 +98,10 @@
     <tu>
       <tuv lang="RU"><seg>Криничный</seg></tuv>
       <tuv lang="BE"><seg>#Крынічны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ленинская</seg></tuv>
+      <tuv lang="BE"><seg>#Ленінская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лесная</seg></tuv>
@@ -184,6 +192,10 @@
       <tuv lang="BE"><seg>#Паштовы</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Пушкина</seg></tuv>
+      <tuv lang="BE"><seg>#Пушкіна</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Речной</seg></tuv>
       <tuv lang="BE"><seg>#Рачны</seg></tuv>
     </tu>
@@ -202,6 +214,10 @@
     <tu>
       <tuv lang="RU"><seg>Сельская</seg></tuv>
       <tuv lang="BE"><seg>#Вясковая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Советская</seg></tuv>
+      <tuv lang="BE"><seg>#Савецкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Советский</seg></tuv>

@@ -32,6 +32,10 @@
       <tuv lang="BE"><seg>#Карла Маркса</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Кирова</seg></tuv>
+      <tuv lang="BE"><seg>#Кірава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Колхозная</seg></tuv>
       <tuv lang="BE"><seg>#Калгасная</seg></tuv>
     </tu>
@@ -46,6 +50,10 @@
     <tu>
       <tuv lang="RU"><seg>Минская</seg></tuv>
       <tuv lang="BE"><seg>#Мінская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Московская</seg></tuv>
+      <tuv lang="BE"><seg>#Маскоўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Островского</seg></tuv>

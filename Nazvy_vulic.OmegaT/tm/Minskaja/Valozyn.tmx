@@ -16,6 +16,10 @@
       <tuv lang="BE"><seg>#50 гадоў Кастрычніка</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>60 лет БССР</seg></tuv>
+      <tuv lang="BE"><seg>#60 год БССР</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>70 лет Октября</seg></tuv>
       <tuv lang="BE"><seg>#70 гадоў Кастрычніка</seg></tuv>
     </tu>
@@ -50,6 +54,10 @@
     <tu>
       <tuv lang="RU"><seg>Гастиловича</seg></tuv>
       <tuv lang="BE"><seg>#Гасціловіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Горького</seg></tuv>
+      <tuv lang="BE"><seg>#Горкага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дзержинского</seg></tuv>
@@ -156,6 +164,10 @@
       <tuv lang="BE"><seg>#Падгорная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Пушкина</seg></tuv>
+      <tuv lang="BE"><seg>#Пушкіна</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Садовая</seg></tuv>
       <tuv lang="BE"><seg>#Садовая</seg></tuv>
     </tu>
@@ -178,6 +190,10 @@
     <tu>
       <tuv lang="RU"><seg>Скорины</seg></tuv>
       <tuv lang="BE"><seg>#Скарыны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Советская</seg></tuv>
+      <tuv lang="BE"><seg>#Савецкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Солнечная</seg></tuv>

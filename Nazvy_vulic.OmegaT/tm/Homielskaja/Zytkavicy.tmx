@@ -252,6 +252,10 @@
       <tuv lang="BE"><seg>#Прыазёрная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Пролетарская</seg></tuv>
+      <tuv lang="BE"><seg>#Пралетарская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Радужная</seg></tuv>
       <tuv lang="BE"><seg>#Вясёлкавая</seg></tuv>
     </tu>
@@ -290,6 +294,10 @@
     <tu>
       <tuv lang="RU"><seg>Сосновая</seg></tuv>
       <tuv lang="BE"><seg>#Сасновая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Социалистическая</seg></tuv>
+      <tuv lang="BE"><seg>#Сацыялістычная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Социалистический</seg></tuv>

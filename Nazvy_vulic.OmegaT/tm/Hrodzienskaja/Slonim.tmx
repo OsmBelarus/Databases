@@ -8,12 +8,40 @@
       <tuv lang="BE"><seg>#17 Верасня</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>1-й Переезд</seg></tuv>
+      <tuv lang="BE"><seg>#Пераезд</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>2-й Переезд</seg></tuv>
+      <tuv lang="BE"><seg>#Пераезд</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>3-й Переезд</seg></tuv>
+      <tuv lang="BE"><seg>#Пераезд</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>4-й Переезд</seg></tuv>
+      <tuv lang="BE"><seg>#Пераезд</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>50 лет ВЛКСМ</seg></tuv>
       <tuv lang="BE"><seg>#50 гадоў ВЛКСМ</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>5-й Переезд</seg></tuv>
+      <tuv lang="BE"><seg>#Пераезд</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>6-й Переезд</seg></tuv>
+      <tuv lang="BE"><seg>#Пераезд</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>70 лет Октября</seg></tuv>
       <tuv lang="BE"><seg>#70 гадоў Кастрычніка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>7-й Переезд</seg></tuv>
+      <tuv lang="BE"><seg>#Пераезд</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>8 Марта</seg></tuv>
@@ -68,6 +96,10 @@
       <tuv lang="BE"><seg>#Баравая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Брестская</seg></tuv>
+      <tuv lang="BE"><seg>#Брэсцкая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Васи Крайнего</seg></tuv>
       <tuv lang="BE"><seg>#Васі Крайняга</seg></tuv>
     </tu>
@@ -86,6 +118,10 @@
     <tu>
       <tuv lang="RU"><seg>Весенняя</seg></tuv>
       <tuv lang="BE"><seg>#Вясновая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Виленская</seg></tuv>
+      <tuv lang="BE"><seg>#Віленская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Виленский</seg></tuv>
@@ -408,6 +444,10 @@
       <tuv lang="BE"><seg>#Мінская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Минский</seg></tuv>
+      <tuv lang="BE"><seg>#Мінскі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Мира</seg></tuv>
       <tuv lang="BE"><seg>#Міру</seg></tuv>
     </tu>
@@ -516,6 +556,10 @@
       <tuv lang="BE"><seg>#Пясчаная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Петралевичский</seg></tuv>
+      <tuv lang="BE"><seg>#Петралевіцкі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Пешеходная</seg></tuv>
       <tuv lang="BE"><seg>#Пешаходная</seg></tuv>
     </tu>
@@ -538,6 +582,10 @@
     <tu>
       <tuv lang="RU"><seg>Подгорная</seg></tuv>
       <tuv lang="BE"><seg>#Падгорная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Подлесная</seg></tuv>
+      <tuv lang="BE"><seg>#Падлесная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Подлесный</seg></tuv>
@@ -576,6 +624,10 @@
       <tuv lang="BE"><seg>#Рамашкавая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ружанская</seg></tuv>
+      <tuv lang="BE"><seg>#Ружанская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Рыбацкий</seg></tuv>
       <tuv lang="BE"><seg>#Рыбацкі</seg></tuv>
     </tu>
@@ -586,6 +638,10 @@
     <tu>
       <tuv lang="RU"><seg>Садовый</seg></tuv>
       <tuv lang="BE"><seg>#Садовы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сапеги</seg></tuv>
+      <tuv lang="BE"><seg>#Сапегі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Свободы</seg></tuv>

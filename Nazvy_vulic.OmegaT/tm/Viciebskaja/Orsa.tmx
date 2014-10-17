@@ -180,6 +180,10 @@
       <tuv lang="BE"><seg>#Гомельскі</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Горецкая</seg></tuv>
+      <tuv lang="BE"><seg>#Горацкая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Горецкий</seg></tuv>
       <tuv lang="BE"><seg>#Горацкі</seg></tuv>
     </tu>
@@ -398,6 +402,10 @@
     <tu>
       <tuv lang="RU"><seg>Короткий</seg></tuv>
       <tuv lang="BE"><seg>#Кароткі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Косачева</seg></tuv>
+      <tuv lang="BE"><seg>#вулiца Касачова</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Космонавтов</seg></tuv>
@@ -710,6 +718,10 @@
     <tu>
       <tuv lang="RU"><seg>Парковая</seg></tuv>
       <tuv lang="BE"><seg>#Паркавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Партизанская</seg></tuv>
+      <tuv lang="BE"><seg>#Партызанская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пархоменко</seg></tuv>

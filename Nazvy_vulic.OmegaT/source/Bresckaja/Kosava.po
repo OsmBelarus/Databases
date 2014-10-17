@@ -3,6 +3,11 @@
 msgid "1 Мая"
 msgstr ""
 
+# Objects : [w125787075]
+# Names: [улица 3 Февраля]
+msgid "3 Февраля"
+msgstr ""
+
 # Objects : [w125787077]
 # Names: [улица Ленина]
 msgid "Ленина"

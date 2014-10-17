@@ -8,6 +8,10 @@
       <tuv lang="BE"><seg>#17 Верасня</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>1 Мая</seg></tuv>
+      <tuv lang="BE"><seg>#1 Мая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>8 Марта</seg></tuv>
       <tuv lang="BE"><seg>#8 Сакавіка</seg></tuv>
     </tu>
@@ -60,6 +64,10 @@
       <tuv lang="BE"><seg>#Гогаля</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Гродненская</seg></tuv>
+      <tuv lang="BE"><seg>#Гродзенская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Гродненский</seg></tuv>
       <tuv lang="BE"><seg>#Гродзенскі</seg></tuv>
     </tu>
@@ -94,6 +102,10 @@
     <tu>
       <tuv lang="RU"><seg>Заводская</seg></tuv>
       <tuv lang="BE"><seg>#Заводская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Замковая</seg></tuv>
+      <tuv lang="BE"><seg>#Замкавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заслонова</seg></tuv>
@@ -201,7 +213,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Люси Сечко</seg></tuv>
-      <tuv lang="BE"><seg>#Люсі Сячко</seg></tuv>
+      <tuv lang="BE"><seg>#Люсі Сечко#Люсі Сячко</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Максима Горького</seg></tuv>
@@ -224,8 +236,16 @@
       <tuv lang="BE"><seg>#Мендзялеева</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Минская</seg></tuv>
+      <tuv lang="BE"><seg>#Мінская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Минский</seg></tuv>
       <tuv lang="BE"><seg>#Мінскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мицкевича</seg></tuv>
+      <tuv lang="BE"><seg>#Міцкевіча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мичурина</seg></tuv>
@@ -378,6 +398,10 @@
     <tu>
       <tuv lang="RU"><seg>Цветная</seg></tuv>
       <tuv lang="BE"><seg>#Каляровая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чапаева</seg></tuv>
+      <tuv lang="BE"><seg>#Чапаева</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чкалова</seg></tuv>
