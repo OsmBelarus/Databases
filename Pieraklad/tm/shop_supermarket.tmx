@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>"Универсам"</seg></tuv>
+      <tuv lang="BE"><seg>Універсам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ProStore</seg></tuv>
+      <tuv lang="BE"><seg>Гіпермаркет Prostore</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Simax</seg></tuv>
+      <tuv lang="BE"><seg>Simax</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>SL Market</seg></tuv>
+      <tuv lang="BE"><seg>SL Market</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Азарэнне</seg></tuv>
+      <tuv lang="BE"><seg>Азарэнне</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Алми</seg></tuv>
+      <tuv lang="BE"><seg>Алмі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>АЛМИ</seg></tuv>
+      <tuv lang="BE"><seg>АЛМІ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Березина</seg></tuv>
+      <tuv lang="BE"><seg>Бярэ́зіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Березка</seg></tuv>
+      <tuv lang="BE"><seg>Бярозка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>БиМарт</seg></tuv>
+      <tuv lang="BE"><seg>БіМарт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брест</seg></tuv>
+      <tuv lang="BE"><seg>Брэст</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Буслик</seg></tuv>
+      <tuv lang="BE"><seg>Буслік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Верас</seg></tuv>
+      <tuv lang="BE"><seg>Верас</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста</seg></tuv>
+      <tuv lang="BE"><seg>Веста</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста №121</seg></tuv>
+      <tuv lang="BE"><seg>Веста №121</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста №128</seg></tuv>
+      <tuv lang="BE"><seg>Веста №128</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста №140</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 140</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста №141</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 141</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста №142</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 142</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста №144</seg></tuv>
+      <tuv lang="BE"><seg>Веста №144</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста №145</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 145</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста №147</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 147</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста №150</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 150</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веста №153</seg></tuv>
+      <tuv lang="BE"><seg>Веста № 153</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Виталюр</seg></tuv>
+      <tuv lang="BE"><seg>Віталюр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебск</seg></tuv>
+      <tuv lang="BE"><seg>Віцебск</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Волгоград</seg></tuv>
+      <tuv lang="BE"><seg>Валгаград</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ганна</seg></tuv>
+      <tuv lang="BE"><seg>Ганна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гастинец</seg></tuv>
+      <tuv lang="BE"><seg>Гасцiнец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гиппо</seg></tuv>
+      <tuv lang="BE"><seg>Гiпа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ГУМ</seg></tuv>
+      <tuv lang="BE"><seg>ГУМ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский мир</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы свет</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Доброном (бывший Гермес)</seg></tuv>
+      <tuv lang="BE"><seg>Гермес</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом торговли</seg></tuv>
+      <tuv lang="BE"><seg>Дом гандлю</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дружба</seg></tuv>
+      <tuv lang="BE"><seg>Дружба</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Евроопт</seg></tuv>
+      <tuv lang="BE"><seg>Гіпермаркет "Еўраопт"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЗАО "Зорина"</seg></tuv>
+      <tuv lang="BE"><seg>ЗАТ "Зарына"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Западный</seg></tuv>
+      <tuv lang="BE"><seg>Заходні</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Западный рынок</seg></tuv>
+      <tuv lang="BE"><seg>Заходнi рынак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Заходний</seg></tuv>
+      <tuv lang="BE"><seg>Заходнi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Квартал</seg></tuv>
+      <tuv lang="BE"><seg>Квартал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Континент</seg></tuv>
+      <tuv lang="BE"><seg>Кантынент</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Корженевский</seg></tuv>
+      <tuv lang="BE"><seg>Каржанеўскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Корона</seg></tuv>
+      <tuv lang="BE"><seg>Карона</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Космос</seg></tuv>
+      <tuv lang="BE"><seg>Космас</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Криница</seg></tuv>
+      <tuv lang="BE"><seg>Крынiца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кулинария</seg></tuv>
+      <tuv lang="BE"><seg>Кулінарыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лотос</seg></tuv>
+      <tuv lang="BE"><seg>Лотас</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Магазин</seg></tuv>
+      <tuv lang="BE"><seg>Магазін</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>магазин" Восток"</seg></tuv>
+      <tuv lang="BE"><seg>крама "Усход"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Магазин "Для Вас"</seg></tuv>
+      <tuv lang="BE"><seg>Крама «Для Вас»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Магазин Дионис</seg></tuv>
+      <tuv lang="BE"><seg>Крама «Дыяніс»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Микс</seg></tuv>
+      <tuv lang="BE"><seg>Мiкс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Московский минирынок</seg></tuv>
+      <tuv lang="BE"><seg>Маскоўскі мінірынак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Наш магазин</seg></tuv>
+      <tuv lang="BE"><seg>Наш магазін</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ника-2</seg></tuv>
+      <tuv lang="BE"><seg>Ніка-2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Особино</seg></tuv>
+      <tuv lang="BE"><seg>Асабина</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Павлинка</seg></tuv>
+      <tuv lang="BE"><seg>Паўлінка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Продукты</seg></tuv>
+      <tuv lang="BE"><seg>Прадукты</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рассвет</seg></tuv>
+      <tuv lang="BE"><seg>Свiтанак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Родная Сторона</seg></tuv>
+      <tuv lang="BE"><seg>Родны Кут</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Родная Сторона плюс; Юбилейный 92</seg></tuv>
+      <tuv lang="BE"><seg>Юбілейны 92; Родны Кут</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рублёвский</seg></tuv>
+      <tuv lang="BE"><seg>Рублёўскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рублёвский №126</seg></tuv>
+      <tuv lang="BE"><seg>Універсам «Рублёўскі» №126</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рублёвский №95</seg></tuv>
+      <tuv lang="BE"><seg>Рублёўскі №95</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рынок</seg></tuv>
+      <tuv lang="BE"><seg>Рынак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свислочь</seg></tuv>
+      <tuv lang="BE"><seg>Свіслач</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сельские лакомства</seg></tuv>
+      <tuv lang="BE"><seg>Сялянскія прысмакі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Соседи</seg></tuv>
+      <tuv lang="BE"><seg>Суседзі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Супермаркет 'Кленковский'</seg></tuv>
+      <tuv lang="BE"><seg>Супермаркет 'Клёнкаўскі'</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>супермаркет "Евроопт"</seg></tuv>
+      <tuv lang="BE"><seg>супермаркет "Еураопт"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Супермаркет "Рублёвский"</seg></tuv>
+      <tuv lang="BE"><seg>Супермаркет "Рублёўскі"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сухаревский</seg></tuv>
+      <tuv lang="BE"><seg>Сухараўскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Топ</seg></tuv>
+      <tuv lang="BE"><seg>Топ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Торговый дом "Неман"</seg></tuv>
+      <tuv lang="BE"><seg>Гандлёвы дом "Нёман"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Торговый ряд</seg></tuv>
+      <tuv lang="BE"><seg>Гандлёвы рад</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Торговый Центр</seg></tuv>
+      <tuv lang="BE"><seg>Гандлёвы цэнтр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Торговый центр "Корона"</seg></tuv>
+      <tuv lang="BE"><seg>Гандлёвы цэнтр «Карона»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТЦ "Віталіч"</seg></tuv>
+      <tuv lang="BE"><seg>ТЦ "Віталіч"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТЦ Тройка</seg></tuv>
+      <tuv lang="BE"><seg>Тройка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Универмаг</seg></tuv>
+      <tuv lang="BE"><seg>Універмаг</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Универсам</seg></tuv>
+      <tuv lang="BE"><seg>універсам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Универсам "Родны кут"</seg></tuv>
+      <tuv lang="BE"><seg>Універсам "Родны кут"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Универсам "Сельмашевский"</seg></tuv>
+      <tuv lang="BE"><seg>Універсам "Сельмашаўскі"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Универсам «Замкавы»</seg></tuv>
+      <tuv lang="BE"><seg>Універсам «Замкавы»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Универсам на АЗС</seg></tuv>
+      <tuv lang="BE"><seg>Універсам на АЗС</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>универсам Северный</seg></tuv>
+      <tuv lang="BE"><seg>універсам Паўночны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центр</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральный</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтральная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центрум</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтрум</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЦУМ</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтральная Ўнівэрсальная крама</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юбилейный</seg></tuv>
+      <tuv lang="BE"><seg>Юбілейны</seg></tuv>
+    </tu>
+  </body></tmx>

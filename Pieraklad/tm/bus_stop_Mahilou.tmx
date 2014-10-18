@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Автовокзал</seg></tuv>
+      <tuv lang="BE"><seg>Аўтавакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автосервис</seg></tuv>
+      <tuv lang="BE"><seg>Аўтасэрвіс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Белинского</seg></tuv>
+      <tuv lang="BE"><seg>Бялінскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>вокзал</seg></tuv>
+      <tuv lang="BE"><seg>Вакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вокзал</seg></tuv>
+      <tuv lang="BE"><seg>Вакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гаражи</seg></tuv>
+      <tuv lang="BE"><seg>Гаражы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>детская больница</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячая бальніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Драмтеатр</seg></tuv>
+      <tuv lang="BE"><seg>Драмтэатр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДСК</seg></tuv>
+      <tuv lang="BE"><seg>ДБК</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Заслонова</seg></tuv>
+      <tuv lang="BE"><seg>Заслонава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>кладбище</seg></tuv>
+      <tuv lang="BE"><seg>Могілкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Корпуск 2</seg></tuv>
+      <tuv lang="BE"><seg>Політэхнічны каледж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Котовского</seg></tuv>
+      <tuv lang="BE"><seg>Катоўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Коттеджи</seg></tuv>
+      <tuv lang="BE"><seg>Катэджы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Крупской</seg></tuv>
+      <tuv lang="BE"><seg>Крупскай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лесопарк</seg></tuv>
+      <tuv lang="BE"><seg>Лесапарк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>магазин</seg></tuv>
+      <tuv lang="BE"><seg>Магазін</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>мясокомбинат</seg></tuv>
+      <tuv lang="BE"><seg>Мясакамбінат</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Областная больница</seg></tuv>
+      <tuv lang="BE"><seg>Абласная бальніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Педуниверситет</seg></tuv>
+      <tuv lang="BE"><seg>Педуніверсітэт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пионерская</seg></tuv>
+      <tuv lang="BE"><seg>Піянерская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>площадь Ленина</seg></tuv>
+      <tuv lang="BE"><seg>плошча Леніна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Подгорная</seg></tuv>
+      <tuv lang="BE"><seg>Падгорная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>поликлиника</seg></tuv>
+      <tuv lang="BE"><seg>Паліклініка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>поликлиника №1</seg></tuv>
+      <tuv lang="BE"><seg>Паліклініка №1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Речной порт</seg></tuv>
+      <tuv lang="BE"><seg>Рачны порт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>стадион</seg></tuv>
+      <tuv lang="BE"><seg>Стадыён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №13</seg></tuv>
+      <tuv lang="BE"><seg>СШ №13</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>универмаг</seg></tuv>
+      <tuv lang="BE"><seg>Універмаг</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>школа искусств</seg></tuv>
+      <tuv lang="BE"><seg>Школа Мастацваў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>школа №25</seg></tuv>
+      <tuv lang="BE"><seg>Школа №25</seg></tuv>
+    </tu>
+  </body></tmx>

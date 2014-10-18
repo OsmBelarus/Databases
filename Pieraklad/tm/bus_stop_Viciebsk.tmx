@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>11-я школа</seg></tuv>
+      <tuv lang="BE"><seg>11-я школа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>1-я Колхозная</seg></tuv>
+      <tuv lang="BE"><seg>1-я Калгасная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>25-я школа</seg></tuv>
+      <tuv lang="BE"><seg>25-я школа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>2-я Горбольница</seg></tuv>
+      <tuv lang="BE"><seg>2-я гарбальніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>31-ая школа</seg></tuv>
+      <tuv lang="BE"><seg>31-я школа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>31-я школа</seg></tuv>
+      <tuv lang="BE"><seg>31-я школа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>3-я Линия</seg></tuv>
+      <tuv lang="BE"><seg>3-я Лінія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>8-я Совхозная улица</seg></tuv>
+      <tuv lang="BE"><seg>8-я Саўгасная вул.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>9-я Социалистическая улица</seg></tuv>
+      <tuv lang="BE"><seg>9-я Сацыялістычная вул.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Автовокзал</seg></tuv>
+      <tuv lang="BE"><seg>Аўтавакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Баграмяна</seg></tuv>
+      <tuv lang="BE"><seg>Баграмяна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Библиотека им. Ленина</seg></tuv>
+      <tuv lang="BE"><seg>Бібліятэка імя Леніна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Больница скорой медицинской помощи</seg></tuv>
+      <tuv lang="BE"><seg>Бальніца хуткай медыцынскай дапамогі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ВГУ им. Машерова П.М.</seg></tuv>
+      <tuv lang="BE"><seg>ВДУ імя П.М.Машэрава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебсклес</seg></tuv>
+      <tuv lang="BE"><seg>Віцебсклес</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Воинов-интернационалистов</seg></tuv>
+      <tuv lang="BE"><seg>Воінаў-інтэрнацыяналістаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Володарского</seg></tuv>
+      <tuv lang="BE"><seg>Валадарскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гимназия № 6</seg></tuv>
+      <tuv lang="BE"><seg>Гімназія № 6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Горького</seg></tuv>
+      <tuv lang="BE"><seg>Горкага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гостиница «Лучёса»</seg></tuv>
+      <tuv lang="BE"><seg>Гасцініца «Лучоса»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Госуниверситет</seg></tuv>
+      <tuv lang="BE"><seg>Дзяржуніверсітэт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Грибоедова</seg></tuv>
+      <tuv lang="BE"><seg>Грыбаедава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Детский Центр</seg></tuv>
+      <tuv lang="BE"><seg>Дзіцячы цэнтр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДСК</seg></tuv>
+      <tuv lang="BE"><seg>ДБК</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ж/д вокзал</seg></tuv>
+      <tuv lang="BE"><seg>Чыгуначны вакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Завод «ВиЗАС»</seg></tuv>
+      <tuv lang="BE"><seg>Завод «ВіЗАС»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Заречная</seg></tuv>
+      <tuv lang="BE"><seg>Зарэчная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Индустриально-педагогический колледж</seg></tuv>
+      <tuv lang="BE"><seg>Індустрыяльна-педагагічны каледж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Клиника ВГМУ</seg></tuv>
+      <tuv lang="BE"><seg>Клініка ВДМУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кольцевая</seg></tuv>
+      <tuv lang="BE"><seg>Кальцавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>комбинат Витьба</seg></tuv>
+      <tuv lang="BE"><seg>Камбінат Віцьба</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Комсомольская</seg></tuv>
+      <tuv lang="BE"><seg>Камсамольская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>конечная маршрута № 12 "Улановичи-2"</seg></tuv>
+      <tuv lang="BE"><seg>Канцавы маршруту №12 ""Уланавічы-2""</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Куйбышева</seg></tuv>
+      <tuv lang="BE"><seg>Куйбышава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лагерная</seg></tuv>
+      <tuv lang="BE"><seg>Лагерная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ледовый дворец</seg></tuv>
+      <tuv lang="BE"><seg>Лядовы палац</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Леонова</seg></tuv>
+      <tuv lang="BE"><seg>Лявонава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лицей № 5 приборостроения</seg></tuv>
+      <tuv lang="BE"><seg>Лiцэй № 5 прыборабудавання</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Медицинский университет</seg></tuv>
+      <tuv lang="BE"><seg>Медыцынскі ўніверсітэт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Медцентр</seg></tuv>
+      <tuv lang="BE"><seg>Медцэнтр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Медцентр (конечная)</seg></tuv>
+      <tuv lang="BE"><seg>Медцэнтр (канчатковы)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Микрорайон Медцентр</seg></tuv>
+      <tuv lang="BE"><seg>Мiкрараён Медцэнтр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Молодежная</seg></tuv>
+      <tuv lang="BE"><seg>вул. Маргелава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Московская</seg></tuv>
+      <tuv lang="BE"><seg>Маскоўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>МСУ-5</seg></tuv>
+      <tuv lang="BE"><seg>МБУ-5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Никрополье</seg></tuv>
+      <tuv lang="BE"><seg>Нiкраполле</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новооршанская</seg></tuv>
+      <tuv lang="BE"><seg>Новааршанская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новооршанское шоссе</seg></tuv>
+      <tuv lang="BE"><seg>Новааршанская шаша</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ОАО «Красный Октябрь»</seg></tuv>
+      <tuv lang="BE"><seg>ААТ «Чырвоны кастрычнік»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ОАО Красный Октябрь</seg></tuv>
+      <tuv lang="BE"><seg>ААТ Чырвоны кастрычнік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Областная больница</seg></tuv>
+      <tuv lang="BE"><seg>Абласная бальніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Областная инфекционная больница</seg></tuv>
+      <tuv lang="BE"><seg>Абласная iнфекцыйная бальніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Облисполком</seg></tuv>
+      <tuv lang="BE"><seg>Аблвыканкам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Онкобольница</seg></tuv>
+      <tuv lang="BE"><seg>Анкабальнiца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Онкодиспансер</seg></tuv>
+      <tuv lang="BE"><seg>Анкадыспансер</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Оптовая база</seg></tuv>
+      <tuv lang="BE"><seg>Аптовая база</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Осипенко</seg></tuv>
+      <tuv lang="BE"><seg>Асіпенкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Площадь Ленина</seg></tuv>
+      <tuv lang="BE"><seg>Плошча Леніна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>площадь Победы</seg></tuv>
+      <tuv lang="BE"><seg>плошча Перамогі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Площадь Победы</seg></tuv>
+      <tuv lang="BE"><seg>Плошча Перамогі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Площадь Свободы</seg></tuv>
+      <tuv lang="BE"><seg>Плошча Свабоды</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поворот на мясокомбинат</seg></tuv>
+      <tuv lang="BE"><seg>Паварот на мясакамбінат</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поликлиника</seg></tuv>
+      <tuv lang="BE"><seg>Паліклініка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поликлиника Калинина</seg></tuv>
+      <tuv lang="BE"><seg>Паліклініка Калініна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Поликлиника № 1</seg></tuv>
+      <tuv lang="BE"><seg>Паліклініка № 1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Политехнический колледж</seg></tuv>
+      <tuv lang="BE"><seg>Політэхнічны каледж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Полоцкий рынок</seg></tuv>
+      <tuv lang="BE"><seg>Полацкі рынак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Предприятие «Витязь»</seg></tuv>
+      <tuv lang="BE"><seg>Прадпрыемства «Віцязь»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Предприятие «Эвистор»</seg></tuv>
+      <tuv lang="BE"><seg>Прадпрыемства «Эвістар»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пролетарская площадь</seg></tuv>
+      <tuv lang="BE"><seg>Пралетарская пл.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Прорезная</seg></tuv>
+      <tuv lang="BE"><seg>Праразная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>просп. Победы</seg></tuv>
+      <tuv lang="BE"><seg>пр. Перамогі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Проспект Людникова</seg></tuv>
+      <tuv lang="BE"><seg>пр. Люднікава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ратуша</seg></tuv>
+      <tuv lang="BE"><seg>Ратуша</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сад. Тов. Ольговское</seg></tuv>
+      <tuv lang="BE"><seg>сад. тав. Альгоўскае</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свободная экономическая зона</seg></tuv>
+      <tuv lang="BE"><seg>Свабодная эканамiчная зона</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сельская</seg></tuv>
+      <tuv lang="BE"><seg>Сельская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сивакова</seg></tuv>
+      <tuv lang="BE"><seg>Сівакова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Смоленский рынок</seg></tuv>
+      <tuv lang="BE"><seg>Смаленскі рынак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Спецавтобаза</seg></tuv>
+      <tuv lang="BE"><seg>Спецаўтабаза</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>СШ №8</seg></tuv>
+      <tuv lang="BE"><seg>СШ №8</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТД «Омега»</seg></tuv>
+      <tuv lang="BE"><seg>ГД «Амега»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Технологический университет</seg></tuv>
+      <tuv lang="BE"><seg>Тэхналагічны ўніверсітэт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тирасполь</seg></tuv>
+      <tuv lang="BE"><seg>Ціраспаль</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Транспортная</seg></tuv>
+      <tuv lang="BE"><seg>Транспартная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Троллейбусная</seg></tuv>
+      <tuv lang="BE"><seg>Тралейбусная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ТЦ «Корона»</seg></tuv>
+      <tuv lang="BE"><seg>ГЦ «Карона»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ул. Ак. Павлова</seg></tuv>
+      <tuv lang="BE"><seg>вул. Ак. Паўлава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Улица 39-й Армии</seg></tuv>
+      <tuv lang="BE"><seg>39-й Арміі вул.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Улица 6-я Стадионная</seg></tuv>
+      <tuv lang="BE"><seg>Вулiца 6-я Стадыённая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Улица Доватора</seg></tuv>
+      <tuv lang="BE"><seg>Вуліца Даватара</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Улица Комсомольская</seg></tuv>
+      <tuv lang="BE"><seg>Камсамольская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Улица Лазо</seg></tuv>
+      <tuv lang="BE"><seg>Вуліца Лазо</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица Некрасова</seg></tuv>
+      <tuv lang="BE"><seg>вуліца Некрасава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Улица П. Бровки</seg></tuv>
+      <tuv lang="BE"><seg>вул. П.Броўкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Улица Смоленская</seg></tuv>
+      <tuv lang="BE"><seg>вул. Смаленская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Улица Советская</seg></tuv>
+      <tuv lang="BE"><seg>Савецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Улица Степаненко</seg></tuv>
+      <tuv lang="BE"><seg>Сцепаненкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Улица Терешковой</seg></tuv>
+      <tuv lang="BE"><seg>вул. Церашковай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Улица Чапаева</seg></tuv>
+      <tuv lang="BE"><seg>Вуліца Чапаева</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>фабрика "Знамя Индустрилизации"</seg></tuv>
+      <tuv lang="BE"><seg>Фабрыка «Сцяг індустрыялізацыі»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ФОК</seg></tuv>
+      <tuv lang="BE"><seg>ФАК</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Художественные мастерские</seg></tuv>
+      <tuv lang="BE"><seg>Мастацкія майстэрні</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школа № 29</seg></tuv>
+      <tuv lang="BE"><seg>Школа № 29</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Школьная</seg></tuv>
+      <tuv lang="BE"><seg>Школьная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Щорса</seg></tuv>
+      <tuv lang="BE"><seg>Шчорса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Энергетиков</seg></tuv>
+      <tuv lang="BE"><seg>Энергетыкаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юг-4</seg></tuv>
+      <tuv lang="BE"><seg>Поўдзень-4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юг-5</seg></tuv>
+      <tuv lang="BE"><seg>Поўдзень-5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юг-6</seg></tuv>
+      <tuv lang="BE"><seg>Поўдзень-6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Янушковского</seg></tuv>
+      <tuv lang="BE"><seg>Янушкоўскага</seg></tuv>
+    </tu>
+  </body></tmx>

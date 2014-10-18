@@ -1,0 +1,500 @@
+# Objects : [w204105750]
+# name:be: []
+msgid ""Нива""
+msgstr ""
+
+# Objects : [w197533231, w240252818, w27896648]
+# name:be: []
+msgid "<null>"
+msgstr ""
+
+# Objects : [w219489254]
+# name:be: []
+msgid "cтадион"
+msgstr ""
+
+# Objects : [w28313028]
+# name:be: []
+msgid "Lokomotiv"
+msgstr ""
+
+# Objects : [n320409855]
+# name:be: []
+msgid "Баскетбольная площадка"
+msgstr ""
+
+# Objects : [n456022815]
+# name:be: []
+msgid "Бассейн "Нептун""
+msgstr ""
+
+# Objects : [w265414931]
+# name:be: []
+msgid "Борисов-Арена"
+msgstr ""
+
+# Objects : [w37684630]
+# name:be: []
+msgid "Велодром"
+msgstr ""
+
+# Objects : [w38534390]
+# name:be: []
+msgid "Гомсельмаш"
+msgstr ""
+
+# Objects : [w256459426]
+# name:be: []
+msgid "Городок"
+msgstr ""
+
+# Objects : [n817798562, n916880538, w126783670, w133747876, w133977173, w164501681, w203340522, w212731515, w222766614, w37908065, w39269058]
+# name:be: []
+msgid "Городской стадион"
+msgstr ""
+
+# Objects : [w164379834]
+# name:be: []
+msgid "Городской Стадион"
+msgstr ""
+
+# Objects : [w67510135]
+# name:be: []
+msgid "Дворец тенниса "Смена""
+msgstr ""
+
+# Objects : [n306062958, r1836453]
+# name:be: []
+msgid "Динамо"
+msgstr ""
+
+# Objects : [w194237134]
+# name:be: []
+msgid "ДЮСШ №4"
+msgstr ""
+
+# Objects : [w36286917]
+# name:be: []
+msgid "Заря"
+msgstr ""
+
+# Objects : [w32682594]
+# name:be: []
+msgid "Каток"
+msgstr ""
+
+# Objects : [w169607499]
+# name:be: []
+msgid "Колос"
+msgstr ""
+
+# Objects : [w37684632]
+# name:be: []
+msgid "Конькобежный стадион"
+msgstr ""
+
+# Objects : [w53310247]
+# name:be: []
+msgid "Ледовый каток"
+msgstr ""
+
+# Objects : [w156328926]
+# name:be: []
+msgid "Лицей"
+msgstr ""
+
+# Objects : [w105460836, w108857007, w132783728, w25785893, w95423439]
+# name:be: []
+msgid "Локомотив"
+msgstr ""
+
+# Objects : [w86003723]
+# name:be: []
+msgid "Лукодром"
+msgstr ""
+
+# Objects : [w151704337]
+# name:be: []
+msgid "Льнозавод"
+msgstr ""
+
+# Objects : [w37684628]
+# name:be: []
+msgid "Минск-Арена"
+msgstr ""
+
+# Objects : [w52616662]
+# name:be: []
+msgid "Мобильный сезонный каток"
+msgstr ""
+
+# Objects : [w121594434]
+# name:be: []
+msgid "Мотобольный стадион"
+msgstr ""
+
+# Objects : [w222858330]
+# name:be: []
+msgid "Мотодром"
+msgstr ""
+
+# Objects : [w29124742]
+# name:be: []
+msgid "Неман"
+msgstr ""
+
+# Objects : [w101965697]
+# name:be: []
+msgid "Нёман"
+msgstr ""
+
+# Objects : [w260911856]
+# name:be: []
+msgid "Олимп"
+msgstr ""
+
+# Objects : [w276278588]
+# name:be: []
+msgid "Припять"
+msgstr ""
+
+# Objects : [w125315939]
+# name:be: []
+msgid "Пружанский стадион"
+msgstr ""
+
+# Objects : [n306063246]
+# name:be: []
+msgid "Сдюшор №4"
+msgstr ""
+
+# Objects : [w205473406]
+# name:be: []
+msgid "Сеницкий"
+msgstr ""
+
+# Objects : [n306069048]
+# name:be: []
+msgid "СК "Виктория""
+msgstr ""
+
+# Objects : [n306064537]
+# name:be: []
+msgid "Согк Мозырь"
+msgstr ""
+
+# Objects : [w130435958, w53310557]
+# name:be: []
+msgid "Спартак"
+msgstr ""
+
+# Objects : [w61946059]
+# name:be: []
+msgid "Спортивный Комплекс Брестский"
+msgstr ""
+
+# Objects : [w206094633]
+# name:be: []
+msgid "спортплощадка"
+msgstr ""
+
+# Objects : [w208834350]
+# name:be: []
+msgid "спорт площадка"
+msgstr ""
+
+# Objects : [w27896600]
+# name:be: []
+msgid "стадион "Локомотив""
+msgstr ""
+
+# Objects : [n306069347]
+# name:be: []
+msgid "Стадион "Локомотив""
+msgstr ""
+
+# Objects : [w62788735]
+# name:be: []
+msgid "Стадион "Луч""
+msgstr ""
+
+# Objects : [w96632469]
+# name:be: []
+msgid "Стадион "Льнокомбинат""
+msgstr ""
+
+# Objects : [w204109859]
+# name:be: []
+msgid "стадион "Олимпиец""
+msgstr ""
+
+# Objects : [w115708755]
+# name:be: []
+msgid "Стадион "Спартак""
+msgstr ""
+
+# Objects : [w40869694]
+# name:be: []
+msgid "Стадион "Строитель""
+msgstr ""
+
+# Objects : [w42956961]
+# name:be: []
+msgid "Стадион "Шахтер""
+msgstr ""
+
+# Objects : [w24314889]
+# name:be: []
+msgid "Стадион «Домостроитель»"
+msgstr ""
+
+# Objects : [r296322]
+# name:be: []
+msgid "Стадион «Трактор»"
+msgstr ""
+
+# Objects : [w163234206]
+# name:be: []
+msgid "Стадион Атлант"
+msgstr ""
+
+# Objects : [w242379887]
+# name:be: []
+msgid "Стадион Бульвара Страконицкого 27"
+msgstr ""
+
+# Objects : [w111382607]
+# name:be: []
+msgid "стадион ВГТУ"
+msgstr ""
+
+# Objects : [w49131508]
+# name:be: []
+msgid "Стадион ГГУ"
+msgstr ""
+
+# Objects : [w209199837, w82148580]
+# name:be: []
+msgid "Стадион гимназии"
+msgstr ""
+
+# Objects : [w256477806, w256477938, w41277749]
+# name:be: []
+msgid "Стадион гимназии №1"
+msgstr ""
+
+# Objects : [n2627052833]
+# name:be: []
+msgid "Стадион гимназии №12 (2008-2012)"
+msgstr ""
+
+# Objects : [w255615016]
+# name:be: []
+msgid "Стадион Гимназии №8"
+msgstr ""
+
+# Objects : [w98992046]
+# name:be: []
+msgid "стадион Динамо"
+msgstr ""
+
+# Objects : [w160424569]
+# name:be: []
+msgid "Стадион Жлобинского ГПЛ"
+msgstr ""
+
+# Objects : [w232958217]
+# name:be: []
+msgid "Стадион Зайца Евгения"
+msgstr ""
+
+# Objects : [w38534389]
+# name:be: []
+msgid "стадион Локомотив"
+msgstr ""
+
+# Objects : [w219935310]
+# name:be: []
+msgid "Стадион Локомотив"
+msgstr ""
+
+# Objects : [w77870105]
+# name:be: []
+msgid "Стадион ОАО "КСМ""
+msgstr ""
+
+# Objects : [w95620591]
+# name:be: []
+msgid "Стадион Приборской СШ"
+msgstr ""
+
+# Objects : [w96345572]
+# name:be: []
+msgid "Стадион ПТУ-185"
+msgstr ""
+
+# Objects : [w204114614]
+# name:be: []
+msgid "стадион СШ №1"
+msgstr ""
+
+# Objects : [w260261990]
+# name:be: []
+msgid "Стадион Сш№142"
+msgstr ""
+
+# Objects : [w53529867]
+# name:be: []
+msgid "Стадион СШ №17"
+msgstr ""
+
+# Objects : [w260321444]
+# name:be: []
+msgid "Стадион Сш №186"
+msgstr ""
+
+# Objects : [n914388410]
+# name:be: []
+msgid "стадион СШ№2"
+msgstr ""
+
+# Objects : [w260321443]
+# name:be: []
+msgid "Стадион Сш №200"
+msgstr ""
+
+# Objects : [w260426809]
+# name:be: []
+msgid "Стадион Сш №210"
+msgstr ""
+
+# Objects : [w256477800, w256477934, w256493589, w256494346, w41596134]
+# name:be: []
+msgid "Стадион СШ №3"
+msgstr ""
+
+# Objects : [w59397582]
+# name:be: []
+msgid "Стадион СШ №4"
+msgstr ""
+
+# Objects : [w137536839]
+# name:be: []
+msgid "стадион СШ №45"
+msgstr ""
+
+# Objects : [w37878108]
+# name:be: []
+msgid "Стадион СШ№5"
+msgstr ""
+
+# Objects : [w38623155]
+# name:be: []
+msgid "Стадион СШ№ 55"
+msgstr ""
+
+# Objects : [w38623185]
+# name:be: []
+msgid "Стадион СШ№ 60"
+msgstr ""
+
+# Objects : [w41223479, w59479697]
+# name:be: []
+msgid "Стадион СШ №8"
+msgstr ""
+
+# Objects : [n2626936399]
+# name:be: []
+msgid "Стадион шк.№119 и шк.№97"
+msgstr ""
+
+# Objects : [n2626936609]
+# name:be: []
+msgid "Стадион шк.№71"
+msgstr ""
+
+# Objects : [w160424570, w241794185]
+# name:be: []
+msgid "Стадион школы"
+msgstr ""
+
+# Objects : [n2613175521]
+# name:be: []
+msgid "Стадион школы №19"
+msgstr ""
+
+# Objects : [w98988836]
+# name:be: []
+msgid "стадион Юность"
+msgstr ""
+
+# Objects : [w58509217]
+# name:be: []
+msgid "Теннисный корт"
+msgstr ""
+
+# Objects : [w23409356]
+# name:be: []
+msgid "Торпедо"
+msgstr ""
+
+# Objects : [w242038924]
+# name:be: []
+msgid "футбольная площадка"
+msgstr ""
+
+# Objects : [w130385327, w226844661, w226844662]
+# name:be: []
+msgid "Футбольное поле"
+msgstr ""
+
+# Objects : [w36791788]
+# name:be: []
+msgid "Футбольный манеж"
+msgstr ""
+
+# Objects : [w40528293]
+# name:be: []
+msgid "ХК "Юность-Минск""
+msgstr ""
+
+# Objects : [w211858580]
+# name:be: []
+msgid "Цементник"
+msgstr ""
+
+# Objects : [w208415654]
+# name:be: []
+msgid "Центральный"
+msgstr ""
+
+# Objects : [r3885465, w38527077, w97647541]
+# name:be: []
+msgid "Центральный стадион"
+msgstr ""
+
+# Objects : [w203870383]
+# name:be: []
+msgid "школьный"
+msgstr ""
+
+# Objects : [w203990016, w212660689, w217763787, w233475233]
+# name:be: []
+msgid "Школьный"
+msgstr ""
+
+# Objects : [w157528380]
+# name:be: []
+msgid "Юбилейный"
+msgstr ""
+
+# Objects : [w204621323]
+# name:be: []
+msgid "Юнасть"
+msgstr ""
+
+# Objects : [w53310663]
+# name:be: []
+msgid "Юность"
+msgstr ""
+

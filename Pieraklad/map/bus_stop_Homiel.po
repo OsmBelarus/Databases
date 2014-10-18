@@ -1,0 +1,810 @@
+# Objects : [n275107488, n2879044324, n633516450]
+# name:be: []
+msgid "1-я школа"
+msgstr ""
+
+# Objects : [n1818034190]
+# name:be: []
+msgid "20а микрорайон"
+msgstr ""
+
+# Objects : [n633516437, n633516495]
+# name:be: []
+msgid "2-я школа"
+msgstr ""
+
+# Objects : [n633516444, n633516445]
+# name:be: []
+msgid "35-й микрорайон"
+msgstr ""
+
+# Objects : [n452540902, n452540904]
+# name:be: []
+msgid "3-я школа"
+msgstr ""
+
+# Objects : [n1326072615, n1326072617]
+# name:be: []
+msgid "70 лет БССР"
+msgstr ""
+
+# Objects : [n2675212833]
+# name:be: []
+msgid "Автобусный парк № 1"
+msgstr ""
+
+# Objects : [n2445805212, n2445805217]
+# name:be: []
+msgid "Автосервис"
+msgstr ""
+
+# Objects : [n795714529, n795806028]
+# name:be: []
+msgid "Автоцентр "Рено""
+msgstr ""
+
+# Objects : [n1334767916]
+# name:be: []
+msgid "Администрация Советского района"
+msgstr ""
+
+# Objects : [n795714393, n795714458]
+# name:be: []
+msgid "Бакунина"
+msgstr ""
+
+# Objects : [n452540898, n452540899]
+# name:be: []
+msgid "Барыкина"
+msgstr ""
+
+# Objects : [n1129287208]
+# name:be: []
+msgid "Белгут"
+msgstr ""
+
+# Objects : [n2876928324]
+# name:be: []
+msgid "БелГУТ"
+msgstr ""
+
+# Objects : [n452529879]
+# name:be: []
+msgid "больница"
+msgstr ""
+
+# Objects : [n795832931, n795832942]
+# name:be: []
+msgid "Водоканал"
+msgstr ""
+
+# Objects : [n795714419, n795714560]
+# name:be: []
+msgid "Военкомат"
+msgstr ""
+
+# Objects : [n1129287194, n1129287211, n1334729467, n1770697397]
+# name:be: []
+msgid "вокзал"
+msgstr ""
+
+# Objects : [n2710924302, n2876928325]
+# name:be: []
+msgid "Вокзал"
+msgstr ""
+
+# Objects : [n306068128]
+# name:be: []
+msgid "Волотова"
+msgstr ""
+
+# Objects : [n1818202204, n1818202209, n795832947]
+# name:be: []
+msgid "Гидропривод"
+msgstr ""
+
+# Objects : [n1361126003]
+# name:be: []
+msgid "Гипермаркет"
+msgstr ""
+
+# Objects : [n1334767927, n1362786135]
+# name:be: []
+msgid "ГомельОблАвтоТранс"
+msgstr ""
+
+# Objects : [n1636431354, n2688529348]
+# name:be: []
+msgid "Гомельторгмаш"
+msgstr ""
+
+# Objects : [n795832954, n795832956]
+# name:be: []
+msgid "Горэлектротранспорт"
+msgstr ""
+
+# Objects : [n455929177]
+# name:be: []
+msgid "гостиница Турист"
+msgstr ""
+
+# Objects : [n1407728947, n1407728949]
+# name:be: []
+msgid "дворец Легкой Атлетики"
+msgstr ""
+
+# Objects : [n1373859017]
+# name:be: []
+msgid "Джураева"
+msgstr ""
+
+# Objects : [n456031333, n795714528]
+# name:be: []
+msgid "ДК Гомсельмаша"
+msgstr ""
+
+# Objects : [n1334767955, n1334767978]
+# name:be: []
+msgid "Дом культуры Фестивальный"
+msgstr ""
+
+# Objects : [n2861927032, n456985131]
+# name:be: []
+msgid "Дорожник"
+msgstr ""
+
+# Objects : [n1178918905, n801990712]
+# name:be: []
+msgid "Дружба"
+msgstr ""
+
+# Objects : [n455929173]
+# name:be: []
+msgid "Железнодорожный техникум"
+msgstr ""
+
+# Objects : [n633516474, n633516546]
+# name:be: []
+msgid "Завод "Кристалл""
+msgstr ""
+
+# Objects : [n633516449, n633516463]
+# name:be: []
+msgid "Завод "Сантехзаготовок""
+msgstr ""
+
+# Objects : [n2675213007]
+# name:be: []
+msgid "Завод пусковых двигателей"
+msgstr ""
+
+# Objects : [n452506664, n586340489]
+# name:be: []
+msgid "Завод Самоходных Комбайнов"
+msgstr ""
+
+# Objects : [n2166687360, n2166687361]
+# name:be: []
+msgid "Завод станочных узлов"
+msgstr ""
+
+# Objects : [n2861927033, n2861927034]
+# name:be: []
+msgid "Завод технологического оборудования"
+msgstr ""
+
+# Objects : [n633516466, n633516469]
+# name:be: []
+msgid "Завод химических изделий"
+msgstr ""
+
+# Objects : [n1636431383, n994375262]
+# name:be: []
+msgid "Западный"
+msgstr ""
+
+# Objects : [n2666583255]
+# name:be: []
+msgid "З-д пусковых двигателей"
+msgstr ""
+
+# Objects : [n452540895]
+# name:be: []
+msgid "Зип"
+msgstr ""
+
+# Objects : [n1334775333]
+# name:be: []
+msgid "Инженерный институт МЧС"
+msgstr ""
+
+# Objects : [n795714495, n795714514]
+# name:be: []
+msgid "кинотеатр "Октябрь""
+msgstr ""
+
+# Objects : [n2166687358, n2166687359]
+# name:be: []
+msgid "Колледж Народных промыслов"
+msgstr ""
+
+# Objects : [n795714462]
+# name:be: []
+msgid "Коминтерн"
+msgstr ""
+
+# Objects : [n1082774601]
+# name:be: []
+msgid "Конечная"
+msgstr ""
+
+# Objects : [n452506665]
+# name:be: []
+msgid "конечная Т10, Т10а"
+msgstr ""
+
+# Objects : [n1326072602]
+# name:be: []
+msgid "Косарева"
+msgstr ""
+
+# Objects : [n940980364, n940980366]
+# name:be: []
+msgid "Крестьянская"
+msgstr ""
+
+# Objects : [n677658236, n677658237]
+# name:be: []
+msgid "Ледовый Дворец"
+msgstr ""
+
+# Objects : [n633516498]
+# name:be: []
+msgid "Ленинградская улица"
+msgstr ""
+
+# Objects : [n1212384287, n1212384295]
+# name:be: []
+msgid "Локомотивное депо"
+msgstr ""
+
+# Objects : [n2879044306, n2879044314]
+# name:be: []
+msgid "Магазин"
+msgstr ""
+
+# Objects : [n2166687362, n2166687363]
+# name:be: []
+msgid "магазин "1000 мелочей""
+msgstr ""
+
+# Objects : [n1407728945]
+# name:be: []
+msgid "магазин "Океан""
+msgstr ""
+
+# Objects : [n795891187]
+# name:be: []
+msgid "Малайчука"
+msgstr ""
+
+# Objects : [n1178918919, n1178918952, n1185905965]
+# name:be: []
+msgid "Мельников Луг"
+msgstr ""
+
+# Objects : [n1205747340, n712380825]
+# name:be: []
+msgid "МЖК"
+msgstr ""
+
+# Objects : [n1361126005]
+# name:be: []
+msgid "Микрорайон "Давыдовка""
+msgstr ""
+
+# Objects : [n1418626966]
+# name:be: []
+msgid "микрорайон "Клёнковский""
+msgstr ""
+
+# Objects : [n2206123053]
+# name:be: []
+msgid "Микрорайон "Молодёжный""
+msgstr ""
+
+# Objects : [n2669416328]
+# name:be: []
+msgid "Микрорайон "Речицкий""
+msgstr ""
+
+# Objects : [n2688631493, n2688631512]
+# name:be: []
+msgid "микрорайон Любенский"
+msgstr ""
+
+# Objects : [n1636431305]
+# name:be: []
+msgid "Минская"
+msgstr ""
+
+# Objects : [n795714425, n795714518]
+# name:be: []
+msgid "Молодежная"
+msgstr ""
+
+# Objects : [n586312274, n586312279]
+# name:be: []
+msgid "Мотороремонтный Завод"
+msgstr ""
+
+# Objects : [n1107373428]
+# name:be: []
+msgid "Мясокомбинат"
+msgstr ""
+
+# Objects : [n1129287181, n1129287210]
+# name:be: []
+msgid "Никольская церковь"
+msgstr ""
+
+# Objects : [n586312281, n586312285]
+# name:be: []
+msgid "ОАО "Татьяна""
+msgstr ""
+
+# Objects : [n455929269, n455929270]
+# name:be: []
+msgid "Обл. больница"
+msgstr ""
+
+# Objects : [n2688631470, n2688631483]
+# name:be: []
+msgid "озеро Любленское"
+msgstr ""
+
+# Objects : [n2688631454, n2688631455]
+# name:be: []
+msgid "парк Выпускников"
+msgstr ""
+
+# Objects : [n1362790792, n2878891195]
+# name:be: []
+msgid "парк Фестивальный"
+msgstr ""
+
+# Objects : [n2879044374, n2879044375]
+# name:be: []
+msgid "переулок Ильича"
+msgstr ""
+
+# Objects : [n1085383889, n1118419079, n795714453, n795714537]
+# name:be: []
+msgid "площадь Ленина"
+msgstr ""
+
+# Objects : [n3048468430, n628682283]
+# name:be: []
+msgid "Поворот на д. Севруки"
+msgstr ""
+
+# Objects : [n2879044308]
+# name:be: []
+msgid "поворот на Химы"
+msgstr ""
+
+# Objects : [n456031323, n795714564]
+# name:be: []
+msgid "Пожарная Часть"
+msgstr ""
+
+# Objects : [n1082774620, n1082774621]
+# name:be: []
+msgid "Предприятие «Лада-сервис»"
+msgstr ""
+
+# Objects : [n795714380]
+# name:be: []
+msgid "Предприятие СтанкоГомель"
+msgstr ""
+
+# Objects : [n2675212838]
+# name:be: []
+msgid "Прогресс"
+msgstr ""
+
+# Objects : [n1334767921]
+# name:be: []
+msgid "Проезд Куйбышевский"
+msgstr ""
+
+# Objects : [n795714550]
+# name:be: []
+msgid "проспект Космонавтов"
+msgstr ""
+
+# Objects : [n673984440]
+# name:be: []
+msgid "проспект Октября"
+msgstr ""
+
+# Objects : [n1334767940]
+# name:be: []
+msgid "Проспект Речицкий"
+msgstr ""
+
+# Objects : [n994374651, n994374723]
+# name:be: []
+msgid "Протезно-ортопедический центр"
+msgstr ""
+
+# Objects : [n1171936094, n1171936100]
+# name:be: []
+msgid "Радиозавод"
+msgstr ""
+
+# Objects : [n2865887739]
+# name:be: []
+msgid "Ратон"
+msgstr ""
+
+# Objects : [n1916708136, n1916708310]
+# name:be: []
+msgid "река Сож"
+msgstr ""
+
+# Objects : [n950751323, n950751324]
+# name:be: []
+msgid "Рембыттехника"
+msgstr ""
+
+# Objects : [n455929170, n455929172]
+# name:be: []
+msgid "Рогачёвская улица"
+msgstr ""
+
+# Objects : [n2206123054]
+# name:be: []
+msgid "Рынок "Давыдовский""
+msgstr ""
+
+# Objects : [n1360131325, n2662965586]
+# name:be: []
+msgid "Рынок "Сельмашевский""
+msgstr ""
+
+# Objects : [n795891189]
+# name:be: []
+msgid "Свято-Троицкий храм"
+msgstr ""
+
+# Objects : [n994375091, n994375109]
+# name:be: []
+msgid "Сейсмотехника"
+msgstr ""
+
+# Objects : [n786907924, n786908173, n786908844, n786909108]
+# name:be: []
+msgid "Сосновая улица"
+msgstr ""
+
+# Objects : [n795832945, n795832952]
+# name:be: []
+msgid "СПТУ-67"
+msgstr ""
+
+# Objects : [n456031324]
+# name:be: []
+msgid "стадион"
+msgstr ""
+
+# Objects : [n456054756, n795714494]
+# name:be: []
+msgid "стадион Локомотив"
+msgstr ""
+
+# Objects : [n1212374891]
+# name:be: []
+msgid "Стадыён "Гомсельмаш""
+msgstr ""
+
+# Objects : [n586340492]
+# name:be: []
+msgid "Сухого"
+msgstr ""
+
+# Objects : [n1334767938]
+# name:be: []
+msgid "Торговое оборудование"
+msgstr ""
+
+# Objects : [n2206123062]
+# name:be: []
+msgid "Торгово-экономический университет"
+msgstr ""
+
+# Objects : [n1334775313]
+# name:be: []
+msgid "Торговый дом "Речицкий""
+msgstr ""
+
+# Objects : [n2861927035, n2861927036]
+# name:be: []
+msgid "Транспортный цех"
+msgstr ""
+
+# Objects : [n795805939, n795806026]
+# name:be: []
+msgid "ТЦ "Ома""
+msgstr ""
+
+# Objects : [n1334663371]
+# name:be: []
+msgid "ул. Бровки"
+msgstr ""
+
+# Objects : [n586340496, n586340498]
+# name:be: []
+msgid "ул. Героев Подпольщиков"
+msgstr ""
+
+# Objects : [n795714402]
+# name:be: []
+msgid "ул. Ефремова"
+msgstr ""
+
+# Objects : [n1129287191, n1129287216]
+# name:be: []
+msgid "ул. Карповича"
+msgstr ""
+
+# Objects : [n795832836]
+# name:be: []
+msgid "ул. Тимофеенко"
+msgstr ""
+
+# Objects : [n1818034180, n1818034183, n1818034187]
+# name:be: []
+msgid "ул. Чечерская"
+msgstr ""
+
+# Objects : [n795832950]
+# name:be: []
+msgid "ул. Чонгарской дивизии"
+msgstr ""
+
+# Objects : [n795891190]
+# name:be: []
+msgid "ул. Чонграрской дивизии"
+msgstr ""
+
+# Objects : [n633516451, n633516452]
+# name:be: []
+msgid "улица "9 Мая""
+msgstr ""
+
+# Objects : [n633516427, n633516496]
+# name:be: []
+msgid "улица "Международная""
+msgstr ""
+
+# Objects : [n1080315958, n1080316141]
+# name:be: []
+msgid "улица 50 лет заводу Гомсельмаш"
+msgstr ""
+
+# Objects : [n2878891210, n2878891272]
+# name:be: []
+msgid "улица 60 лет СССР"
+msgstr ""
+
+# Objects : [n2879044373]
+# name:be: []
+msgid "улица Бакунина"
+msgstr ""
+
+# Objects : [n455929190]
+# name:be: []
+msgid "улица Богданова"
+msgstr ""
+
+# Objects : [n1067479560, n2662968072]
+# name:be: []
+msgid "улица Бориса Царикова"
+msgstr ""
+
+# Objects : [n2415677623, n786909186]
+# name:be: []
+msgid "улица Борисенко"
+msgstr ""
+
+# Objects : [n1096265728, n2878891196]
+# name:be: []
+msgid "Улица Быховская"
+msgstr ""
+
+# Objects : [n994374835, n994374956, n994374994, n994375020]
+# name:be: []
+msgid "Улица Владимирова"
+msgstr ""
+
+# Objects : [n795714411]
+# name:be: []
+msgid "улица Гагарина"
+msgstr ""
+
+# Objects : [n1178825734, n1178825820, n1185905555]
+# name:be: []
+msgid "улица Головацкого"
+msgstr ""
+
+# Objects : [n1085383911]
+# name:be: []
+msgid "улица Жарковского"
+msgstr ""
+
+# Objects : [n2878891270, n2878891271]
+# name:be: []
+msgid "улица Жукова"
+msgstr ""
+
+# Objects : [n795714429, n795714475]
+# name:be: []
+msgid "улица Котовского"
+msgstr ""
+
+# Objects : [n633516453]
+# name:be: []
+msgid "улица Ленинградская"
+msgstr ""
+
+# Objects : [n1178825836, n1818034172]
+# name:be: []
+msgid "улица Макаёнка"
+msgstr ""
+
+# Objects : [n1129287178]
+# name:be: []
+msgid "улица Маневича"
+msgstr ""
+
+# Objects : [n1129287195]
+# name:be: []
+msgid "улица Народного Ополчения"
+msgstr ""
+
+# Objects : [n795714509]
+# name:be: []
+msgid "улица Осипова"
+msgstr ""
+
+# Objects : [n1129287207, n1129287220]
+# name:be: []
+msgid "улица Полесская"
+msgstr ""
+
+# Objects : [n1818034176]
+# name:be: []
+msgid "улица Свиридова"
+msgstr ""
+
+# Objects : [n1916708160, n1916708335]
+# name:be: []
+msgid "улица Севастопольская"
+msgstr ""
+
+# Objects : [n452529874, n455929188]
+# name:be: []
+msgid "улица Чапаева"
+msgstr ""
+
+# Objects : [n2166791105]
+# name:be: []
+msgid "улица Чернышевского"
+msgstr ""
+
+# Objects : [n1178918997]
+# name:be: []
+msgid "улица Чехова"
+msgstr ""
+
+# Objects : [n2876928339, n795714389]
+# name:be: []
+msgid "улица Ярославская"
+msgstr ""
+
+# Objects : [n455929174]
+# name:be: []
+msgid "универмаг Гомель"
+msgstr ""
+
+# Objects : [n1178918765, n1178918839]
+# name:be: []
+msgid "Универсам"
+msgstr ""
+
+# Objects : [n795714540]
+# name:be: []
+msgid "Универсам "Сельмашевский""
+msgstr ""
+
+# Objects : [n795805950, n795805969]
+# name:be: []
+msgid "универсам Облторгсоюза"
+msgstr ""
+
+# Objects : [n455929178, n455929179]
+# name:be: []
+msgid "Университет им. Ф. Скорины"
+msgstr ""
+
+# Objects : [n455929166, n455929168]
+# name:be: []
+msgid "фабрика 8 Марта"
+msgstr ""
+
+# Objects : [n2666776259]
+# name:be: []
+msgid "Химзавод"
+msgstr ""
+
+# Objects : [n1129287228]
+# name:be: []
+msgid "Центральный рынок (Маршрутки)"
+msgstr ""
+
+# Objects : [n2665572884, n786908381]
+# name:be: []
+msgid "Центролит"
+msgstr ""
+
+# Objects : [n1082774597, n1082774624]
+# name:be: []
+msgid "Центр радиационной медицины"
+msgstr ""
+
+# Objects : [n1334663373]
+# name:be: []
+msgid "Церковь"
+msgstr ""
+
+# Objects : [n455929167, n795714558]
+# name:be: []
+msgid "Цирк"
+msgstr ""
+
+# Objects : [n1334729446]
+# name:be: []
+msgid "Чехова"
+msgstr ""
+
+# Objects : [n795714531]
+# name:be: []
+msgid "Чкалова"
+msgstr ""
+
+# Objects : [n1129287201]
+# name:be: []
+msgid "Школа № 55"
+msgstr ""
+
+# Objects : [n1099385911, n795714520]
+# name:be: []
+msgid "Электотехнический Завод"
+msgstr ""
+
+# Objects : [n2412404971]
+# name:be: []
+msgid "Электрические сети"
+msgstr ""
+
+# Objects : [n706985539, n706985541]
+# name:be: []
+msgid "Электроаппаратура"
+msgstr ""
+
+# Objects : [n2412405066]
+# name:be: []
+msgid "Энергосбыт"
+msgstr ""
+

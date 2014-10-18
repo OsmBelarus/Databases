@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Беларусбанк</seg></tuv>
+      <tuv lang="BE"><seg>Беларусбанк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брест-Восточный</seg></tuv>
+      <tuv lang="BE"><seg>Брэст-Усходні</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>бульвар Космонавтов</seg></tuv>
+      <tuv lang="BE"><seg>бульвар Касманаўтаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>бульвар Шевченко</seg></tuv>
+      <tuv lang="BE"><seg>Бульвар Шаўчэнкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Варшавский рынок</seg></tuv>
+      <tuv lang="BE"><seg>Варшаўскі Рынак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Варшавское шоссе</seg></tuv>
+      <tuv lang="BE"><seg>Варшаўская шаша</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ветренная</seg></tuv>
+      <tuv lang="BE"><seg>Ветраная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Газоаппарат</seg></tuv>
+      <tuv lang="BE"><seg>Газаапарат</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гребной канал</seg></tuv>
+      <tuv lang="BE"><seg>Вяслярны канал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДП "Южный Городок"</seg></tuv>
+      <tuv lang="BE"><seg>ДП "Паўднёвы гарадок"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Завод</seg></tuv>
+      <tuv lang="BE"><seg>Завод</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Заречная</seg></tuv>
+      <tuv lang="BE"><seg>Зарэчная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зелёная</seg></tuv>
+      <tuv lang="BE"><seg>Зялёная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Колесника</seg></tuv>
+      <tuv lang="BE"><seg>Калеснiка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кольцевая</seg></tuv>
+      <tuv lang="BE"><seg>Кальцавая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Краснознамённая</seg></tuv>
+      <tuv lang="BE"><seg>Чырвоназамёная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Луцкая</seg></tuv>
+      <tuv lang="BE"><seg>Луцкая вул.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Махновича</seg></tuv>
+      <tuv lang="BE"><seg>Махновiча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>МОПРа</seg></tuv>
+      <tuv lang="BE"><seg>МОПРа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Орджоникидзе</seg></tuv>
+      <tuv lang="BE"><seg>Арджанікідзэ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Партизанский проспект</seg></tuv>
+      <tuv lang="BE"><seg>Партызанскі праспект</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Подгородская</seg></tuv>
+      <tuv lang="BE"><seg>Падгародская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пригородный вокзал</seg></tuv>
+      <tuv lang="BE"><seg>Прыгарадны вакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>проспект Машерова</seg></tuv>
+      <tuv lang="BE"><seg>праспект Машэрава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Скрипникова</seg></tuv>
+      <tuv lang="BE"><seg>Скрыпнікава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сябровская</seg></tuv>
+      <tuv lang="BE"><seg>Сяброўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>технический Университет</seg></tuv>
+      <tuv lang="BE"><seg>Тэхнічны універсітэт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ул. Богданчука</seg></tuv>
+      <tuv lang="BE"><seg>вуліца Багданчука</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица Гоголя</seg></tuv>
+      <tuv lang="BE"><seg>вуліца Гогаля</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица К. Маркса</seg></tuv>
+      <tuv lang="BE"><seg>вуліца К. Маркса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица Мошенского</seg></tuv>
+      <tuv lang="BE"><seg>вуліца Машэнскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Университет</seg></tuv>
+      <tuv lang="BE"><seg>Універсітэт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Цветотрон</seg></tuv>
+      <tuv lang="BE"><seg>Коляратрон</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральный универмаг</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтральны універмаг</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ЦМТ</seg></tuv>
+      <tuv lang="BE"><seg>ЦДТ</seg></tuv>
+    </tu>
+  </body></tmx>

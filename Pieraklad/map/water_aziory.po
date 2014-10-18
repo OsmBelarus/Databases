@@ -1,2020 +1,2490 @@
 # Objects : [w25182761, w25186255, w25200752]
-# name:be: [Алёшава возера, Белае, Машок]
+# name:be: []
 msgid "<null>"
+msgstr ""
 
 # Objects : [w17265783]
-# name:be: [Ричу]
+# name:be: []
 msgid "Riču ezers"
+msgstr ""
 
 # Objects : [r546895]
 # name:be: []
 msgid "Адамово озеро"
+msgstr ""
 
 # Objects : [w25195355]
-# name:be: [Адворанскае возера]
+# name:be: []
 msgid "Адворенское озеро"
+msgstr ""
 
 # Objects : [w29168703]
 # name:be: []
 msgid "Антозеро"
+msgstr ""
 
 # Objects : [w76476860]
 # name:be: []
 msgid "Аэропортовское озеро"
+msgstr ""
 
 # Objects : [w25187451, w293156861]
 # name:be: []
 msgid "Бакиново"
+msgstr ""
 
 # Objects : [w55362223]
 # name:be: []
 msgid "Бамовское озеро"
-
-# Objects : [w208415656, w29172077]
-# name:be: [Белае]
-msgid "Белое"
-
-# Objects : [w25202185]
-# name:be: [Белае возера]
-msgid "Белое озеро"
+msgstr ""
 
 # Objects : [w25194554]
 # name:be: []
 msgid "Бергут"
-
-# Objects : [w25200132]
-# name:be: [Бярэжа]
-msgid "Береже"
-
-# Objects : [w25196635]
-# name:be: []
-msgid "Березица"
-
-# Objects : [w25187382]
-# name:be: []
-msgid "Берёзовое"
+msgstr ""
 
 # Objects : [w25182753]
 # name:be: []
 msgid "Бобровское Озеро"
+msgstr ""
 
 # Objects : [w300068652]
 # name:be: []
 msgid "Божье око"
-
-# Objects : [w25202652]
-# name:be: [Вялікія Швакшты]
-msgid "Большие Швакшты"
+msgstr ""
 
 # Objects : [w257525553]
 # name:be: []
 msgid "Большуха"
+msgstr ""
 
 # Objects : [w25186781]
 # name:be: []
 msgid "Бохнава"
-
-# Objects : [w217763804]
-# name:be: []
-msgid "Бочка"
+msgstr ""
 
 # Objects : [w230273159]
 # name:be: []
 msgid "Бровное"
+msgstr ""
 
 # Objects : [w192542516]
 # name:be: []
 msgid "Быково"
+msgstr ""
 
-# Objects : [w16580402]
-# name:be: [Вензавец]
-msgid "Вёнзовец"
+# Objects : [w25196642]
+# name:be: []
+msgid "Великое"
+msgstr ""
 
 # Objects : [w113133458]
 # name:be: []
 msgid "Верхнее невицкое"
+msgstr ""
 
 # Objects : [w217643727]
 # name:be: []
 msgid "Верхнее озеро"
+msgstr ""
 
 # Objects : [w25195312]
 # name:be: []
 msgid "Вороновское озеро"
+msgstr ""
 
 # Objects : [w156280355]
 # name:be: []
 msgid "Выгорка"
-
-# Objects : [w25194827]
-# name:be: [Глыбокае]
-msgid "Глубокое"
+msgstr ""
 
 # Objects : [w29168206]
 # name:be: []
 msgid "Гнилое"
+msgstr ""
 
 # Objects : [w153736521]
 # name:be: []
 msgid "Городское"
+msgstr ""
 
 # Objects : [r4029517]
 # name:be: []
 msgid "городское озеро"
+msgstr ""
 
 # Objects : [w25194820]
 # name:be: []
 msgid "Городское озеро"
+msgstr ""
 
 # Objects : [w233443189]
 # name:be: []
 msgid "Городской бассейн"
+msgstr ""
 
 # Objects : [w288600895]
 # name:be: []
 msgid "Грибное"
+msgstr ""
 
 # Objects : [w25186183]
 # name:be: []
 msgid "Гусиное озеро"
+msgstr ""
+
+# Objects : [w25196698]
+# name:be: []
+msgid "Дворище"
+msgstr ""
 
 # Objects : [w16580405]
 # name:be: []
 msgid "Длуге"
+msgstr ""
 
 # Objects : [w25193802]
 # name:be: []
 msgid "Добужское"
+msgstr ""
 
 # Objects : [r160997]
-# name:be: [Дрывяты]
+# name:be: []
 msgid "Дривяты"
+msgstr ""
 
 # Objects : [w113234632]
 # name:be: []
 msgid "Дубки"
+msgstr ""
 
 # Objects : [w38246836]
-# name:be: [Яндрэня]
+# name:be: []
 msgid "Ендреня"
+msgstr ""
 
 # Objects : [w25192663]
 # name:be: []
 msgid "Жлобинсоке озеро"
+msgstr ""
 
 # Objects : [w125326566]
 # name:be: []
 msgid "Залесское озеро"
+msgstr ""
 
 # Objects : [w25185356]
 # name:be: []
 msgid "Захарище"
+msgstr ""
 
 # Objects : [w29168765]
 # name:be: []
 msgid "Зацково"
+msgstr ""
 
 # Objects : [w256490687]
 # name:be: []
 msgid "Искусственное водохранилище"
+msgstr ""
 
 # Objects : [w200742290]
 # name:be: []
 msgid "Искусственное озеро Рейтана"
+msgstr ""
 
 # Objects : [w38246834]
-# name:be: [Кавеня]
+# name:be: []
 msgid "Кавеня"
+msgstr ""
 
 # Objects : [w25191661]
 # name:be: []
 msgid "Каменское озеро"
+msgstr ""
 
 # Objects : [w208415657]
 # name:be: []
 msgid "Клименково"
+msgstr ""
 
 # Objects : [w25194987]
 # name:be: []
 msgid "Колочье"
+msgstr ""
 
 # Objects : [w25182958]
 # name:be: []
 msgid "Кормянское озеро"
+msgstr ""
 
 # Objects : [w288473119]
 # name:be: []
 msgid "Кривое"
+msgstr ""
 
 # Objects : [w25189302]
 # name:be: []
 msgid "Кураковское озеро"
+msgstr ""
 
 # Objects : [r29027]
 # name:be: []
 msgid "Лебединое озеро"
-
-# Objects : [w291609213]
-# name:be: []
-msgid "Лесное"
+msgstr ""
 
 # Objects : [w257524375]
 # name:be: []
 msgid "Летчицкое"
+msgstr ""
 
 # Objects : [w25194652]
 # name:be: []
 msgid "Литвин"
+msgstr ""
 
 # Objects : [w256234174]
-# name:be: [Лукомскае]
+# name:be: []
 msgid "Лукомское"
+msgstr ""
 
 # Objects : [w42436266]
 # name:be: []
 msgid "Любленское озеро"
+msgstr ""
 
 # Objects : [w25183080]
 # name:be: []
 msgid "Маковище"
+msgstr ""
 
 # Objects : [w257525069]
 # name:be: []
 msgid "Малуха"
-
-# Objects : [w25200722]
-# name:be: []
-msgid "Малые Швакшты"
+msgstr ""
 
 # Objects : [w67715014]
 # name:be: []
 msgid "Натальевское озеро"
+msgstr ""
 
 # Objects : [r300880]
-# name:be: [Неспіш]
+# name:be: []
 msgid "Несьпиш"
+msgstr ""
 
 # Objects : [w25196268]
-# name:be: [Нізянка]
-msgid "Низянка"
-
-# Objects : [r1655761]
 # name:be: []
-msgid "новоельнянское озеро"
+msgid "Низянка"
+msgstr ""
 
 # Objects : [r2189944]
-# name:be: [Навята]
+# name:be: []
 msgid "Новята"
+msgstr ""
 
 # Objects : [w25193798]
 # name:be: []
 msgid "Ободь"
+msgstr ""
 
 # Objects : [w25193254]
-# name:be: [Абакрытэлі]
+# name:be: []
 msgid "Обокрители"
+msgstr ""
 
 # Objects : [w25185014]
 # name:be: []
 msgid "Одинока"
+msgstr ""
+
+# Objects : [w25196032]
+# name:be: []
+msgid "оз. Азаренское"
+msgstr ""
+
+# Objects : [w25189601]
+# name:be: []
+msgid "оз. Азароново"
+msgstr ""
+
+# Objects : [w25193822]
+# name:be: []
+msgid "оз. Азерцы"
+msgstr ""
+
+# Objects : [w25193273]
+# name:be: []
+msgid "оз. Аксеново"
+msgstr ""
+
+# Objects : [w25183694]
+# name:be: []
+msgid "оз. Алашское"
+msgstr ""
+
+# Objects : [w25197116]
+# name:be: []
+msgid "оз. Алоизберг"
+msgstr ""
 
 # Objects : [w25195542]
-# name:be: [воз. Апукова]
+# name:be: []
 msgid "оз. Апуково"
+msgstr ""
 
 # Objects : [w25196405]
-# name:be: [воз. Арлейка]
+# name:be: []
 msgid "оз. Арлейко"
+msgstr ""
 
 # Objects : [w25195544]
-# name:be: [Афанасьеўскае воз.]
-msgid "оз.Афанасьевское"
+# name:be: []
+msgid "оз. Афанасьевское"
+msgstr ""
 
 # Objects : [w25189007]
 # name:be: []
 msgid "оз. Ашитик"
+msgstr ""
 
 # Objects : [w25184594]
 # name:be: []
 msgid "оз. Бадинец"
+msgstr ""
 
 # Objects : [w223291132]
-# name:be: [воз. Баранаўскае]
+# name:be: []
 msgid "оз. Барановское"
+msgstr ""
 
 # Objects : [w25181784]
 # name:be: []
 msgid "оз. Барсуки"
+msgstr ""
 
 # Objects : [r2952256]
 # name:be: []
 msgid "оз. Баторино"
+msgstr ""
 
 # Objects : [w100147706]
 # name:be: []
 msgid "оз. Бездонка"
+msgstr ""
 
 # Objects : [w25187649]
-# name:be: [воз. Бяздоннае]
+# name:be: []
 msgid "оз. Бездонное"
+msgstr ""
 
 # Objects : [w35809841]
-# name:be: [Безназоўнае воз.]
-msgid "оз.Безымянное"
+# name:be: []
+msgid "оз. Безымянное"
+msgstr ""
 
-# Objects : [w25188750, w25193743, w25194014, w25194199, w25194332, w25197395, w25197648, w25197907, w25198905, w25200866, w25201340]
-# name:be: [Белае, Белае воз., воз. Белае]
+# Objects : [w208415656, w25188750, w25193743, w25194014, w25194199, w25194332, w25195632, w25197395, w25197648, w25197907, w25198905, w25200866, w25201340, w25202185, w29172077]
+# name:be: []
 msgid "оз. Белое"
+msgstr ""
+
+# Objects : [w25200132]
+# name:be: []
+msgid "оз. Береже"
+msgstr ""
 
 # Objects : [w25193706]
-# name:be: [воз. Бярэзінец]
+# name:be: []
 msgid "оз. Березинец"
+msgstr ""
+
+# Objects : [w25196635]
+# name:be: []
+msgid "оз. Березица"
+msgstr ""
 
 # Objects : [w25194959]
 # name:be: []
 msgid "оз. Березнянское"
+msgstr ""
+
+# Objects : [w25187382]
+# name:be: []
+msgid "оз. Берёзовое"
+msgstr ""
 
 # Objects : [w25201925]
-# name:be: [воз. Бярозаўскае]
+# name:be: []
 msgid "оз. Берёзовское"
+msgstr ""
 
 # Objects : [w25193961]
 # name:be: []
 msgid "оз. Бержонка"
+msgstr ""
 
 # Objects : [w25201351]
-# name:be: [воз. Бярнова]
+# name:be: []
 msgid "оз. Берново"
+msgstr ""
 
 # Objects : [w25194232]
-# name:be: [Бернскае воз.]
+# name:be: []
 msgid "оз. Бернское"
+msgstr ""
 
 # Objects : [w25195249]
-# name:be: [воз. Бікложа]
+# name:be: []
 msgid "оз. Бикложа"
+msgstr ""
 
 # Objects : [w25187030]
-# name:be: [воз. Білеіца]
+# name:be: []
 msgid "оз. Билеица"
+msgstr ""
 
 # Objects : [w25200785]
-# name:be: [воз. Бабрыца]
+# name:be: []
 msgid "оз. Бобрица"
+msgstr ""
 
 # Objects : [w25199824]
-# name:be: [воз. Багданаўскае]
+# name:be: []
 msgid "оз. Богдановское"
+msgstr ""
+
+# Objects : [w25189638]
+# name:be: []
+msgid "оз. Богушеввича"
+msgstr ""
 
 # Objects : [w25190155]
 # name:be: []
 msgid "оз. Боконьки"
+msgstr ""
 
 # Objects : [w25195698]
-# name:be: [Болецкае воз.]
+# name:be: []
 msgid "оз. Болецкое"
+msgstr ""
 
 # Objects : [w25200099]
 # name:be: []
 msgid "оз. Болойсо"
+msgstr ""
 
 # Objects : [w25197148]
 # name:be: []
 msgid "оз. Болта"
+msgstr ""
+
+# Objects : [w25202652]
+# name:be: []
+msgid "оз. Большие Швакшты"
+msgstr ""
 
 # Objects : [w25185464]
 # name:be: []
 msgid "оз. Большое"
+msgstr ""
 
 # Objects : [w25200219]
-# name:be: [Вялікае Белае воз.]
+# name:be: []
 msgid "оз. Большое Белое"
+msgstr ""
 
 # Objects : [w25194707]
 # name:be: []
 msgid "оз. Большое Городно"
+msgstr ""
 
 # Objects : [w25196892]
-# name:be: [воз. Вялікае Астравіта]
+# name:be: []
 msgid "оз. Большое Островито"
+msgstr ""
 
 # Objects : [w25195385]
-# name:be: [Вялікае Астраўлянскае воз.]
+# name:be: []
 msgid "оз. Большое Островлянское"
+msgstr ""
 
 # Objects : [w25191535]
 # name:be: []
 msgid "оз. Большое Тоболы"
+msgstr ""
 
 # Objects : [w25194295]
-# name:be: [воз. Бароўка]
+# name:be: []
 msgid "оз. Боровка"
+msgstr ""
 
 # Objects : [w25187119]
-# name:be: [воз. Бараўлянскае]
+# name:be: []
 msgid "оз. Боровлянское"
+msgstr ""
 
 # Objects : [w25196078, w25200674, w254012988]
-# name:be: [воз. Бароўна, воз. Бораўна]
+# name:be: []
 msgid "оз. Боровно"
+msgstr ""
 
 # Objects : [w25196526]
-# name:be: [воз. Баравое]
+# name:be: []
 msgid "оз. Боровое"
+msgstr ""
 
 # Objects : [w25195138]
-# name:be: [Бараўское воз.]
-msgid "оз.Боровское"
+# name:be: []
+msgid "оз. Боровское"
+msgstr ""
 
 # Objects : [w25190211]
 # name:be: []
 msgid "оз. Бочево"
+msgstr ""
+
+# Objects : [w217763804]
+# name:be: []
+msgid "оз. Бочка"
+msgstr ""
 
 # Objects : [w25197205]
 # name:be: []
 msgid "оз. Бродно"
+msgstr ""
 
 # Objects : [w25186074]
 # name:be: []
 msgid "оз. Бубольское"
+msgstr ""
 
 # Objects : [w25201485]
-# name:be: [воз. Будавесць]
+# name:be: []
 msgid "оз. Будовесть"
+msgstr ""
 
 # Objects : [w25197976]
-# name:be: [Буёўскае воз.]
-msgid "оз. Буевское"
+# name:be: []
+msgid "оз. Буёвское"
+msgstr ""
 
 # Objects : [w25195083]
 # name:be: []
 msgid "оз. Бутач"
+msgstr ""
 
 # Objects : [w223290077]
-# name:be: [воз. Бутыкі]
+# name:be: []
 msgid "оз. Бутыки"
+msgstr ""
 
 # Objects : [w25201262]
 # name:be: []
 msgid "оз. Важа"
+msgstr ""
 
 # Objects : [w25186893]
 # name:be: []
 msgid "оз. Валово Очко"
+msgstr ""
 
 # Objects : [w25197131]
-# name:be: [воз. Валуйскае]
+# name:be: []
 msgid "оз. Валуйское"
+msgstr ""
 
 # Objects : [w25191272]
-# name:be: [воз. Ведранец]
+# name:be: []
 msgid "оз. Ведренец"
+msgstr ""
 
 # Objects : [w25193507]
 # name:be: []
 msgid "оз. Великое"
+msgstr ""
+
+# Objects : [w16580402]
+# name:be: []
+msgid "оз. Вёнзовец"
+msgstr ""
 
 # Objects : [w25195217]
 # name:be: []
 msgid "оз. Вера"
+msgstr ""
 
 # Objects : [w25192631]
 # name:be: []
 msgid "оз. Вербна"
+msgstr ""
 
 # Objects : [w25196201]
 # name:be: []
 msgid "оз. Веренское"
+msgstr ""
 
 # Objects : [r581955]
-# name:be: [воз. Вяркудскае]
+# name:be: []
 msgid "оз. Веркудское"
+msgstr ""
 
 # Objects : [w25195968]
 # name:be: []
 msgid "оз. Вилия"
+msgstr ""
 
 # Objects : [w25190521]
 # name:be: []
 msgid "оз. Виницкое"
+msgstr ""
 
-# Objects : [w25195057]
+# Objects : [w25195057, w25197675]
 # name:be: []
-msgid "оз.Вир"
+msgid "оз. Вир"
+msgstr ""
 
 # Objects : [w25187961]
-# name:be: [воз. Вобранка]
+# name:be: []
 msgid "оз. Вобренка"
+msgstr ""
 
 # Objects : [w25197346]
-# name:be: [воз Вогзіна]
+# name:be: []
 msgid "оз. Вогзино"
+msgstr ""
 
 # Objects : [w25201796]
 # name:be: []
 msgid "оз. Войсо"
+msgstr ""
 
 # Objects : [w25195104]
 # name:be: []
 msgid "оз. Войты"
+msgstr ""
 
 # Objects : [w25189476]
-# name:be: [воз. Ваўконька]
+# name:be: []
 msgid "оз. Волконька"
+msgstr ""
 
 # Objects : [w25195574]
-# name:be: [воз. Валнея]
+# name:be: []
 msgid "оз. Волнея"
+msgstr ""
 
 # Objects : [w303753778]
-# name:be: [воз. Воласна]
-msgid "оз.Волосно"
+# name:be: []
+msgid "оз. Волосно"
+msgstr ""
 
 # Objects : [w23074632]
 # name:be: []
 msgid "оз. Волосо"
+msgstr ""
 
 # Objects : [w25187657]
 # name:be: []
 msgid "оз. Волосовское"
+msgstr ""
 
 # Objects : [w23074652]
 # name:be: []
 msgid "оз. Волос Южный"
+msgstr ""
 
 # Objects : [r286706]
-# name:be: [воз. Васлепна]
+# name:be: []
 msgid "оз. Вослепно"
+msgstr ""
 
 # Objects : [w125453567]
-# name:be: [воз. Вочка]
+# name:be: []
 msgid "оз. Вочка"
+msgstr ""
 
 # Objects : [w25184565]
-# name:be: [воз. Другое]
+# name:be: []
 msgid "оз. Второе"
+msgstr ""
 
 # Objects : [w25191656]
 # name:be: []
 msgid "оз. Выдреник"
+msgstr ""
 
 # Objects : [w25200965]
-# name:be: [воз. Вымна]
-msgid "оз.Вымно"
+# name:be: []
+msgid "оз. Вымно"
+msgstr ""
 
 # Objects : [w25201766]
-# name:be: [воз. Вымна (спартыўнае)]
+# name:be: []
 msgid "оз. Вымно (спортивное)"
+msgstr ""
 
 # Objects : [w25197117]
-# name:be: [воз. Вышадскае]
+# name:be: []
 msgid "оз. Вышедское"
+msgstr ""
 
 # Objects : [w25198010]
-# name:be: [воз. Гарнасвечча]
+# name:be: []
 msgid "оз. Гарносвечье"
+msgstr ""
 
 # Objects : [w136161108, w25192322]
-# name:be: [воз. Гваздок]
+# name:be: []
 msgid "оз. Гвоздок"
+msgstr ""
 
 # Objects : [w25183302]
-# name:be: [воз. Глістовік]
+# name:be: []
 msgid "оз. Глистовик"
+msgstr ""
 
-# Objects : [w25195077, w25196419]
-# name:be: [Глыбокае воз., воз. Глыбокае]
+# Objects : [w25194827, w25195077, w25196419]
+# name:be: []
 msgid "оз. Глубокое"
+msgstr ""
 
 # Objects : [w25193957]
-# name:be: [воз. Глыбочыца]
+# name:be: []
 msgid "оз. Глыбочица"
+msgstr ""
 
 # Objects : [w25191316, w25193765]
-# name:be: [воз. Глыбачка]
+# name:be: []
 msgid "оз. Глыбочка"
+msgstr ""
 
 # Objects : [w25193569]
-# name:be: [воз. Глыбач]
+# name:be: []
 msgid "оз. Глыбочь"
+msgstr ""
 
 # Objects : [w25195130, w25198360, w25198514]
-# name:be: [воз. Гародна]
+# name:be: []
 msgid "оз. Городно"
+msgstr ""
 
 # Objects : [w25194498]
 # name:be: []
 msgid "оз. Горушка"
+msgstr ""
 
 # Objects : [w25191728]
 # name:be: []
 msgid "оз. Гостибище"
+msgstr ""
 
 # Objects : [w25195933]
-# name:be: [воз. Міхалінава (Грабеніцкае)]
+# name:be: []
 msgid "оз. Гребенницкое"
+msgstr ""
 
 # Objects : [r2783497]
-# name:be: [возера Груда]
+# name:be: []
 msgid "оз. Груда"
+msgstr ""
 
 # Objects : [w25195274]
 # name:be: []
 msgid "оз. Грядское"
+msgstr ""
+
+# Objects : [w274720732]
+# name:be: []
+msgid "оз. Гута"
+msgstr ""
 
 # Objects : [w25193516]
 # name:be: []
 msgid "оз. Датыно"
+msgstr ""
 
 # Objects : [w25200811]
-# name:be: [воз. Дзевінскае]
+# name:be: []
 msgid "оз. Девинское"
+msgstr ""
 
 # Objects : [w25196999]
-# name:be: [Дзявочае воз.]
+# name:be: []
 msgid "оз. Девичье"
+msgstr ""
 
 # Objects : [w25188025]
 # name:be: []
 msgid "оз. Дедово"
+msgstr ""
 
 # Objects : [w25189573]
 # name:be: []
 msgid "оз. Дейковское"
+msgstr ""
 
 # Objects : [w25201264]
-# name:be: [Дабееўскае воз.]
+# name:be: []
 msgid "оз. Добеевское"
+msgstr ""
 
 # Objects : [w25189005, w25196941, w35767966]
-# name:be: [воз. Добрына]
+# name:be: []
 msgid "оз. Добрино"
+msgstr ""
 
 # Objects : [w25192932]
 # name:be: []
 msgid "оз. Доброе"
+msgstr ""
 
 # Objects : [w25188837, w25190621, w25192543, w25193431, w25194047, w25194203, w25196897, w25199600]
-# name:be: [Доўгае воз., воз. Доўгае]
+# name:be: []
 msgid "оз. Долгое"
+msgstr ""
 
 # Objects : [w25194385]
 # name:be: []
 msgid "оз. Должно"
+msgstr ""
 
 # Objects : [w25194643]
 # name:be: []
 msgid "оз. Домановское"
+msgstr ""
 
 # Objects : [w45683158]
 # name:be: []
 msgid "оз. Дуб"
+msgstr ""
 
 # Objects : [w25188630]
-# name:be: [воз. Дубраўка]
+# name:be: []
 msgid "оз. Дубровка"
+msgstr ""
 
 # Objects : [w25195372]
-# name:be: [воз. Дубраўскае]
+# name:be: []
 msgid "оз. Дубровское"
+msgstr ""
+
+# Objects : [r2189248]
+# name:be: []
+msgid "оз. Езерище"
+msgstr ""
 
 # Objects : [w25196655]
 # name:be: []
 msgid "оз. Ельно"
+msgstr ""
 
 # Objects : [w25188800]
-# name:be: [воз. Яршова]
+# name:be: []
 msgid "оз. Ершово"
+msgstr ""
 
 # Objects : [w127012420]
-# name:be: [воз. Жабніца]
+# name:be: []
 msgid "оз. Жабница"
+msgstr ""
 
 # Objects : [w25195964]
-# name:be: [воз. Жэжліна]
+# name:be: []
 msgid "оз. Жежлино"
+msgstr ""
 
 # Objects : [r1691971]
-# name:be: [воз. Жэнна]
+# name:be: []
 msgid "оз. Женно"
+msgstr ""
 
 # Objects : [w25201918]
-# name:be: [воз. Жэрынскае]
+# name:be: []
 msgid "оз. Жеринское"
+msgstr ""
 
 # Objects : [w25197144]
-# name:be: [воз. Жодзень]
+# name:be: []
 msgid "оз. Жодень"
+msgstr ""
 
 # Objects : [w25184785]
 # name:be: []
 msgid "оз. Жужалица"
+msgstr ""
 
 # Objects : [w25186299]
-# name:be: [воз. Жужаль]
+# name:be: []
 msgid "оз. Жужель"
+msgstr ""
+
+# Objects : [w25186441]
+# name:be: []
+msgid "оз. Заболотье"
+msgstr ""
 
 # Objects : [w25200564]
-# name:be: [воз. Завесна]
+# name:be: []
 msgid "оз. Завесно"
+msgstr ""
 
 # Objects : [w25198074]
-# name:be: [воз. Задрач]
+# name:be: []
 msgid "оз. Задрач"
+msgstr ""
 
 # Objects : [w25195888]
-# name:be: [воз. Заляшно]
+# name:be: []
 msgid "оз. Залешно"
+msgstr ""
 
 # Objects : [w25193641]
-# name:be: [воз. Замошша]
+# name:be: []
 msgid "оз. Замошье"
+msgstr ""
 
 # Objects : [w25193402]
-# name:be: [воз. Заазерскае]
+# name:be: []
 msgid "оз. Заозерское"
+msgstr ""
 
 # Objects : [w25194534]
-# name:be: [Запецкае воз.]
+# name:be: []
 msgid "оз. Запецкое"
+msgstr ""
 
 # Objects : [w25193428]
 # name:be: []
 msgid "оз. Запортово"
+msgstr ""
 
 # Objects : [w25185350]
 # name:be: []
 msgid "оз. Заслистинок"
+msgstr ""
 
 # Objects : [w25195406]
-# name:be: [воз. Захбейка]
+# name:be: []
 msgid "оз. Захбейка"
+msgstr ""
 
 # Objects : [w25191176]
 # name:be: []
 msgid "оз. Звонково"
+msgstr ""
 
 # Objects : [w25191840]
-# name:be: [воз. Зелянец]
+# name:be: []
 msgid "оз. Зеленец"
+msgstr ""
 
 # Objects : [w25184376]
 # name:be: []
 msgid "оз. Зелёное"
+msgstr ""
 
 # Objects : [w25199121]
-# name:be: [воз. Зелянскае]
+# name:be: []
 msgid "оз. Зеленское"
+msgstr ""
 
 # Objects : [w49074606]
 # name:be: []
 msgid "оз. Зосино"
+msgstr ""
 
 # Objects : [w25197625]
 # name:be: []
 msgid "оз. Ивесь"
+msgstr ""
 
 # Objects : [w25201133]
 # name:be: []
 msgid "оз. Иказнь"
+msgstr ""
 
 # Objects : [w25194788]
 # name:be: []
 msgid "оз. Ильменек"
+msgstr ""
 
 # Objects : [w25200125]
 # name:be: []
 msgid "оз. Иново"
+msgstr ""
 
 # Objects : [w25191217]
 # name:be: []
 msgid "оз. Искровское"
+msgstr ""
 
 # Objects : [w25196244]
-# name:be: [воз. Іса]
+# name:be: []
 msgid "оз. Исса"
+msgstr ""
 
 # Objects : [w25193527]
-# name:be: [Казённае воз.]
-msgid "оз.Казенное"
+# name:be: []
+msgid "оз. Казенное"
+msgstr ""
 
 # Objects : [w25197686]
-# name:be: [воз. Какісіна]
+# name:be: []
 msgid "оз. Какисино"
+msgstr ""
 
 # Objects : [w25194995]
 # name:be: []
 msgid "оз. Каменка"
+msgstr ""
 
 # Objects : [w25193415]
 # name:be: []
 msgid "оз. Каресино"
+msgstr ""
 
 # Objects : [w25196825]
 # name:be: []
 msgid "оз. Карпово"
+msgstr ""
 
 # Objects : [w25191344]
 # name:be: []
 msgid "оз. Ким"
+msgstr ""
 
 # Objects : [w25200310]
-# name:be: [воз. Кічына]
-msgid "оз.Кичино"
+# name:be: []
+msgid "оз. Кичино"
+msgstr ""
 
 # Objects : [w25189068]
 # name:be: []
 msgid "оз. Климовское"
+msgstr ""
 
 # Objects : [w25194038]
-# name:be: [воз. Княгiнiскае]
+# name:be: []
 msgid "оз. Княгининское"
+msgstr ""
 
 # Objects : [w25188697]
 # name:be: []
 msgid "оз. Козье"
+msgstr ""
 
 # Objects : [w25193069]
-# name:be: [воз. Калесiна]
+# name:be: []
 msgid "оз. Колесино"
+msgstr ""
 
 # Objects : [w25190505]
-# name:be: [воз. Калодзезь]
+# name:be: []
 msgid "оз. Колодезь"
+msgstr ""
 
 # Objects : [w25193010]
 # name:be: []
 msgid "оз. Колодно"
+msgstr ""
 
 # Objects : [w25187080]
-# name:be: [воз. Каламерка]
+# name:be: []
 msgid "оз. Коломерка"
+msgstr ""
 
 # Objects : [w25194764]
 # name:be: []
 msgid "оз. Колпино"
+msgstr ""
 
 # Objects : [w291271081]
 # name:be: []
 msgid "оз. Кополовище"
+msgstr ""
 
 # Objects : [w25197644]
-# name:be: [воз. Кастаўе]
+# name:be: []
 msgid "оз. Костовье"
+msgstr ""
 
 # Objects : [w25195494]
-# name:be: [воз. Катоўскае]
+# name:be: []
 msgid "оз. Котовское"
+msgstr ""
 
 # Objects : [w117573792]
-# name:be: [воз. Кашалкі]
+# name:be: []
 msgid "оз. Кошелки"
+msgstr ""
 
 # Objects : [w25201277]
-# name:be: [воз. Кашо]
+# name:be: []
 msgid "оз. Кошо"
+msgstr ""
+
+# Objects : [w25192602]
+# name:be: []
+msgid "оз. Крапивное"
+msgstr ""
 
 # Objects : [w25185436]
 # name:be: []
 msgid "оз. Краснец"
+msgstr ""
 
 # Objects : [w25193932]
-# name:be: [Краснадворскае воз.]
+# name:be: []
 msgid "оз. Краснодворское"
+msgstr ""
 
-# Objects : [w25188740, w25194092]
-# name:be: [воз. Краснае]
+# Objects : [w131835083, w25188740, w25194092]
+# name:be: []
 msgid "оз. Красное"
+msgstr ""
 
 # Objects : [w25184762]
 # name:be: []
 msgid "оз. Красное Очко"
+msgstr ""
 
 # Objects : [w25201846]
-# name:be: [Крывое воз.]
+# name:be: []
 msgid "оз. Кривое"
+msgstr ""
 
 # Objects : [w25182748, w25196703]
-# name:be: [воз. Круглік]
+# name:be: []
 msgid "оз. Круглик"
+msgstr ""
 
 # Objects : [w25192558, w25194976]
-# name:be: [воз. Круглае]
+# name:be: []
 msgid "оз. Круглое"
+msgstr ""
 
 # Objects : [w25185772]
-# name:be: [воз. Круглянскае]
+# name:be: []
 msgid "оз. Круглянское"
+msgstr ""
 
 # Objects : [w25186532]
 # name:be: []
 msgid "оз. Крупчино"
+msgstr ""
 
 # Objects : [w25195154]
-# name:be: [воз. Крыльцова]
+# name:be: []
 msgid "оз. Крыльцово"
+msgstr ""
 
 # Objects : [w25194559]
 # name:be: []
 msgid "оз. Кузьмино"
+msgstr ""
 
 # Objects : [w25197999]
-# name:be: [воз. Кузьмічы]
+# name:be: []
 msgid "оз. Кузьмичи"
+msgstr ""
 
 # Objects : [w25187378]
 # name:be: []
 msgid "оз. Кулек"
+msgstr ""
 
 # Objects : [w25192399]
-# name:be: [Кулікоўскае воз.]
+# name:be: []
 msgid "оз. Куликовское"
+msgstr ""
 
 # Objects : [w25195510]
-# name:be: [Кураўшчына]
+# name:be: []
 msgid "оз. Куровщина"
+msgstr ""
+
+# Objects : [w274720733]
+# name:be: []
+msgid "оз. Кут"
+msgstr ""
+
+# Objects : [w77731631]
+# name:be: []
+msgid "оз. Лань"
+msgstr ""
 
 # Objects : [w25192560]
 # name:be: []
 msgid "оз. Латковское"
+msgstr ""
 
 # Objects : [w25194387]
 # name:be: []
 msgid "оз. Лебедевка"
+msgstr ""
 
 # Objects : [w25195064]
-# name:be: [воз. Лезвінка]
+# name:be: []
 msgid "оз. Лезвинка"
+msgstr ""
 
 # Objects : [w25192117]
 # name:be: []
 msgid "оз. Леновец"
+msgstr ""
 
 # Objects : [w25201624]
-# name:be: [воз. Лепельскае]
+# name:be: []
 msgid "оз. Лепельское"
+msgstr ""
 
 # Objects : [w25197952]
-# name:be: [воз. Лескавічы]
+# name:be: []
 msgid "оз. Лесковичи"
+msgstr ""
+
+# Objects : [w291609213]
+# name:be: []
+msgid "оз. Лесное"
+msgstr ""
 
 # Objects : [w25195956]
 # name:be: []
 msgid "оз. Лётцы"
+msgstr ""
 
 # Objects : [w25192615, w25195133]
-# name:be: [воз. Лешна]
+# name:be: []
 msgid "оз. Лешно"
+msgstr ""
 
 # Objects : [w25191612]
-# name:be: [воз. Лiнец]
+# name:be: []
 msgid "оз. Линец"
+msgstr ""
 
 # Objects : [w25194214]
-# name:be: [воз. Лiнка]
+# name:be: []
 msgid "оз. Линко"
+msgstr ""
 
 # Objects : [w25193319]
 # name:be: []
 msgid "оз. Линное"
+msgstr ""
 
 # Objects : [w25189703]
-# name:be: [воз. Ліпкі]
+# name:be: []
 msgid "оз. Липки"
+msgstr ""
 
 # Objects : [w25199453, w25199749]
-# name:be: [воз. Ліпна]
+# name:be: []
 msgid "оз. Липно"
+msgstr ""
+
+# Objects : [r77430]
+# name:be: []
+msgid "оз. Лисно"
+msgstr ""
 
 # Objects : [w25197437]
-# name:be: [воз. Лосвіда]
+# name:be: []
 msgid "оз. Лосвидо"
+msgstr ""
 
 # Objects : [w292256836]
-# name:be: [воз. Лугавое]
+# name:be: []
 msgid "оз. Луговое"
+msgstr ""
 
 # Objects : [w25188753]
-# name:be: [воз. Лужэнец]
+# name:be: []
 msgid "оз. Луженец"
+msgstr ""
 
 # Objects : [w25195303]
-# name:be: [воз. Лукаўскае]
+# name:be: []
 msgid "оз. Луковское"
+msgstr ""
 
 # Objects : [w25190477]
 # name:be: []
 msgid "оз. Лутово"
+msgstr ""
 
 # Objects : [w25196701]
-# name:be: [Любжынскае воз.]
+# name:be: []
 msgid "оз. Любжинское"
+msgstr ""
 
 # Objects : [w25196195]
-# name:be: [воз. Любiцына]
+# name:be: []
 msgid "оз. Любицино"
+msgstr ""
 
 # Objects : [w25194904]
-# name:be: [воз. Людзвішча]
+# name:be: []
 msgid "оз. Людвище"
+msgstr ""
 
 # Objects : [w25197143]
-# name:be: [воз. Люкшына]
+# name:be: []
 msgid "оз. Люкшино"
+msgstr ""
 
 # Objects : [w25197039]
-# name:be: [воз. Лядна]
+# name:be: []
 msgid "оз. Лядно"
+msgstr ""
 
 # Objects : [w25194918]
-# name:be: [Макараўскае воз.]
+# name:be: []
 msgid "оз. Макаровское"
+msgstr ""
 
 # Objects : [w25195745]
-# name:be: [воз. Макачы]
+# name:be: []
 msgid "оз. Макачи"
+msgstr ""
 
 # Objects : [w25188165]
 # name:be: []
 msgid "оз. Макеенское"
+msgstr ""
 
 # Objects : [w25198464]
-# name:be: [Малое Белае воз.]
+# name:be: []
 msgid "оз. Малое Белое"
+msgstr ""
 
 # Objects : [w25193246]
 # name:be: []
 msgid "оз. Малое Городно"
+msgstr ""
 
 # Objects : [w25192941]
 # name:be: []
 msgid "оз. Малое Островито"
+msgstr ""
 
 # Objects : [w25189799]
 # name:be: []
 msgid "оз. Малое Тоболы"
+msgstr ""
 
 # Objects : [w25194888]
-# name:be: [воз. Малое Чарнова]
+# name:be: []
 msgid "оз. Малое Черново"
+msgstr ""
+
+# Objects : [r2081674]
+# name:be: []
+msgid "оз. Малые Швакшты"
+msgstr ""
 
 # Objects : [w25191265]
 # name:be: []
 msgid "оз. Маслицкое"
+msgstr ""
 
 # Objects : [w25200249]
-# name:be: [воз. Мядзесна]
+# name:be: []
 msgid "оз. Медесно"
+msgstr ""
 
 # Objects : [w25198417]
-# name:be: [Мяжа]
+# name:be: []
 msgid "оз. Межа"
+msgstr ""
 
 # Objects : [w25191605, w25196551]
-# name:be: [Мелкае воз.]
+# name:be: []
 msgid "оз. Мелкое"
+msgstr ""
 
 # Objects : [w25196094]
 # name:be: []
 msgid "оз. Мено"
+msgstr ""
 
 # Objects : [w25191297]
-# name:be: [Мінтуроўскае воз.]
+# name:be: []
 msgid "оз. Минтуровское"
+msgstr ""
 
 # Objects : [w25192435]
 # name:be: []
 msgid "оз. Млынок"
+msgstr ""
 
 # Objects : [w25188730]
 # name:be: []
 msgid "оз. Млычино"
+msgstr ""
 
 # Objects : [w25194383]
 # name:be: []
 msgid "оз. Молено"
+msgstr ""
+
+# Objects : [w25196277]
+# name:be: []
+msgid "оз. Молодежное"
+msgstr ""
+
+# Objects : [r2071795]
+# name:be: []
+msgid "оз. Молокозаводское"
+msgstr ""
 
 # Objects : [w25192628]
-# name:be: [воз. Моратна]
+# name:be: []
 msgid "оз. Моратно"
+msgstr ""
+
+# Objects : [w25190371]
+# name:be: []
+msgid "оз. Мох"
+msgstr ""
 
 # Objects : [w25197971, w25199588]
-# name:be: [воз. Мошна]
+# name:be: []
 msgid "оз. Мошно"
+msgstr ""
 
 # Objects : [w25200200]
-# name:be: [воз. Мугірына]
+# name:be: []
 msgid "оз. Мугирино"
+msgstr ""
 
 # Objects : [w25195518]
-# name:be: [воз. Мурожніцкае]
+# name:be: []
 msgid "оз. Мурожницкое"
+msgstr ""
 
 # Objects : [w61734389]
-# name:be: [воз. Мухавецкае]
+# name:be: []
 msgid "оз. Мухавецкое"
+msgstr ""
 
 # Objects : [w25198739]
-# name:be: [воз. Мухна]
+# name:be: []
 msgid "оз. Мухно"
+msgstr ""
 
 # Objects : [r1101350]
-# name:be: [воз. Мядзел]
+# name:be: []
 msgid "оз. Мядель"
+msgstr ""
 
 # Objects : [r2952257]
 # name:be: []
 msgid "оз. Мястро"
+msgstr ""
 
 # Objects : [w25201849]
-# name:be: [Наўліцкае воз.]
+# name:be: []
 msgid "оз. Навлицкое"
+msgstr ""
 
 # Objects : [r107227]
-# name:be: [воз. Нарач]
+# name:be: []
 msgid "оз. Нарочь"
+msgstr ""
 
 # Objects : [w25196000]
-# name:be: [воз. Нёгра]
-msgid "оз.Негро"
+# name:be: []
+msgid "оз. Негро"
+msgstr ""
 
 # Objects : [w25201771]
 # name:be: []
 msgid "оз. Недрово"
+msgstr ""
 
 # Objects : [w25196928]
-# name:be: [воз. Некалач]
+# name:be: []
 msgid "оз. Неколочь"
+msgstr ""
 
 # Objects : [w25187681]
 # name:be: []
 msgid "оз. Немельчик"
+msgstr ""
 
 # Objects : [w25196044]
-# name:be: [воз. Немцава]
+# name:be: []
 msgid "оз. Немцево"
+msgstr ""
 
 # Objects : [w25196279]
-# name:be: [воз. Несіна]
-msgid "оз. Несино"
-
-# Objects : [w25191342]
 # name:be: []
-msgid "оз. Нещердо"
+msgid "оз. Несино"
+msgstr ""
 
 # Objects : [w25201676]
 # name:be: []
 msgid "оз. Нобисто"
+msgstr ""
 
 # Objects : [w35810086]
-# name:be: [воз. Навінскае]
-msgid "оз.Новинское"
+# name:be: []
+msgid "оз. Новинское"
+msgstr ""
+
+# Objects : [r1655761]
+# name:be: []
+msgid "оз. Новоельнянское"
+msgstr ""
 
 # Objects : [w25197340]
-# name:be: [воз. Нюля]
+# name:be: []
 msgid "оз. Нюля"
+msgstr ""
+
+# Objects : [w25200090]
+# name:be: []
+msgid "оз. Обабье"
+msgstr ""
+
+# Objects : [w25198088]
+# name:be: []
+msgid "оз. Обида"
+msgstr ""
+
+# Objects : [w25200191]
+# name:be: []
+msgid "оз. Оболе"
+msgstr ""
+
+# Objects : [w25192820]
+# name:be: []
+msgid "оз. Образцы"
+msgstr ""
+
+# Objects : [w25201753]
+# name:be: []
+msgid "оз. Обстерно"
+msgstr ""
+
+# Objects : [w25192902]
+# name:be: []
+msgid "оз. Обуховское"
+msgstr ""
 
 # Objects : [w25196066]
-# name:be: [воз. Вогзіна]
+# name:be: []
 msgid "оз. Огзино"
+msgstr ""
+
+# Objects : [w25197814]
+# name:be: []
+msgid "оз. Ожехово"
+msgstr ""
+
+# Objects : [w25193739]
+# name:be: []
+msgid "оз. Озерайце"
+msgstr ""
+
+# Objects : [w25195594, w49074563]
+# name:be: []
+msgid "оз. Озерки"
+msgstr ""
+
+# Objects : [w25185118, w25185880, w25194362]
+# name:be: []
+msgid "оз. Озерко"
+msgstr ""
+
+# Objects : [w120905761]
+# name:be: []
+msgid "оз. Окнистое"
+msgstr ""
+
+# Objects : [w25181380]
+# name:be: []
+msgid "оз. Окно"
+msgstr ""
+
+# Objects : [w219648899, w25184607, w25186898]
+# name:be: []
+msgid "оз. Окуневец"
+msgstr ""
+
+# Objects : [w25186530, w25192379, w25193125, w25196789, w264599770]
+# name:be: []
+msgid "оз. Окунево"
+msgstr ""
+
+# Objects : [w25187025]
+# name:be: []
+msgid "оз. Окуневчик"
+msgstr ""
+
+# Objects : [w25190596]
+# name:be: []
+msgid "оз. Окунец"
+msgstr ""
+
+# Objects : [w25194587]
+# name:be: []
+msgid "оз. Окунино"
+msgstr ""
+
+# Objects : [w25187950]
+# name:be: []
+msgid "оз. Окунь"
+msgstr ""
 
 # Objects : [w25196359]
-# name:be: [воз. Альшанка]
+# name:be: []
 msgid "оз. Ольшанка"
+msgstr ""
+
+# Objects : [r3519016]
+# name:be: []
+msgid "оз. Опита"
+msgstr ""
+
+# Objects : [w30827313]
+# name:be: []
+msgid "оз. Ордово"
+msgstr ""
 
 # Objects : [w25197072]
-# name:be: [воз. Ардышова]
+# name:be: []
 msgid "оз. Ордышево"
+msgstr ""
 
 # Objects : [w25194231]
 # name:be: []
 msgid "оз. Ореховно"
+msgstr ""
 
 # Objects : [w25198622]
-# name:be: [Арэхавае воз.]
+# name:be: []
 msgid "оз. Ореховое"
+msgstr ""
 
 # Objects : [w25201072]
-# name:be: [воз. Арэхаўскае]
+# name:be: []
 msgid "оз. Ореховское"
+msgstr ""
 
 # Objects : [w25193639]
-# name:be: [Оршына]
+# name:be: []
 msgid "оз. Оршино"
+msgstr ""
 
 # Objects : [w25196463]
 # name:be: []
 msgid "оз. Осинное"
+msgstr ""
 
 # Objects : [w25193988]
-# name:be: [Асінаўскае воз.]
+# name:be: []
 msgid "оз. Осиновское"
+msgstr ""
 
 # Objects : [w25199152]
-# name:be: [воз. Восмата]
+# name:be: []
 msgid "оз. Осмота"
+msgstr ""
 
 # Objects : [w25195006]
-# name:be: [воз. Асотна]
+# name:be: []
 msgid "оз. Осотно"
+msgstr ""
 
 # Objects : [r2716151]
-# name:be: [воз. Астравіта]
+# name:be: []
 msgid "оз. Остравито"
+msgstr ""
 
 # Objects : [w25199793]
-# name:be: [воз. Астравенскае]
+# name:be: []
 msgid "оз. Островенское"
+msgstr ""
 
 # Objects : [r2898356, w25193526]
-# name:be: [воз. Астравiта, воз. Астравіта]
+# name:be: []
 msgid "оз. Островито"
+msgstr ""
 
 # Objects : [r1691975]
-# name:be: [воз. Астраўкі]
+# name:be: []
 msgid "оз. Островки"
+msgstr ""
 
 # Objects : [r2019644, w25196340, w25200417]
-# name:be: [Астроўна, воз. Астроўна]
+# name:be: []
 msgid "оз. Островно"
+msgstr ""
 
 # Objects : [w25194925]
 # name:be: []
-msgid "оз.Осушное"
+msgid "оз. Осушное"
+msgstr ""
+
+# Objects : [w25194515]
+# name:be: []
+msgid "оз. Отводы"
+msgstr ""
 
 # Objects : [r3073507]
-# name:be: [воз. Атолава]
+# name:be: []
 msgid "оз. Отолово"
+msgstr ""
 
 # Objects : [w25189012]
 # name:be: []
 msgid "оз. Отрепки"
+msgstr ""
+
+# Objects : [w29160199]
+# name:be: []
+msgid "оз. Патрика"
+msgstr ""
 
 # Objects : [r3073572]
-# name:be: [воз. Павульскае]
+# name:be: []
 msgid "оз. Паульское"
+msgstr ""
 
 # Objects : [w25196891]
-# name:be: [Пярвішчанскае воз.]
+# name:be: []
 msgid "оз. Первищенское"
+msgstr ""
 
 # Objects : [w25191676]
-# name:be: [воз. Першае]
+# name:be: []
 msgid "оз. Первое"
+msgstr ""
 
 # Objects : [w25194430]
 # name:be: []
 msgid "оз. Переволочно"
+msgstr ""
 
 # Objects : [w25192750]
 # name:be: []
 msgid "оз. Петкуны"
+msgstr ""
 
 # Objects : [w25199440]
-# name:be: [воз. Плаў]
+# name:be: []
 msgid "оз. Плав"
+msgstr ""
 
 # Objects : [w25185058]
 # name:be: []
 msgid "оз. Платично"
+msgstr ""
 
 # Objects : [w25195153]
-# name:be: [воз. Плацішна]
+# name:be: []
 msgid "оз. Платишно"
+msgstr ""
 
 # Objects : [r3279389]
-# name:be: [воз. Плесна]
+# name:be: []
 msgid "оз. Плесно"
+msgstr ""
 
 # Objects : [w25192651]
 # name:be: []
 msgid "оз. Плотишно"
+msgstr ""
 
 # Objects : [w25195247]
 # name:be: []
 msgid "оз. Плутинок"
+msgstr ""
 
 # Objects : [w25199697]
 # name:be: []
 msgid "оз. Погоща"
+msgstr ""
 
 # Objects : [w25188097]
 # name:be: []
 msgid "оз. Подситишки"
+msgstr ""
 
 # Objects : [w25194148]
-# name:be: [Падшап'е]
+# name:be: []
 msgid "оз. Подшапье"
+msgstr ""
 
 # Objects : [w25196676]
 # name:be: []
 msgid "оз. Подявы"
+msgstr ""
 
 # Objects : [w25202549]
-# name:be: [воз. Паўазер’е]
+# name:be: []
 msgid "оз. Полозерье"
+msgstr ""
 
 # Objects : [w25184643]
 # name:be: []
 msgid "оз. Полонец"
+msgstr ""
 
 # Objects : [w25196092]
-# name:be: [Палонскае воз.]
+# name:be: []
 msgid "оз. Полонское"
+msgstr ""
 
 # Objects : [w25200114]
 # name:be: []
 msgid "оз. Поцех"
+msgstr ""
 
 # Objects : [w25194915]
-# name:be: [воз. Прэнц]
+# name:be: []
 msgid "оз. Пренц"
+msgstr ""
 
 # Objects : [w25190604]
-# name:be: [воз. Правады]
+# name:be: []
 msgid "оз. Проводы"
+msgstr ""
 
 # Objects : [w25192641]
-# name:be: [воз. Праскурна]
+# name:be: []
 msgid "оз. Проскурно"
+msgstr ""
 
 # Objects : [w25187331]
-# name:be: [воз. Прудок]
+# name:be: []
 msgid "оз. Прудок"
+msgstr ""
 
 # Objects : [w25197303]
 # name:be: []
 msgid "оз. Псуя"
+msgstr ""
 
 # Objects : [w25192909]
-# name:be: [воз. Разван]
+# name:be: []
 msgid "оз. Разван"
+msgstr ""
 
 # Objects : [w25198338]
 # name:be: []
 msgid "оз. Рака"
+msgstr ""
 
 # Objects : [w25185038]
 # name:be: []
 msgid "оз. Ракутино"
+msgstr ""
 
 # Objects : [w25196069]
 # name:be: []
 msgid "оз. Расно"
+msgstr ""
 
 # Objects : [w25194558]
 # name:be: []
-msgid "оз.Рассохое"
+msgid "оз. Рассохое"
+msgstr ""
 
 # Objects : [w25184453]
 # name:be: []
 msgid "оз. Ристунец"
+msgstr ""
 
 # Objects : [w25197597]
-# name:be: [воз. Рагоўскае]
+# name:be: []
 msgid "оз. Роговское"
+msgstr ""
 
 # Objects : [w25194640]
-# name:be: [Рамашкава]
+# name:be: []
 msgid "оз. Ромашково"
+msgstr ""
 
 # Objects : [w123080620]
 # name:be: []
 msgid "оз. Росохи"
+msgstr ""
 
 # Objects : [w25201188]
-# name:be: [воз. Расона]
+# name:be: []
 msgid "оз. Россоно"
+msgstr ""
 
 # Objects : [w25186785]
 # name:be: []
 msgid "оз. Руденок"
+msgstr ""
 
 # Objects : [w136161092]
 # name:be: []
 msgid "оз. Руденькие"
+msgstr ""
+
+# Objects : [w133751398]
+# name:be: []
+msgid "оз. Рудники"
+msgstr ""
 
 # Objects : [w25196863]
 # name:be: []
 msgid "оз. Рукшанское"
+msgstr ""
 
 # Objects : [w25194710]
-# name:be: [воз. Рытоўна]
+# name:be: []
 msgid "оз. Рытовно"
+msgstr ""
+
+# Objects : [w38246833]
+# name:be: []
+msgid "оз. Савек"
+msgstr ""
 
 # Objects : [w25198828]
 # name:be: []
 msgid "оз. Свидно"
+msgstr ""
 
 # Objects : [w25199183, w25201591]
-# name:be: [воз. Свіно]
+# name:be: []
 msgid "оз. Свино"
+msgstr ""
 
 # Objects : [w25195428]
 # name:be: []
 msgid "оз.Святое"
+msgstr ""
 
-# Objects : [w167432676, w25181965, w25190955, w25191113, w25194275]
-# name:be: [воз. Святое]
+# Objects : [r2849650, w167432676, w25181965, w25190955, w25191113, w25194154, w25194275]
+# name:be: []
 msgid "оз. Святое"
+msgstr ""
+
+# Objects : [w25195579]
+# name:be: []
+msgid "оз. Святцо"
+msgstr ""
+
+# Objects : [r21882]
+# name:be: []
+msgid "оз. Селява"
+msgstr ""
 
 # Objects : [w25196047]
-# name:be: [воз. Сяляева]
+# name:be: []
 msgid "оз. Селяево"
+msgstr ""
+
+# Objects : [w25193755]
+# name:be: []
+msgid "оз. Семиховичи"
+msgstr ""
+
+# Objects : [w10614134]
+# name:be: []
+msgid "оз. Сенница"
+msgstr ""
 
 # Objects : [w25200234]
-# name:be: [воз. Сянно]
+# name:be: []
 msgid "оз. Сенно"
+msgstr ""
 
 # Objects : [w25195592]
 # name:be: []
 msgid "оз. Сергеевичи"
+msgstr ""
 
 # Objects : [w25199321]
-# name:be: [воз. Серакаротня]
+# name:be: []
 msgid "оз. Серокоротня"
+msgstr ""
 
 # Objects : [w25201069]
-# name:be: [воз. Сіньша]
+# name:be: []
 msgid "оз. Синьша"
+msgstr ""
 
 # Objects : [r1403854]
 # name:be: []
-msgid "оз.Сита"
+msgid "оз. Сита"
+msgstr ""
 
 # Objects : [w25200693]
-# name:be: [воз. Сітна]
+# name:be: []
 msgid "оз. Ситно"
+msgstr ""
 
 # Objects : [w25196294]
-# name:be: [Сітненскае воз.]
-msgid "оз.Ситнянское"
+# name:be: []
+msgid "оз. Ситнянское"
+msgstr ""
 
 # Objects : [w25197840]
-# name:be: [воз.Скрыдлева]
-msgid "оз.Скрыдлево"
+# name:be: []
+msgid "оз. Скрыдлево"
+msgstr ""
 
 # Objects : [r1101541]
 # name:be: []
 msgid "оз. Снуды"
+msgstr ""
 
 # Objects : [w25197939]
-# name:be: [Салонец]
+# name:be: []
 msgid "оз. Солонец"
+msgstr ""
 
 # Objects : [w25200463]
-# name:be: [воз. Саро]
+# name:be: []
 msgid "оз. Соро"
+msgstr ""
 
 # Objects : [w25193982]
-# name:be: [воз. Сосенка]
+# name:be: []
 msgid "оз. Сосенка"
+msgstr ""
 
 # Objects : [r1623583, w25197958]
-# name:be: [воз. Сосна]
+# name:be: []
 msgid "оз. Сосна"
+msgstr ""
 
 # Objects : [w25197411, w25199224]
-# name:be: [воз. Сосна]
+# name:be: []
 msgid "оз. Сосно"
+msgstr ""
 
 # Objects : [w25195836]
 # name:be: []
 msgid "оз. Сосновское"
+msgstr ""
+
+# Objects : [w25195887]
+# name:be: []
+msgid "оз. Стаи"
+msgstr ""
 
 # Objects : [w25200659]
-# name:be: [воз. Сцержань]
+# name:be: []
 msgid "оз. Стержень"
+msgstr ""
 
 # Objects : [w25195288]
-# name:be: [воз. Сцернік (Бусоўня)]
+# name:be: []
 msgid "оз. Стерник"
+msgstr ""
 
 # Objects : [w25191010]
 # name:be: []
 msgid "оз. Стречно"
+msgstr ""
 
 # Objects : [w25194083]
-# name:be: [воз. Стрэшна]
-msgid "оз.Стрешно"
+# name:be: []
+msgid "оз. Стрешно"
+msgstr ""
 
 # Objects : [r1101540]
 # name:be: []
 msgid "оз. Струсто"
+msgstr ""
 
 # Objects : [w25192667]
-# name:be: [Сукрэменскае воз.]
+# name:be: []
 msgid "оз. Сукременское"
+msgstr ""
 
 # Objects : [w25189615, w25199098]
-# name:be: [воз. Сушына]
+# name:be: []
 msgid "оз. Сушино"
+msgstr ""
+
+# Objects : [w25187508]
+# name:be: []
+msgid "оз. Тайное"
+msgstr ""
 
 # Objects : [w25197236]
-# name:be: [воз. Танай]
+# name:be: []
 msgid "оз. Танай"
+msgstr ""
 
 # Objects : [w25199203]
-# name:be: [воз. Цеменіца]
+# name:be: []
 msgid "оз. Теменица"
+msgstr ""
 
 # Objects : [w25190860]
-# name:be: [воз. Церабетаўскае]
+# name:be: []
 msgid "оз. Теребетовское"
+msgstr ""
 
 # Objects : [w99408376]
-# name:be: [воз. Талынi]
+# name:be: []
 msgid "оз. Толыни"
+msgstr ""
 
 # Objects : [w25181436]
-# name:be: [воз. Трэцяе]
-msgid "оз. Третье"
-
-# Objects : [w25194028]
 # name:be: []
-msgid "оз. Тулово"
+msgid "оз. Третье"
+msgstr ""
+
+# Objects : [w25190166]
+# name:be: []
+msgid "оз. Тростяное"
+msgstr ""
 
 # Objects : [w25193047]
 # name:be: []
 msgid "оз. Турец"
+msgstr ""
 
 # Objects : [w25192838]
 # name:be: []
 msgid "оз. Турмуз"
+msgstr ""
 
 # Objects : [w25195955]
-# name:be: [воз. Турасы]
+# name:be: []
 msgid "оз. Туроссы"
+msgstr ""
 
 # Objects : [w25193329]
-# name:be: [воз. Тухінскае]
+# name:be: []
 msgid "оз. Тухинское"
+msgstr ""
 
 # Objects : [w25191878]
-# name:be: [воз. Удзебна]
+# name:be: []
 msgid "оз. Удебно"
+msgstr ""
 
 # Objects : [w25197616]
-# name:be: [воз. Ужо]
+# name:be: []
 msgid "оз. Ужо"
+msgstr ""
 
 # Objects : [w303753776]
 # name:be: []
 msgid "оз. Уклеино"
+msgstr ""
 
 # Objects : [w25202085]
 # name:be: []
 msgid "оз. Укля"
+msgstr ""
 
 # Objects : [w25191374]
-# name:be: [воз. Улазавіцкае]
+# name:be: []
 msgid "оз. Улазовичское"
+msgstr ""
 
 # Objects : [w25193282]
 # name:be: []
 msgid "оз. Умильно"
+msgstr ""
 
 # Objects : [r2898355]
-# name:be: [воз. Усая]
+# name:be: []
 msgid "оз. Усая"
+msgstr ""
 
 # Objects : [w25189870]
-# name:be: [Уцянскае воз.]
+# name:be: []
 msgid "оз. Утянское"
+msgstr ""
 
 # Objects : [w25187660]
 # name:be: []
 msgid "оз. Хвойня"
+msgstr ""
 
 # Objects : [w25197288]
-# name:be: [воз. Ходцы]
+# name:be: []
 msgid "оз. Ходцы"
+msgstr ""
+
+# Objects : [w25195326]
+# name:be: []
+msgid "оз. Холодчие"
+msgstr ""
 
 # Objects : [w25193261]
-# name:be: [воз. Хоціна]
+# name:be: []
 msgid "оз. Хотино"
+msgstr ""
 
 # Objects : [w25195254]
 # name:be: []
 msgid "оз. Хотинское"
+msgstr ""
+
+# Objects : [w25198637]
+# name:be: []
+msgid "оз. Худовец"
+msgstr ""
 
 # Objects : [w25197313]
 # name:be: []
 msgid "оз. Цно"
+msgstr ""
 
 # Objects : [w25193539]
 # name:be: []
 msgid "оз. Цыганово"
+msgstr ""
 
 # Objects : [w25189902]
-# name:be: [воз. Чарнуйк]
+# name:be: []
 msgid "оз. Чарнуик"
+msgstr ""
 
 # Objects : [w25197064]
-# name:be: [воз. Чарбамысла]
+# name:be: []
 msgid "оз. Чербомысло"
+msgstr ""
 
 # Objects : [w25183703, w25184198]
-# name:be: [воз. Чорненькае]
+# name:be: []
 msgid "оз. Чёрненькое"
+msgstr ""
 
 # Objects : [w25194679]
-# name:be: [воз. Чарніца]
+# name:be: []
 msgid "оз. Черница"
+msgstr ""
 
 # Objects : [w25193523]
 # name:be: []
 msgid "оз. Черновка"
+msgstr ""
 
 # Objects : [w25199985]
-# name:be: [воз. Чарнова]
+# name:be: []
 msgid "оз. Черново"
+msgstr ""
 
-# Objects : [w25200379]
-# name:be: [Чорнае воз.]
+# Objects : [w25192616]
+# name:be: []
+msgid "оз. Черное"
+msgstr ""
+
+# Objects : [w25191185, w25200379, w29168104]
+# name:be: []
 msgid "оз. Чёрное"
+msgstr ""
 
 # Objects : [w25184753]
-# name:be: [воз. Чорнае Балота]
+# name:be: []
 msgid "оз. Чёрное Болото"
+msgstr ""
 
 # Objects : [w25196361]
-# name:be: [воз. Чаросава]
+# name:be: []
 msgid "оз. Черосово"
+msgstr ""
 
 # Objects : [r581977]
 # name:be: []
 msgid "оз. Черствятское"
+msgstr ""
 
 # Objects : [w25189194]
-# name:be: [Чортава воз.]
+# name:be: []
 msgid "оз. Чёртово"
+msgstr ""
+
+# Objects : [w234521524]
+# name:be: []
+msgid "оз. Чистая Лужа"
+msgstr ""
 
 # Objects : [w25191909]
-# name:be: [воз. Чысцік]
+# name:be: []
 msgid "оз. Чистик"
+msgstr ""
 
 # Objects : [w25196637]
-# name:be: [воз. Шэвіна]
+# name:be: []
 msgid "оз. Шевино"
+msgstr ""
 
 # Objects : [w25199192]
-# name:be: [воз. Шэлахава]
-msgid "оз.Шелохово"
+# name:be: []
+msgid "оз. Шелохово"
+msgstr ""
 
 # Objects : [w25202448]
-# name:be: [воз. Шо]
+# name:be: []
 msgid "оз. Шо"
+msgstr ""
 
 # Objects : [w127012432]
-# name:be: [Шчарбакоўскае воз.]
+# name:be: []
 msgid "оз. Щербаковское"
+msgstr ""
 
 # Objects : [w25196049]
-# name:be: [воз. Шчыбат]
+# name:be: []
 msgid "оз. Щибот"
+msgstr ""
+
+# Objects : [r154551]
+# name:be: []
+msgid "оз. Юбилейное"
+msgstr ""
 
 # Objects : [w25200453]
-# name:be: [Янавіцкае воз.]
-msgid "оз.Яновичское"
+# name:be: []
+msgid "оз. Яновичское"
+msgstr ""
 
 # Objects : [w25187115]
 # name:be: []
 msgid "озеро "Святое""
+msgstr ""
 
 # Objects : [w71249751, w71249773]
 # name:be: []
 msgid "озеро "Шаманка""
-
-# Objects : [w25196032]
-# name:be: [возера Азаранскае]
-msgid "озеро Азаренское"
-
-# Objects : [w25189601]
-# name:be: [Азаронава]
-msgid "озеро Азароново"
-
-# Objects : [w25193822]
-# name:be: [возера Азерцы]
-msgid "озеро Азерцы"
-
-# Objects : [w25193273]
-# name:be: [Аксёнава]
-msgid "озеро Аксеново"
-
-# Objects : [w25183694]
-# name:be: [возера Алашскае]
-msgid "озеро Алашское"
-
-# Objects : [w25197116]
-# name:be: [возера Алаізберг]
-msgid "озеро Алоизберг"
-
-# Objects : [w25195632]
-# name:be: [Белае]
-msgid "озеро Белое"
-
-# Objects : [w25189638]
-# name:be: []
-msgid "озеро Богушеввича"
-
-# Objects : [w25197675]
-# name:be: []
-msgid "озеро Вир"
-
-# Objects : [w274720732]
-# name:be: []
-msgid "озеро Гута"
-
-# Objects : [r2189248]
-# name:be: [возера Езярышча]
-msgid "озеро Езерище"
-
-# Objects : [w25186441]
-# name:be: []
-msgid "озеро Заболотье"
-
-# Objects : [w25192602]
-# name:be: []
-msgid "озеро Крапивное"
-
-# Objects : [w131835083]
-# name:be: []
-msgid "озеро Красное"
-
-# Objects : [w274720733]
-# name:be: []
-msgid "озеро Кут"
-
-# Objects : [w77731631]
-# name:be: []
-msgid "озеро Лань"
-
-# Objects : [r77430]
-# name:be: []
-msgid "озеро Лисно"
-
-# Objects : [w25196277]
-# name:be: []
-msgid "озеро Молодежное"
-
-# Objects : [r2071795]
-# name:be: []
-msgid "озеро Молокозаводское"
-
-# Objects : [w25190371]
-# name:be: []
-msgid "озеро Мох"
+msgstr ""
 
 # Objects : [w35711779]
 # name:be: []
 msgid "Озеро на Репина"
+msgstr ""
 
-# Objects : [w25200090]
-# name:be: [возера Абаб'е]
-msgid "озеро Обабье"
-
-# Objects : [w25198088]
-# name:be: [возера Абіда]
-msgid "озеро Обида"
-
-# Objects : [w25200191]
-# name:be: [возера Аболе]
-msgid "озеро Оболе"
-
-# Objects : [w25192820]
-# name:be: [возера Абразцы]
-msgid "озеро Образцы"
-
-# Objects : [w25201753]
-# name:be: [возера Абстэрна]
-msgid "озеро Обстерно"
-
-# Objects : [w25192902]
-# name:be: [Абухаўскае возера]
-msgid "озеро Обуховское"
-
-# Objects : [w25197814]
-# name:be: [возера Ажэхава]
-msgid "озеро Ожехово"
-
-# Objects : [w25193739]
-# name:be: [возера Азярайцы]
-msgid "озеро Озерайце"
-
-# Objects : [w25195594, w49074563]
-# name:be: [возера Азярок, возера Азёркі]
-msgid "озеро Озерки"
-
-# Objects : [w25185118, w25185880, w25194362]
-# name:be: [возера Азярко]
-msgid "озеро Озерко"
-
-# Objects : [w120905761]
-# name:be: [возера Акністае]
-msgid "озеро Окнистое"
-
-# Objects : [w25181380]
-# name:be: [возера Акно]
-msgid "озеро Окно"
-
-# Objects : [w219648899, w25184607, w25186898]
-# name:be: [возера Акунёвец]
-msgid "озеро Окуневец"
-
-# Objects : [w25186530, w25192379, w25193125, w25196789, w264599770]
-# name:be: [возера Акунёва]
-msgid "озеро Окунево"
-
-# Objects : [w25187025]
-# name:be: [возера Акунёўчык]
-msgid "озеро Окуневчик"
-
-# Objects : [w25190596]
-# name:be: [возера Акунец]
-msgid "озеро Окунец"
-
-# Objects : [w25194587]
-# name:be: [возера Акуніна]
-msgid "озеро Окунино"
-
-# Objects : [w25187950]
-# name:be: [возера Акунь]
-msgid "озеро Окунь"
-
-# Objects : [w30827313]
-# name:be: [возера Ардова]
-msgid "озеро Ордово"
-
-# Objects : [w25194515]
-# name:be: [возера Адводы]
-msgid "озеро Отводы"
-
-# Objects : [w29160199]
+# Objects : [r391126]
 # name:be: []
-msgid "Озеро Патрика"
-
-# Objects : [w133751398]
-# name:be: []
-msgid "озеро Рудники"
-
-# Objects : [w25194154]
-# name:be: [возера Святое]
-msgid "озеро Святое"
-
-# Objects : [w25193755]
-# name:be: [возера Семехавічы]
-msgid "озеро Семиховичи"
-
-# Objects : [w10614134]
-# name:be: []
-msgid "озеро Сенница"
-
-# Objects : [w25195887]
-# name:be: []
-msgid "озеро Стаи"
-
-# Objects : [w25187508]
-# name:be: []
-msgid "озеро Тайное"
-
-# Objects : [w25198637]
-# name:be: [возера Худавец]
-msgid "озеро Худовец"
-
-# Objects : [w25192616]
-# name:be: []
-msgid "озеро Черное"
-
-# Objects : [w234521524]
-# name:be: []
-msgid "озеро Чистая Лужа"
-
-# Objects : [r154551]
-# name:be: [возера Юбілейнае]
-msgid "озеро Юбилейное"
+msgid "озеро Нещердо"
+msgstr ""
 
 # Objects : [w25196679]
-# name:be: [Азяранскае возера]
-msgid "Озерянское озеро"
-
-# Objects : [r3519016]
 # name:be: []
-msgid "Опита"
+msgid "Озерянское озеро"
+msgstr ""
 
 # Objects : [r48834]
 # name:be: []
 msgid "Освейское озеро"
+msgstr ""
+
+# Objects : [w25187848]
+# name:be: []
+msgid "Осотень"
+msgstr ""
 
 # Objects : [w25194334]
 # name:be: []
 msgid "Печерское озеро"
+msgstr ""
 
 # Objects : [r2981642, r2981643, r2981644, r2981645, r2981646, r2981647, r2981648, r2981649, r2981650, r2981651, w224280174, w224280175, w224280176, w42689129, w42690412, w42690414, w42690416, w61164060, w61164065, w61164075]
-# name:be: [Пагост]
+# name:be: []
 msgid "Погост"
+msgstr ""
 
 # Objects : [w244088981]
 # name:be: []
 msgid "Пожарный водоём"
+msgstr ""
 
 # Objects : [w25193757]
 # name:be: []
 msgid "Полоневичи"
+msgstr ""
 
 # Objects : [w25895306]
-# name:be: [Пастаўскае возера]
+# name:be: []
 msgid "Поставское озеро"
+msgstr ""
 
 # Objects : [r1723985]
 # name:be: []
 msgid "Пружанское озеро"
+msgstr ""
 
 # Objects : [w29172021]
-# name:be: [Рыбніца]
-msgid "Рыбница"
-
-# Objects : [w38246833]
-# name:be: [Савек]
-msgid "Савек"
-
-# Objects : [r2849650]
 # name:be: []
-msgid "Святое"
-
-# Objects : [w25195579]
-# name:be: [Святца]
-msgid "Святцо"
-
-# Objects : [r21882]
-# name:be: [Сялява]
-msgid "Селява"
+msgid "Рыбница"
+msgstr ""
 
 # Objects : [w25186892]
 # name:be: []
 msgid "Синяя лужа"
+msgstr ""
 
 # Objects : [r3890584]
 # name:be: []
 msgid "Сипурка"
+msgstr ""
 
 # Objects : [w50309486]
 # name:be: []
 msgid "Скорень"
+msgstr ""
 
 # Objects : [w294043523]
 # name:be: []
 msgid "Слободское"
+msgstr ""
 
 # Objects : [w25197718]
 # name:be: []
 msgid "Старое"
+msgstr ""
 
 # Objects : [w262094319]
 # name:be: []
 msgid "старое возера"
+msgstr ""
 
 # Objects : [w25196548]
 # name:be: []
 msgid "Стоячее"
+msgstr ""
 
 # Objects : [w25192127]
 # name:be: []
 msgid "Сырское озеро"
+msgstr ""
 
 # Objects : [w25188494]
 # name:be: []
 msgid "Тростяница"
-
-# Objects : [w25190166]
-# name:be: []
-msgid "Тростяное"
-
-# Objects : [w25195326]
-# name:be: []
-msgid "Холодчие"
+msgstr ""
 
 # Objects : [w269821237]
 # name:be: []
 msgid "Холостятское"
+msgstr ""
 
 # Objects : [w38246837]
 # name:be: []
 msgid "Чарне"
+msgstr ""
 
 # Objects : [w25202604]
-# name:be: [Чырвонае возера]
+# name:be: []
 msgid "Червоное озеро"
-
-# Objects : [w25191185, w29168104]
-# name:be: [Чорнае]
-msgid "Чёрное"
+msgstr ""
 
 # Objects : [w29168201]
 # name:be: []
 msgid "Чёртово озеро"
+msgstr ""
 
 # Objects : [w25193275]
 # name:be: []
 msgid "Яглевичичское озеро"
+msgstr ""
 

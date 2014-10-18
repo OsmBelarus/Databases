@@ -1,0 +1,3860 @@
+# Objects : [n306062191, n306062203, n306064602, n306065034, n306065051, n306065327, n306065770, n306065879, n306065884, n306065893, n306065920, n306067149, n306067484, n306067554, n306067557, n306067597, n306067640, n306067725, n306067735, n306067747, n306067772, n306067800, n306067842, n306067851, n306068003, n306068364, n306068375, n306068472, n306068481, n306068492, n306068579, n306068624, n306068803, n306068819, n306068843, n306068935, n306068944, n306068960, n306069049, n306069058, n306069093, n306069191, n306069359, n306069381, n306069441, n306069449, n306069636, n306069722, n320409359]
+# name:be: []
+msgid "????"
+msgstr ""
+
+# Objects : [n1962291848]
+# name:be: []
+msgid ""Klistar Missijanerau" Troiki Kasciol"
+msgstr ""
+
+# Objects : [n3042915721]
+# name:be: []
+msgid ""Храм Преподобного Серафима Саровского""
+msgstr ""
+
+# Objects : [n1191163441, n306068284, n479740521, w100045128, w100793579, w240130885, w242632083, w292404263, w33415355, w37635784, w38232687, w62093907, w97544173]
+# name:be: []
+msgid "<null>"
+msgstr ""
+
+# Objects : [w137377592]
+# name:be: []
+msgid "1-я церковь  адвентистов Седьмого дня"
+msgstr ""
+
+# Objects : [w144387265]
+# name:be: []
+msgid "2-я церковь адвентистов Седьмого дня"
+msgstr ""
+
+# Objects : [n1906801890]
+# name:be: []
+msgid "Baptiste Church"
+msgstr ""
+
+# Objects : [n1906799765]
+# name:be: []
+msgid "Church"
+msgstr ""
+
+# Objects : [n255078379]
+# name:be: []
+msgid "Cв. Ефросиниевская церк."
+msgstr ""
+
+# Objects : [n1118858339]
+# name:be: []
+msgid "GEFSIMANY"
+msgstr ""
+
+# Objects : [n306067617]
+# name:be: []
+msgid "M"
+msgstr ""
+
+# Objects : [w98710240]
+# name:be: []
+msgid "św. Jana Chrzciciela"
+msgstr ""
+
+# Objects : [n444708238]
+# name:be: []
+msgid "Water source Water Source"
+msgstr ""
+
+# Objects : [n2318035299]
+# name:be: []
+msgid "Адвентисты"
+msgstr ""
+
+# Objects : [w25392477]
+# name:be: []
+msgid "Административный корпус"
+msgstr ""
+
+# Objects : [n737203701]
+# name:be: []
+msgid "Адраджэнне"
+msgstr ""
+
+# Objects : [w156323730]
+# name:be: []
+msgid "Алтарь-"корабль""
+msgstr ""
+
+# Objects : [n1369893695]
+# name:be: []
+msgid "Архикафедральный собор Святого Имени Пресвятой Девы Марии"
+msgstr ""
+
+# Objects : [n1233154393, n320409358]
+# name:be: []
+msgid "Благовещенский костел"
+msgstr ""
+
+# Objects : [w107705894]
+# name:be: []
+msgid "Благовещенский костёл"
+msgstr ""
+
+# Objects : [n737203703, w259704595]
+# name:be: []
+msgid "Благодать"
+msgstr ""
+
+# Objects : [w265414930]
+# name:be: []
+msgid "Большая Синагога"
+msgstr ""
+
+# Objects : [w273270439]
+# name:be: []
+msgid "Борисоглебская церковь"
+msgstr ""
+
+# Objects : [w25326432]
+# name:be: []
+msgid "Взыскание погибших"
+msgstr ""
+
+# Objects : [n1436437562]
+# name:be: []
+msgid "Витебское епархиальное управление"
+msgstr ""
+
+# Objects : [n1941227665, n456054752]
+# name:be: []
+msgid "Вифания"
+msgstr ""
+
+# Objects : [w25394581]
+# name:be: []
+msgid "Вифлеем"
+msgstr ""
+
+# Objects : [n320409995]
+# name:be: []
+msgid "Вознесения Найсвятейшей девы Марии"
+msgstr ""
+
+# Objects : [n306067673]
+# name:be: []
+msgid "Войсковой Храм В Честь Преподобного Сергия Радонежского"
+msgstr ""
+
+# Objects : [n648215718]
+# name:be: []
+msgid "Воскресенская"
+msgstr ""
+
+# Objects : [w265414932]
+# name:be: []
+msgid "Воскресенский собор"
+msgstr ""
+
+# Objects : [w25327704]
+# name:be: []
+msgid "Воскресная школа МСЦ ЕХБ"
+msgstr ""
+
+# Objects : [n494138284]
+# name:be: []
+msgid "Германовичский костел"
+msgstr ""
+
+# Objects : [w254692924]
+# name:be: []
+msgid "Гомельский мужской монастырь во имя святителя Николая Мирликийского Гомельской епархии"
+msgstr ""
+
+# Objects : [n320409651]
+# name:be: []
+msgid "Гродненская синагога"
+msgstr ""
+
+# Objects : [n320409605]
+# name:be: []
+msgid "Гродненский Свято-Покровский кафедральный собор"
+msgstr ""
+
+# Objects : [w230862081]
+# name:be: []
+msgid "Детский лагерь "Христитанин""
+msgstr ""
+
+# Objects : [w139237082]
+# name:be: []
+msgid "Дом Евангелия"
+msgstr ""
+
+# Objects : [w209166647]
+# name:be: []
+msgid "Дом культуры ЖД"
+msgstr ""
+
+# Objects : [w25319065]
+# name:be: []
+msgid "Дом Милосердия"
+msgstr ""
+
+# Objects : [n2085182297]
+# name:be: []
+msgid "Дом молитвы"
+msgstr ""
+
+# Objects : [w155762209]
+# name:be: []
+msgid "Евангельская церковь"
+msgstr ""
+
+# Objects : [w187164030]
+# name:be: []
+msgid "евангельская церковь "Возрождение""
+msgstr ""
+
+# Objects : [w174044522]
+# name:be: []
+msgid "евангельская церковь "Добрая Весть""
+msgstr ""
+
+# Objects : [w147227448]
+# name:be: []
+msgid "Евангельская церковь "Добрая весть""
+msgstr ""
+
+# Objects : [w27900378]
+# name:be: []
+msgid "Евангельская церковь "Новая жизнь""
+msgstr ""
+
+# Objects : [w125084864]
+# name:be: []
+msgid "Ереминская провославная церковь"
+msgstr ""
+
+# Objects : [n2318035297]
+# name:be: []
+msgid "ЕХБ"
+msgstr ""
+
+# Objects : [w29501435]
+# name:be: []
+msgid "ЕХБ "Спасение""
+msgstr ""
+
+# Objects : [w96742401]
+# name:be: []
+msgid "Женский Спасо-Евфросиниевский Монастырь"
+msgstr ""
+
+# Objects : [r3267431]
+# name:be: []
+msgid "жилой корпус монастыря францисканцев"
+msgstr ""
+
+# Objects : [n621359320]
+# name:be: []
+msgid "Иконы Божьей Матери"
+msgstr ""
+
+# Objects : [n281922211]
+# name:be: []
+msgid "Иоанна Предтечи"
+msgstr ""
+
+# Objects : [w27899813]
+# name:be: []
+msgid "Казанская церковь"
+msgstr ""
+
+# Objects : [n1658075201]
+# name:be: []
+msgid "Казанскои Ьожей Матей"
+msgstr ""
+
+# Objects : [n2319727272]
+# name:be: []
+msgid "Казимировский Свято-Успенский женский монастырь"
+msgstr ""
+
+# Objects : [n1374795940]
+# name:be: []
+msgid "Кальвинский сбор"
+msgstr ""
+
+# Objects : [w248617674]
+# name:be: []
+msgid "Каплица"
+msgstr ""
+
+# Objects : [n1128438386]
+# name:be: []
+msgid "Каплица при церкви Св. Архангела Михаила"
+msgstr ""
+
+# Objects : [n821060962]
+# name:be: []
+msgid "Каплица святого Роха"
+msgstr ""
+
+# Objects : [n470019634]
+# name:be: []
+msgid "Каплица Святой Варвары"
+msgstr ""
+
+# Objects : [w262169084]
+# name:be: []
+msgid "капліца"
+msgstr ""
+
+# Objects : [w267611428]
+# name:be: []
+msgid "Кастёл"
+msgstr ""
+
+# Objects : [n320409551]
+# name:be: []
+msgid "Кастёл Найсвяцейшай Панны Марыі"
+msgstr ""
+
+# Objects : [w293178296]
+# name:be: []
+msgid "Касцёл Святога Мікалая"
+msgstr ""
+
+# Objects : [n1336710166]
+# name:be: []
+msgid "Касцёл Святога Яна Хрыстицеля"
+msgstr ""
+
+# Objects : [n2388921967]
+# name:be: []
+msgid "Катехетический дом Святого Иосифа"
+msgstr ""
+
+# Objects : [w241217245]
+# name:be: []
+msgid "католическая часовня"
+msgstr ""
+
+# Objects : [w147229310]
+# name:be: []
+msgid "Католическая часовня"
+msgstr ""
+
+# Objects : [n1474141969]
+# name:be: []
+msgid "Католическая часовня (после 1990)"
+msgstr ""
+
+# Objects : [n1474141970, n1474141971]
+# name:be: []
+msgid "Католическая часовня (руины)"
+msgstr ""
+
+# Objects : [w41835909]
+# name:be: []
+msgid "Католический костёл"
+msgstr ""
+
+# Objects : [w160440588]
+# name:be: []
+msgid "Католический культурный центр в Витебске. Резиденция епископа витебского"
+msgstr ""
+
+# Objects : [w27901736]
+# name:be: []
+msgid "Кафедральный католический собор Иисуса Милосердного"
+msgstr ""
+
+# Objects : [w240482586]
+# name:be: []
+msgid "Кафедральный собор Рождества Богородицы"
+msgstr ""
+
+# Objects : [n320409655]
+# name:be: []
+msgid "Кафедральный собор Святого Франциска Ксаверия"
+msgstr ""
+
+# Objects : [n2200275805]
+# name:be: []
+msgid "Кафедральный собор Сошествия Святого Духа"
+msgstr ""
+
+# Objects : [n827458492]
+# name:be: []
+msgid "Кирха"
+msgstr ""
+
+# Objects : [w231917607]
+# name:be: []
+msgid "кладбище"
+msgstr ""
+
+# Objects : [n1811657611, n1811657617, n2241873593, n2241875841]
+# name:be: []
+msgid "Кладбище"
+msgstr ""
+
+# Objects : [n1575421605, w152809069]
+# name:be: []
+msgid "Колокольня"
+msgstr ""
+
+# Objects : [w186258405, w204106921, w243631578, w276504050]
+# name:be: []
+msgid "костел"
+msgstr ""
+
+# Objects : [n1280324320, n1280403287, n1280489788, n1615573986, n2160747077, n2467433318, n306065067, w134572089, w158175621, w159948346, w96989172]
+# name:be: []
+msgid "Костел"
+msgstr ""
+
+# Objects : [n1135624678, w242180428]
+# name:be: []
+msgid "костёл"
+msgstr ""
+
+# Objects : [n1149338359, n1758979354, n1774666563, n391814076, n997647610, w118740753, w119367492, w168182810, w188623078, w204623153]
+# name:be: []
+msgid "Костёл"
+msgstr ""
+
+# Objects : [w230636571]
+# name:be: []
+msgid "Костел, монастырь"
+msgstr ""
+
+# Objects : [n1551907185]
+# name:be: []
+msgid "Костел /сохр. частично/"
+msgstr ""
+
+# Objects : [n1615559707, n494151371]
+# name:be: []
+msgid "Костел (руины)"
+msgstr ""
+
+# Objects : [w102794905]
+# name:be: []
+msgid "Костёл Антония Падуанского"
+msgstr ""
+
+# Objects : [r61787]
+# name:be: []
+msgid "костел Благовещения Найсвятейшей девы Марии и монастырь (Бригитский костел и монастырь)"
+msgstr ""
+
+# Objects : [n1376690081, w130532066]
+# name:be: []
+msgid "Костел Благовещенский"
+msgstr ""
+
+# Objects : [w155299302, w212230093]
+# name:be: []
+msgid "Костел Богоматери"
+msgstr ""
+
+# Objects : [n306068569]
+# name:be: []
+msgid "Костел Богоматери Руженцовой"
+msgstr ""
+
+# Objects : [n1372207330]
+# name:be: []
+msgid "Костел Богоматери Руженцовой и св. Доминика"
+msgstr ""
+
+# Objects : [w78050954]
+# name:be: []
+msgid "костёл Богоматери Фатимской"
+msgstr ""
+
+# Objects : [n1642914367, w81955106]
+# name:be: []
+msgid "Костел Богоматери Шкаплерной"
+msgstr ""
+
+# Objects : [n1559035609, n1577942975, n1642897768]
+# name:be: []
+msgid "Костел Божьего Тела"
+msgstr ""
+
+# Objects : [n2950094939]
+# name:be: []
+msgid "Костел Воздвижения Святого Креста"
+msgstr ""
+
+# Objects : [n1280489798, w145228145]
+# name:be: []
+msgid "костел Вознесения Девы Марии"
+msgstr ""
+
+# Objects : [n1376529124, n1376621929, n1615565283, n1642869752, w37453026]
+# name:be: []
+msgid "Костел Вознесения Девы Марии"
+msgstr ""
+
+# Objects : [n1374538752, n1376711848]
+# name:be: []
+msgid "Костел Вознесения Девы Марии (руины)"
+msgstr ""
+
+# Objects : [w242562393]
+# name:be: []
+msgid "Костел Вознесения Найсв.Девы Марии, Нац. санктуарий"
+msgstr ""
+
+# Objects : [n320410009]
+# name:be: []
+msgid "костел Вознесения найсвятейшей девы Марии"
+msgstr ""
+
+# Objects : [n1376719941, n1576521726, n1577987636, w157513825]
+# name:be: []
+msgid "Костел Девы Марии"
+msgstr ""
+
+# Objects : [n1374783619, n1640417319]
+# name:be: []
+msgid "Костел Девы Марии (дерев.)"
+msgstr ""
+
+# Objects : [n1615545508]
+# name:be: []
+msgid "Костел Девы Марии Королевы (дерев.)"
+msgstr ""
+
+# Objects : [w112500236]
+# name:be: []
+msgid "Костел иезуитов (фарный)"
+msgstr ""
+
+# Objects : [n637046688]
+# name:be: []
+msgid "Костел Иоанна Крестителя. 1760г."
+msgstr ""
+
+# Objects : [n1576521645, n283620437, w163861206, w53448058]
+# name:be: []
+msgid "Костел Крестовоздвиженский"
+msgstr ""
+
+# Objects : [n1559596308]
+# name:be: []
+msgid "Костёл Крестовоздвиженский"
+msgstr ""
+
+# Objects : [n306069353]
+# name:be: []
+msgid "Костел Крестовоздвиженский (дерев.)"
+msgstr ""
+
+# Objects : [w202954303]
+# name:be: []
+msgid "Костел Матери Божией Фотимской"
+msgstr ""
+
+# Objects : [w241305170]
+# name:be: []
+msgid "Костел Наисвятейшей Девы Марии Ласковой"
+msgstr ""
+
+# Objects : [n306067682]
+# name:be: []
+msgid "Костел Непорочного Зачатия"
+msgstr ""
+
+# Objects : [w88037900]
+# name:be: []
+msgid "костел Непорочного Зачатия (старый)"
+msgstr ""
+
+# Objects : [r3267429]
+# name:be: []
+msgid "костел Непорочного Зачатия Девы Марии"
+msgstr ""
+
+# Objects : [n1376746061]
+# name:be: []
+msgid "Костёл Николая-чудотворца"
+msgstr ""
+
+# Objects : [n1576518144]
+# name:be: []
+msgid "Костел Опеки Богоматери"
+msgstr ""
+
+# Objects : [w40799295]
+# name:be: []
+msgid "Костел Отыскания св. Креста"
+msgstr ""
+
+# Objects : [n320409704]
+# name:be: []
+msgid "костел Отыскания Св.Креста и монастырь бернардинцев"
+msgstr ""
+
+# Objects : [w173427918, w198849749]
+# name:be: []
+msgid "Костел Посещения Девой Марией Елизаветы (дерев.)"
+msgstr ""
+
+# Objects : [w155003479]
+# name:be: []
+msgid "костел Посещения Пресвятой Девой Марией Елисаветы"
+msgstr ""
+
+# Objects : [n1642886296, w157520052]
+# name:be: []
+msgid "Костел Преображения Господнего"
+msgstr ""
+
+# Objects : [w38059869]
+# name:be: []
+msgid "Костёл Пресвятого Сердца Иисуса"
+msgstr ""
+
+# Objects : [n1375671117, n1560647655, w265414967, w51194501, w96742023]
+# name:be: []
+msgid "Костел Рождества Девы Марии"
+msgstr ""
+
+# Objects : [n1560644993]
+# name:be: []
+msgid "Костел Рождества Девы Марии (дерев.)"
+msgstr ""
+
+# Objects : [w241071666]
+# name:be: []
+msgid "костёл Рождества Пресвятой Девы Марии"
+msgstr ""
+
+# Objects : [w173668708]
+# name:be: []
+msgid "Костел св. Андрея Баболи (дерев.)"
+msgstr ""
+
+# Objects : [w241611640]
+# name:be: []
+msgid "костел Св. Анны"
+msgstr ""
+
+# Objects : [n1374534526, n1560680180]
+# name:be: []
+msgid "Костел св. Анны"
+msgstr ""
+
+# Objects : [w255883302]
+# name:be: []
+msgid "костел св.Антония Падуанского"
+msgstr ""
+
+# Objects : [n1118761319]
+# name:be: []
+msgid "костел св. Антония Падуанского"
+msgstr ""
+
+# Objects : [n1482487417, w229717914]
+# name:be: []
+msgid "Костел св. апостола Андрея"
+msgstr ""
+
+# Objects : [n1641766145]
+# name:be: []
+msgid "Костел св. апостола Якуба (Иакова)"
+msgstr ""
+
+# Objects : [w240221468]
+# name:be: []
+msgid "Костел св. Апостолов Петра и Павла"
+msgstr ""
+
+# Objects : [w117398888]
+# name:be: []
+msgid "Костел св. Богоматери (Приход Рождества Пресвятой Девы Марии)"
+msgstr ""
+
+# Objects : [n2131996167]
+# name:be: []
+msgid "Костел Св. Валентина"
+msgstr ""
+
+# Objects : [n1376719287, w255786474]
+# name:be: []
+msgid "Костел св. Варвары"
+msgstr ""
+
+# Objects : [w129585640]
+# name:be: []
+msgid "Костел св. Владислава"
+msgstr ""
+
+# Objects : [n1473393498, n1642907346]
+# name:be: []
+msgid "Костел св. Георгия"
+msgstr ""
+
+# Objects : [n1642914295]
+# name:be: []
+msgid "Костел св. Георгия (дерев.)"
+msgstr ""
+
+# Objects : [n1370855843, w167854355]
+# name:be: []
+msgid "Костёл св.Доминика"
+msgstr ""
+
+# Objects : [n1555844249]
+# name:be: []
+msgid "Костел св. Евфимии"
+msgstr ""
+
+# Objects : [n1374535576, n1577943258, w130540001, w260417925]
+# name:be: []
+msgid "Костел св. Иоанна Крестителя"
+msgstr ""
+
+# Objects : [n306067810]
+# name:be: []
+msgid "Костел Св. Иоанна Крестителя"
+msgstr ""
+
+# Objects : [w305696694]
+# name:be: []
+msgid "костел св. Иозафата Куцевича"
+msgstr ""
+
+# Objects : [n1217600236, n1369927332, n1374726206, w109200663, w89695302]
+# name:be: []
+msgid "Костел св. Иосифа"
+msgstr ""
+
+# Objects : [n937429067]
+# name:be: []
+msgid "Костёл св. Иосифа"
+msgstr ""
+
+# Objects : [n1575450950, w156429822]
+# name:be: []
+msgid "Костел св. Казимира"
+msgstr ""
+
+# Objects : [w93877316]
+# name:be: []
+msgid "Костел св. Козьмы и Демьяна"
+msgstr ""
+
+# Objects : [w41014352]
+# name:be: []
+msgid "Костёл Св. Матвея"
+msgstr ""
+
+# Objects : [w201836853]
+# name:be: []
+msgid "костел св. Михаила Архангела"
+msgstr ""
+
+# Objects : [n1280424892, n1374765418, n1473393497, w197533229]
+# name:be: []
+msgid "Костел св. Михаила Архангела"
+msgstr ""
+
+# Objects : [w200486805]
+# name:be: []
+msgid "Костел св. Николая"
+msgstr ""
+
+# Objects : [w305711455]
+# name:be: []
+msgid "костел св. о.Пио"
+msgstr ""
+
+# Objects : [n1376695544, n1642873995, n916628288, n916630148, w133190771, w199402111, w217925487]
+# name:be: []
+msgid "Костел св. Петра и Павла"
+msgstr ""
+
+# Objects : [n306067809]
+# name:be: []
+msgid "Костел Св. Петра И Павла"
+msgstr ""
+
+# Objects : [n1374799561]
+# name:be: []
+msgid "Костел св. Роха /сохр. фундамент/"
+msgstr ""
+
+# Objects : [n1374627588]
+# name:be: []
+msgid "Костел св. Роха (дерев.)"
+msgstr ""
+
+# Objects : [n913858751]
+# name:be: []
+msgid "костёл св. Семьи"
+msgstr ""
+
+# Objects : [n1559066385]
+# name:be: []
+msgid "Костел св. Симеона и Тадеуша"
+msgstr ""
+
+# Objects : [n1551940654]
+# name:be: []
+msgid "Костел св. Станислава"
+msgstr ""
+
+# Objects : [w86760885]
+# name:be: []
+msgid "костёл св. Станислава"
+msgstr ""
+
+# Objects : [n1575437396, n446220764]
+# name:be: []
+msgid "Костел св. Тадеуша"
+msgstr ""
+
+# Objects : [n1374775086, w200737058]
+# name:be: []
+msgid "Костел св. Юрия"
+msgstr ""
+
+# Objects : [n1559342890]
+# name:be: []
+msgid "Костел св. Юрия (дерев.)"
+msgstr ""
+
+# Objects : [w169201792]
+# name:be: []
+msgid "Костел святого Андрея Баболи"
+msgstr ""
+
+# Objects : [n1270077733]
+# name:be: []
+msgid "Костёл Святого Антония"
+msgstr ""
+
+# Objects : [n1376719102]
+# name:be: []
+msgid "Костел Святого Антония Падуанского; Костел св. Антония (руины)"
+msgstr ""
+
+# Objects : [w180807329]
+# name:be: []
+msgid "Костел Святого Архангела Михаила"
+msgstr ""
+
+# Objects : [w292002986]
+# name:be: []
+msgid "Костел Святого Архангела Михаила и кляштор цистерцианок"
+msgstr ""
+
+# Objects : [w99210104]
+# name:be: []
+msgid "Костел святого Вацлава"
+msgstr ""
+
+# Objects : [n306068896]
+# name:be: []
+msgid "Костел Святого Иосифа"
+msgstr ""
+
+# Objects : [n1475333853, n306063560]
+# name:be: []
+msgid "Костел Святого Казимира"
+msgstr ""
+
+# Objects : [n378247503, w109586736]
+# name:be: []
+msgid "Костёл Святого Казимира"
+msgstr ""
+
+# Objects : [n1575484350]
+# name:be: []
+msgid "Костел Святого Михаила Архангела"
+msgstr ""
+
+# Objects : [w37908088]
+# name:be: []
+msgid "Костёл Святого Михаила Архангела"
+msgstr ""
+
+# Objects : [w237600793]
+# name:be: []
+msgid "Костел святого Петра и Павла"
+msgstr ""
+
+# Objects : [w239128453]
+# name:be: []
+msgid "Костел Святого Петра и Павла"
+msgstr ""
+
+# Objects : [w292385676]
+# name:be: []
+msgid "Костел Святого Сердца Иисуса"
+msgstr ""
+
+# Objects : [w100418249]
+# name:be: []
+msgid "Костёл святого Симеона и святой Елены"
+msgstr ""
+
+# Objects : [n2788682163, w304475794, w91916811]
+# name:be: []
+msgid "Костел Святой Анны"
+msgstr ""
+
+# Objects : [w239852868]
+# name:be: []
+msgid "Костел Святой Триицы"
+msgstr ""
+
+# Objects : [n1318758729]
+# name:be: []
+msgid "Костел Святой Троицы"
+msgstr ""
+
+# Objects : [n320410006]
+# name:be: []
+msgid "Костёл Святой Троицы"
+msgstr ""
+
+# Objects : [n2788682246]
+# name:be: []
+msgid "Костел Святой Троицы; Костел Троицкий"
+msgstr ""
+
+# Objects : [n1615552122, n1640408375]
+# name:be: []
+msgid "Костел Сердца Иисуса"
+msgstr ""
+
+# Objects : [n945277043, w157040522]
+# name:be: []
+msgid "Костёл Сердца Иисуса"
+msgstr ""
+
+# Objects : [n1642907671, w126521225]
+# name:be: []
+msgid "Костел Сердца Иисуса (дерев.)"
+msgstr ""
+
+# Objects : [n1117061224]
+# name:be: []
+msgid "костел Троицкий"
+msgstr ""
+
+# Objects : [n1374538026, n1376713888, n1575473455, n1616488734, n1642888891, n1642915985, w154185540, w154222632, w158202919]
+# name:be: []
+msgid "Костел Троицкий"
+msgstr ""
+
+# Objects : [w111031440]
+# name:be: []
+msgid "Костел Троицкий (дерев.)"
+msgstr ""
+
+# Objects : [n1369985108]
+# name:be: []
+msgid "Костел Троицкий (св. Роха)"
+msgstr ""
+
+# Objects : [n1575419844]
+# name:be: []
+msgid "Костел Троицкий фарный /сохр. часть стены/"
+msgstr ""
+
+# Objects : [n2788682326, w157277600, w273859709]
+# name:be: []
+msgid "Костел Успения Пресвятой Девы Марии"
+msgstr ""
+
+# Objects : [n320409746]
+# name:be: []
+msgid "Костел Францисканцев"
+msgstr ""
+
+# Objects : [n899602276]
+# name:be: []
+msgid "Костел францисканцев (руины)"
+msgstr ""
+
+# Objects : [n1852253854]
+# name:be: []
+msgid "Крест"
+msgstr ""
+
+# Objects : [n1846595679]
+# name:be: []
+msgid "Крест на горе"
+msgstr ""
+
+# Objects : [w290903356]
+# name:be: []
+msgid "Крестовоздвиженская"
+msgstr ""
+
+# Objects : [n937428450]
+# name:be: []
+msgid "Крестовоздвиженская православная церковь"
+msgstr ""
+
+# Objects : [n1061780499]
+# name:be: []
+msgid "Крестовоздвиженский"
+msgstr ""
+
+# Objects : [w83644578]
+# name:be: []
+msgid "Крупецкой иконы Божьей Матери"
+msgstr ""
+
+# Objects : [n306065745]
+# name:be: []
+msgid "Кутеинский Монастырь"
+msgstr ""
+
+# Objects : [w267402034]
+# name:be: []
+msgid "Лабовичский сельский клуб"
+msgstr ""
+
+# Objects : [w29125324]
+# name:be: []
+msgid "Лютеранская кирха святого Иоанна"
+msgstr ""
+
+# Objects : [n255276062]
+# name:be: []
+msgid "Мемориальная часовня-памятник погибшим в Афганистане"
+msgstr ""
+
+# Objects : [w274252898]
+# name:be: []
+msgid "Место бывшего монастыря"
+msgstr ""
+
+# Objects : [n1575485741, n742227642, w237148143]
+# name:be: []
+msgid "Мечеть"
+msgstr ""
+
+# Objects : [n455929261]
+# name:be: []
+msgid "Милость Господня"
+msgstr ""
+
+# Objects : [n849464958]
+# name:be: []
+msgid "Минское епархиальное управление"
+msgstr ""
+
+# Objects : [w25393510]
+# name:be: []
+msgid "молитвенный дом"
+msgstr ""
+
+# Objects : [n475123419, w211865852, w289884049, w40309193]
+# name:be: []
+msgid "Молитвенный дом"
+msgstr ""
+
+# Objects : [w40389153, w41773773]
+# name:be: []
+msgid "Молитвенный дом ВСЕХБ"
+msgstr ""
+
+# Objects : [n486457165, w45390752]
+# name:be: []
+msgid "Молитвенный дом МСЦ ЕХБ"
+msgstr ""
+
+# Objects : [n1448716236]
+# name:be: []
+msgid "Молитвенный дом ЦИХСПД"
+msgstr ""
+
+# Objects : [w159989481]
+# name:be: []
+msgid "Монастырь"
+msgstr ""
+
+# Objects : [n1555819665]
+# name:be: []
+msgid "Монастырь бенедиктинок"
+msgstr ""
+
+# Objects : [n1555788217]
+# name:be: []
+msgid "Монастырь бернардинцев"
+msgstr ""
+
+# Objects : [n746920958]
+# name:be: []
+msgid "Монастырь бернардинцев - костел Троицкий"
+msgstr ""
+
+# Objects : [n306066077]
+# name:be: []
+msgid "Монастырь На Лысой Горе"
+msgstr ""
+
+# Objects : [w158207581]
+# name:be: []
+msgid "монастырь сестер-евхаристок"
+msgstr ""
+
+# Objects : [n2496066228]
+# name:be: []
+msgid "Монастырь францисканцев с парком"
+msgstr ""
+
+# Objects : [r3252915]
+# name:be: []
+msgid "монашеская община сестёр-евхаристок"
+msgstr ""
+
+# Objects : [n452529868]
+# name:be: []
+msgid "Надежда"
+msgstr ""
+
+# Objects : [n2946004530]
+# name:be: []
+msgid "Нерукотворного образа Господня"
+msgstr ""
+
+# Objects : [n1201885760]
+# name:be: []
+msgid "Никольская церковь"
+msgstr ""
+
+# Objects : [n306064765]
+# name:be: []
+msgid "Новоапостольская Ц"
+msgstr ""
+
+# Objects : [w25394003, w27899804]
+# name:be: []
+msgid "Новоапостольская церковь"
+msgstr ""
+
+# Objects : [n1124931845]
+# name:be: []
+msgid "Новое кладбище"
+msgstr ""
+
+# Objects : [w139751187]
+# name:be: []
+msgid "Ошторпов, XIX век"
+msgstr ""
+
+# Objects : [n1124731111]
+# name:be: []
+msgid "памятник Афганцам"
+msgstr ""
+
+# Objects : [n1195123591]
+# name:be: []
+msgid "Памятник ВОВ"
+msgstr ""
+
+# Objects : [n913812270]
+# name:be: []
+msgid "Памятник погибшей деревне"
+msgstr ""
+
+# Objects : [w197356825]
+# name:be: []
+msgid "парафиальный дом"
+msgstr ""
+
+# Objects : [n320409353]
+# name:be: []
+msgid "Парафия Святых апостолов Петра и Павла"
+msgstr ""
+
+# Objects : [n1271808368]
+# name:be: []
+msgid "Пинский кафедральный собор"
+msgstr ""
+
+# Objects : [w133978558]
+# name:be: []
+msgid "Плебания"
+msgstr ""
+
+# Objects : [n2279373009]
+# name:be: []
+msgid "Подникольский монастырь"
+msgstr ""
+
+# Objects : [w25392476]
+# name:be: []
+msgid "Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n956545726]
+# name:be: []
+msgid "Покровская"
+msgstr ""
+
+# Objects : [w156424730]
+# name:be: []
+msgid "Покровская старобрядческая церковь"
+msgstr ""
+
+# Objects : [n455938878, w112954099]
+# name:be: []
+msgid "Православная церковь"
+msgstr ""
+
+# Objects : [n564918758]
+# name:be: []
+msgid "Православная церковь Параскевы Пятницкой"
+msgstr ""
+
+# Objects : [n564918756]
+# name:be: []
+msgid "Православная церковь Пресвятой Богородицыю"
+msgstr ""
+
+# Objects : [w156292304]
+# name:be: []
+msgid "Православный женский монастырь"
+msgstr ""
+
+# Objects : [n2478785814]
+# name:be: []
+msgid "Православный приход Свято-Георгиевской церкви"
+msgstr ""
+
+# Objects : [w257338860]
+# name:be: []
+msgid "православный храм"
+msgstr ""
+
+# Objects : [n1137604114, n1430559469]
+# name:be: []
+msgid "Православный храм"
+msgstr ""
+
+# Objects : [n305882105]
+# name:be: []
+msgid "Православный храм Архистратига Божия Михаила"
+msgstr ""
+
+# Objects : [w241085993]
+# name:be: []
+msgid "православный храм свят. Николая Чудотворца"
+msgstr ""
+
+# Objects : [w27902686]
+# name:be: []
+msgid "Приемная епископа Витебского. Храм преподобномученика Афанасия, игумена Брестского"
+msgstr ""
+
+# Objects : [w256835203]
+# name:be: []
+msgid "Приход"
+msgstr ""
+
+# Objects : [n2379971535]
+# name:be: []
+msgid "Приход во мя Св. прп. Серафима Саровского"
+msgstr ""
+
+# Objects : [w29125475]
+# name:be: []
+msgid "Приход костела Милосердия Божия"
+msgstr ""
+
+# Objects : [n2491875436]
+# name:be: []
+msgid "приход  мормонов"
+msgstr ""
+
+# Objects : [r61777]
+# name:be: []
+msgid "Приход Пресвятого Искупителя"
+msgstr ""
+
+# Objects : [n2379812877]
+# name:be: []
+msgid "Приход св. Николая Японского"
+msgstr ""
+
+# Objects : [w62044547]
+# name:be: []
+msgid "Приход свт. Николая Чудотворца"
+msgstr ""
+
+# Objects : [w199078086]
+# name:be: []
+msgid "приход храма "Всех Святых""
+msgstr ""
+
+# Objects : [w205044380]
+# name:be: []
+msgid "Приход храма Николая Чудотворца"
+msgstr ""
+
+# Objects : [n1039972099]
+# name:be: []
+msgid "Приход Храма Христа Спасителя"
+msgstr ""
+
+# Objects : [w181144148]
+# name:be: []
+msgid "Развалины Синагоги"
+msgstr ""
+
+# Objects : [w27903672]
+# name:be: []
+msgid "Римско-католический костел Святого Духа"
+msgstr ""
+
+# Objects : [n538504784]
+# name:be: []
+msgid "Римско-католический приход непорочного зачатия Пресв. Девы Мари"
+msgstr ""
+
+# Objects : [w185032227]
+# name:be: []
+msgid "РО "Евангельская церковь""
+msgstr ""
+
+# Objects : [n592391759]
+# name:be: []
+msgid "Рождество Христово"
+msgstr ""
+
+# Objects : [n2487725892]
+# name:be: []
+msgid "руины католической часовни"
+msgstr ""
+
+# Objects : [w284822949]
+# name:be: []
+msgid "руины церкви"
+msgstr ""
+
+# Objects : [n283620440]
+# name:be: []
+msgid "св. Георгия"
+msgstr ""
+
+# Objects : [n956545615]
+# name:be: []
+msgid "св. Николая"
+msgstr ""
+
+# Objects : [n3126963848]
+# name:be: []
+msgid "св. Николая Чудотворца"
+msgstr ""
+
+# Objects : [n2009457852, w120291921]
+# name:be: []
+msgid "Св. Николая Чудотворца"
+msgstr ""
+
+# Objects : [w265408110]
+# name:be: []
+msgid "Святителя Николая"
+msgstr ""
+
+# Objects : [w289516071]
+# name:be: []
+msgid "Свято Александра Невского Церковь"
+msgstr ""
+
+# Objects : [w230631438]
+# name:be: []
+msgid "Свято-Александро-Невская Церковь"
+msgstr ""
+
+# Objects : [n1223157222]
+# name:be: []
+msgid "Свято-Афанасьевский мужской монастырь"
+msgstr ""
+
+# Objects : [n833792784]
+# name:be: []
+msgid "Свято-Богородицкая церковь"
+msgstr ""
+
+# Objects : [w29125792]
+# name:be: []
+msgid "Свято-Борисо-Глебская Коложская церковь"
+msgstr ""
+
+# Objects : [n1201803046]
+# name:be: []
+msgid "Свято-Владимирская православная церковь"
+msgstr ""
+
+# Objects : [n320409824]
+# name:be: []
+msgid "Свято-Владимирская церковь"
+msgstr ""
+
+# Objects : [n2956893540]
+# name:be: []
+msgid "Свято-Вознесенская церковь пос. Ждановичи"
+msgstr ""
+
+# Objects : [n1054237497]
+# name:be: []
+msgid "Свято-Воскресенская церковь"
+msgstr ""
+
+# Objects : [n1200094805]
+# name:be: []
+msgid "Свято-Георгиевская церковь"
+msgstr ""
+
+# Objects : [n742226608]
+# name:be: []
+msgid "Свято-Георгиевская Церковь"
+msgstr ""
+
+# Objects : [n306068259, w104490045]
+# name:be: []
+msgid "Свято-Георгиевский храм"
+msgstr ""
+
+# Objects : [n560814015]
+# name:be: []
+msgid "Святого князя Александра Невского"
+msgstr ""
+
+# Objects : [w27898754]
+# name:be: []
+msgid "Свято-Духов женский монастырь"
+msgstr ""
+
+# Objects : [w239955696]
+# name:be: []
+msgid "Свято-Духов храм"
+msgstr ""
+
+# Objects : [w257150552, w257150553]
+# name:be: []
+msgid "Свято-Елисаветинский монастырь"
+msgstr ""
+
+# Objects : [n1201903637]
+# name:be: []
+msgid "Свято-Зосимо-Савватиевский Велико-Кракотский мужской монастырь"
+msgstr ""
+
+# Objects : [n849374479]
+# name:be: []
+msgid "Свято-Иовлева церковь"
+msgstr ""
+
+# Objects : [w164600770]
+# name:be: []
+msgid "Свято-Крестовоздвиженский собор"
+msgstr ""
+
+# Objects : [n764953584]
+# name:be: []
+msgid "Свято-Михайловская"
+msgstr ""
+
+# Objects : [w130065350]
+# name:be: []
+msgid "Свято-Михайловская Церковь"
+msgstr ""
+
+# Objects : [w204548755]
+# name:be: []
+msgid "Свято-Михайловский Собор"
+msgstr ""
+
+# Objects : [n1931895306]
+# name:be: []
+msgid "Свято-Никитинская церковь"
+msgstr ""
+
+# Objects : [n306063084]
+# name:be: []
+msgid "Свято-Николаевский кафедральный собор"
+msgstr ""
+
+# Objects : [n1282829330]
+# name:be: []
+msgid "Свято-Николаевский собор"
+msgstr ""
+
+# Objects : [n2502225355]
+# name:be: []
+msgid "Свято-Николаевский храм"
+msgstr ""
+
+# Objects : [n1559596911]
+# name:be: []
+msgid "Святоникольская церковь"
+msgstr ""
+
+# Objects : [w31776985]
+# name:be: []
+msgid "Свято-никольская церковь"
+msgstr ""
+
+# Objects : [w221336666]
+# name:be: []
+msgid "Свято-Никольская церковь"
+msgstr ""
+
+# Objects : [w174555338]
+# name:be: []
+msgid "Свято-Никольский кафедральный собор"
+msgstr ""
+
+# Objects : [n1658178411]
+# name:be: []
+msgid "Свято Покровская церквь"
+msgstr ""
+
+# Objects : [w108524075]
+# name:be: []
+msgid "Свято-Покровская церковь"
+msgstr ""
+
+# Objects : [w27902169]
+# name:be: []
+msgid "Свято-Покровский кафедральный собор"
+msgstr ""
+
+# Objects : [n1151002670]
+# name:be: []
+msgid "Свято-Рожбесмъа-Богоробичная церковъ"
+msgstr ""
+
+# Objects : [n306064230]
+# name:be: []
+msgid "Свято-Рождество-Богородицкий Женский Монастырь"
+msgstr ""
+
+# Objects : [n1177785392]
+# name:be: []
+msgid "Свято-Симеоновский Собор"
+msgstr ""
+
+# Objects : [n475060416]
+# name:be: []
+msgid "СВЯТО-СРЕТЕНСКАЯ ЦЕРКОВЬ"
+msgstr ""
+
+# Objects : [w97690580]
+# name:be: []
+msgid "Свято-Троицкий собор"
+msgstr ""
+
+# Objects : [n565676925]
+# name:be: []
+msgid "Свято-Троицкий храм"
+msgstr ""
+
+# Objects : [w242340069]
+# name:be: []
+msgid "Свято-Успенская церковь"
+msgstr ""
+
+# Objects : [w30702107]
+# name:be: []
+msgid "Свято-Успенский кафедральный собор"
+msgstr ""
+
+# Objects : [n1201885738]
+# name:be: []
+msgid "Свято-Успенский собор"
+msgstr ""
+
+# Objects : [n306067595]
+# name:be: []
+msgid "Свято-Успенский Ставропигиальный Мужской Монастырь 1470Г."
+msgstr ""
+
+# Objects : [n3077172163]
+# name:be: []
+msgid "Свято-Успенский храм"
+msgstr ""
+
+# Objects : [n306062472]
+# name:be: []
+msgid "Свято Христо Рождества"
+msgstr ""
+
+# Objects : [w291098784]
+# name:be: []
+msgid "Священномученика Алексия Лельчицкого"
+msgstr ""
+
+# Objects : [n965543174]
+# name:be: []
+msgid "Сельсовет"
+msgstr ""
+
+# Objects : [n306064755]
+# name:be: []
+msgid "Сергия Радонежского Храм"
+msgstr ""
+
+# Objects : [n1000804275, n1374728880, n1376738117, n1551892414, n1552030910, w112155706, w138701235, w205178888, w25327421, w25387141]
+# name:be: []
+msgid "Синагога"
+msgstr ""
+
+# Objects : [n1374743604]
+# name:be: []
+msgid "Синагога (дерев.)"
+msgstr ""
+
+# Objects : [n1376738831]
+# name:be: []
+msgid "Синагога Главная"
+msgstr ""
+
+# Objects : [n1376738164]
+# name:be: []
+msgid "Синагога купеческая"
+msgstr ""
+
+# Objects : [n829327780]
+# name:be: []
+msgid "Собор"
+msgstr ""
+
+# Objects : [n1421070760, n997636662]
+# name:be: []
+msgid "Собор Александра Невского"
+msgstr ""
+
+# Objects : [w31776987]
+# name:be: []
+msgid "Собор Александра Невского (1884)"
+msgstr ""
+
+# Objects : [n306068359]
+# name:be: []
+msgid "Собор во имя Св. Благоверного Кн. Александра Невского"
+msgstr ""
+
+# Objects : [w54277465]
+# name:be: []
+msgid "Собор кафедральный св. Михаила Архангела"
+msgstr ""
+
+# Objects : [w96742402]
+# name:be: []
+msgid "Собор Крестовоздвиженский"
+msgstr ""
+
+# Objects : [w198633784]
+# name:be: []
+msgid "Собор Петра и Павла"
+msgstr ""
+
+# Objects : [n306069354]
+# name:be: []
+msgid "Собор Покровский"
+msgstr ""
+
+# Objects : [n470334271]
+# name:be: []
+msgid "Собор св. Михаила Архангела (дерев.)"
+msgstr ""
+
+# Objects : [w68896313]
+# name:be: []
+msgid "Софийский Собор"
+msgstr ""
+
+# Objects : [n1117392961]
+# name:be: []
+msgid "Спасо-Вознесенская церковь"
+msgstr ""
+
+# Objects : [n836583889, w238971801, w239128454, w252041736, w37908094]
+# name:be: []
+msgid "Спасо-Преображенская церковь"
+msgstr ""
+
+# Objects : [n913344608]
+# name:be: []
+msgid "Спасо–Преображенская церковь"
+msgstr ""
+
+# Objects : [n2385859682]
+# name:be: []
+msgid "Спасо-Преображенский мужской монастырь"
+msgstr ""
+
+# Objects : [w97853967]
+# name:be: []
+msgid "Спасо-Преображенский собор"
+msgstr ""
+
+# Objects : [w161947654]
+# name:be: []
+msgid "староверская Успенская церковь"
+msgstr ""
+
+# Objects : [n1124931268]
+# name:be: []
+msgid "Старое кладбище "Пороховня""
+msgstr ""
+
+# Objects : [n494140650]
+# name:be: []
+msgid "Старообрядческая деревянная церковь"
+msgstr ""
+
+# Objects : [w30662118]
+# name:be: []
+msgid "Старообрядческая Древлеправославная церковь Святителя Христова Николы"
+msgstr ""
+
+# Objects : [n2079489069]
+# name:be: []
+msgid "Старо-обрядческая церковь"
+msgstr ""
+
+# Objects : [w27900479]
+# name:be: []
+msgid "Старообрядческая церковь Успения Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n2616366715]
+# name:be: []
+msgid "Танк (памятник)"
+msgstr ""
+
+# Objects : [n456054759]
+# name:be: []
+msgid "Терпение"
+msgstr ""
+
+# Objects : [n1580628975, n875798204, w267403270]
+# name:be: []
+msgid "Троицкая церковь"
+msgstr ""
+
+# Objects : [n1482392084]
+# name:be: []
+msgid "Троицкая церковь (1926)"
+msgstr ""
+
+# Objects : [w150601713, w225775477]
+# name:be: []
+msgid "Троицкий костел"
+msgstr ""
+
+# Objects : [w243260965]
+# name:be: []
+msgid "Униатская (греко-католическая) церковь Воскресения Христова"
+msgstr ""
+
+# Objects : [n320409578]
+# name:be: []
+msgid "Успения Пресвятой Девы Марии"
+msgstr ""
+
+# Objects : [n945268752]
+# name:be: []
+msgid "Успенская старообрядческая церковь"
+msgstr ""
+
+# Objects : [w261181776]
+# name:be: []
+msgid "Успенский собор"
+msgstr ""
+
+# Objects : [w293389349]
+# name:be: []
+msgid "Усыпальница Свентаржэцких"
+msgstr ""
+
+# Objects : [n1575465555]
+# name:be: []
+msgid "Фарный костёл Преображения Господнего"
+msgstr ""
+
+# Objects : [n2318035298]
+# name:be: []
+msgid "ХВЕ (50ники)"
+msgstr ""
+
+# Objects : [w205899888]
+# name:be: []
+msgid "Хвошнянский православный приход Вознесения Христова (1906)"
+msgstr ""
+
+# Objects : [w160023007]
+# name:be: []
+msgid "храм"
+msgstr ""
+
+# Objects : [w256861196]
+# name:be: []
+msgid "Храм"
+msgstr ""
+
+# Objects : [w29981822]
+# name:be: []
+msgid "Храм Благовещения Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [w151489010]
+# name:be: []
+msgid "храм Воздвижения Креста Господня"
+msgstr ""
+
+# Objects : [n306067551]
+# name:be: []
+msgid "Храм Воздвижения Креста Господня"
+msgstr ""
+
+# Objects : [w155989830, w36718218]
+# name:be: []
+msgid "Храм Вознесения Господня"
+msgstr ""
+
+# Objects : [w60921636]
+# name:be: []
+msgid "Храм во имя Всех святых"
+msgstr ""
+
+# Objects : [n306069779]
+# name:be: []
+msgid "Храм Во Имя Всех Святых 1913 г."
+msgstr ""
+
+# Objects : [n306062204]
+# name:be: []
+msgid "Храм Во Имя Св.Апостола Андрея Первозванного 1877Г."
+msgstr ""
+
+# Objects : [n306068969]
+# name:be: []
+msgid "Храм Во Имя Св. Апостола Иоанна Богослова 1817Г."
+msgstr ""
+
+# Objects : [n306064335]
+# name:be: []
+msgid "Храм Во Имя Св. Апостола Иоанна Богослова 1902Г."
+msgstr ""
+
+# Objects : [n306064460, n306068982]
+# name:be: []
+msgid "Храм Во Имя Св.Архистратига Михаила"
+msgstr ""
+
+# Objects : [w193289252]
+# name:be: []
+msgid "Храм во имя Св. Архистратига Михаила"
+msgstr ""
+
+# Objects : [n306067743]
+# name:be: []
+msgid "Храм Во Имя Св. Архистратига Михаила"
+msgstr ""
+
+# Objects : [n306067840]
+# name:be: []
+msgid "Храм во имя Св. Архистратига  Михаила"
+msgstr ""
+
+# Objects : [n306062182]
+# name:be: []
+msgid "Храм Во Имя Св.Архистратига Михаила 1816Г."
+msgstr ""
+
+# Objects : [w96826965]
+# name:be: []
+msgid "Храм Во Имя Св. Архистратига Михаила 1848Г."
+msgstr ""
+
+# Objects : [n306068775]
+# name:be: []
+msgid "Храм Во Имя Св.Архистратига Михаила 1881Г."
+msgstr ""
+
+# Objects : [n320410008]
+# name:be: []
+msgid "Храм во имя Св.благоверного кн.Александра Невского 1881г."
+msgstr ""
+
+# Objects : [n306067454, n306068911]
+# name:be: []
+msgid "Храм Во Имя Св. Великомученика Георгия Победоносца"
+msgstr ""
+
+# Objects : [n306069708]
+# name:be: []
+msgid "Храм Во Имя Св.  Великомученика Георгия Победоносца"
+msgstr ""
+
+# Objects : [n306067582]
+# name:be: []
+msgid "Храм во имя Св. Великомученика Георгия Победоносца 1863Г."
+msgstr ""
+
+# Objects : [n306069854]
+# name:be: []
+msgid "Храм Во Имя Св. Великомученика Георгия Победоносца 1863Г."
+msgstr ""
+
+# Objects : [n306067718]
+# name:be: []
+msgid "Храм Во Имя Св.Великомученика Георгия Побелоносца(Кладбищенский)"
+msgstr ""
+
+# Objects : [n306061990]
+# name:be: []
+msgid "Храм Во Имя Св.Великомученицы Параскевы"
+msgstr ""
+
+# Objects : [n306069104]
+# name:be: []
+msgid "Храм Во Имя Св. Великомученицы Параскевы"
+msgstr ""
+
+# Objects : [n306064413]
+# name:be: []
+msgid "Храм Во Имя Св.Великомученицы Параскевы 1526Г."
+msgstr ""
+
+# Objects : [n306069538]
+# name:be: []
+msgid "Храм Во Имя Св. Великомученицы  Параскевы 1794Г."
+msgstr ""
+
+# Objects : [n306069462]
+# name:be: []
+msgid "Храм Во Имя  Св. Великомученицы Параскевы 1895Г."
+msgstr ""
+
+# Objects : [n306068078]
+# name:be: []
+msgid "Храм Во Имя Св. Великомучкницы Екатерины 1822Г."
+msgstr ""
+
+# Objects : [n306067966]
+# name:be: []
+msgid "Храм Во Имя Св.Димитрия Солунского 1868Г."
+msgstr ""
+
+# Objects : [n306067574]
+# name:be: []
+msgid "Храм во имя Св. Кирилла Туровского"
+msgstr ""
+
+# Objects : [w201363890]
+# name:be: []
+msgid "Храм Во Имя Св. Мученицы Параскевы 1815Г."
+msgstr ""
+
+# Objects : [n306069068]
+# name:be: []
+msgid "Храм Во Имя Св. Праведного Иоанна Крондштадского"
+msgstr ""
+
+# Objects : [n306069070]
+# name:be: []
+msgid "Храм Во Имя Св. Праведной Анны 1845Г."
+msgstr ""
+
+# Objects : [w253441722]
+# name:be: []
+msgid "Храм во имя Св. Праведной Анны 1903Г."
+msgstr ""
+
+# Objects : [n306069149]
+# name:be: []
+msgid "Храм Во Имя Св. Преподобного Антония 1817Г."
+msgstr ""
+
+# Objects : [w239739234]
+# name:be: []
+msgid "Храм во имя св. Преподобного Антония Великого"
+msgstr ""
+
+# Objects : [n306067590]
+# name:be: []
+msgid "Храм во имя Св.Преподобномученика Афанасия Брестского"
+msgstr ""
+
+# Objects : [n306068795]
+# name:be: []
+msgid "Храм Во Имя Св.Пророка Илии"
+msgstr ""
+
+# Objects : [n306069052]
+# name:be: []
+msgid "Храм Во Имя Св. Пророка Илии"
+msgstr ""
+
+# Objects : [n306067571]
+# name:be: []
+msgid "Храм во имя  Св. Пророка Илии 1861Г."
+msgstr ""
+
+# Objects : [n306062242]
+# name:be: []
+msgid "Храм Во Имя Св. Равноапостольного Кн. Владимира"
+msgstr ""
+
+# Objects : [n306068946]
+# name:be: []
+msgid "Храм Во Имя Св. Равноапостольного Князя Владимира"
+msgstr ""
+
+# Objects : [n306068856]
+# name:be: []
+msgid "Храм Во Имя Св. Симеона 1873Г."
+msgstr ""
+
+# Objects : [n306062218, w87440158]
+# name:be: []
+msgid "Храм Во Имя Св.Симеона 1914Г."
+msgstr ""
+
+# Objects : [n306062184, n306062200, n306062234, n306062245, n306066792, n306068022, n306068348, n306069624]
+# name:be: []
+msgid "Храм Во Имя Святителя Николая Чудотворца"
+msgstr ""
+
+# Objects : [n306069198]
+# name:be: []
+msgid "Храм Во Имя Святителя Николая  Чудотворца"
+msgstr ""
+
+# Objects : [n306067578]
+# name:be: []
+msgid "Храм во имя Святителя  Николая Чудотворца"
+msgstr ""
+
+# Objects : [n306069118]
+# name:be: []
+msgid "Храм Во Имя Святителя Николая Чудотворца 1666Г."
+msgstr ""
+
+# Objects : [n306067803]
+# name:be: []
+msgid "Храм во имя Святителя Николая Чудотворца 1801Г."
+msgstr ""
+
+# Objects : [n306062239]
+# name:be: []
+msgid "Храм Во Имя Святителя Николая Чудотворца 1811Г."
+msgstr ""
+
+# Objects : [n306064912]
+# name:be: []
+msgid "Храм Во Имя Святителя Николая Чудотворца 1882Г."
+msgstr ""
+
+# Objects : [n306069458]
+# name:be: []
+msgid "Храм Во Имя Святителя Николая Чудотворца 1886Г."
+msgstr ""
+
+# Objects : [n306068975]
+# name:be: []
+msgid "Храм во имя Святителя Николая Чудотворца 1903Г."
+msgstr ""
+
+# Objects : [n306068815]
+# name:be: []
+msgid "Храм Во Имя Святителя Николая Чудотворца 1903Г."
+msgstr ""
+
+# Objects : [n306065059]
+# name:be: []
+msgid "Храм Во Имя Святителя Николая Чудотворца 1905Г."
+msgstr ""
+
+# Objects : [n306069396]
+# name:be: []
+msgid "Храм Во Имя Святителя  Николая Чудотворца 1922Г."
+msgstr ""
+
+# Objects : [n306068296]
+# name:be: []
+msgid "Храм Во Имя Святителя Николая Чудотворца 1924Г."
+msgstr ""
+
+# Objects : [n306069235]
+# name:be: []
+msgid "Храм Во Имя Святителя Николая Чудотворца 1925Г."
+msgstr ""
+
+# Objects : [n306069180]
+# name:be: []
+msgid "Храм во имя Святителя Николая Чудотворцать1937Г."
+msgstr ""
+
+# Objects : [n306065898]
+# name:be: []
+msgid "Храм Во Имя Святителя Николая Чудотврца"
+msgstr ""
+
+# Objects : [n306069744]
+# name:be: []
+msgid "Храм Во Имя Святителя Николая Чудотврца 1914Г."
+msgstr ""
+
+# Objects : [n306069667]
+# name:be: []
+msgid "Храм Во Имя Святителя Тихона Московского"
+msgstr ""
+
+# Objects : [w239990812]
+# name:be: []
+msgid "Храм во имя святого священномученика Фаддея"
+msgstr ""
+
+# Objects : [n306067612]
+# name:be: []
+msgid "Храм во имя Святой Троицы 1836Г."
+msgstr ""
+
+# Objects : [n306068918]
+# name:be: []
+msgid "Храм Во Имя Святой Троицы 1842Г."
+msgstr ""
+
+# Objects : [w181144166]
+# name:be: []
+msgid "Храм Во Имя Святых Апостолов Петра И Павла 1675Г."
+msgstr ""
+
+# Objects : [n306068534]
+# name:be: []
+msgid "Храм Во Имя Святых Апостолов Петра И Павла 1849Г."
+msgstr ""
+
+# Objects : [n306064906]
+# name:be: []
+msgid "Храм Во Имя Святых Апостолов Петра И Павла 1877Г."
+msgstr ""
+
+# Objects : [n306069405]
+# name:be: []
+msgid "Храм Во Имя Святых Апостолов Петра И Павла 1910Г."
+msgstr ""
+
+# Objects : [n306069554]
+# name:be: []
+msgid "Храм Во Имя Святых Равноапостольных Кирилла И Мефодия 1899Г."
+msgstr ""
+
+# Objects : [n306069207]
+# name:be: []
+msgid "Храм во имя Сергия Радонежского"
+msgstr ""
+
+# Objects : [n1096129816, w121023030, w30769852]
+# name:be: []
+msgid "Храм Воскресения Христова"
+msgstr ""
+
+# Objects : [n306069043]
+# name:be: []
+msgid "Храм в память об усекновении главы Св. Иоанна Предтечи"
+msgstr ""
+
+# Objects : [w29125524]
+# name:be: []
+msgid "Храм в честь "Собора всех Белорусских Святых""
+msgstr ""
+
+# Objects : [w193209661]
+# name:be: []
+msgid "Храм в честь Воздвижения Креста Господня"
+msgstr ""
+
+# Objects : [n306069087, n306069210]
+# name:be: []
+msgid "Храм В Честь Воздвижения Креста Господня"
+msgstr ""
+
+# Objects : [n306062243]
+# name:be: []
+msgid "Храм В Честь Воздвижения Креста Господня(Кладбищенский)"
+msgstr ""
+
+# Objects : [n306069037]
+# name:be: []
+msgid "Храм В Честь Воздвижения Креста Господня 1838Г."
+msgstr ""
+
+# Objects : [n306069144]
+# name:be: []
+msgid "Храм В Честь Воздвижения Креста Господня 1872Г."
+msgstr ""
+
+# Objects : [n306062199]
+# name:be: []
+msgid "Храм В Честь Воздвижения Креста Господня 1898Г."
+msgstr ""
+
+# Objects : [n306062250]
+# name:be: []
+msgid "Храм В Честь Воздвижения Креста Господня 1903Г."
+msgstr ""
+
+# Objects : [n306068809]
+# name:be: []
+msgid "Храм В Честь Воздвижения Креста Господня 1914Г."
+msgstr ""
+
+# Objects : [n306067607]
+# name:be: []
+msgid "Храм В Честь Воздвижения Креста Господня 1928Г."
+msgstr ""
+
+# Objects : [n306068541]
+# name:be: []
+msgid "Храм в честь Вознесения Господня"
+msgstr ""
+
+# Objects : [n306064409]
+# name:be: []
+msgid "Храм В Честь Вознесения Господня"
+msgstr ""
+
+# Objects : [n306068361]
+# name:be: []
+msgid "Храм  в честь Вознесения Господня"
+msgstr ""
+
+# Objects : [n306069129]
+# name:be: []
+msgid "Храм В Честь Вознесения Господня 1818Г."
+msgstr ""
+
+# Objects : [n306069736]
+# name:be: []
+msgid "Храм В Честь Вознесения Господня1939Г."
+msgstr ""
+
+# Objects : [w116042364]
+# name:be: []
+msgid "Храм в честь иконы Божией Матери "Державная""
+msgstr ""
+
+# Objects : [w170537373]
+# name:be: []
+msgid "Храм в честь иконы Божьей матери "Спорительница хлебов""
+msgstr ""
+
+# Objects : [n306062233]
+# name:be: []
+msgid "Храм В Честь Казанской Иконы Божией Матери"
+msgstr ""
+
+# Objects : [n306067591]
+# name:be: []
+msgid "Храм в честь Казанской Иконы Божией Матери 1720Г."
+msgstr ""
+
+# Objects : [n306068939]
+# name:be: []
+msgid "Храм В Честь Казанской Иконы Божией Матери 1905Г."
+msgstr ""
+
+# Objects : [n306067611]
+# name:be: []
+msgid "Храм В Честь Покрова Пресвятой Бгородицы 1900Г."
+msgstr ""
+
+# Objects : [n306068408]
+# name:be: []
+msgid "Храм в честь Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n306065325, n306065982, n306068872]
+# name:be: []
+msgid "Храм В Честь Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n306069432]
+# name:be: []
+msgid "Храм Вчесть Покрова Пресвятой Богородицы 1670Г."
+msgstr ""
+
+# Objects : [n306069710]
+# name:be: []
+msgid "Храм В Честь Покрова Пресвятой Богородицы 1807Г."
+msgstr ""
+
+# Objects : [n306069161]
+# name:be: []
+msgid "Храм В Честь Покрова Пресвятой Богородицы 1848Г."
+msgstr ""
+
+# Objects : [n306068537]
+# name:be: []
+msgid "Храм в честь Покрова Пресвятой Богородицы 1850 г."
+msgstr ""
+
+# Objects : [n306067838]
+# name:be: []
+msgid "Храм В Честь Покрова Пресвятой Богородицы 1870Г."
+msgstr ""
+
+# Objects : [w225837861]
+# name:be: []
+msgid "Храм в честь Покрова Пресвятой Богородицы 1871Г."
+msgstr ""
+
+# Objects : [n306069615]
+# name:be: []
+msgid "Храм В Честь Покрова Пресвятой Богородицы 1875Г."
+msgstr ""
+
+# Objects : [n306068762]
+# name:be: []
+msgid "Храм В Честь Покрова Пресвятой Богородицы 1899Г."
+msgstr ""
+
+# Objects : [n306069123]
+# name:be: []
+msgid "Храм В Честь Покрова Пресвятой Богородицы 1901Г."
+msgstr ""
+
+# Objects : [n306068459]
+# name:be: []
+msgid "Храм в честь Покрова Пресвятой Богородицы 1904Г."
+msgstr ""
+
+# Objects : [w263794596]
+# name:be: []
+msgid "Храм В Честь Покрова Пресвятой Богородицы 1906Г."
+msgstr ""
+
+# Objects : [n306068923]
+# name:be: []
+msgid "Храм В Честь  Покрова Пресвятой Богородицы 1933Г."
+msgstr ""
+
+# Objects : [n306068893]
+# name:be: []
+msgid "Храм В Честь Покрова Пресвятой Богородицы 1937Г."
+msgstr ""
+
+# Objects : [n306068639, w104960819]
+# name:be: []
+msgid "Храм в честь Преображения Господня"
+msgstr ""
+
+# Objects : [n306064869, n306065864, n306069145, n306069717]
+# name:be: []
+msgid "Храм В Честь Преображения Господня"
+msgstr ""
+
+# Objects : [n306062213]
+# name:be: []
+msgid "Храм В Честь Преображения Господня 1786Г."
+msgstr ""
+
+# Objects : [n306067854]
+# name:be: []
+msgid "Храм в честь Преображения Господня 1865Г."
+msgstr ""
+
+# Objects : [n306069126]
+# name:be: []
+msgid "Храм В Честь Преображения Господня 1877Г."
+msgstr ""
+
+# Objects : [n306069713]
+# name:be: []
+msgid "Храм В Честь Преображения Господня 1910Г."
+msgstr ""
+
+# Objects : [n306065268, n306067579, n306067799, n497477692]
+# name:be: []
+msgid "Храм в честь Рождества Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n306065848, n306066804, n306067536, n306069550, n306069866]
+# name:be: []
+msgid "Храм В Честь Рождества Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n306069077]
+# name:be: []
+msgid "Храм В Честь Рождества Пресвятой Богородицы 1737Г."
+msgstr ""
+
+# Objects : [n306068909]
+# name:be: []
+msgid "Храм В Честь Рождества Пресвятой Богородицы 1797Г."
+msgstr ""
+
+# Objects : [n306068024]
+# name:be: []
+msgid "Храм В Честь Рождества Пресвятой Богородицы 1881Г."
+msgstr ""
+
+# Objects : [n306067843]
+# name:be: []
+msgid "Храм в честь Рождества Пресвятой Богородицы 1883Г."
+msgstr ""
+
+# Objects : [n306069546]
+# name:be: []
+msgid "Храм В Честь Рождества Пресвятой Богородицы 1888Г."
+msgstr ""
+
+# Objects : [n306069443]
+# name:be: []
+msgid "Храм В Честь Рождества Пресвятой Богородицы 1893Г."
+msgstr ""
+
+# Objects : [n306068858]
+# name:be: []
+msgid "Храм Вчесть Рождества Пресвятой Богородицы 1933Г."
+msgstr ""
+
+# Objects : [n306069157]
+# name:be: []
+msgid "Храм В Честь Рождества Пресвятой Богородиыц 1811Г.,Восст.1990Г."
+msgstr ""
+
+# Objects : [n306067598]
+# name:be: []
+msgid "Храм в честь Рождества Пресятой Богородицы 1928Г."
+msgstr ""
+
+# Objects : [w156452326]
+# name:be: []
+msgid "Храм в честь Рождества Христова"
+msgstr ""
+
+# Objects : [n829304052]
+# name:be: []
+msgid "Храм в честь св. Троицы ,1909 г."
+msgstr ""
+
+# Objects : [n306064669]
+# name:be: []
+msgid "Храм в честь Святого Духа"
+msgstr ""
+
+# Objects : [n306069824]
+# name:be: []
+msgid "Храм В Честь Святого Духа 1922Г."
+msgstr ""
+
+# Objects : [n306065323, n306068609]
+# name:be: []
+msgid "Храм в честь Святой Троицы"
+msgstr ""
+
+# Objects : [n306062189, n306062201, n306067849, n306067997, n306068798]
+# name:be: []
+msgid "Храм В Честь Святой Троицы"
+msgstr ""
+
+# Objects : [n306066011]
+# name:be: []
+msgid "Храм В Честь Святой Троицы 1647Г."
+msgstr ""
+
+# Objects : [n306069453]
+# name:be: []
+msgid "Храм В Честь Святой Троицы 1758Г."
+msgstr ""
+
+# Objects : [n306063437]
+# name:be: []
+msgid "Храм В Честь Святой Троицы 1826Г."
+msgstr ""
+
+# Objects : [n306067737]
+# name:be: []
+msgid "Храм В Честь Святой Троицы 1872 г."
+msgstr ""
+
+# Objects : [n306069377]
+# name:be: []
+msgid "Храм В Честь Святой Троицы 1875Г."
+msgstr ""
+
+# Objects : [n306068916]
+# name:be: []
+msgid "Храм В Честь Святой Троицы 1903Г."
+msgstr ""
+
+# Objects : [n306067755]
+# name:be: []
+msgid "Храм В Честь Собора Белорусских Святых"
+msgstr ""
+
+# Objects : [w171368076]
+# name:be: []
+msgid "Храм в честь Тихвинской иконы Божьей Матери"
+msgstr ""
+
+# Objects : [n306068967]
+# name:be: []
+msgid "Храм В Честь Усекновения Главы Иоанна Предтечи 1820Г."
+msgstr ""
+
+# Objects : [w296625710]
+# name:be: []
+msgid "Храм в честь Успения Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n306068991]
+# name:be: []
+msgid "Храм В Честь Успения Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n306068917]
+# name:be: []
+msgid "Храм В Честь Успения Пресвятой Богородицы 1642Г."
+msgstr ""
+
+# Objects : [n306068568]
+# name:be: []
+msgid "Храм в честь Успения Пресвятой Богородицы 1789Г."
+msgstr ""
+
+# Objects : [n306068962]
+# name:be: []
+msgid "Храм В Честь Успения Пресвятой Богородицы 1805Г."
+msgstr ""
+
+# Objects : [n306068583]
+# name:be: []
+msgid "Храм в честь Успения Пресвятой Богородицы 1840Г."
+msgstr ""
+
+# Objects : [n306069174]
+# name:be: []
+msgid "Храм В Честь Успения Пресвятой Богородицы 1861Г."
+msgstr ""
+
+# Objects : [n306067467]
+# name:be: []
+msgid "Храм в честь Успения Пресвятой Богородицы 1866 г."
+msgstr ""
+
+# Objects : [n306069774]
+# name:be: []
+msgid "Храм В Честь  Успения Пресвятой Богородицы 1869Г."
+msgstr ""
+
+# Objects : [n306068941]
+# name:be: []
+msgid "Храм В Честь Успения Пресвятой Богородицы 1870Г."
+msgstr ""
+
+# Objects : [n320409996]
+# name:be: []
+msgid "Храм в честь Успения Пресвятой Богородицы 1891г."
+msgstr ""
+
+# Objects : [n306067537]
+# name:be: []
+msgid "Храм В Честь Успения Пресвятой Богородицы 1895 г."
+msgstr ""
+
+# Objects : [n306062181]
+# name:be: []
+msgid "Храм В Честь Успения Пресвятой Богородицы 1911Г."
+msgstr ""
+
+# Objects : [n306067603]
+# name:be: []
+msgid "Храм в честь Успения Пресвятой Богородицы 1927Г."
+msgstr ""
+
+# Objects : [n3001957606]
+# name:be: []
+msgid "Храм Дмитрия Донского"
+msgstr ""
+
+# Objects : [n306067832]
+# name:be: []
+msgid "Храм имени Св. Архистратига Михаила"
+msgstr ""
+
+# Objects : [n306067600]
+# name:be: []
+msgid "Храм имени Святых Апостолов Петра И Павла"
+msgstr ""
+
+# Objects : [n306067601]
+# name:be: []
+msgid "Храм имени Святых Мучеников Бориса И Глеба 1791Г."
+msgstr ""
+
+# Objects : [w287276311]
+# name:be: []
+msgid "храм мч. Меркурия Смоленского"
+msgstr ""
+
+# Objects : [n306064262]
+# name:be: []
+msgid "Храм Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n320409349]
+# name:be: []
+msgid "Храм преображения Господня"
+msgstr ""
+
+# Objects : [n1551961270, w179950680]
+# name:be: []
+msgid "Храм протестантский"
+msgstr ""
+
+# Objects : [w286174055, w73486388]
+# name:be: []
+msgid "Храм Рождества Христова"
+msgstr ""
+
+# Objects : [w30846963]
+# name:be: []
+msgid "Храм св. апостола Луки"
+msgstr ""
+
+# Objects : [w215178638]
+# name:be: []
+msgid "Храм св. великомученика Димитрия Солунского"
+msgstr ""
+
+# Objects : [w30786441]
+# name:be: []
+msgid "Храм св. Пантелеймона"
+msgstr ""
+
+# Objects : [n340273841]
+# name:be: []
+msgid "храм свв. Кирилла и Мефодия"
+msgstr ""
+
+# Objects : [w35466636]
+# name:be: []
+msgid "Храм святого благоверного князя Александра Невского"
+msgstr ""
+
+# Objects : [n1475331364]
+# name:be: []
+msgid "Храм Святого мученика Иоанна Воина"
+msgstr ""
+
+# Objects : [w30702399]
+# name:be: []
+msgid "Храм святого мученика Лонгина Сотника"
+msgstr ""
+
+# Objects : [w29125810]
+# name:be: []
+msgid "Храм Святого Равноапостольного князя Владимира"
+msgstr ""
+
+# Objects : [n343165916]
+# name:be: []
+msgid "Храм святой блаженной Ксении Петербургской"
+msgstr ""
+
+# Objects : [w27900775]
+# name:be: []
+msgid "Храм святой великомученицы Екатерины"
+msgstr ""
+
+# Objects : [w200567843]
+# name:be: []
+msgid "Храм Святой Живоначальной Троицы"
+msgstr ""
+
+# Objects : [w30770474]
+# name:be: []
+msgid "Храм святой мученицы Татианы"
+msgstr ""
+
+# Objects : [w30845137]
+# name:be: []
+msgid "Храм святой преподобной Евфросинии Полоцкой"
+msgstr ""
+
+# Objects : [w30847808]
+# name:be: []
+msgid "Храм святой преподобномученицы Евдокии"
+msgstr ""
+
+# Objects : [w202816779]
+# name:be: []
+msgid "Храм Святой Троицы"
+msgstr ""
+
+# Objects : [w288388854]
+# name:be: []
+msgid "Храм Смоленской иконы Божией Матери"
+msgstr ""
+
+# Objects : [w170174962, w27903563]
+# name:be: []
+msgid "Храм Успения Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [w111434746]
+# name:be: []
+msgid "ХРИСТО-РОЖДЕСТВЕНСКИЙ ПРИХОД ХРАМ РОЖДЕСТВА БОЖИЕЙ МАТЕРИ"
+msgstr ""
+
+# Objects : [w106388853]
+# name:be: []
+msgid "Центральная церковь адвентистов седьмого дня"
+msgstr ""
+
+# Objects : [w212388119]
+# name:be: []
+msgid "Центр молодежи "Мираж""
+msgstr ""
+
+# Objects : [w150164696]
+# name:be: []
+msgid "Цервовь Евангелистов"
+msgstr ""
+
+# Objects : [w205042620, w224340527]
+# name:be: []
+msgid "церковь"
+msgstr ""
+
+# Objects : [n1110429135, n1135627265, n1263650316, n1370811914, n1370855844, n1412866303, n1421277912, n1474866535, n1482487421, n2087261073, n2760228520, n306065782, n306068101, n472885964, n829314249, n888814386, n977662981, w161635066, w200259431, w239380469, w257920255, w267611429]
+# name:be: []
+msgid "Церковь"
+msgstr ""
+
+# Objects : [n1552026151]
+# name:be: []
+msgid "Церковь /не достроена/"
+msgstr ""
+
+# Objects : [n2507622308]
+# name:be: []
+msgid "церковь" Благовестие""
+msgstr ""
+
+# Objects : [w133978579]
+# name:be: []
+msgid "Церковь "Благодать""
+msgstr ""
+
+# Objects : [n2507631616]
+# name:be: []
+msgid "церковь "Воскресение""
+msgstr ""
+
+# Objects : [w60758430, w60758440]
+# name:be: []
+msgid "Церковь "Голгофа""
+msgstr ""
+
+# Objects : [n2507628300]
+# name:be: []
+msgid "Церковь "Свет Евангелия""
+msgstr ""
+
+# Objects : [w126326241]
+# name:be: []
+msgid "церковь "Спасение""
+msgstr ""
+
+# Objects : [w156424692]
+# name:be: []
+msgid "церковь «Преображение» ЕХБ"
+msgstr ""
+
+# Objects : [w266783670]
+# name:be: []
+msgid "Церковь (38)"
+msgstr ""
+
+# Objects : [n1577954014]
+# name:be: []
+msgid "Церковь (дерев.; руины)"
+msgstr ""
+
+# Objects : [n1374777447, n456122665]
+# name:be: []
+msgid "Церковь (дерев.)"
+msgstr ""
+
+# Objects : [n883402862]
+# name:be: []
+msgid "Церковь (развалины)"
+msgstr ""
+
+# Objects : [w147242528]
+# name:be: []
+msgid "Церковь адвентистов седьмого дня"
+msgstr ""
+
+# Objects : [w242762176]
+# name:be: []
+msgid "Церковь Адвентистов Седьмого Дня"
+msgstr ""
+
+# Objects : [n941841128]
+# name:be: []
+msgid "Церковь Баптистов"
+msgstr ""
+
+# Objects : [n1866875301, w295819075]
+# name:be: []
+msgid "Церковь Благовещения Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n1374744438, n1376711488]
+# name:be: []
+msgid "Церковь Благовещенская"
+msgstr ""
+
+# Objects : [n1376714716]
+# name:be: []
+msgid "Церковь Благовещенская (дерев.)"
+msgstr ""
+
+# Objects : [w164600771]
+# name:be: []
+msgid "Церковь Бориса и Глеба"
+msgstr ""
+
+# Objects : [w260459368]
+# name:be: []
+msgid "Церковь Вифания"
+msgstr ""
+
+# Objects : [w156950674]
+# name:be: []
+msgid "церковь Вознесения Господня"
+msgstr ""
+
+# Objects : [w281963905]
+# name:be: []
+msgid "Церковь Вознесения Господня"
+msgstr ""
+
+# Objects : [w76010341]
+# name:be: []
+msgid "церковь Вознесенская"
+msgstr ""
+
+# Objects : [n1374698877, n1563533840, w200583294, w217925488]
+# name:be: []
+msgid "Церковь Вознесенская"
+msgstr ""
+
+# Objects : [n2278014488]
+# name:be: []
+msgid "Церковь во имя образа Пресвятой Богородицы, именуемого "Отрада""
+msgstr ""
+
+# Objects : [n320409751]
+# name:be: []
+msgid "Церковь во имя преподобной Марфы"
+msgstr ""
+
+# Objects : [w147229273]
+# name:be: []
+msgid "Церковь во имя Св. прор. Илии"
+msgstr ""
+
+# Objects : [n1575413965, w198446474]
+# name:be: []
+msgid "Церковь Воскресенская"
+msgstr ""
+
+# Objects : [n1552024202]
+# name:be: []
+msgid "Церковь Воскресенская (дерев.)"
+msgstr ""
+
+# Objects : [w25319040]
+# name:be: []
+msgid "церковь Всех Святых"
+msgstr ""
+
+# Objects : [n1560644174]
+# name:be: []
+msgid "Церковь Всех Святых"
+msgstr ""
+
+# Objects : [w243591073]
+# name:be: []
+msgid "Церковь в честь Рождества Христова"
+msgstr ""
+
+# Objects : [n893283547]
+# name:be: []
+msgid "Церковь в честь Семистрельной иконы Божьей матери"
+msgstr ""
+
+# Objects : [n1374693762]
+# name:be: []
+msgid "Церковь в честь Тихвинской иконы Богоматери (дерев.)"
+msgstr ""
+
+# Objects : [n506840322]
+# name:be: []
+msgid "церковь Евангельских Христиан Баптистов"
+msgstr ""
+
+# Objects : [w171161710]
+# name:be: []
+msgid "Церковь евангельских христиан-баптистов"
+msgstr ""
+
+# Objects : [n637796381]
+# name:be: []
+msgid "Церковь ЕХБ"
+msgstr ""
+
+# Objects : [n1372201876]
+# name:be: []
+msgid "Церковь ЕХБ "Спасение""
+msgstr ""
+
+# Objects : [w189687170]
+# name:be: []
+msgid "Церковь Жировичской Иконы Божьей Матери"
+msgstr ""
+
+# Objects : [n2579719501]
+# name:be: []
+msgid "Церковь Иисуса Христа"
+msgstr ""
+
+# Objects : [n2316976699]
+# name:be: []
+msgid "Церковь иконы БМ "Взыскание погибших""
+msgstr ""
+
+# Objects : [n1551959392]
+# name:be: []
+msgid "Церковь иконы Богоматери "Всех скорбящих Радость""
+msgstr ""
+
+# Objects : [n1551945715]
+# name:be: []
+msgid "Церковь иконы Богоматери "Неупиваемая Чаша""
+msgstr ""
+
+# Objects : [n456038909]
+# name:be: []
+msgid "Церковь Иконы Божьей Матери"
+msgstr ""
+
+# Objects : [w75370112]
+# name:be: []
+msgid "Церковь Иконы Божьей Матери "Целительница""
+msgstr ""
+
+# Objects : [w169482637]
+# name:be: []
+msgid "Церковь иконы матери божией Белыничской"
+msgstr ""
+
+# Objects : [w157040523]
+# name:be: []
+msgid "Церковь Илии Пророка"
+msgstr ""
+
+# Objects : [n1559022862]
+# name:be: []
+msgid "Церковь Казанской иконы Богоматери"
+msgstr ""
+
+# Objects : [n1576504066]
+# name:be: []
+msgid "Церковь Казанской иконы Богоматери (дерев.)"
+msgstr ""
+
+# Objects : [n1117074812, n1119879280]
+# name:be: []
+msgid "церковь Крестовоздвиженская"
+msgstr ""
+
+# Objects : [n1559018599, n1640411878]
+# name:be: []
+msgid "Церковь Крестовоздвиженская"
+msgstr ""
+
+# Objects : [n1559123228, n1577904967]
+# name:be: []
+msgid "Церковь Крестовоздвиженская (дерев.)"
+msgstr ""
+
+# Objects : [w244903257]
+# name:be: []
+msgid "Церковь Надежды"
+msgstr ""
+
+# Objects : [w235858344, w60367223, w98010573]
+# name:be: []
+msgid "Церковь Николая Чудотворца"
+msgstr ""
+
+# Objects : [w136591794]
+# name:be: []
+msgid "Церковь Николая-Чудотворца"
+msgstr ""
+
+# Objects : [n1117071849]
+# name:be: []
+msgid "церковь Параскевы Пятницы"
+msgstr ""
+
+# Objects : [w227817906, w273859712]
+# name:be: []
+msgid "Церковь Покрова Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n1118723723, n1119798231]
+# name:be: []
+msgid "церковь Покровская"
+msgstr ""
+
+# Objects : [n1280460950, n1374535395, n1376714154, n1403795202, n1551958639, n1563532664, n1615572009, n1642893532, n1642898344, n306064928, n306067437, w154218452, w170066200, w203210302, w41447032]
+# name:be: []
+msgid "Церковь Покровская"
+msgstr ""
+
+# Objects : [n1559362468, n1576488986, n1616489395, n306063402, n306067400]
+# name:be: []
+msgid "Церковь Покровская (дерев.)"
+msgstr ""
+
+# Objects : [w243412937]
+# name:be: []
+msgid "Церковь Положения Ризы Пресв. Богородицы во Влахерне"
+msgstr ""
+
+# Objects : [n1551965737, n2788686138, w240746038]
+# name:be: []
+msgid "Церковь Преображения Господня"
+msgstr ""
+
+# Objects : [n355691144]
+# name:be: []
+msgid "Церковь пресвятой богородицы "Целительницы""
+msgstr ""
+
+# Objects : [n1374802423]
+# name:be: []
+msgid "Церковь Ризоположения Пресвятой Богородицы (дерев.)"
+msgstr ""
+
+# Objects : [n1117100192, n1119796477, n1119798952, n1124857657]
+# name:be: []
+msgid "церковь Рождества Богородицы"
+msgstr ""
+
+# Objects : [n1370051356, n1374804561, n1376720467, n1642921725, n306067443, n306067478, n320409668, w123458984, w200288256]
+# name:be: []
+msgid "Церковь Рождества Богородицы"
+msgstr ""
+
+# Objects : [n306066323]
+# name:be: []
+msgid "Церковь Рождества Богородицы (дерев.)"
+msgstr ""
+
+# Objects : [n1370040227]
+# name:be: []
+msgid "Церковь Рождества Богородицы (руины)"
+msgstr ""
+
+# Objects : [n1193924219]
+# name:be: []
+msgid "Церковь Рождества  ЕХБ"
+msgstr ""
+
+# Objects : [n945277068]
+# name:be: []
+msgid "церковь Рождества Иоанна Предтечи"
+msgstr ""
+
+# Objects : [n1376720011, w145620879]
+# name:be: []
+msgid "Церковь Рождества Иоанна Предтечи"
+msgstr ""
+
+# Objects : [n1559017140]
+# name:be: []
+msgid "Церковь Рождества Иоанна Предтечи (дерев.)"
+msgstr ""
+
+# Objects : [w236634561]
+# name:be: []
+msgid "Церковь Рождества Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n1124833041]
+# name:be: []
+msgid "церковь Рождества Христова"
+msgstr ""
+
+# Objects : [n1369995759, n1374626909, n306069334, w157520053]
+# name:be: []
+msgid "Церковь св. Александра Невского"
+msgstr ""
+
+# Objects : [n1376635036]
+# name:be: []
+msgid "Церковь св. Анны"
+msgstr ""
+
+# Objects : [w29979548]
+# name:be: []
+msgid "Церковь св. ап. Андрея Первозванного"
+msgstr ""
+
+# Objects : [n1560676155]
+# name:be: []
+msgid "Церковь св. Варвары"
+msgstr ""
+
+# Objects : [n1555751819]
+# name:be: []
+msgid "Церковь св. Варвары (дерев.)"
+msgstr ""
+
+# Objects : [n1575453717]
+# name:be: []
+msgid "Церковь св. Гавриила Белостокского"
+msgstr ""
+
+# Objects : [n1117040577]
+# name:be: []
+msgid "церковь св. Георгия"
+msgstr ""
+
+# Objects : [n1374719809, n1376545086, n1376713328, n1376730918, n1577942969, w130540005]
+# name:be: []
+msgid "Церковь св. Георгия"
+msgstr ""
+
+# Objects : [n1374765445, n1555774393, n1559341749, n1560644590, n1615559789]
+# name:be: []
+msgid "Церковь св. Георгия (дерев.)"
+msgstr ""
+
+# Objects : [w29980361]
+# name:be: []
+msgid "Церковь св. Георгия Победоносца"
+msgstr ""
+
+# Objects : [n306063454]
+# name:be: []
+msgid "Церковь св. Дионисия (дерев.)"
+msgstr ""
+
+# Objects : [n1551975254]
+# name:be: []
+msgid "Церковь св. Дмитрия Солунского"
+msgstr ""
+
+# Objects : [n306069580]
+# name:be: []
+msgid "Церковь Св. Духа (дерев.)"
+msgstr ""
+
+# Objects : [n1374743226]
+# name:be: []
+msgid "Церковь св. Евфросиньи"
+msgstr ""
+
+# Objects : [n1560677762, n1575422036]
+# name:be: []
+msgid "Церковь св. Евфросиньи Полоцкой"
+msgstr ""
+
+# Objects : [n1642907698]
+# name:be: []
+msgid "Церковь св. Елисея Лавришевского"
+msgstr ""
+
+# Objects : [n1119814664, n1129495276]
+# name:be: []
+msgid "церковь св. Ильи"
+msgstr ""
+
+# Objects : [n1372193739, n1559014899, n1559340454, w229717916]
+# name:be: []
+msgid "Церковь св. Ильи"
+msgstr ""
+
+# Objects : [n1374625712, n1576520305]
+# name:be: []
+msgid "Церковь св. Ильи (дерев.)"
+msgstr ""
+
+# Objects : [n1373736855]
+# name:be: []
+msgid "Церковь св. Иоанна (дерев.)"
+msgstr ""
+
+# Objects : [n1374694300]
+# name:be: []
+msgid "Церковь св. Иоанна Богослова (дерев.)"
+msgstr ""
+
+# Objects : [n1376621930]
+# name:be: []
+msgid "Церковь св. Иосифа"
+msgstr ""
+
+# Objects : [n1559044634]
+# name:be: []
+msgid "Церковь св. Иосифа (дерев.)"
+msgstr ""
+
+# Objects : [n1374735421, n1560637985, w130532068]
+# name:be: []
+msgid "Церковь св. Козьмы и Демьяна"
+msgstr ""
+
+# Objects : [n1642876884]
+# name:be: []
+msgid "Церковь св. Козьмы и Демьяна (дерев.)"
+msgstr ""
+
+# Objects : [w170822345]
+# name:be: []
+msgid "Церковь св. Константина и Елены"
+msgstr ""
+
+# Objects : [w199307896]
+# name:be: []
+msgid "Церковь св. Марии Египетской"
+msgstr ""
+
+# Objects : [n1369916978]
+# name:be: []
+msgid "Церковь св. Марии Магдалины"
+msgstr ""
+
+# Objects : [n320409973]
+# name:be: []
+msgid "церковь св. Михаила (Где находиться?)"
+msgstr ""
+
+# Objects : [n1119874601]
+# name:be: []
+msgid "церковь св. Михаила Архангела"
+msgstr ""
+
+# Objects : [n1376711752, n1559361376, n306067512]
+# name:be: []
+msgid "Церковь св. Михаила Архангела"
+msgstr ""
+
+# Objects : [n306065469]
+# name:be: []
+msgid "Церковь Св. Михаила Архангела"
+msgstr ""
+
+# Objects : [n306067402]
+# name:be: []
+msgid "Церковь Св.Мученика Младенца Гавриила Белостокского"
+msgstr ""
+
+# Objects : [n1118722793, n1119869541, n1129484162]
+# name:be: []
+msgid "церковь св. Николая"
+msgstr ""
+
+# Objects : [n1374641098, n1374699631, n1374735329, n1374736175, n1376713266, n1482487420, n1615559788]
+# name:be: []
+msgid "Церковь св. Николая"
+msgstr ""
+
+# Objects : [w159172227]
+# name:be: []
+msgid "Церковь Св. Николая"
+msgstr ""
+
+# Objects : [n1374796787, w136794767]
+# name:be: []
+msgid "Церковь св. Николая (дерев.)"
+msgstr ""
+
+# Objects : [w96740881, w96740956, w96741097, w96741259, w96741279, w96741563, w96741710]
+# name:be: []
+msgid "Церковь Св. Николая  1885—86 Гг."
+msgstr ""
+
+# Objects : [w80179118]
+# name:be: []
+msgid "Церковь св. Онуфрия"
+msgstr ""
+
+# Objects : [n1577943908]
+# name:be: []
+msgid "Церковь св. Пантелеймона"
+msgstr ""
+
+# Objects : [n1118725420, w156453146]
+# name:be: []
+msgid "церковь св. Параскевы Пятницы"
+msgstr ""
+
+# Objects : [n1117080125]
+# name:be: []
+msgid "церковь св. Петра и Павла"
+msgstr ""
+
+# Objects : [n1369879720, n1369988852, n1373784551, n1374771654, n1560639886, n306069166, w212230095, w260417740, w93963360]
+# name:be: []
+msgid "Церковь св. Петра и Павла"
+msgstr ""
+
+# Objects : [n1558973121, n1560650105, n1640452581, n829321804]
+# name:be: []
+msgid "Церковь св. Петра и Павла (дерев.)"
+msgstr ""
+
+# Objects : [n1374691832]
+# name:be: []
+msgid "Церковь св. Петра и Павла (руины)"
+msgstr ""
+
+# Objects : [w80442694]
+# name:be: []
+msgid "Церковь св. преподобного Силуана Афонского"
+msgstr ""
+
+# Objects : [n1117067833, w25394067]
+# name:be: []
+msgid "церковь св. Серафима Саровского"
+msgstr ""
+
+# Objects : [n1558979697]
+# name:be: []
+msgid "Церковь св. Симеона"
+msgstr ""
+
+# Objects : [n1117069898]
+# name:be: []
+msgid "церковь св. Троицы"
+msgstr ""
+
+# Objects : [w172208950]
+# name:be: []
+msgid "Церковь святителя  Василия Великого"
+msgstr ""
+
+# Objects : [n1376095754]
+# name:be: []
+msgid "церковь Святителя Николая Чудотворца"
+msgstr ""
+
+# Objects : [w27896638]
+# name:be: []
+msgid "Церковь  святителя Тихона Задонского"
+msgstr ""
+
+# Objects : [n2477331345]
+# name:be: []
+msgid "Церковь Святого Александра Невского"
+msgstr ""
+
+# Objects : [n2439795211]
+# name:be: []
+msgid "Церковь Святого Архангела Михаила"
+msgstr ""
+
+# Objects : [n306069079]
+# name:be: []
+msgid "Церковь Святого Владимира"
+msgstr ""
+
+# Objects : [n2200275804]
+# name:be: []
+msgid "Церковь Святого Духа"
+msgstr ""
+
+# Objects : [n2788686424]
+# name:be: []
+msgid "Церковь Святого Иоанна Предтечи"
+msgstr ""
+
+# Objects : [n1257044830]
+# name:be: []
+msgid "Церковь Святого Михаила"
+msgstr ""
+
+# Objects : [n306067513, w242041236, w276924515]
+# name:be: []
+msgid "Церковь Святого Николая"
+msgstr ""
+
+# Objects : [n2788680494]
+# name:be: []
+msgid "Церковь Святого пророка Илии"
+msgstr ""
+
+# Objects : [w225994774]
+# name:be: []
+msgid "Церковь святого Сергия Радонежского"
+msgstr ""
+
+# Objects : [w81955108]
+# name:be: []
+msgid "Церковь Святой Живоначальной Троицы"
+msgstr ""
+
+# Objects : [n2788686584]
+# name:be: []
+msgid "Церковь Святой Параскевы Пятницы"
+msgstr ""
+
+# Objects : [w148991674, w273585661]
+# name:be: []
+msgid "Церковь Святой Троицы"
+msgstr ""
+
+# Objects : [n1376621321]
+# name:be: []
+msgid "Церковь Свято-Троицкая (дерев.)"
+msgstr ""
+
+# Objects : [w108803758]
+# name:be: []
+msgid "церковь святых апостолов Петра и Павла"
+msgstr ""
+
+# Objects : [n2398819086]
+# name:be: []
+msgid "Церковь Святых Апостолов Петра и Павла"
+msgstr ""
+
+# Objects : [w127582193]
+# name:be: []
+msgid "Церковь святых Веры, Надежды, Любви"
+msgstr ""
+
+# Objects : [w239961268]
+# name:be: []
+msgid "Церковь Собора Белорусских Святых (дерев.)"
+msgstr ""
+
+# Objects : [n849508584]
+# name:be: []
+msgid "церковь Софии Слуцкой"
+msgstr ""
+
+# Objects : [w180724900]
+# name:be: []
+msgid "Церковь Спаса Преображения"
+msgstr ""
+
+# Objects : [n1372166700, n1372203764, w96742404]
+# name:be: []
+msgid "Церковь Спасо-Преображенская"
+msgstr ""
+
+# Objects : [n1576504602, n1615545385, n1642888090, n1642893422]
+# name:be: []
+msgid "Церковь Спасо-Преображенская (дерев.)"
+msgstr ""
+
+# Objects : [w305850931]
+# name:be: []
+msgid "церковь Сретения Господня"
+msgstr ""
+
+# Objects : [n1559039857, n1640418049]
+# name:be: []
+msgid "Церковь старообрядческая Успенская (дерев.)"
+msgstr ""
+
+# Objects : [w86759264]
+# name:be: []
+msgid "Церковь Трех Светителей"
+msgstr ""
+
+# Objects : [n1117061202, n1864288424]
+# name:be: []
+msgid "церковь Троицкая"
+msgstr ""
+
+# Objects : [n1118721287, n1374726887, n1376690026, n1376711570, n1376720219, n1376737646, n1551932341, n1558975691, n306069451]
+# name:be: []
+msgid "Церковь Троицкая"
+msgstr ""
+
+# Objects : [n1374692608, n1376712289, n1482487418, n306067502]
+# name:be: []
+msgid "Церковь Троицкая (дерев.)"
+msgstr ""
+
+# Objects : [n1559023881]
+# name:be: []
+msgid "Церковь Троицкая (руины)"
+msgstr ""
+
+# Objects : [n1551966889]
+# name:be: []
+msgid "Церковь униатская (руины)"
+msgstr ""
+
+# Objects : [n2788687272]
+# name:be: []
+msgid "Церковь Успения Пресвятой Богородицы"
+msgstr ""
+
+# Objects : [n1119793920, n1119796280]
+# name:be: []
+msgid "церковь Успенская"
+msgstr ""
+
+# Objects : [n1374724961, n1376693352, n916719487, w283559941]
+# name:be: []
+msgid "Церковь Успенская"
+msgstr ""
+
+# Objects : [n1551969427, n1560640207, n1642922756, w158940329]
+# name:be: []
+msgid "Церковь Успенская (дерев.)"
+msgstr ""
+
+# Objects : [n612447613]
+# name:be: []
+msgid "ЦЕРКОВЬ ХВЕ"
+msgstr ""
+
+# Objects : [n2246319935, w227098657, w227508977, w229987554, w29158436]
+# name:be: []
+msgid "Церковь ХВЕ "Благодать""
+msgstr ""
+
+# Objects : [n1215784427]
+# name:be: []
+msgid "Церковь ХВЕ "Христос для всех""
+msgstr ""
+
+# Objects : [w82971920]
+# name:be: []
+msgid "церковь христиан-баптистов "Надежда""
+msgstr ""
+
+# Objects : [w160202646]
+# name:be: []
+msgid "церковь христиан веры евангельской"
+msgstr ""
+
+# Objects : [n1704278261]
+# name:be: []
+msgid "Церковь Царства Божьего"
+msgstr ""
+
+# Objects : [n419313502]
+# name:be: []
+msgid "Церовь ЕХБ"
+msgstr ""
+
+# Objects : [n674489631]
+# name:be: []
+msgid "Церьков "Нечаянная радость""
+msgstr ""
+
+# Objects : [n3097297784, w241611642]
+# name:be: []
+msgid "часовня"
+msgstr ""
+
+# Objects : [n1274233782, n1280573296, n1376721718, n1436380588, n1619145948, n2677685031, n306064046, n306065021, n886287541, w152809070, w283559942, w306369368]
+# name:be: []
+msgid "Часовня"
+msgstr ""
+
+# Objects : [n1576491224]
+# name:be: []
+msgid "Часовня "Криница у богини""
+msgstr ""
+
+# Objects : [n1551899509, n1576551016]
+# name:be: []
+msgid "Часовня (дерев.)"
+msgstr ""
+
+# Objects : [w305849686]
+# name:be: []
+msgid "часовня  бл. Юрия Матулевича"
+msgstr ""
+
+# Objects : [n1551968247, n1615543044, n1642885763]
+# name:be: []
+msgid "Часовня католич."
+msgstr ""
+
+# Objects : [n1376531428, n1559070287, n1560677908, n1575457918, n1577951180]
+# name:be: []
+msgid "Часовня католич. (дерев.)"
+msgstr ""
+
+# Objects : [n1482487416]
+# name:be: []
+msgid "Часовня католич. (руины)"
+msgstr ""
+
+# Objects : [n1551921023]
+# name:be: []
+msgid "Часовня католич. Девы Марии"
+msgstr ""
+
+# Objects : [n1575456141, n1643046166]
+# name:be: []
+msgid "Часовня католич. св. Варвары"
+msgstr ""
+
+# Objects : [n1376734793]
+# name:be: []
+msgid "Часовня католич. св. Иоанна Крестителя (дерев.)"
+msgstr ""
+
+# Objects : [n1642884676]
+# name:be: []
+msgid "Часовня католич. св. Иоахима и Анны"
+msgstr ""
+
+# Objects : [n1374766260]
+# name:be: []
+msgid "Часовня католич. св. Иосифа"
+msgstr ""
+
+# Objects : [w286211858]
+# name:be: []
+msgid "Часовня католич. св. Пио"
+msgstr ""
+
+# Objects : [n1560640047]
+# name:be: []
+msgid "Часовня католич. св. Семьи"
+msgstr ""
+
+# Objects : [n1615571715]
+# name:be: []
+msgid "Часовня католич. св. Станислава"
+msgstr ""
+
+# Objects : [n1376717053]
+# name:be: []
+msgid "Часовня католич. Сердца Иисуса"
+msgstr ""
+
+# Objects : [n1560643657]
+# name:be: []
+msgid "Часовня католич. Сердца Иисуса (дерев.)"
+msgstr ""
+
+# Objects : [n1640416090]
+# name:be: []
+msgid "Часовня-колокольня правосл. Покровская"
+msgstr ""
+
+# Objects : [w229923515]
+# name:be: []
+msgid "Часовня-купель св. Параскевы Пятницы"
+msgstr ""
+
+# Objects : [w189733038]
+# name:be: []
+msgid "Часовня Матери Божьей Ружанцовой"
+msgstr ""
+
+# Objects : [n1124833042]
+# name:be: []
+msgid "часовня Мемориальная"
+msgstr ""
+
+# Objects : [n1559147244]
+# name:be: []
+msgid "Часовня мемориальная"
+msgstr ""
+
+# Objects : [n1640416391]
+# name:be: []
+msgid "Часовня мемориальная правосл."
+msgstr ""
+
+# Objects : [n1474141978]
+# name:be: []
+msgid "Часовня-надмогилье Быховцев"
+msgstr ""
+
+# Objects : [n1576504597]
+# name:be: []
+msgid "Часовня-надмогилье Карповича"
+msgstr ""
+
+# Objects : [w242451849]
+# name:be: []
+msgid "Часовня общины доминиканцев"
+msgstr ""
+
+# Objects : [n1376738404, w170822346]
+# name:be: []
+msgid "Часовня правосл."
+msgstr ""
+
+# Objects : [n1559296920, n1559341433]
+# name:be: []
+msgid "Часовня правосл. (дерев.)"
+msgstr ""
+
+# Objects : [n1559025725]
+# name:be: []
+msgid "Часовня правосл. иконы Богоматери "В скорбях и печалях Утешение" (дерев.)"
+msgstr ""
+
+# Objects : [n1616489437]
+# name:be: []
+msgid "Часовня правосл. св. Николая (дерев.)"
+msgstr ""
+
+# Objects : [n914269705]
+# name:be: []
+msgid "Часовня Преображения Господня"
+msgstr ""
+
+# Objects : [w169886334]
+# name:be: []
+msgid "Часовня преп. Серафима Саровского"
+msgstr ""
+
+# Objects : [n1374765595, n1376730595, n1559015357, n1559017079, n1559362189, n1559362582, n1559369336, n1575453908, n1640443306]
+# name:be: []
+msgid "Часовня придорожная"
+msgstr ""
+
+# Objects : [n1551950973]
+# name:be: []
+msgid "Часовня придорожная (дерев.)"
+msgstr ""
+
+# Objects : [n1376532015]
+# name:be: []
+msgid "Часовня придорожная католич. (дерев.)"
+msgstr ""
+
+# Objects : [n944851570]
+# name:be: []
+msgid "Часовня Римских-Корсаковых"
+msgstr ""
+
+# Objects : [n1372202927]
+# name:be: []
+msgid "Часовня св. Анны"
+msgstr ""
+
+# Objects : [w241252030]
+# name:be: []
+msgid "часовня св. Ильи"
+msgstr ""
+
+# Objects : [r3238628]
+# name:be: []
+msgid "Часовня св. Креста"
+msgstr ""
+
+# Objects : [n945277053]
+# name:be: []
+msgid "часовня Спасо-Преображенская (дерев.)"
+msgstr ""
+
+# Objects : [n2788687458]
+# name:be: []
+msgid "Часовня Успения Пресвятой Девы Марии"
+msgstr ""
+
+# Objects : [n945268724]
+# name:be: []
+msgid "часовня-Усыпальница"
+msgstr ""
+
+# Objects : [n1376690752, n1403795203, n1551915570, n1559287630, n1560677448, n1575487118, n1640417904]
+# name:be: []
+msgid "Часовня-усыпальница"
+msgstr ""
+
+# Objects : [n1373787313, n1374712758, n1559040769, n1563532454]
+# name:be: []
+msgid "Часовня-усыпальница (руины)"
+msgstr ""
+
+# Objects : [n1374696511]
+# name:be: []
+msgid "Часовня-усыпальница Дыбовских"
+msgstr ""
+
+# Objects : [n1374699864]
+# name:be: []
+msgid "Часовня-усыпальница Жабровских"
+msgstr ""
+
+# Objects : [n1641752340]
+# name:be: []
+msgid "Часовня-усыпальница Забелло"
+msgstr ""
+
+# Objects : [n1374776162]
+# name:be: []
+msgid "Часовня-усыпальница Завишей"
+msgstr ""
+
+# Objects : [n1575444299]
+# name:be: []
+msgid "Часовня-усыпальница О'Рурков"
+msgstr ""
+
+# Objects : [n1370003980]
+# name:be: []
+msgid "Часовня-усыпальница Прушинских /сохр. частично/"
+msgstr ""
+
+# Objects : [n732660910]
+# name:be: []
+msgid "Часовня-усыпальница Рейтанов"
+msgstr ""
+
+# Objects : [w128322210]
+# name:be: []
+msgid "Часовня-усыпальница Святополк-Мирских"
+msgstr ""
+
+# Objects : [n1640410386]
+# name:be: []
+msgid "Часовня-усыпальница Солтанов (руины)"
+msgstr ""
+
+# Objects : [n1374788338]
+# name:be: []
+msgid "Часовня-усыпальница Язвинских"
+msgstr ""
+
+# Objects : [n1201885774]
+# name:be: []
+msgid "Явленскакя церковь"
+msgstr ""
+

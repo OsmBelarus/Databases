@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Автозаводская</seg></tuv>
+      <tuv lang="BE"><seg>Аўтазаводская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Академия Наук</seg></tuv>
+      <tuv lang="BE"><seg>Акадэмія навук</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Борисовский тракт</seg></tuv>
+      <tuv lang="BE"><seg>Барысаўскі тракт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Восток</seg></tuv>
+      <tuv lang="BE"><seg>Усход</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Грушевка</seg></tuv>
+      <tuv lang="BE"><seg>Грушаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Институт Культуры</seg></tuv>
+      <tuv lang="BE"><seg>Інстытут Культуры</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Каменная Горка</seg></tuv>
+      <tuv lang="BE"><seg>Каменная Горка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кунцевщина</seg></tuv>
+      <tuv lang="BE"><seg>Кунцаўшчына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Купаловская</seg></tuv>
+      <tuv lang="BE"><seg>Купалаўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Малиновка</seg></tuv>
+      <tuv lang="BE"><seg>Малінаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Михалово</seg></tuv>
+      <tuv lang="BE"><seg>Міхалова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Могилёвская</seg></tuv>
+      <tuv lang="BE"><seg>Магілёўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Молодёжная</seg></tuv>
+      <tuv lang="BE"><seg>Маладзёжная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Московская</seg></tuv>
+      <tuv lang="BE"><seg>Маскоўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Немига</seg></tuv>
+      <tuv lang="BE"><seg>Няміга</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Октябрьская</seg></tuv>
+      <tuv lang="BE"><seg>Кастрычнiцкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Октябрьская/Купаловская</seg></tuv>
+      <tuv lang="BE"><seg>Кастрычніцкая/Купалаўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Парк Челюскинцев</seg></tuv>
+      <tuv lang="BE"><seg>Парк Чалюскінцаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Партизанская</seg></tuv>
+      <tuv lang="BE"><seg>Партызанская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Первомайская</seg></tuv>
+      <tuv lang="BE"><seg>Першамайская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Петровщина</seg></tuv>
+      <tuv lang="BE"><seg>Пятроўшчына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>площадь Ленина</seg></tuv>
+      <tuv lang="BE"><seg>плошча Леніна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>площадь Победы</seg></tuv>
+      <tuv lang="BE"><seg>Плошча Перамогі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>площадь Якуба Коласа</seg></tuv>
+      <tuv lang="BE"><seg>плошча Якуба Коласа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пролетарская</seg></tuv>
+      <tuv lang="BE"><seg>Пралетарская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пушкинская</seg></tuv>
+      <tuv lang="BE"><seg>Пушкінская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Спортивная</seg></tuv>
+      <tuv lang="BE"><seg>Спартыўная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тракторный завод</seg></tuv>
+      <tuv lang="BE"><seg>Трактарны завод</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Уручье</seg></tuv>
+      <tuv lang="BE"><seg>Уручча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фрунзенская</seg></tuv>
+      <tuv lang="BE"><seg>Фрунзенская</seg></tuv>
+    </tu>
+  </body></tmx>

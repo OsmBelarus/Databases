@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>20а микрорайон</seg></tuv>
+      <tuv lang="BE"><seg>20а мікрараён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>больница</seg></tuv>
+      <tuv lang="BE"><seg>Бальніца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Военкомат</seg></tuv>
+      <tuv lang="BE"><seg>Ваенкамат</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>вокзал</seg></tuv>
+      <tuv lang="BE"><seg>Вакзал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Волотова</seg></tuv>
+      <tuv lang="BE"><seg>Валатава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гидропривод</seg></tuv>
+      <tuv lang="BE"><seg>Гідрапрывод</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Горэлектротранспорт</seg></tuv>
+      <tuv lang="BE"><seg>Гарэлектратранспарт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>гостиница Турист</seg></tuv>
+      <tuv lang="BE"><seg>гасцініца Турыст</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДК Гомсельмаша</seg></tuv>
+      <tuv lang="BE"><seg>ПК Гомсельмаша</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дружба</seg></tuv>
+      <tuv lang="BE"><seg>Дружба</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Завод станочных узлов</seg></tuv>
+      <tuv lang="BE"><seg>Завод станочных вузлоў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Крестьянская</seg></tuv>
+      <tuv lang="BE"><seg>Сялянская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ледовый Дворец</seg></tuv>
+      <tuv lang="BE"><seg>Лядовы палац</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ленинградская улица</seg></tuv>
+      <tuv lang="BE"><seg>Ленінградская вуліца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>магазин "1000 мелочей"</seg></tuv>
+      <tuv lang="BE"><seg>магазін "1000 дробязяў"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мельников Луг</seg></tuv>
+      <tuv lang="BE"><seg>Мельнікаў Луг</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Молодежная</seg></tuv>
+      <tuv lang="BE"><seg>Маладзёжны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мотороремонтный Завод</seg></tuv>
+      <tuv lang="BE"><seg>Маторарамонты завод</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Никольская церковь</seg></tuv>
+      <tuv lang="BE"><seg>Нікольская Царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>площадь Ленина</seg></tuv>
+      <tuv lang="BE"><seg>плошча Леніна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пожарная Часть</seg></tuv>
+      <tuv lang="BE"><seg>Пажарная частка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>проспект Космонавтов</seg></tuv>
+      <tuv lang="BE"><seg>праспект Касманаўтаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рембыттехника</seg></tuv>
+      <tuv lang="BE"><seg>Рэмбыттэхніка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рогачёвская улица</seg></tuv>
+      <tuv lang="BE"><seg>Рагачоўская вуліца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Рынок "Сельмашевский"</seg></tuv>
+      <tuv lang="BE"><seg>Рынак "Сельмашаўскі"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свято-Троицкий храм</seg></tuv>
+      <tuv lang="BE"><seg>Свята-Троіцкі храм</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сосновая улица</seg></tuv>
+      <tuv lang="BE"><seg>Сасновая вуліца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>стадион</seg></tuv>
+      <tuv lang="BE"><seg>Стадыён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ул. Бровки</seg></tuv>
+      <tuv lang="BE"><seg>вуліца Броўкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ул. Ефремова</seg></tuv>
+      <tuv lang="BE"><seg>вул. Яфрэмава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ул. Карповича</seg></tuv>
+      <tuv lang="BE"><seg>вул. Карповіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ул. Тимофеенко</seg></tuv>
+      <tuv lang="BE"><seg>вул. Цімафеенкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ул. Чечерская</seg></tuv>
+      <tuv lang="BE"><seg>вул. Чачэрская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ул. Чонгарской дивизии</seg></tuv>
+      <tuv lang="BE"><seg>вул. Чангарскай дывізіі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ул. Чонграрской дивизии</seg></tuv>
+      <tuv lang="BE"><seg>вул. Чангарскай дывізіі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица 50 лет заводу Гомсельмаш</seg></tuv>
+      <tuv lang="BE"><seg>вуліца 50 год заводу Гомсельмаш</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица Богданова</seg></tuv>
+      <tuv lang="BE"><seg>вуліца Багданава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица Бориса Царикова</seg></tuv>
+      <tuv lang="BE"><seg>вуліца Барыса Царыкава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица Гагарина</seg></tuv>
+      <tuv lang="BE"><seg>вуліца Гагарына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица Головацкого</seg></tuv>
+      <tuv lang="BE"><seg>вуліца Галавацкага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица Жарковского</seg></tuv>
+      <tuv lang="BE"><seg>вул. Жаркоўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица Котовского</seg></tuv>
+      <tuv lang="BE"><seg>вуліца Катоўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица Ленинградская</seg></tuv>
+      <tuv lang="BE"><seg>вуліца Ленінградская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица Макаёнка</seg></tuv>
+      <tuv lang="BE"><seg>вуліца Макаёнка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица Маневича</seg></tuv>
+      <tuv lang="BE"><seg>вуліца Маневіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица Народного Ополчения</seg></tuv>
+      <tuv lang="BE"><seg>вуліца Народнага Апалчэння</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица Осипова</seg></tuv>
+      <tuv lang="BE"><seg>вуліца Осіпава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица Полесская</seg></tuv>
+      <tuv lang="BE"><seg>вуліца Палеская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица Свиридова</seg></tuv>
+      <tuv lang="BE"><seg>вул. Свірыдава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица Севастопольская</seg></tuv>
+      <tuv lang="BE"><seg>завулак Транзітны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица Чапаева</seg></tuv>
+      <tuv lang="BE"><seg>вуліца Чапаева</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица Чехова</seg></tuv>
+      <tuv lang="BE"><seg>вуліца Чэхава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>улица Ярославская</seg></tuv>
+      <tuv lang="BE"><seg>вуліца Яраслаўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>универмаг Гомель</seg></tuv>
+      <tuv lang="BE"><seg>Універмаг Гомель</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Универсам</seg></tuv>
+      <tuv lang="BE"><seg>Універсам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Универсам "Сельмашевский"</seg></tuv>
+      <tuv lang="BE"><seg>Універсам "Сельмашаўскі"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Университет им. Ф. Скорины</seg></tuv>
+      <tuv lang="BE"><seg>Універсітэт ім. Ф. Скарыны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>фабрика 8 Марта</seg></tuv>
+      <tuv lang="BE"><seg>фабрыка 8 Сакавіка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь</seg></tuv>
+      <tuv lang="BE"><seg>Царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Цирк</seg></tuv>
+      <tuv lang="BE"><seg>Цырк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чкалова</seg></tuv>
+      <tuv lang="BE"><seg>Чкалава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Электотехнический Завод</seg></tuv>
+      <tuv lang="BE"><seg>Электратэхнічны завод</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Электроаппаратура</seg></tuv>
+      <tuv lang="BE"><seg>Электраапаратура</seg></tuv>
+    </tu>
+  </body></tmx>

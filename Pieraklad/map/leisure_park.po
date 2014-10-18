@@ -1,0 +1,835 @@
+# Objects : [w204107141]
+# name:be: []
+msgid ""Дендропарк""
+msgstr ""
+
+# Objects : [w252560203]
+# name:be: []
+msgid "<null>"
+msgstr ""
+
+# Objects : [w41386253]
+# name:be: []
+msgid "Cквер имени С.О. Притыцкого"
+msgstr ""
+
+# Objects : [w304074701]
+# name:be: []
+msgid "Forest Park Authority"
+msgstr ""
+
+# Objects : [n2920284731]
+# name:be: []
+msgid "hgjgy"
+msgstr ""
+
+# Objects : [w304077492]
+# name:be: []
+msgid "Horka forest"
+msgstr ""
+
+# Objects : [w99875677]
+# name:be: []
+msgid "Алея Дружбы"
+msgstr ""
+
+# Objects : [w23557064]
+# name:be: []
+msgid "Аллея 940 летия Минска"
+msgstr ""
+
+# Objects : [w240478610]
+# name:be: []
+msgid "аллея знаменитых уроженцев Глуботчины"
+msgstr ""
+
+# Objects : [w135798422]
+# name:be: []
+msgid "Аллея Молодоженов"
+msgstr ""
+
+# Objects : [w107748466]
+# name:be: []
+msgid "Аллея праведников мира"
+msgstr ""
+
+# Objects : [w23586185]
+# name:be: []
+msgid "Аляксандраўскі сквер"
+msgstr ""
+
+# Objects : [w128285051]
+# name:be: []
+msgid "Английский парк"
+msgstr ""
+
+# Objects : [w229581651]
+# name:be: []
+msgid "Английский пейзажный парк"
+msgstr ""
+
+# Objects : [w100144265]
+# name:be: []
+msgid "Антоновский парк"
+msgstr ""
+
+# Objects : [w41181178]
+# name:be: []
+msgid "Бондаревский сквер"
+msgstr ""
+
+# Objects : [w30963840]
+# name:be: []
+msgid "Ботанический сад"
+msgstr ""
+
+# Objects : [w23586619]
+# name:be: []
+msgid "Бульвар Данилы Сердича"
+msgstr ""
+
+# Objects : [w160208047, w160208048]
+# name:be: []
+msgid "Бульвар Металлургов"
+msgstr ""
+
+# Objects : [w100139141]
+# name:be: []
+msgid "Бульвар Мулявина"
+msgstr ""
+
+# Objects : [w32562255, w32562263]
+# name:be: []
+msgid "бульвар Толбухина"
+msgstr ""
+
+# Objects : [w100145129]
+# name:be: []
+msgid "Бульвар Тракторостроителей"
+msgstr ""
+
+# Objects : [w84586436, w84586481]
+# name:be: []
+msgid "Бульвар Шевченко"
+msgstr ""
+
+# Objects : [w82097628]
+# name:be: []
+msgid "Внутренний дворик БГУ"
+msgstr ""
+
+# Objects : [w160962142]
+# name:be: []
+msgid "Военно-исторический комплекс «Партизанский лагерь»"
+msgstr ""
+
+# Objects : [w257359153]
+# name:be: []
+msgid "газон"
+msgstr ""
+
+# Objects : [n2794243477]
+# name:be: []
+msgid "гольф-клуб"
+msgstr ""
+
+# Objects : [w240461698]
+# name:be: []
+msgid "Городище «Замковая гора»"
+msgstr ""
+
+# Objects : [w215194722]
+# name:be: []
+msgid "городской парк"
+msgstr ""
+
+# Objects : [w169609229, w233544087, w96956841, w99505294]
+# name:be: []
+msgid "Городской парк"
+msgstr ""
+
+# Objects : [w98404253]
+# name:be: []
+msgid "Городской  парк"
+msgstr ""
+
+# Objects : [w156298292]
+# name:be: []
+msgid "Городской парк имени Горького"
+msgstr ""
+
+# Objects : [n2479911330]
+# name:be: []
+msgid "Дворцово -парковый комплекс XVIII—XIX вв."
+msgstr ""
+
+# Objects : [w275514271]
+# name:be: []
+msgid "Дендропарк"
+msgstr ""
+
+# Objects : [w204204169, w261338377, w284982397]
+# name:be: []
+msgid "Детский парк"
+msgstr ""
+
+# Objects : [w217608976]
+# name:be: []
+msgid "Детския парк"
+msgstr ""
+
+# Objects : [w45271323]
+# name:be: []
+msgid "Долина любви."
+msgstr ""
+
+# Objects : [w279551820]
+# name:be: []
+msgid "Дубрава"
+msgstr ""
+
+# Objects : [w273538099]
+# name:be: []
+msgid "Заказник гидрологический "Волка""
+msgstr ""
+
+# Objects : [r4067806]
+# name:be: []
+msgid "Золотая гора"
+msgstr ""
+
+# Objects : [w229581652]
+# name:be: []
+msgid "Итальянский парк"
+msgstr ""
+
+# Objects : [w34482472]
+# name:be: []
+msgid "Кальварийский сквер"
+msgstr ""
+
+# Objects : [n2926149740]
+# name:be: []
+msgid "Каскады (Дамба)"
+msgstr ""
+
+# Objects : [w61750189]
+# name:be: []
+msgid "Киевский сквер"
+msgstr ""
+
+# Objects : [w29423666]
+# name:be: []
+msgid "Коложский парк"
+msgstr ""
+
+# Objects : [w100406178]
+# name:be: []
+msgid "Комаровский сквер"
+msgstr ""
+
+# Objects : [w160962144]
+# name:be: []
+msgid "Комплекс "Старая граница""
+msgstr ""
+
+# Objects : [n3046940985, w161306824]
+# name:be: []
+msgid "Комсомольский парк"
+msgstr ""
+
+# Objects : [w242560983]
+# name:be: []
+msgid "Красная площадь"
+msgstr ""
+
+# Objects : [w229063442]
+# name:be: []
+msgid "Лепельский Парк"
+msgstr ""
+
+# Objects : [n2621401813]
+# name:be: []
+msgid "Лес"
+msgstr ""
+
+# Objects : [w230094176]
+# name:be: []
+msgid "Лесная зона"
+msgstr ""
+
+# Objects : [w48492331]
+# name:be: []
+msgid "Лесопарк"
+msgstr ""
+
+# Objects : [w23643442]
+# name:be: []
+msgid "Лесопарк Медвежино"
+msgstr ""
+
+# Objects : [w41118064]
+# name:be: []
+msgid "Лесопарковая зона "Медвежино""
+msgstr ""
+
+# Objects : [r3903197]
+# name:be: []
+msgid "лесопарк Юрьева Горка"
+msgstr ""
+
+# Objects : [w203990015]
+# name:be: []
+msgid "Липовая роща"
+msgstr ""
+
+# Objects : [w36129498]
+# name:be: []
+msgid "Лютеранский сквер"
+msgstr ""
+
+# Objects : [w41181295]
+# name:be: []
+msgid "Ляховский сквер"
+msgstr ""
+
+# Objects : [w256738197, w256741553, w256742399]
+# name:be: []
+msgid "Малиновский"
+msgstr ""
+
+# Objects : [w99885181]
+# name:be: []
+msgid "Маломедвежинский сквер"
+msgstr ""
+
+# Objects : [w128285052]
+# name:be: []
+msgid "Марысин парк"
+msgstr ""
+
+# Objects : [w157211983, w99884355]
+# name:be: []
+msgid "Мемориальный сквер"
+msgstr ""
+
+# Objects : [w256756113]
+# name:be: []
+msgid "Минина"
+msgstr ""
+
+# Objects : [w135798765]
+# name:be: []
+msgid "Минский зоопарк"
+msgstr ""
+
+# Objects : [w244053458]
+# name:be: []
+msgid "Михайловский сквер"
+msgstr ""
+
+# Objects : [w125541804]
+# name:be: []
+msgid "Молодой парк"
+msgstr ""
+
+# Objects : [w99872832]
+# name:be: []
+msgid "Ольшевский сквер"
+msgstr ""
+
+# Objects : [w25210032]
+# name:be: []
+msgid "Остров любви"
+msgstr ""
+
+# Objects : [w284637915]
+# name:be: []
+msgid "Панский парк и аллея"
+msgstr ""
+
+# Objects : [w117913456, w203327440, w203559463, w205422971, w208187214, w213412484, w213426288, w213765979, w217518610, w39637060]
+# name:be: []
+msgid "парк"
+msgstr ""
+
+# Objects : [n2621400662, n2621401414, n2621402373, n2621403450, n2621405338, w144568593, w161649343, w174316119, w206105431, w206105432, w263763321, w50837407]
+# name:be: []
+msgid "Парк"
+msgstr ""
+
+# Objects : [w48187141]
+# name:be: []
+msgid "ПАРК"
+msgstr ""
+
+# Objects : [w205040989]
+# name:be: []
+msgid "Парк."
+msgstr ""
+
+# Objects : [w204117718]
+# name:be: []
+msgid "Парк. Алея героев"
+msgstr ""
+
+# Objects : [n1560646273]
+# name:be: []
+msgid "Парк "Тугановичский""
+msgstr ""
+
+# Objects : [r914957]
+# name:be: []
+msgid "Парк 1000-летия Витебска"
+msgstr ""
+
+# Objects : [w33542784]
+# name:be: []
+msgid "Парк 40-летия Октября"
+msgstr ""
+
+# Objects : [w111610118]
+# name:be: []
+msgid "Парк 40-летия Победы"
+msgstr ""
+
+# Objects : [w23554339]
+# name:be: []
+msgid "Парк 900-летия Минска"
+msgstr ""
+
+# Objects : [w261437855]
+# name:be: []
+msgid "парк Антония"
+msgstr ""
+
+# Objects : [w303607844]
+# name:be: []
+msgid "Парк аттракционов"
+msgstr ""
+
+# Objects : [w38524071, w38524074]
+# name:be: []
+msgid "Парк Гомельского дворцово-паркового ансамбля"
+msgstr ""
+
+# Objects : [w101975595]
+# name:be: []
+msgid "Парк города-побратима Чанчунь"
+msgstr ""
+
+# Objects : [w136697793]
+# name:be: []
+msgid "парк Дививелка"
+msgstr ""
+
+# Objects : [w25721247, w25721252]
+# name:be: []
+msgid "Парк Дружбы народов"
+msgstr ""
+
+# Objects : [n3106612247]
+# name:be: []
+msgid "Парк Дружбы Народов"
+msgstr ""
+
+# Objects : [w28256284]
+# name:be: []
+msgid "Парк Железнодорожников"
+msgstr ""
+
+# Objects : [n442980810]
+# name:be: []
+msgid "Парк Жилибера"
+msgstr ""
+
+# Objects : [w23973853]
+# name:be: []
+msgid "парк им. Грековой"
+msgstr ""
+
+# Objects : [w171005677]
+# name:be: []
+msgid "Парк им. Л. Гайдученок"
+msgstr ""
+
+# Objects : [w256283208]
+# name:be: []
+msgid "Парк им. Марата Казея"
+msgstr ""
+
+# Objects : [w23554162]
+# name:be: []
+msgid "Парк им. Челюскинцев"
+msgstr ""
+
+# Objects : [w28256229]
+# name:be: []
+msgid "Парк имени 30-летия ВЛКСМ"
+msgstr ""
+
+# Objects : [w31610332, w31956248]
+# name:be: []
+msgid "Парк имени 40-летия ВЛКСМ"
+msgstr ""
+
+# Objects : [w23558822]
+# name:be: []
+msgid "Парк имени 60-летия Октября"
+msgstr ""
+
+# Objects : [w80243457]
+# name:be: []
+msgid "Парк имени Михаила Павлова"
+msgstr ""
+
+# Objects : [w28256303]
+# name:be: []
+msgid "Парк имени Советской Армии"
+msgstr ""
+
+# Objects : [w230094117]
+# name:be: []
+msgid "Парк имени Уго Чавеса"
+msgstr ""
+
+# Objects : [w102188799]
+# name:be: []
+msgid "парк імя Янкі Купалы"
+msgstr ""
+
+# Objects : [n2661743537]
+# name:be: []
+msgid "парк Культуры и отдыха"
+msgstr ""
+
+# Objects : [w239592714, w241892069, w296861403, w39269144, w60274141]
+# name:be: []
+msgid "Парк культуры и отдыха"
+msgstr ""
+
+# Objects : [w41199124]
+# name:be: []
+msgid "Парк Курасовщина"
+msgstr ""
+
+# Objects : [w23554110]
+# name:be: []
+msgid "Парк Марата Казея"
+msgstr ""
+
+# Objects : [n3095522352]
+# name:be: []
+msgid "Парк открытый в день матери"
+msgstr ""
+
+# Objects : [r3285136]
+# name:be: []
+msgid "Парк Партизанской славы им. Миная Шмырёва"
+msgstr ""
+
+# Objects : [r3231168]
+# name:be: []
+msgid "Парк Победителей"
+msgstr ""
+
+# Objects : [w303369307, w99881325]
+# name:be: []
+msgid "Парк Победы"
+msgstr ""
+
+# Objects : [w204210881]
+# name:be: []
+msgid "ПАРК ПОБЕДЫ"
+msgstr ""
+
+# Objects : [w107058885]
+# name:be: []
+msgid "Парк Приднепровский"
+msgstr ""
+
+# Objects : [w95616800]
+# name:be: []
+msgid "Парк Тиволи"
+msgstr ""
+
+# Objects : [n991738219]
+# name:be: []
+msgid "парк Уручье"
+msgstr ""
+
+# Objects : [w28256319]
+# name:be: []
+msgid "Парк Фрунзе"
+msgstr ""
+
+# Objects : [w40991399]
+# name:be: []
+msgid "Парк четырех стихий"
+msgstr ""
+
+# Objects : [w303369460]
+# name:be: []
+msgid "Парк Юбилейный"
+msgstr ""
+
+# Objects : [n3085933512]
+# name:be: []
+msgid "Перамогі / Pieramohi"
+msgstr ""
+
+# Objects : [w84585498]
+# name:be: []
+msgid "Переспенский сквер"
+msgstr ""
+
+# Objects : [w256491865]
+# name:be: []
+msgid "Питомник растений"
+msgstr ""
+
+# Objects : [w240482593]
+# name:be: []
+msgid "площадь 17 Сентября"
+msgstr ""
+
+# Objects : [w189528345]
+# name:be: []
+msgid "площадь Замковая"
+msgstr ""
+
+# Objects : [w243411538]
+# name:be: []
+msgid "Площадь павших борцов"
+msgstr ""
+
+# Objects : [w89694712]
+# name:be: []
+msgid "площадь Свободы"
+msgstr ""
+
+# Objects : [w38573032]
+# name:be: []
+msgid "Привокзальная площадь"
+msgstr ""
+
+# Objects : [w301434949, w301653856]
+# name:be: []
+msgid "Приусадебный парк"
+msgstr ""
+
+# Objects : [w99877866]
+# name:be: []
+msgid "Пушкинский парк"
+msgstr ""
+
+# Objects : [w211417436]
+# name:be: []
+msgid "роща"
+msgstr ""
+
+# Objects : [r3138457]
+# name:be: []
+msgid "Свято-Никольский сквер"
+msgstr ""
+
+# Objects : [w34619877]
+# name:be: []
+msgid "Севастопольский парк"
+msgstr ""
+
+# Objects : [w99871532]
+# name:be: []
+msgid "Сендайский сквер"
+msgstr ""
+
+# Objects : [w168686337]
+# name:be: []
+msgid "скамейка"
+msgstr ""
+
+# Objects : [w280307960]
+# name:be: []
+msgid "сквер"
+msgstr ""
+
+# Objects : [w205040994, w223380737, w245834861, w307733014]
+# name:be: []
+msgid "Сквер"
+msgstr ""
+
+# Objects : [w69137749]
+# name:be: []
+msgid "Сквер 40 летия Победы"
+msgstr ""
+
+# Objects : [w41181177]
+# name:be: []
+msgid "Сквер Адама Мицкевича"
+msgstr ""
+
+# Objects : [w260586438]
+# name:be: []
+msgid "сквер Беларусь партизанская"
+msgstr ""
+
+# Objects : [w101783862]
+# name:be: []
+msgid "Сквер Брагинский"
+msgstr ""
+
+# Objects : [w28256250]
+# name:be: []
+msgid "Сквер героев войны 1812 года"
+msgstr ""
+
+# Objects : [w23558836]
+# name:be: []
+msgid "Сквер Дубки"
+msgstr ""
+
+# Objects : [w89045891]
+# name:be: []
+msgid "Сквер Иконникова"
+msgstr ""
+
+# Objects : [w44529500]
+# name:be: []
+msgid "Сквер имени А.А. Громыко"
+msgstr ""
+
+# Objects : [w28256335]
+# name:be: []
+msgid "Сквер имени Горовца"
+msgstr ""
+
+# Objects : [w189533402]
+# name:be: []
+msgid "Сквер имени Маяковского"
+msgstr ""
+
+# Objects : [w230492126]
+# name:be: []
+msgid "Сквер имени Надежды Харченко"
+msgstr ""
+
+# Objects : [w100144576]
+# name:be: []
+msgid "сквер Клумова"
+msgstr ""
+
+# Objects : [w101783526]
+# name:be: []
+msgid "Сквер Мозырский"
+msgstr ""
+
+# Objects : [n993876900]
+# name:be: []
+msgid "сквер Омара Хайяма"
+msgstr ""
+
+# Objects : [w100145130]
+# name:be: []
+msgid "Сквер Содружество"
+msgstr ""
+
+# Objects : [w99877375]
+# name:be: []
+msgid "сквер Старостинская слобода"
+msgstr ""
+
+# Objects : [n1491191409]
+# name:be: []
+msgid "Старинный парк "Гремяча""
+msgstr ""
+
+# Objects : [w276457317]
+# name:be: []
+msgid "старобинский парк"
+msgstr ""
+
+# Objects : [w112500243, w230525157]
+# name:be: []
+msgid "Старый парк"
+msgstr ""
+
+# Objects : [w30182591]
+# name:be: []
+msgid "Степановский сад"
+msgstr ""
+
+# Objects : [w99883134]
+# name:be: []
+msgid "Сторожевский сквер"
+msgstr ""
+
+# Objects : [w41181179]
+# name:be: []
+msgid "Татарский сквер"
+msgstr ""
+
+# Objects : [w257359075]
+# name:be: []
+msgid "травка"
+msgstr ""
+
+# Objects : [w99876761]
+# name:be: []
+msgid "Троицкая гора"
+msgstr ""
+
+# Objects : [w41179005]
+# name:be: []
+msgid "Тучинский сквер"
+msgstr ""
+
+# Objects : [w139752501]
+# name:be: []
+msgid "Усадьба Ошторпов, XIX век"
+msgstr ""
+
+# Objects : [w38527657]
+# name:be: []
+msgid "Фестивальный"
+msgstr ""
+
+# Objects : [w217750473]
+# name:be: []
+msgid "Центральный"
+msgstr ""
+
+# Objects : [w30951233]
+# name:be: []
+msgid "Центральный детский парк имени М. Горького"
+msgstr ""
+
+# Objects : [w302078979]
+# name:be: []
+msgid "Центральный парк"
+msgstr ""
+
+# Objects : [w160962146]
+# name:be: []
+msgid "Центр экологического туризма “Станьково”"
+msgstr ""
+
+# Objects : [w292718000]
+# name:be: []
+msgid "Шишки"
+msgstr ""
+
+# Objects : [w102306995]
+# name:be: []
+msgid "Шпитальный сквер"
+msgstr ""
+
+# Objects : [w225324020]
+# name:be: []
+msgid "Яблоневый сад"
+msgstr ""
+
+# Objects : [w128330499]
+# name:be: []
+msgid "Японский парк"
+msgstr ""
+

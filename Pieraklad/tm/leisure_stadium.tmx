@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Lokomotiv</seg></tuv>
+      <tuv lang="BE"><seg>Лакаматыў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Борисов-Арена</seg></tuv>
+      <tuv lang="BE"><seg>Барысаў-Арэна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Велодром</seg></tuv>
+      <tuv lang="BE"><seg>Веладром</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Динамо</seg></tuv>
+      <tuv lang="BE"><seg>Дынама</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Заря</seg></tuv>
+      <tuv lang="BE"><seg>Зара</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Локомотив</seg></tuv>
+      <tuv lang="BE"><seg>Лакаматыў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Минск-Арена</seg></tuv>
+      <tuv lang="BE"><seg>Мінск-Арэна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мобильный сезонный каток</seg></tuv>
+      <tuv lang="BE"><seg>Мабільны сезонны каток</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мотобольный стадион</seg></tuv>
+      <tuv lang="BE"><seg>Матабольны стадыён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сеницкий</seg></tuv>
+      <tuv lang="BE"><seg>Сеніцкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Спортивный Комплекс Брестский</seg></tuv>
+      <tuv lang="BE"><seg>Спортивный Комплекс Брестский</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>стадион "Олимпиец"</seg></tuv>
+      <tuv lang="BE"><seg>стадион</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Стадион Атлант</seg></tuv>
+      <tuv lang="BE"><seg>Стадыён «Атлант»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Стадион ГГУ</seg></tuv>
+      <tuv lang="BE"><seg>Стадыён ГДУ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Футбольное поле</seg></tuv>
+      <tuv lang="BE"><seg>Футбольнае поле</seg></tuv>
+    </tu>
+  </body></tmx>

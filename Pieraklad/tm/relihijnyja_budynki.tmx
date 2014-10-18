@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>Архикафедральный собор Святого Имени Пресвятой Девы Марии</seg></tuv>
+      <tuv lang="BE"><seg>Архікафедральны касцёл Імя Найсвяцейшай Дзевы Марыі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Борисоглебская церковь</seg></tuv>
+      <tuv lang="BE"><seg>Барысаглебская царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебское епархиальное управление</seg></tuv>
+      <tuv lang="BE"><seg>Віцебскае епархіяльнае ўпраўленне</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Воскресенский собор</seg></tuv>
+      <tuv lang="BE"><seg>Уваскрасенскі сабор</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Воскресная школа МСЦ ЕХБ</seg></tuv>
+      <tuv lang="BE"><seg>Нядзельная школа МСЦ ЕХБ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гродненская синагога</seg></tuv>
+      <tuv lang="BE"><seg>Гродзенская сінагога</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дом Евангелия</seg></tuv>
+      <tuv lang="BE"><seg>Дом Евангелля</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Евангельская церковь "Добрая весть"</seg></tuv>
+      <tuv lang="BE"><seg>Евангельская царква «Добрая вестка"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Евангельская церковь "Новая жизнь"</seg></tuv>
+      <tuv lang="BE"><seg>Евангельская царква «Новае жыццё»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Женский Спасо-Евфросиниевский Монастырь</seg></tuv>
+      <tuv lang="BE"><seg>Жаночы Спаса-Еўфрасіннеўскі манастыр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>жилой корпус монастыря францисканцев</seg></tuv>
+      <tuv lang="BE"><seg>кляштар францысканаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Иоанна Предтечи</seg></tuv>
+      <tuv lang="BE"><seg>Іаана Папярэдніка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Казанская церковь</seg></tuv>
+      <tuv lang="BE"><seg>Казанская царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>капліца</seg></tuv>
+      <tuv lang="BE"><seg>капліца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кастёл Найсвяцейшай Панны Марыі</seg></tuv>
+      <tuv lang="BE"><seg>Маці Божай Ружанцовай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>католическая часовня</seg></tuv>
+      <tuv lang="BE"><seg>каталіцкая капліца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Католическая часовня</seg></tuv>
+      <tuv lang="BE"><seg>Каталіцкая капліца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Католический культурный центр в Витебске. Резиденция епископа витебского</seg></tuv>
+      <tuv lang="BE"><seg>Каталіцкі цэнтр у Віцебску. Рэзідэнцыя біскупа віцебскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кафедральный католический собор Иисуса Милосердного</seg></tuv>
+      <tuv lang="BE"><seg>Катэдральны касцёл Езуса Міласэрнага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кафедральный собор Рождества Богородицы</seg></tuv>
+      <tuv lang="BE"><seg>Сабор Ражства Багародіцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кафедральный собор Святого Франциска Ксаверия</seg></tuv>
+      <tuv lang="BE"><seg>Кафедральны касцёл Святога Францішка Ксаверыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кафедральный собор Сошествия Святого Духа</seg></tuv>
+      <tuv lang="BE"><seg>Кафедральны сабор Сашэсця Святога Духа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кирха</seg></tuv>
+      <tuv lang="BE"><seg>Кірха</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>костел</seg></tuv>
+      <tuv lang="BE"><seg>касцёл</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Святога Антонія Падуанскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костёл Антония Падуанского</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Антонія Падуанскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>костёл Богоматери Фатимской</seg></tuv>
+      <tuv lang="BE"><seg>касцёл Маці Божай Фацімскай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел Воздвижения Святого Креста</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Узвышэння Святога Крыжа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>костел Вознесения Девы Марии</seg></tuv>
+      <tuv lang="BE"><seg>касцёл Унебаўзяцця Найсв. Панны Марыі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел Вознесения Найсв.Девы Марии, Нац. санктуарий</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Ушэсця Найсв.Панны Марыі, Нац. Санктуарый</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел Девы Марии</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Панны Марыі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел иезуитов (фарный)</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Божага Цела</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел Крестовоздвиженский</seg></tuv>
+      <tuv lang="BE"><seg>Фарны Касцёл</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел Наисвятейшей Девы Марии Ласковой</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Найсвяцейшай Панны Марыі Ласкавай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>костел Непорочного Зачатия Девы Марии</seg></tuv>
+      <tuv lang="BE"><seg>касцёл Беззаганнага Зачацця Найсвяцейшай Панны Марыі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костёл Николая-чудотворца</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Мікалая-цудатворца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>костел Отыскания Св.Креста и монастырь бернардинцев</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Адшукання Св. Крыжа і кляштар бэрнардынцаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>костел Посещения Пресвятой Девой Марией Елисаветы</seg></tuv>
+      <tuv lang="BE"><seg>касцёл Адведзінаў Найсвяцейшай Панны Марыі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костёл Пресвятого Сердца Иисуса</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Найсвяцейшага Сэрца Пана Езуса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел Рождества Девы Марии</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Нараджэння Панны Марыі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>костёл Рождества Пресвятой Девы Марии</seg></tuv>
+      <tuv lang="BE"><seg>касцёл Нараджэння Найсвяцейшай Дзевы Марыі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>костел Св. Анны</seg></tuv>
+      <tuv lang="BE"><seg>касцёл св. Ганны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>костел св.Антония Падуанского</seg></tuv>
+      <tuv lang="BE"><seg>касцёл св. Антонія з Падуі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел св. Апостолов Петра и Павла</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл св. Апосталаў Пятра і Паўла</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел св. Варвары</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Святой Барбары</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел св. Евфимии</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл св. Яўхіміі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел св. Иоанна Крестителя</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл св. Яна Хрысціцеля</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>костел св. Иозафата Куцевича</seg></tuv>
+      <tuv lang="BE"><seg>касцёл святога Язафата Кунцэвіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел св. Иосифа</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл св. Язэпа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел св. Казимира</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл св. Казіміра</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костёл Св. Матвея</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Св. Мацвея</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел св. Михаила Архангела</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл св. Міхаіла Арханёла</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>костел св. о.Пио</seg></tuv>
+      <tuv lang="BE"><seg>касцёл св. а.Піо</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел св. Петра и Павла</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл св. Пятра і Паўла</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>костёл св. Станислава</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл св. Станіслава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел святого Андрея Баболи</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл святога Андрэя Баболі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел Святого Антония Падуанского; Костел св. Антония (руины)</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Святога Антонія Падуанскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел Святого Архангела Михаила и кляштор цистерцианок</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Святога Міхала Арханёла і кляштар цыстэрцыянак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел святого Вацлава</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл св. Вацлава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел Святого Иосифа</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Святога Іосіфу</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костёл Святого Казимира</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Святога Казіміра</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел Святого Михаила Архангела</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Святога Міхала Арханёла</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костёл Святого Михаила Архангела</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Святога Міхаіла Арханёла</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел Святого Сердца Иисуса</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Найсвяцейшага Сэрца Езуса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костёл святого Симеона и святой Елены</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Святога Сымона і Святой Алены</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел Святой Анны</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Святой Ганны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел Святой Триицы</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Святой Троіцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел Святой Троицы</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Святой Троіцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел Святой Троицы; Костел Троицкий</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Святой Тройцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костёл Сердца Иисуса</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Сэрца Езуса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел Троицкий</seg></tuv>
+      <tuv lang="BE"><seg>Троіцкі касцёл</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел Успения Пресвятой Девы Марии</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Унебаўзяцця Найсвяцейшай Панны Марыі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел Францисканцев</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Францысканцаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костел францисканцев (руины)</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл францысканцаў (руіны)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Крестовоздвиженская православная церковь</seg></tuv>
+      <tuv lang="BE"><seg>Крыжаўздзвіжанская праваслаўная царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кутеинский Монастырь</seg></tuv>
+      <tuv lang="BE"><seg>Куцеінскі манастыр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мемориальная часовня-памятник погибшим в Афганистане</seg></tuv>
+      <tuv lang="BE"><seg>Мемарыяльная капліца-помнік загінулым у Афганістане</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мечеть</seg></tuv>
+      <tuv lang="BE"><seg>Мячэць</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Минское епархиальное управление</seg></tuv>
+      <tuv lang="BE"><seg>Мінскае епархіяльнае ўпраўленне</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Молитвенный дом</seg></tuv>
+      <tuv lang="BE"><seg>Дом малiтвы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Молитвенный дом МСЦ ЕХБ</seg></tuv>
+      <tuv lang="BE"><seg>Малітоўны дом МСЦ ЕХБ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Монастырь</seg></tuv>
+      <tuv lang="BE"><seg>Пакроўскі манастыр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Монастырь бенедиктинок</seg></tuv>
+      <tuv lang="BE"><seg>Кляштар бенедыкцінак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Монастырь бернардинцев</seg></tuv>
+      <tuv lang="BE"><seg>Кляштар бернардынаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Монастырь францисканцев с парком</seg></tuv>
+      <tuv lang="BE"><seg>Кляштар францысканаў з паркам</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>монашеская община сестёр-евхаристок</seg></tuv>
+      <tuv lang="BE"><seg>каталіцкая манаская супольнасць сясцёр-еўхарыстак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Надежда</seg></tuv>
+      <tuv lang="BE"><seg>Надзея</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новоапостольская церковь</seg></tuv>
+      <tuv lang="BE"><seg>Новаапостальская царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>парафиальный дом</seg></tuv>
+      <tuv lang="BE"><seg>парафіяльны дом</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Парафия Святых апостолов Петра и Павла</seg></tuv>
+      <tuv lang="BE"><seg>Парафія Святых апосталаў Пятра і Паўла</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пинский кафедральный собор</seg></tuv>
+      <tuv lang="BE"><seg>Пінскі кафедральны сабор</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Подникольский монастырь</seg></tuv>
+      <tuv lang="BE"><seg>Нікольскі манастыр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Покровская старобрядческая церковь</seg></tuv>
+      <tuv lang="BE"><seg>Пакроўская стараверская царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Православный женский монастырь</seg></tuv>
+      <tuv lang="BE"><seg>Праваслаўны жаночы кляштар</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Православный храм</seg></tuv>
+      <tuv lang="BE"><seg>Праваслаўны храм</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>православный храм свят. Николая Чудотворца</seg></tuv>
+      <tuv lang="BE"><seg>праваслаўны храм сьвц. Мікалая Цудатворца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Приемная епископа Витебского. Храм преподобномученика Афанасия, игумена Брестского</seg></tuv>
+      <tuv lang="BE"><seg>Храм прападобнамучаніка Афанасія, ігумена брэсцкага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>приход  мормонов</seg></tuv>
+      <tuv lang="BE"><seg>прыход Царквы Ісуса Хрыста Святых апошніх дзён (мармонаў)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Приход Пресвятого Искупителя</seg></tuv>
+      <tuv lang="BE"><seg>Парафія Найсвяцейшага Адкупіцеля</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>приход храма "Всех Святых"</seg></tuv>
+      <tuv lang="BE"><seg>прыход храма "Ўсіх Святых"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Римско-католический костел Святого Духа</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл Духа Святога</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>руины католической часовни</seg></tuv>
+      <tuv lang="BE"><seg>руіны каталіцкай капліцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>св. Георгия</seg></tuv>
+      <tuv lang="BE"><seg>св. Георгія</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свято-Афанасьевский мужской монастырь</seg></tuv>
+      <tuv lang="BE"><seg>Свята-Афанас'еўскі мужчынскі манастыр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свято-Борисо-Глебская Коложская церковь</seg></tuv>
+      <tuv lang="BE"><seg>Свята-Барыса-Глебская Каложская царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свято-Воскресенская церковь</seg></tuv>
+      <tuv lang="BE"><seg>Свята-Уваскрасенская царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свято-Георгиевская церковь</seg></tuv>
+      <tuv lang="BE"><seg>Свята-Геогріевская царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свято-Георгиевская Церковь</seg></tuv>
+      <tuv lang="BE"><seg>царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свято-Духов женский монастырь</seg></tuv>
+      <tuv lang="BE"><seg>Жаночы манастыр Святога Духа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свято-Духов храм</seg></tuv>
+      <tuv lang="BE"><seg>Свята-Духаў храм</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свято-Михайловская Церковь</seg></tuv>
+      <tuv lang="BE"><seg>Свята-Міхайлаўская Царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свято-Николаевский кафедральный собор</seg></tuv>
+      <tuv lang="BE"><seg>Свята-Нікалаеўскі кафедральны сабор</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свято-Покровский кафедральный собор</seg></tuv>
+      <tuv lang="BE"><seg>Свята-Пакроўскі кафедральны сабор</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свято-Симеоновский Собор</seg></tuv>
+      <tuv lang="BE"><seg>Свята-Сіміёнаўскі сабор</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свято-Успенская церковь</seg></tuv>
+      <tuv lang="BE"><seg>Свята-Успенская царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свято-Успенский кафедральный собор</seg></tuv>
+      <tuv lang="BE"><seg>Свята-Успенскі кафедральны сабор</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сельсовет</seg></tuv>
+      <tuv lang="BE"><seg>Сельсавет</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Синагога</seg></tuv>
+      <tuv lang="BE"><seg>Сінагога</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Собор кафедральный св. Михаила Архангела</seg></tuv>
+      <tuv lang="BE"><seg>Сабор кафедральны св. Міхаіла Архангела</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Собор Крестовоздвиженский</seg></tuv>
+      <tuv lang="BE"><seg>Крыжаўзвіжанскі сабор</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Собор Петра и Павла</seg></tuv>
+      <tuv lang="BE"><seg>Сабор Пятра і Паўла</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Софийский Собор</seg></tuv>
+      <tuv lang="BE"><seg>Сафійскі сабор</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Спасо-Вознесенская церковь</seg></tuv>
+      <tuv lang="BE"><seg>Царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Спасо-Преображенская церковь</seg></tuv>
+      <tuv lang="BE"><seg>Спаса-Праабражэнская царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Спасо–Преображенская церковь</seg></tuv>
+      <tuv lang="BE"><seg>Спаса-Праабражэнская царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>староверская Успенская церковь</seg></tuv>
+      <tuv lang="BE"><seg>стараверская Успенская царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Старообрядческая Древлеправославная церковь Святителя Христова Николы</seg></tuv>
+      <tuv lang="BE"><seg>Стараабрадная Старажытнаправаслаўная царква Свяціцеля Хрыстовага Міколы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Троицкая церковь</seg></tuv>
+      <tuv lang="BE"><seg>Троіцкая царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Троицкий костел</seg></tuv>
+      <tuv lang="BE"><seg>Касцёл св. Тройцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Униатская (греко-католическая) церковь Воскресения Христова</seg></tuv>
+      <tuv lang="BE"><seg>Грэка-каталіцкая (вуніяцкая) царква Уваскрашэння Хрыстова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Успения Пресвятой Девы Марии</seg></tuv>
+      <tuv lang="BE"><seg>Унебаўзяцця Найсвяцейшай Панны Марыі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Успенская старообрядческая церковь</seg></tuv>
+      <tuv lang="BE"><seg>Успенская стараабрадчая царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Усыпальница Свентаржэцких</seg></tuv>
+      <tuv lang="BE"><seg>Капліца-пахавальня Свентаржэцкіх</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фарный костёл Преображения Господнего</seg></tuv>
+      <tuv lang="BE"><seg>Фарны касцёл Праабражэння Гасподняга</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Храм Благовещения Пресвятой Богородицы</seg></tuv>
+      <tuv lang="BE"><seg>Храм Дабравешчання Прасвятой Багародзіцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>храм Воздвижения Креста Господня</seg></tuv>
+      <tuv lang="BE"><seg>царква Уздвіжаньня Крыжа Гасподня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Храм Вознесения Господня</seg></tuv>
+      <tuv lang="BE"><seg>царква Ўзнясеньня Гасподня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Храм во имя св. Преподобного Антония Великого</seg></tuv>
+      <tuv lang="BE"><seg>Царква св. Антонія Вялікага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Храм Во Имя Святителя Николая Чудотворца</seg></tuv>
+      <tuv lang="BE"><seg>Храм Свяціцеля Мікалая Цудатворца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Храм Воскресения Христова</seg></tuv>
+      <tuv lang="BE"><seg>Храм Узнясення Хрыстовага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Храм В Честь Покрова Пресвятой Богородицы</seg></tuv>
+      <tuv lang="BE"><seg>Храм Пакрова Прасвятой Багародзіцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Храм В Честь Преображения Господня</seg></tuv>
+      <tuv lang="BE"><seg>Храм Перамянення Гасподняга</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Храм В Честь Рождества Пресвятой Богородицы</seg></tuv>
+      <tuv lang="BE"><seg>Храм Раства Прасвятой Багародзіцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Храм в честь Рождества Христова</seg></tuv>
+      <tuv lang="BE"><seg>Храм у гонар Ражства Хрыстова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Храм В Честь Святой Троицы 1647Г.</seg></tuv>
+      <tuv lang="BE"><seg>Храм святой Троіцы 1647 г.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Храм протестантский</seg></tuv>
+      <tuv lang="BE"><seg>Храм пратэстанцкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Храм св. Пантелеймона</seg></tuv>
+      <tuv lang="BE"><seg>Храм святога Панцеляймона</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Храм святого благоверного князя Александра Невского</seg></tuv>
+      <tuv lang="BE"><seg>Храм святога прававернага князя Аляксандра Неўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Храм святого мученика Лонгина Сотника</seg></tuv>
+      <tuv lang="BE"><seg>Храм святога мучаніка Лангіна Сотніка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Храм святой блаженной Ксении Петербургской</seg></tuv>
+      <tuv lang="BE"><seg>Храм святой блажэннай Ксеніі Пецярбургскай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Храм святой великомученицы Екатерины</seg></tuv>
+      <tuv lang="BE"><seg>Храм святой вялікамучаніцы Кацярыны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Храм святой мученицы Татианы</seg></tuv>
+      <tuv lang="BE"><seg>Храм святой мучаніцы Тацяны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Храм святой преподобной Евфросинии Полоцкой</seg></tuv>
+      <tuv lang="BE"><seg>Храм святой прападобнай Еўфрасінні Полацкай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Храм святой преподобномученицы Евдокии</seg></tuv>
+      <tuv lang="BE"><seg>Храм святой прападобнамучаніцы Еўдакіі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Храм Успения Пресвятой Богородицы</seg></tuv>
+      <tuv lang="BE"><seg>Храм Успення Прасвятой Багародзіцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральная церковь адвентистов седьмого дня</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтральная царква адвентыстаў сёмага дня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь</seg></tuv>
+      <tuv lang="BE"><seg>Царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>церковь Вознесения Господня</seg></tuv>
+      <tuv lang="BE"><seg>Узнясенская царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Вознесения Господня</seg></tuv>
+      <tuv lang="BE"><seg>Царква Ушэсця Гасподняга</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь во имя преподобной Марфы</seg></tuv>
+      <tuv lang="BE"><seg>Царква ў імя прападобнай Марфы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь во имя Св. прор. Илии</seg></tuv>
+      <tuv lang="BE"><seg>Свята-Ільінская царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Воскресенская</seg></tuv>
+      <tuv lang="BE"><seg>Царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Всех Святых</seg></tuv>
+      <tuv lang="BE"><seg>Царква Ўсіх Святых</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Илии Пророка</seg></tuv>
+      <tuv lang="BE"><seg>Царква Святога прарока Іллі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Николая-Чудотворца</seg></tuv>
+      <tuv lang="BE"><seg>Царква Мікалая-Цудатворца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Покрова Пресвятой Богородицы</seg></tuv>
+      <tuv lang="BE"><seg>Царква Покрыва Прасвятой Багародзіцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Покровская</seg></tuv>
+      <tuv lang="BE"><seg>Царква Покрыва Прасвятой Багародзіцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Преображения Господня</seg></tuv>
+      <tuv lang="BE"><seg>Царква Праабражэння Гасподняга</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Рождества Богородицы</seg></tuv>
+      <tuv lang="BE"><seg>Царква Раства Багародзіцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Рождества  ЕХБ</seg></tuv>
+      <tuv lang="BE"><seg>Царква Каляд Саюза ЕХБ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>церковь Рождества Иоанна Предтечи</seg></tuv>
+      <tuv lang="BE"><seg>Царква Раства Іаана Прадцечы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь св. Анны</seg></tuv>
+      <tuv lang="BE"><seg>Царква Святой Ганны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь св. ап. Андрея Первозванного</seg></tuv>
+      <tuv lang="BE"><seg>Царква св. ап. Андрэя Першазваннага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь св. Георгия</seg></tuv>
+      <tuv lang="BE"><seg>Царква св. Юрыя</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь св. Георгия Победоносца</seg></tuv>
+      <tuv lang="BE"><seg>Царква св. Георгія Перамоганосца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь св. Ильи (дерев.)</seg></tuv>
+      <tuv lang="BE"><seg>Царква св. Іллі (драўляная)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь св. Константина и Елены</seg></tuv>
+      <tuv lang="BE"><seg>Царква святых Канстанціна і Алены</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь св. Николая</seg></tuv>
+      <tuv lang="BE"><seg>Царква св. Мікалая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>церковь св. Параскевы Пятницы</seg></tuv>
+      <tuv lang="BE"><seg>царква св. Параскевы Пятніцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Святого Владимира</seg></tuv>
+      <tuv lang="BE"><seg>Царква Святога Ўладзіміра</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Святого Духа</seg></tuv>
+      <tuv lang="BE"><seg>Царква Святога Духа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Святого Иоанна Предтечи</seg></tuv>
+      <tuv lang="BE"><seg>Царква Святога Іаана Прадцечы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Святого Михаила</seg></tuv>
+      <tuv lang="BE"><seg>Царква Святога Міхаіла</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Святого Николая</seg></tuv>
+      <tuv lang="BE"><seg>Царква Святога Мікалая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Святого пророка Илии</seg></tuv>
+      <tuv lang="BE"><seg>Царква Святога прарока Іллі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Святой Живоначальной Троицы</seg></tuv>
+      <tuv lang="BE"><seg>Царква Святой Жываначальнай Троіцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Святой Параскевы Пятницы</seg></tuv>
+      <tuv lang="BE"><seg>Царква Святой Параскевы Пятніцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Святой Троицы</seg></tuv>
+      <tuv lang="BE"><seg>Свята-Троiцкая царква</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Спасо-Преображенская</seg></tuv>
+      <tuv lang="BE"><seg>Царква Праабражэння Гасподняга</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>церковь Сретения Господня</seg></tuv>
+      <tuv lang="BE"><seg>царква Стрэчаньня Гасподняга</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Трех Светителей</seg></tuv>
+      <tuv lang="BE"><seg>Царква Трох Сьвяціцеляў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Успения Пресвятой Богородицы</seg></tuv>
+      <tuv lang="BE"><seg>Царква Успення Прасвятой Багародзіцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Успенская</seg></tuv>
+      <tuv lang="BE"><seg>Царква Успення Прасвятой Божай Маці</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церковь Царства Божьего</seg></tuv>
+      <tuv lang="BE"><seg>Царква Царства Божага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Церьков "Нечаянная радость"</seg></tuv>
+      <tuv lang="BE"><seg>Царква «Неспадзяваная радасць»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>часовня</seg></tuv>
+      <tuv lang="BE"><seg>капліца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Часовня</seg></tuv>
+      <tuv lang="BE"><seg>капліца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Часовня (дерев.)</seg></tuv>
+      <tuv lang="BE"><seg>Капліца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>часовня  бл. Юрия Матулевича</seg></tuv>
+      <tuv lang="BE"><seg>капліца бл. Юрыя Матулевіча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Часовня католич. св. Варвары</seg></tuv>
+      <tuv lang="BE"><seg>Капліца св. Барбары</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Часовня общины доминиканцев</seg></tuv>
+      <tuv lang="BE"><seg>Капліца абшчыны дамініканаў</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Часовня Преображения Господня</seg></tuv>
+      <tuv lang="BE"><seg>Каплiца Перамянення Панскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Часовня Римских-Корсаковых</seg></tuv>
+      <tuv lang="BE"><seg>Капліца Рымскіх-Корсакавых</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Часовня св. Анны</seg></tuv>
+      <tuv lang="BE"><seg>Капліца св. Ганны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>часовня св. Ильи</seg></tuv>
+      <tuv lang="BE"><seg>капліца св. Ільі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Часовня св. Креста</seg></tuv>
+      <tuv lang="BE"><seg>Капліца св. Крыжа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>часовня Спасо-Преображенская (дерев.)</seg></tuv>
+      <tuv lang="BE"><seg>Спаса-Праабражэнская капліца (драўляная)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Часовня Успения Пресвятой Девы Марии</seg></tuv>
+      <tuv lang="BE"><seg>Капліца Унебаўзяцця Найсвяцейшай Панны Марыі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>часовня-Усыпальница</seg></tuv>
+      <tuv lang="BE"><seg>Капліца-пахавальня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Часовня-усыпальница Святополк-Мирских</seg></tuv>
+      <tuv lang="BE"><seg>Капліца-пахавальня Святаполк-Мірскіх</seg></tuv>
+    </tu>
+  </body></tmx>

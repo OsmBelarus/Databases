@@ -1,1600 +1,1905 @@
 # Objects : [n2507444558]
 # name:be: []
 msgid ""ProStore""
+msgstr ""
 
 # Objects : [n1180699929]
 # name:be: []
 msgid ""Алми""
+msgstr ""
 
 # Objects : [n1168827913]
 # name:be: []
 msgid ""Детский Супермаркет""
+msgstr ""
 
 # Objects : [n2094555212]
 # name:be: []
 msgid ""Евроопт""
+msgstr ""
 
 # Objects : [n1381657974]
 # name:be: []
 msgid ""Златка""
+msgstr ""
 
 # Objects : [n2625735198]
 # name:be: []
 msgid ""Каравай""
+msgstr ""
 
 # Objects : [n1771715315]
 # name:be: []
 msgid ""Мой ребёнок""
+msgstr ""
 
 # Objects : [n1162102475]
 # name:be: []
 msgid ""Народный""
+msgstr ""
 
 # Objects : [n560990915]
 # name:be: []
 msgid ""Рублёвский""
+msgstr ""
 
 # Objects : [n965543018]
 # name:be: []
 msgid ""Супермаркет""
+msgstr ""
 
 # Objects : [n914480995]
-# name:be: [Універсам]
+# name:be: []
 msgid ""Универсам""
+msgstr ""
 
 # Objects : [n1096061382]
 # name:be: []
 msgid "«ХХI век» - ночник"
+msgstr ""
 
 # Objects : [n1124765717, w62299638]
-# name:be: [Еўраопт, Прадукты]
+# name:be: []
 msgid "<null>"
+msgstr ""
 
 # Objects : [n1429037675]
 # name:be: []
 msgid "24 часа"
+msgstr ""
 
 # Objects : [w109673110]
 # name:be: []
 msgid "29"
+msgstr ""
 
 # Objects : [w160279018]
 # name:be: []
 msgid "3 Желания"
+msgstr ""
 
 # Objects : [w131541104]
 # name:be: []
 msgid "50 лет октября 46"
+msgstr ""
 
-# Objects : [n2717807271]
-# name:be: []
-msgid "5 элемент"
-
-# Objects : [n2577099239]
+# Objects : [n2577099239, n2717807271]
 # name:be: []
 msgid "5 Элемент"
+msgstr ""
+
+# Objects : [n2264403418]
+# name:be: []
+msgid "All"
+msgstr ""
 
 # Objects : [w86762221]
 # name:be: []
 msgid "Belmarket"
+msgstr ""
 
 # Objects : [n558233808]
 # name:be: []
 msgid "Bigzz"
+msgstr ""
 
 # Objects : [n1845176519]
 # name:be: []
 msgid "CHICCO"
+msgstr ""
 
 # Objects : [n566172139]
 # name:be: []
 msgid "Coolman"
+msgstr ""
 
 # Objects : [w235594747]
 # name:be: []
 msgid "Duty Free"
+msgstr ""
 
 # Objects : [n2600980553]
 # name:be: []
 msgid "Green"
+msgstr ""
 
-# Objects : [n2672658243, w283795906, w295473653]
-# name:be: []
-msgid "MartInn"
-
-# Objects : [w252613006]
-# name:be: []
-msgid "MARTINN"
-
-# Objects : [w67027976]
-# name:be: []
-msgid "Mart Inn"
-
-# Objects : [n2878531195, w265417667]
+# Objects : [n2672658243, n2878531195, w121817569, w203702553, w252613006, w265417667, w268852028, w283795906, w295473653, w67027976]
 # name:be: []
 msgid "MART INN"
+msgstr ""
 
 # Objects : [n1665891222]
 # name:be: []
 msgid "MART INN – 402"
+msgstr ""
 
 # Objects : [w23541909]
 # name:be: []
 msgid "Maximus/Preston"
+msgstr ""
 
 # Objects : [n280035623, w40848686]
 # name:be: []
 msgid "Preston"
+msgstr ""
+
+# Objects : [n305675175, n920083713, w36966458, w44777082]
+# name:be: []
+msgid "ProStore"
+msgstr ""
 
 # Objects : [w227888501]
 # name:be: []
 msgid "shop"
+msgstr ""
 
 # Objects : [n489249266]
 # name:be: []
 msgid "Sidis"
+msgstr ""
 
 # Objects : [n256318509]
-# name:be: [Simax]
+# name:be: []
 msgid "Simax"
+msgstr ""
 
 # Objects : [n1290304453]
 # name:be: []
 msgid "Sirius"
+msgstr ""
 
 # Objects : [n255000386]
-# name:be: [SL Market]
+# name:be: []
 msgid "SL Market"
+msgstr ""
 
 # Objects : [n1907396013]
 # name:be: []
 msgid "Supermarket"
+msgstr ""
 
 # Objects : [n1689379096]
 # name:be: []
 msgid "Valentina"
+msgstr ""
 
 # Objects : [n1898788933]
 # name:be: []
 msgid "Авантмебель"
+msgstr ""
 
 # Objects : [n1104041899, n1321579694, n2365893729]
-# name:be: [Азарэнне]
+# name:be: []
 msgid "Азарэнне"
+msgstr ""
 
-# Objects : [w126781582, w203702553]
+# Objects : [w126781582]
 # name:be: []
 msgid "Айсберг"
+msgstr ""
 
 # Objects : [n1421776203]
 # name:be: []
 msgid "Алкогольный магазин"
+msgstr ""
 
 # Objects : [n1099521666, n1548371681, n1754954879, n2062743025, n2338090831, n256039103, n768026230, n928016186, w105758377, w142674614, w161186618, w164675957, w180298636, w226590360, w29125989, w53022562, w62222001]
-# name:be: [Алмі]
+# name:be: []
 msgid "Алми"
+msgstr ""
 
 # Objects : [n1249997578, n1271808353, n1350016425, n801990661, w197878111, w226765108, w265393007, w72518314, w87608374]
-# name:be: [АЛМІ]
+# name:be: []
 msgid "АЛМИ"
+msgstr ""
 
 # Objects : [w173342742]
 # name:be: []
 msgid "Арена Сити"
+msgstr ""
 
 # Objects : [n2106264239]
 # name:be: []
 msgid "Асобiна"
+msgstr ""
 
 # Objects : [n2038507316]
 # name:be: []
 msgid "Ассорти 3"
+msgstr ""
 
 # Objects : [n1190677243]
 # name:be: []
 msgid "Атлант"
+msgstr ""
 
 # Objects : [w80250758]
 # name:be: []
 msgid "Базар"
+msgstr ""
 
 # Objects : [w106992732]
 # name:be: []
 msgid "Базар низких цен"
+msgstr ""
 
 # Objects : [n1180696392]
 # name:be: []
 msgid "Балтика"
+msgstr ""
 
 # Objects : [n280036990]
 # name:be: []
 msgid "Беларусачка"
+msgstr ""
 
 # Objects : [n1309577990]
 # name:be: []
 msgid "Беларусич"
+msgstr ""
 
-# Objects : [n1123120474, n1256790496, n1413573195, n1788453391, n1831298216, n2091848862, n2146980923, n2202946157, n2334713261, n2574058814, w119933409, w235130069, w26444951, w290547024, w300419569, w300961487, w303547110]
+# Objects : [n1123120474, n1212997919, n1256790496, n1413573195, n1788453391, n1831298216, n2091848862, n2146980923, n2202946157, n2334713261, n2574058814, w119933409, w235130069, w26444951, w290547024, w300419569, w300961487, w303547110]
 # name:be: []
 msgid "Белмаркет"
+msgstr ""
 
 # Objects : [n1413671752, n2194125234, w86757110]
 # name:be: []
 msgid "БелМаркет"
+msgstr ""
 
 # Objects : [w86763532]
 # name:be: []
 msgid "БЕЛМАРКЕТ"
+msgstr ""
 
 # Objects : [n489250274]
 # name:be: []
 msgid "Белсаюздрук"
+msgstr ""
 
 # Objects : [n1285652876]
 # name:be: []
 msgid "Белые Росы"
+msgstr ""
 
 # Objects : [n1536992822, n2535234721]
-# name:be: [Бярэ́зіна]
+# name:be: []
 msgid "Березина"
+msgstr ""
 
 # Objects : [n674423188, n899430431]
-# name:be: [Бярозка]
+# name:be: []
 msgid "Березка"
+msgstr ""
 
 # Objects : [n2189578247]
 # name:be: []
 msgid "Березки"
+msgstr ""
 
 # Objects : [n2153304688]
-# name:be: [БіМарт]
+# name:be: []
 msgid "БиМарт"
+msgstr ""
 
 # Objects : [n1147079656]
 # name:be: []
 msgid "Брагинский"
+msgstr ""
 
 # Objects : [n320409897]
-# name:be: [Брэст]
+# name:be: []
 msgid "Брест"
+msgstr ""
 
 # Objects : [n504469070]
 # name:be: []
 msgid "Буратино"
+msgstr ""
 
 # Objects : [n1819491799, n306062331, n843035807]
-# name:be: [Буслік]
+# name:be: []
 msgid "Буслик"
+msgstr ""
 
 # Objects : [n673984437]
 # name:be: []
 msgid "Быховский"
+msgstr ""
 
 # Objects : [n997645150]
-# name:be: [Верас]
+# name:be: []
 msgid "Верас"
+msgstr ""
 
 # Objects : [n297200065]
 # name:be: []
 msgid "Верона"
+msgstr ""
 
 # Objects : [n1233410984, w265408815]
-# name:be: [Веста]
+# name:be: []
 msgid "Веста"
+msgstr ""
 
 # Objects : [n905860997]
-# name:be: [Веста №121]
+# name:be: []
 msgid "Веста №121"
+msgstr ""
 
 # Objects : [n1272484994]
-# name:be: [Веста №128]
+# name:be: []
 msgid "Веста №128"
+msgstr ""
 
 # Objects : [w305134415]
-# name:be: [Веста № 140]
-msgid "Веста № 140"
+# name:be: []
+msgid "Веста №140"
+msgstr ""
 
 # Objects : [w27896594]
-# name:be: [Веста № 141]
-msgid "Веста № 141"
+# name:be: []
+msgid "Веста №141"
+msgstr ""
 
 # Objects : [w27896585]
-# name:be: [Веста № 142]
-msgid "Веста № 142"
+# name:be: []
+msgid "Веста №142"
+msgstr ""
 
 # Objects : [w264462624]
-# name:be: [Веста №144]
+# name:be: []
 msgid "Веста №144"
+msgstr ""
 
 # Objects : [w27896622]
-# name:be: [Веста № 145]
-msgid "Веста № 145"
+# name:be: []
+msgid "Веста №145"
+msgstr ""
 
 # Objects : [w35809697]
-# name:be: [Веста № 147]
-msgid "Веста № 147"
+# name:be: []
+msgid "Веста №147"
+msgstr ""
 
 # Objects : [w27896593]
-# name:be: [Веста № 150]
-msgid "Веста № 150"
+# name:be: []
+msgid "Веста №150"
+msgstr ""
 
 # Objects : [w270488134]
-# name:be: [Веста № 153]
-msgid "Веста № 153"
+# name:be: []
+msgid "Веста №153"
+msgstr ""
 
 # Objects : [w214282069]
 # name:be: []
 msgid "Ветеран"
+msgstr ""
 
 # Objects : [n2136420022, n2322766140, n2430048115, n2621932321, w121069082, w124895669, w209203363, w243275543, w25393034, w265393008, w28461700]
-# name:be: [Віталюр]
+# name:be: []
 msgid "Виталюр"
+msgstr ""
 
 # Objects : [n676125796]
-# name:be: [Віцебск]
+# name:be: []
 msgid "Витебск"
+msgstr ""
 
 # Objects : [n3020091187]
 # name:be: []
 msgid "Вкусный домик"
+msgstr ""
 
 # Objects : [n493124034]
-# name:be: [Валгаград]
+# name:be: []
 msgid "Волгоград"
+msgstr ""
 
 # Objects : [n1293166495]
 # name:be: []
 msgid "Волотовской"
+msgstr ""
 
 # Objects : [n2035165072]
 # name:be: []
 msgid "Восток"
+msgstr ""
 
 # Objects : [w171378774]
 # name:be: []
 msgid "Вояж"
+msgstr ""
 
 # Objects : [n612452826]
 # name:be: []
 msgid "ВСТРЕЧА"
+msgstr ""
 
 # Objects : [n377604467]
 # name:be: []
 msgid "Гайна"
+msgstr ""
 
 # Objects : [n1142100596]
-# name:be: [Ганна]
+# name:be: []
 msgid "Ганна"
+msgstr ""
 
 # Objects : [n1580686105]
 # name:be: []
 msgid "Гаспадар"
+msgstr ""
 
 # Objects : [n2836550260, w221168208]
-# name:be: [Гасцiнец]
+# name:be: []
 msgid "Гастинец"
+msgstr ""
 
 # Objects : [n476656081]
 # name:be: []
 msgid "Гастроном"
+msgstr ""
 
 # Objects : [n1587125983]
 # name:be: []
 msgid "Гермес"
+msgstr ""
 
-# Objects : [w184172874]
+# Objects : [n1602183918, n306066642, n526820941, n595701659, n964932405, w129540250, w142750728, w184172874, w25785656, w264691115]
 # name:be: []
-msgid "гипермаркет «ГИППО»"
-
-# Objects : [n305675175, n920083713]
-# name:be: [Гіпермаркет ProStore]
-msgid "Гипермаркет Prostore"
-
-# Objects : [w36966458]
-# name:be: [Гіпермаркет ProStore]
-msgid "Гипермаркет ProStore"
-
-# Objects : [w44777082]
-# name:be: [Гіпермаркет Prostore]
-msgid "Гипермаркет Prostore (9-24)"
-
-# Objects : [w274996626]
-# name:be: [Гіпермаркет "Еўраопт"]
-msgid "Гипермаркет Евроопт"
-
-# Objects : [n1602183918, n306066642, n526820941, n595701659, n964932405, w129540250, w25785656]
-# name:be: [Гiпа, Гіпа]
 msgid "Гиппо"
-
-# Objects : [w142750728, w264691115]
-# name:be: []
-msgid "ГИППО"
+msgstr ""
 
 # Objects : [w38287244]
-# name:be: [ГУМ]
+# name:be: []
 msgid "ГУМ"
+msgstr ""
 
 # Objects : [n899327474]
 # name:be: []
 msgid "Гуртовня"
+msgstr ""
 
 # Objects : [n781741191]
 # name:be: []
 msgid "Давыдовский рынок"
+msgstr ""
 
 # Objects : [w175292274]
 # name:be: []
 msgid "Дары о зари"
+msgstr ""
 
 # Objects : [n1213526412]
-# name:be: [Дзіцячы свет]
+# name:be: []
 msgid "Детский мир"
+msgstr ""
 
 # Objects : [n286771606]
 # name:be: []
 msgid "Дивный"
+msgstr ""
 
 # Objects : [w167357559, w174929355]
 # name:be: []
 msgid "Дионис"
+msgstr ""
 
 # Objects : [n586312287]
 # name:be: []
 msgid "Дискаунтер"
+msgstr ""
 
 # Objects : [n1696107643]
 # name:be: []
 msgid "Дискаунтер "Евроопт""
+msgstr ""
 
 # Objects : [n943354700]
 # name:be: []
 msgid "дискаунтер "На надельку""
-
-# Objects : [n586312302]
-# name:be: []
-msgid "Дискаунтер Евроопт"
+msgstr ""
 
 # Objects : [n1024778829]
 # name:be: []
 msgid "Дисконт"
+msgstr ""
 
 # Objects : [w237304575]
 # name:be: []
 msgid "Дисконт-2"
+msgstr ""
 
 # Objects : [w93616501]
 # name:be: []
 msgid "Днепровский"
+msgstr ""
 
 # Objects : [n1536596219]
 # name:be: []
 msgid "Добраном"
+msgstr ""
 
 # Objects : [n2166942353, n2338680004, w183858954, w211229681]
 # name:be: []
 msgid "Доброном"
+msgstr ""
 
 # Objects : [w126715052]
-# name:be: [Гермес]
+# name:be: []
 msgid "Доброном (бывший Гермес)"
+msgstr ""
 
 # Objects : [n2626916898]
 # name:be: []
 msgid "Доктор Дог"
+msgstr ""
 
 # Objects : [w249787211]
 # name:be: []
 msgid "Домашний"
+msgstr ""
 
 # Objects : [n2231022260]
 # name:be: []
 msgid "Домовой"
+msgstr ""
 
 # Objects : [n612451936, n785111296, w41104343, w53448042]
-# name:be: [Дом гандлю]
+# name:be: []
 msgid "Дом торговли"
+msgstr ""
 
 # Objects : [w112928717]
 # name:be: []
 msgid "Дом торговли "Мозырь""
+msgstr ""
 
 # Objects : [n423773316, w169886017]
 # name:be: []
 msgid "ДорОрс"
+msgstr ""
 
 # Objects : [n1180704047, n1195318502]
-# name:be: [Дружба]
+# name:be: []
 msgid "Дружба"
+msgstr ""
 
-# Objects : [w287270299]
+# Objects : [n1089317932, n1214548610, n1256787181, n1343005431, n1402090387, n1421268332, n1538543838, n1542263383, n1634895594, n1719497500, n1747514079, n1762963588, n1928013904, n1992457021, n2030672428, n2054442886, n2106359619, n2118172121, n2131997073, n2156354032, n2183416797, n2218019816, n2334770556, n2338316765, n2339862117, n2346169893, n2415824294, n2448176668, n2456995784, n2619848600, n2633370961, n2657844846, n2671140150, n2674556036, n2674556037, n2717807216, n2773982945, n280811256, n281703843, n281716445, n2845945260, n2878537002, n3056387058, n306065492, n306067325, n306068219, n306068598, n586312302, n595702858, n674489852, n846325009, n935016691, n974590771, n982332034, w117768472, w120082113, w120718808, w144879191, w153740044, w159473857, w166671947, w169679694, w171389704, w174787954, w174837377, w183944925, w188462005, w203360667, w204621142, w206505450, w225203950, w229948625, w235130073, w257592818, w274996626, w276919223, w27896551, w283744683, w287270299, w287687810, w294949094, w30795463, w30861395, w51928521, w62221975, w82228484, w84534285, w96044406, w96465851]
 # name:be: []
-msgid "евроопт"
-
-# Objects : [n1089317932, n1256787181, n1343005431, n1402090387, n1421268332, n1538543838, n1542263383, n1634895594, n1719497500, n1747514079, n1762963588, n1928013904, n1992457021, n2030672428, n2054442886, n2106359619, n2118172121, n2131997073, n2156354032, n2183416797, n2218019816, n2334770556, n2338316765, n2339862117, n2346169893, n2415824294, n2448176668, n2456995784, n2619848600, n2657844846, n2671140150, n2674556036, n2674556037, n2717807216, n2773982945, n280811256, n281703843, n281716445, n2845945260, n2878537002, n306065492, n306067325, n306068219, n306068598, n595702858, n846325009, n935016691, n974590771, n982332034, w120082113, w120718808, w144879191, w153740044, w159473857, w166671947, w169679694, w171389704, w174787954, w174837377, w183944925, w188462005, w204621142, w206505450, w225203950, w229948625, w257592818, w276919223, w27896551, w283744683, w287687810, w30795463, w30861395, w82228484, w84534285, w96044406, w96465851]
-# name:be: [Еўраопт, Супермаркет "Еўраопт", ЭканомМаг]
 msgid "Евроопт"
-
-# Objects : [n3100319103, w203360667, w294949094, w62221975]
-# name:be: []
-msgid "ЕВРООПТ"
-
-# Objects : [n3056387058]
-# name:be: []
-msgid "Евроопт +++"
+msgstr ""
 
 # Objects : [n1399771866]
 # name:be: []
 msgid "Журавушка"
+msgstr ""
 
 # Objects : [n2338424281]
 # name:be: []
 msgid "Закрама"
+msgstr ""
 
 # Objects : [n529851975]
-# name:be: [ЗАТ "Зарына"]
+# name:be: []
 msgid "ЗАО "Зорина""
+msgstr ""
 
 # Objects : [w100301125]
-# name:be: [Заходні]
+# name:be: []
 msgid "Западный"
+msgstr ""
 
 # Objects : [w30861415, w81031298]
-# name:be: [Заходнi рынак]
+# name:be: []
 msgid "Западный рынок"
+msgstr ""
 
 # Objects : [n262910213]
-# name:be: [Заходнi]
+# name:be: []
 msgid "Заходний"
+msgstr ""
 
 # Objects : [n768586403]
 # name:be: []
 msgid "Зеленый клен"
+msgstr ""
 
 # Objects : [n1996139834, n879126925, w176510699]
 # name:be: []
 msgid "Златка"
+msgstr ""
 
 # Objects : [n450597617]
 # name:be: []
 msgid "Золотой Десяток"
+msgstr ""
 
 # Objects : [n281722608]
 # name:be: []
 msgid "Зорина"
+msgstr ""
 
 # Objects : [n1688181694, w38058812]
 # name:be: []
 msgid "Ивушка"
+msgstr ""
 
 # Objects : [w206360332]
 # name:be: []
 msgid "Камелия"
+msgstr ""
 
 # Objects : [n823410570]
 # name:be: []
 msgid "Камыш"
+msgstr ""
 
 # Objects : [n1437666358, w86762949]
-# name:be: [Квартал]
+# name:be: []
 msgid "Квартал"
+msgstr ""
 
 # Objects : [n3089483801]
 # name:be: []
 msgid "Киоск"
+msgstr ""
 
 # Objects : [n612435677]
 # name:be: []
 msgid "Кирмаш"
+msgstr ""
 
 # Objects : [n2555703340]
 # name:be: []
 msgid "Китайские продукты"
+msgstr ""
 
 # Objects : [n1454675322]
 # name:be: []
 msgid "Классические вина"
+msgstr ""
 
 # Objects : [w173734707]
 # name:be: []
 msgid "Кольцо"
+msgstr ""
 
 # Objects : [n3020101566]
 # name:be: []
 msgid "Компьютеры"
+msgstr ""
 
 # Objects : [n1858745559, r1295737]
-# name:be: [Кантынент]
+# name:be: []
 msgid "Континент"
+msgstr ""
 
 # Objects : [n1434856925]
 # name:be: []
 msgid "Копеечка"
+msgstr ""
 
 # Objects : [n849514980]
-# name:be: [Каржанеўскі]
+# name:be: []
 msgid "Корженевский"
+msgstr ""
 
 # Objects : [n1286202878, n1523510819]
 # name:be: []
 msgid "Корзинка"
+msgstr ""
 
 # Objects : [n1148175614, w151747290]
-# name:be: [Карона]
+# name:be: []
 msgid "Корона"
+msgstr ""
 
 # Objects : [n1582503891]
-# name:be: [Космас]
+# name:be: []
 msgid "Космос"
+msgstr ""
 
 # Objects : [n1138833556]
 # name:be: []
 msgid "Крама"
+msgstr ""
 
 # Objects : [n470072162]
-# name:be: [Крынiца]
+# name:be: []
 msgid "Криница"
+msgstr ""
 
 # Objects : [n1002537764]
 # name:be: []
 msgid "Крыница"
+msgstr ""
 
 # Objects : [n2079488328]
 # name:be: []
 msgid "КСП-маркет"
+msgstr ""
 
 # Objects : [n1180702481]
-# name:be: [Кулінарыя]
+# name:be: []
 msgid "Кулинария"
+msgstr ""
 
 # Objects : [n1390593338]
-# name:be: [Лотас]
+# name:be: []
 msgid "Лотос"
+msgstr ""
 
 # Objects : [n2037016025]
 # name:be: []
 msgid "Люкс"
+msgstr ""
 
 # Objects : [w209731076, w213088335, w277679273, w281512086, w281758138, w283111289, w284610238]
 # name:be: []
 msgid "магазин"
+msgstr ""
 
 # Objects : [n1628312617, n2749145861, n442905567, w175692641, w206360333, w206362704, w231741527, w238558837, w240113384, w260418598, w97360454]
-# name:be: [Магазін]
+# name:be: []
 msgid "Магазин"
+msgstr ""
 
 # Objects : [w74137709]
 # name:be: []
 msgid "МАГАЗИН"
+msgstr ""
 
 # Objects : [n1374735327]
 # name:be: []
 msgid "магазин "Верас""
+msgstr ""
 
 # Objects : [w102273407]
-# name:be: [крама "Усход"]
+# name:be: []
 msgid "магазин" Восток""
+msgstr ""
 
 # Objects : [w25321784]
 # name:be: []
 msgid "Магазин "Горячий хлеб""
+msgstr ""
 
 # Objects : [w111986640]
-# name:be: [Крама «Для Вас»]
+# name:be: []
 msgid "Магазин "Для Вас""
+msgstr ""
 
 # Objects : [n2165310878]
 # name:be: []
 msgid "Магазин "Журавинка""
+msgstr ""
 
 # Objects : [n2165309766]
 # name:be: []
 msgid "Магазин "Надежда""
+msgstr ""
 
 # Objects : [n663448374]
 # name:be: []
 msgid "Магазин "Ноев Ковчег""
+msgstr ""
 
 # Objects : [w84073004]
 # name:be: []
 msgid "Магазин "Прибужье""
+msgstr ""
 
 # Objects : [n2850478186]
 # name:be: []
 msgid "Магазин "Светлячок""
+msgstr ""
 
 # Objects : [n1934040623]
 # name:be: []
 msgid "Магазин "Третий континент""
+msgstr ""
 
 # Objects : [n1596051136]
 # name:be: []
 msgid "Магазин 8-23"
+msgstr ""
 
 # Objects : [n1345884663]
 # name:be: []
 msgid "Магазин Аметист"
+msgstr ""
 
 # Objects : [n306067140]
-# name:be: [Крама «Дыяніс»]
+# name:be: []
 msgid "Магазин Дионис"
+msgstr ""
 
 # Objects : [n622325993]
 # name:be: []
 msgid "Магазин Дружба-2"
+msgstr ""
 
 # Objects : [w48059873]
 # name:be: []
 msgid "Магазин Друть"
+msgstr ""
 
 # Objects : [w104500565]
 # name:be: []
 msgid "Магазин керамической плитки "Экскалибур""
+msgstr ""
 
 # Objects : [n442905565]
 # name:be: []
 msgid "Магазин продукты"
+msgstr ""
 
 # Objects : [n560720578]
 # name:be: []
 msgid "Магазин продукты (9-21)"
+msgstr ""
 
 # Objects : [w281027681]
 # name:be: []
 msgid "Магазин разливного пива "Барон""
+msgstr ""
 
 # Objects : [w146340545]
 # name:be: []
 msgid "Магазин Райпо"
+msgstr ""
 
 # Objects : [w242185857]
 # name:be: []
 msgid "Магазин Юнность"
+msgstr ""
 
 # Objects : [n489273376]
 # name:be: []
 msgid "Магазин № 36 УП Заводской РПТ"
+msgstr ""
 
 # Objects : [n622325992]
 # name:be: []
 msgid "Магазин №45 "Спектр""
+msgstr ""
 
 # Objects : [w98756485]
 # name:be: []
 msgid "Магазин №47"
+msgstr ""
 
 # Objects : [w225822471]
 # name:be: []
 msgid "Магазин № 52 УП Заводской РПТ"
-
-# Objects : [w121817569, w268852028]
-# name:be: []
-msgid "Мартин"
+msgstr ""
 
 # Objects : [n2358245070]
 # name:be: []
 msgid "Мастер"
+msgstr ""
 
 # Objects : [w61253349]
 # name:be: []
 msgid "Масюковщина"
+msgstr ""
 
 # Objects : [n2202942061]
 # name:be: []
 msgid "Мебель 12Д"
+msgstr ""
 
 # Objects : [n1180678137, n1936378859]
 # name:be: []
 msgid "Меридиан"
-
-# Objects : [w96982802]
-# name:be: []
-msgid "Мерком"
+msgstr ""
 
 # Objects : [n1082689970]
 # name:be: []
 msgid "Металлург"
+msgstr ""
 
 # Objects : [n1190751278]
-# name:be: [Мiкс]
+# name:be: []
 msgid "Микс"
+msgstr ""
 
 # Objects : [n2621139002, n2626913933, n3021759660]
 # name:be: []
 msgid "Мила"
-
-# Objects : [n2633370961]
-# name:be: []
-msgid "мини Евроопт"
+msgstr ""
 
 # Objects : [n2612912734]
 # name:be: []
 msgid "Минимаг"
+msgstr ""
 
 # Objects : [n825269106]
 # name:be: []
 msgid "Минский"
+msgstr ""
 
 # Objects : [n1645945570]
 # name:be: []
 msgid "Мир Игрушек"
+msgstr ""
 
 # Objects : [n484267759]
 # name:be: []
 msgid "Могилевский"
+msgstr ""
 
 # Objects : [w40196178]
 # name:be: []
 msgid "Могилевский, Бар "Добрые мысли""
+msgstr ""
 
 # Objects : [w53286500]
-# name:be: [Маскоўскі мінірынак]
+# name:be: []
 msgid "Московский минирынок"
+msgstr ""
 
 # Objects : [w203572759]
 # name:be: []
 msgid "Надежда"
+msgstr ""
 
 # Objects : [n291183937]
 # name:be: []
 msgid "Народный"
+msgstr ""
 
 # Objects : [n674417856]
 # name:be: []
 msgid "На Ростанях"
+msgstr ""
 
 # Objects : [n1359942129]
 # name:be: []
 msgid "На Уманской"
+msgstr ""
 
 # Objects : [n764885541]
-# name:be: [Наш магазін]
+# name:be: []
 msgid "Наш магазин"
+msgstr ""
 
 # Objects : [n280818947]
 # name:be: []
 msgid "Невель"
+msgstr ""
 
 # Objects : [n383737541]
 # name:be: []
 msgid "Немига-Фаворит"
+msgstr ""
 
 # Objects : [n997627626]
 # name:be: []
 msgid "Нива"
+msgstr ""
 
 # Objects : [w27899499]
-# name:be: [Ніка-2]
+# name:be: []
 msgid "Ника-2"
+msgstr ""
 
 # Objects : [w136171647]
 # name:be: []
 msgid "Новый континент"
+msgstr ""
 
 # Objects : [w244000634]
 # name:be: []
 msgid "Околица"
+msgstr ""
+
+# Objects : [w25318173]
+# name:be: []
+msgid "ОМА"
+msgstr ""
 
 # Objects : [w122781679]
-# name:be: [Асабина]
+# name:be: []
 msgid "Особино"
+msgstr ""
 
 # Objects : [n281694141]
 # name:be: []
 msgid "Особый"
+msgstr ""
 
 # Objects : [n1484650946]
 # name:be: []
 msgid "Охотский"
+msgstr ""
 
 # Objects : [n306067139]
-# name:be: [Паўлінка]
+# name:be: []
 msgid "Павлинка"
+msgstr ""
 
 # Objects : [n1395791057]
 # name:be: []
 msgid "Палас"
+msgstr ""
 
 # Objects : [n280815591]
 # name:be: []
 msgid "Палессе"
+msgstr ""
 
 # Objects : [w59350619]
 # name:be: []
 msgid "Папа Карло"
-
-# Objects : [n2334640819]
-# name:be: []
-msgid "Парничок 8"
+msgstr ""
 
 # Objects : [n1511640249]
 # name:be: []
 msgid "Парничок №6"
+msgstr ""
+
+# Objects : [n2334640819]
+# name:be: []
+msgid "Парничок №8"
+msgstr ""
 
 # Objects : [n281722586]
 # name:be: []
 msgid "Первомайский"
+msgstr ""
 
 # Objects : [n539236638]
 # name:be: []
 msgid "Перекрёсток"
+msgstr ""
 
 # Objects : [n1379433476]
 # name:be: []
 msgid "ПИВО"
+msgstr ""
 
 # Objects : [n2358245270]
 # name:be: []
 msgid "Пинскдрев"
+msgstr ""
 
 # Objects : [n2600539035]
 # name:be: []
 msgid "Пинскдревс"
+msgstr ""
 
 # Objects : [n997627253]
 # name:be: []
 msgid "Полевой"
-
-# Objects : [n1214548610]
-# name:be: []
-msgid "Полтинник"
+msgstr ""
 
 # Objects : [n306065002]
 # name:be: []
 msgid "Престон маркет"
+msgstr ""
 
 # Objects : [n1434231915]
 # name:be: []
 msgid "Приозёрный"
+msgstr ""
 
 # Objects : [n305685538]
 # name:be: []
 msgid "Продвильнюс"
+msgstr ""
 
 # Objects : [w109586734]
 # name:be: []
 msgid "Продмир"
+msgstr ""
 
 # Objects : [n2106317975]
 # name:be: []
 msgid "Прод сервис"
+msgstr ""
 
 # Objects : [n306068582]
 # name:be: []
 msgid "Продтовары 2"
+msgstr ""
 
 # Objects : [n306063944]
 # name:be: []
 msgid "Продтовары №7"
+msgstr ""
 
 # Objects : [n2628400628]
 # name:be: []
 msgid "продуктовый"
+msgstr ""
 
 # Objects : [n3084880398]
 # name:be: []
 msgid "Продуктовый магазин (8-22)"
+msgstr ""
 
 # Objects : [n1180671161, n825059179]
 # name:be: []
 msgid "продукты"
+msgstr ""
 
 # Objects : [n1393662059, n1484650947, n1768372133, n1784415975, n534852873, n538420597, w69585629, w96794247]
-# name:be: [Прадукты]
-msgid "Продукты"
-
-# Objects : [w37771813, w42049946]
 # name:be: []
-msgid "Радзивилловский"
+msgid "Продукты"
+msgstr ""
 
-# Objects : [n1426982424]
+# Objects : [n1426982424, w37771813, w42049946]
 # name:be: []
 msgid "Радзивиловский"
+msgstr ""
 
 # Objects : [n1827187828, n2624621643, w216659172]
 # name:be: []
 msgid "Радуга"
+msgstr ""
 
 # Objects : [w128352043]
 # name:be: []
 msgid "Радуга Гурман"
+msgstr ""
 
 # Objects : [n2445997417]
 # name:be: []
 msgid "РАЙПО"
+msgstr ""
+
+# Objects : [w96982802]
+# name:be: []
+msgid "Раница"
+msgstr ""
 
 # Objects : [n1214542352]
-# name:be: [Свiтанак]
+# name:be: []
 msgid "Рассвет"
+msgstr ""
 
-# Objects : [n1861664584, n2276603070, n2612929733, n2957114379, n455936310, n824279891, n935016399, w135157370, w207713638]
+# Objects : [n1861664584, n2276603070, n2612929733, n2957114379, n455936310, n824279891, n935016399, w135157370, w207713638, w306662811]
 # name:be: []
 msgid "Родная сторона"
+msgstr ""
 
 # Objects : [n1212374879, n2969422408, w169412969, w173253333, w27903459, w283794850, w78336960]
-# name:be: [Родны Кут]
+# name:be: []
 msgid "Родная Сторона"
+msgstr ""
 
 # Objects : [n255275768]
-# name:be: [Юбілейны 92; Родны Кут]
+# name:be: []
 msgid "Родная Сторона плюс; Юбилейный 92"
+msgstr ""
 
-# Objects : [w102269527, w240268131, w279544094]
+# Objects : [n3124419534]
+# name:be: []
+msgid "Родный кут"
+msgstr ""
+
+# Objects : [w102269527, w121714041, w178065365, w233211077, w234106058, w238698526, w240268131, w279544094]
 # name:be: []
 msgid "Родны кут"
+msgstr ""
 
-# Objects : [w121714041, w178065365, w233211077, w234106058, w238698526]
+# Objects : [n1108781538, n259453527, n2683930613, n277341185, n278461331, n281598063, n281725771, n2831422862, n486435860, n621359338, n945658152, w25313518, w35819764]
 # name:be: []
-msgid "Родны Кут"
-
-# Objects : [n259453527, n2683930613, n277341185, n281598063, n281725771, n2831422862, n621359338, n945658152, w35819764]
-# name:be: [Рублёўскі]
-msgid "Рублевский"
-
-# Objects : [n1108781538, n278461331, n486435860, w25313518]
-# name:be: [Рублёуски]
 msgid "Рублёвский"
+msgstr ""
 
 # Objects : [n306068358]
 # name:be: []
-msgid "Рублевский №1"
+msgid "Рублёвский №1"
+msgstr ""
+
+# Objects : [n916574936]
+# name:be: []
+msgid "Рублёвский №126"
+msgstr ""
 
 # Objects : [w40850705]
 # name:be: []
-msgid "Рублевский №16"
+msgid "Рублёвский №16"
+msgstr ""
 
 # Objects : [n306065994]
 # name:be: []
-msgid "Рублёвский № 2"
+msgid "Рублёвский №2"
+msgstr ""
 
 # Objects : [n306065633]
 # name:be: []
-msgid "Рублевский №3"
+msgid "Рублёвский №3"
+msgstr ""
 
 # Objects : [n306065308]
 # name:be: []
-msgid "Рублевский №9"
+msgid "Рублёвский №9"
+msgstr ""
 
 # Objects : [n1184196450]
-# name:be: [Рублёўскі №95]
-msgid "Рублевский №95"
+# name:be: []
+msgid "Рублёвский №95"
+msgstr ""
 
 # Objects : [n668064188]
 # name:be: []
 msgid "Рыбокомплекс"
+msgstr ""
 
 # Objects : [n1051459778]
 # name:be: []
 msgid "рынок"
+msgstr ""
 
 # Objects : [n2102394732, n742218570]
-# name:be: [Рынак]
+# name:be: []
 msgid "Рынок"
+msgstr ""
 
 # Objects : [w241499832]
 # name:be: []
 msgid "Савушка"
+msgstr ""
 
 # Objects : [w53883971]
 # name:be: []
 msgid "Санта-29"
+msgstr ""
+
+# Objects : [w94696281]
+# name:be: []
+msgid "Санта Бремор"
+msgstr ""
 
 # Objects : [w206361679]
 # name:be: []
 msgid "Свежый ХЛЕБ"
+msgstr ""
 
 # Objects : [n1434856076]
 # name:be: []
 msgid "Светлячок"
+msgstr ""
 
 # Objects : [n1366542396, n280815557]
-# name:be: [Свіслач]
+# name:be: []
 msgid "Свислочь"
+msgstr ""
 
 # Objects : [n1442875068, n1758591949]
 # name:be: []
 msgid "Северный"
+msgstr ""
 
 # Objects : [n501803184]
 # name:be: []
 msgid "Сельпо"
+msgstr ""
 
 # Objects : [n593622488]
-# name:be: [Сялянскія прысмакі]
+# name:be: []
 msgid "Сельские лакомства"
+msgstr ""
 
 # Objects : [n904360910]
 # name:be: []
 msgid "Серпантина"
+msgstr ""
 
 # Objects : [n2085948573]
 # name:be: []
 msgid "Силуэт"
+msgstr ""
 
 # Objects : [n997647030]
 # name:be: []
 msgid "Сити центр Елена"
+msgstr ""
 
 # Objects : [w157228897, w157515540]
 # name:be: []
 msgid "Славянский"
+msgstr ""
 
 # Objects : [n674421433]
 # name:be: []
 msgid "Смак"
+msgstr ""
 
 # Objects : [n1947294711]
 # name:be: []
 msgid "СООО «Стецкевич-спецодежда»"
+msgstr ""
 
 # Objects : [n1104031030, n1455199183, n2061282930, n2334640820, n2349847816, n2443066015, n2600532467, n280810964, n2813175648, n306063537, n306065045, n306065441, n306065588, n306068787, n595700140, n595701039, n822240747, w236006144]
-# name:be: [Суседзі]
+# name:be: []
 msgid "Соседи"
+msgstr ""
 
 # Objects : [w273717441]
 # name:be: []
 msgid "Соседи (8-23)"
+msgstr ""
 
 # Objects : [n1823046667]
 # name:be: []
 msgid "Спутник"
+msgstr ""
 
 # Objects : [n1343518048]
 # name:be: []
 msgid "Старый универмаг"
+msgstr ""
 
 # Objects : [n2191457371]
 # name:be: []
 msgid "Стольный"
+msgstr ""
 
-# Objects : [w25318173]
+# Objects : [w306034328]
 # name:be: []
-msgid "Строительный дом ОМА"
+msgid "Строительный супермаркет ОМА"
+msgstr ""
 
 # Objects : [n2625736042]
 # name:be: []
 msgid "стройматериалы"
+msgstr ""
 
 # Objects : [n1124662880]
 # name:be: []
 msgid "Стройматериалы и инструменты"
+msgstr ""
 
 # Objects : [w156359219]
 # name:be: []
 msgid "Ступеньки"
+msgstr ""
 
 # Objects : [n2191457373]
 # name:be: []
 msgid "Сузорье"
+msgstr ""
 
 # Objects : [n2358244613]
 # name:be: []
 msgid "Сундучок"
+msgstr ""
 
 # Objects : [n2160714568]
 # name:be: []
 msgid "Супермаркет"
+msgstr ""
 
 # Objects : [n306068115]
-# name:be: [Супермаркет 'Клёнкаўскі']
+# name:be: []
 msgid "Супермаркет 'Кленковский'"
+msgstr ""
 
 # Objects : [w159309188]
 # name:be: []
 msgid "Супермаркет "Бережье""
+msgstr ""
 
 # Objects : [n277489807]
 # name:be: []
 msgid "Супермаркет "Вестер""
+msgstr ""
 
 # Objects : [w82910790]
 # name:be: []
 msgid "Супермаркет "Гиппо""
+msgstr ""
 
 # Objects : [n2493019789]
-# name:be: [супермаркет "Еураопт"]
+# name:be: []
 msgid "супермаркет "Евроопт""
+msgstr ""
 
 # Objects : [w159333627]
 # name:be: []
 msgid "Супермаркет "Евроопт""
+msgstr ""
 
 # Objects : [w159309067]
 # name:be: []
 msgid "Супермаркет "Родны кут"""
+msgstr ""
 
 # Objects : [w52025911]
-# name:be: [Супермаркет "Рублёўскі"]
+# name:be: []
 msgid "Супермаркет "Рублёвский""
+msgstr ""
 
 # Objects : [n1216543346]
 # name:be: []
 msgid "Суперпрод"
+msgstr ""
 
 # Objects : [n255418944]
-# name:be: [Сухараўскі]
+# name:be: []
 msgid "Сухаревский"
+msgstr ""
 
 # Objects : [n476656375]
 # name:be: []
 msgid "СэкондХенд"
+msgstr ""
 
 # Objects : [n3085933511]
 # name:be: []
 msgid "Сякерыцкая крама"
+msgstr ""
 
 # Objects : [w74355324]
 # name:be: []
 msgid "Тарговы цэнтр"
+msgstr ""
 
 # Objects : [n2526974682]
 # name:be: []
 msgid "Татьяна"
+msgstr ""
 
 # Objects : [n1213515788]
 # name:be: []
 msgid "ТД Ландыш"
+msgstr ""
 
 # Objects : [n496989947]
 # name:be: []
 msgid "ТД Некрасовский"
+msgstr ""
 
 # Objects : [n978647745]
 # name:be: []
 msgid "Техносервис плюс"
+msgstr ""
 
 # Objects : [w190045833]
-# name:be: [Топ]
+# name:be: []
 msgid "Топ"
+msgstr ""
 
 # Objects : [n825008153]
-# name:be: [Гандлёвы дом "Нёман"]
+# name:be: []
 msgid "Торговый дом "Неман""
+msgstr ""
 
 # Objects : [w158333796]
 # name:be: []
 msgid "Торговый дом "Энергетик""
+msgstr ""
 
 # Objects : [w158305136]
 # name:be: []
 msgid "Торговый павильон "Даяна""
+msgstr ""
 
 # Objects : [w169571122]
-# name:be: [Гандлёвы рад]
+# name:be: []
 msgid "Торговый ряд"
+msgstr ""
 
 # Objects : [n1942692558]
 # name:be: []
 msgid "Торговый центр"
+msgstr ""
 
 # Objects : [n306066273]
-# name:be: [Гандлёвы цэнтр]
+# name:be: []
 msgid "Торговый Центр"
+msgstr ""
 
 # Objects : [w99025314]
 # name:be: []
 msgid "Торговый Центр "БелМаркет""
+msgstr ""
 
 # Objects : [w105609592]
 # name:be: []
 msgid "Торговый центр "Веста""
+msgstr ""
 
 # Objects : [w75284962]
-# name:be: [Гандлёвы цэнтр «Карона»]
+# name:be: []
 msgid "Торговый центр "Корона""
+msgstr ""
 
 # Objects : [n1774676581]
 # name:be: []
 msgid "Торговый центр "Фламинго""
-
-# Objects : [n2264403418]
-# name:be: []
-msgid "Торговый центр All"
+msgstr ""
 
 # Objects : [w98014516]
 # name:be: []
 msgid "Торговый центр Арт"
+msgstr ""
 
 # Objects : [n805168030]
 # name:be: []
 msgid "Тоскана"
+msgstr ""
 
 # Objects : [n833378378]
 # name:be: []
 msgid "Тракторозаводской универсам"
+msgstr ""
 
 # Objects : [w183043059]
 # name:be: []
 msgid "Третий континент"
+msgstr ""
 
 # Objects : [n1695892969]
 # name:be: []
 msgid "Три О"
+msgstr ""
 
 # Objects : [n2162918749]
 # name:be: []
 msgid "Тройка"
+msgstr ""
 
 # Objects : [n2111015041]
 # name:be: []
 msgid "Трофей"
+msgstr ""
 
 # Objects : [w58697472]
 # name:be: []
 msgid "ТРЦ «Мега»"
-
-# Objects : [n1212997919]
-# name:be: []
-msgid "ТЦ 'БЕЛМАРКЕТ'"
+msgstr ""
 
 # Objects : [w226118322]
 # name:be: []
 msgid "ТЦ "Бонус""
+msgstr ""
 
 # Objects : [n538049762]
 # name:be: []
 msgid "ТЦ "Вестор""
+msgstr ""
 
 # Objects : [w159309190]
-# name:be: [ТЦ "Віталіч"]
+# name:be: []
 msgid "ТЦ "Віталіч""
+msgstr ""
 
 # Objects : [w155587445]
 # name:be: []
 msgid "ТЦ "Замок""
+msgstr ""
 
 # Objects : [w226718973]
 # name:be: []
 msgid "ТЦ "Квадро""
+msgstr ""
 
 # Objects : [w197877855]
 # name:be: []
 msgid "ТЦ "КОРОНА""
+msgstr ""
 
 # Objects : [n941778467]
 # name:be: []
 msgid "ТЦ "Логойский Пассаж""
+msgstr ""
 
 # Objects : [w60973653]
 # name:be: []
 msgid "ТЦ "Потсдам""
+msgstr ""
 
 # Objects : [w26444873]
 # name:be: []
 msgid "ТЦ «Кирмаш»"
+msgstr ""
 
 # Objects : [w164758279]
 # name:be: []
 msgid "ТЦ «Ника»"
+msgstr ""
 
 # Objects : [w53216698]
 # name:be: []
 msgid "ТЦ «Титан»"
+msgstr ""
 
 # Objects : [w49269540]
 # name:be: []
 msgid "ТЦ Галерея"
+msgstr ""
 
 # Objects : [w231335098]
 # name:be: []
 msgid "ТЦ Караван"
+msgstr ""
 
 # Objects : [w167293137]
 # name:be: []
 msgid "ТЦ Монолит"
+msgstr ""
 
 # Objects : [n2186949475]
 # name:be: []
 msgid "ТЦ Престиж"
+msgstr ""
 
 # Objects : [n1022324795]
-# name:be: [Тройка]
+# name:be: []
 msgid "ТЦ Тройка"
+msgstr ""
 
 # Objects : [w159989543]
 # name:be: []
 msgid "Удобный"
+msgstr ""
 
 # Objects : [n972628290]
 # name:be: []
 msgid "универмаг"
+msgstr ""
 
 # Objects : [n1131337894, n1146902167, n1366735750, n1527447634, n2035302031, n2186963484, n2370206673, n621163457, n663173000, n899404110, w101926396, w102696404, w35805654]
-# name:be: [Універмаг]
+# name:be: []
 msgid "Универмаг"
+msgstr ""
 
 # Objects : [n612432761]
 # name:be: []
 msgid "УНИВЕРМАГ"
+msgstr ""
 
 # Objects : [w97972791]
 # name:be: []
 msgid "универмаг Партнер"
+msgstr ""
 
 # Objects : [n1024778873]
 # name:be: []
 msgid "Универсальная База ЧТУП Гомельского Облпотребсоюза"
+msgstr ""
 
 # Objects : [w152324256]
 # name:be: []
 msgid "универсам"
+msgstr ""
 
 # Objects : [n1337461396, n2317884616, n997635614, w66846890]
-# name:be: [універсам]
+# name:be: []
 msgid "Универсам"
+msgstr ""
 
 # Objects : [w53022507]
 # name:be: []
 msgid "Универсам "Зелёный клён""
+msgstr ""
 
 # Objects : [w69220106]
 # name:be: []
 msgid "Универсам "Кунцевщина""
+msgstr ""
 
 # Objects : [w184583232]
 # name:be: []
 msgid "Универсам "Петровский""
-
-# Objects : [n1326072616]
-# name:be: []
-msgid "Универсам  "Родная сторона""
+msgstr ""
 
 # Objects : [n2165322950]
-# name:be: [Універсам "Родны кут"]
+# name:be: []
 msgid "Универсам "Родны кут""
+msgstr ""
 
 # Objects : [n2102394731]
 # name:be: []
 msgid "Универсам "Родны Кут""
+msgstr ""
 
 # Objects : [n795714449]
-# name:be: [Універсам "Сельмашаўскі"]
+# name:be: []
 msgid "Универсам "Сельмашевский""
+msgstr ""
 
 # Objects : [n941792046]
-# name:be: [Універсам «Замкавы»]
+# name:be: []
 msgid "Универсам «Замкавы»"
-
-# Objects : [n916574936]
-# name:be: [Універсам «Рублёўскі» №126]
-msgid "Универсам «Рублёвский» №126"
+msgstr ""
 
 # Objects : [n1484610853]
 # name:be: []
 msgid "Универсам Байкальский"
+msgstr ""
 
 # Objects : [n1086684526]
 # name:be: []
 msgid "Универсам Вилия"
+msgstr ""
 
 # Objects : [w98021259]
 # name:be: []
 msgid "универсам Западный"
+msgstr ""
 
 # Objects : [n2120517843]
-# name:be: [Універсам на АЗС]
+# name:be: []
 msgid "Универсам на АЗС"
+msgstr ""
 
 # Objects : [n795806003]
 # name:be: []
 msgid "универсам Облторгсоюза"
+msgstr ""
 
 # Objects : [n794364316]
-# name:be: [універсам Паўночны]
+# name:be: []
 msgid "универсам Северный"
+msgstr ""
 
 # Objects : [r3734174]
 # name:be: []
 msgid "Универсам центральный"
+msgstr ""
 
 # Objects : [n306064500]
 # name:be: []
 msgid "Универсам Центральный"
+msgstr ""
 
 # Objects : [n2572864856]
 # name:be: []
 msgid "Универсам №2"
+msgstr ""
 
 # Objects : [n1213526911]
 # name:be: []
 msgid "Фабрика здоровья"
+msgstr ""
 
 # Objects : [w277252482]
 # name:be: []
 msgid "Фирюза"
+msgstr ""
 
 # Objects : [n2626788136]
 # name:be: []
 msgid "Франикс"
+msgstr ""
 
 # Objects : [n2531446916]
 # name:be: []
 msgid "Хозмагазин"
+msgstr ""
 
 # Objects : [n2167310161]
 # name:be: []
 msgid "Хозтовары"
+msgstr ""
 
 # Objects : [n1131333594]
 # name:be: []
 msgid "Хозяйственный магазин"
+msgstr ""
 
 # Objects : [n893464711]
-# name:be: [Цэнтр]
+# name:be: []
 msgid "Центр"
+msgstr ""
 
 # Objects : [n1992414084, n281570487, n764917238, w159821567, w53039876]
-# name:be: [Цэнтральная, Цэнтральны]
+# name:be: []
 msgid "Центральный"
+msgstr ""
 
 # Objects : [n1311559725]
 # name:be: []
 msgid "Центральный м-н"
+msgstr ""
 
 # Objects : [n452534426]
 # name:be: []
 msgid "Центральный рынок"
+msgstr ""
 
 # Objects : [w156439577]
-# name:be: [Цэнтрум]
+# name:be: []
 msgid "Центрум"
+msgstr ""
 
 # Objects : [w60705252]
-# name:be: [Цэнтральная Ўнівэрсальная крама]
-msgid "Цум"
+# name:be: []
+msgid "ЦУМ"
+msgstr ""
 
 # Objects : [n2609094729]
 # name:be: []
 msgid "Черниговский"
+msgstr ""
 
 # Objects : [n317949431]
 # name:be: []
 msgid "Чкаловский"
+msgstr ""
 
 # Objects : [n2535219898]
 # name:be: []
 msgid "Шалом"
+msgstr ""
 
 # Objects : [w211268657]
 # name:be: []
 msgid "Шамовский"
+msgstr ""
 
 # Objects : [w211261824]
 # name:be: []
 msgid "ШАНС"
+msgstr ""
 
 # Objects : [n1124686021]
 # name:be: []
 msgid "Школьник"
+msgstr ""
 
 # Objects : [n280817908]
 # name:be: []
 msgid "Щетовка"
+msgstr ""
 
 # Objects : [n1437724534]
 # name:be: []
 msgid "Эдэм"
-
-# Objects : [w41098880]
-# name:be: [Эканом]
-msgid "Эконом"
+msgstr ""
 
 # Objects : [n912542713]
 # name:be: []
 msgid "ЭкономМаг"
+msgstr ""
 
 # Objects : [n1293166496]
 # name:be: []
 msgid "ЭкономМаркет"
+msgstr ""
 
 # Objects : [n1282245340]
 # name:be: []
 msgid "ЭкономЪ"
+msgstr ""
 
 # Objects : [n1146899123, n1537031299]
-# name:be: [Юбілейны]
+# name:be: []
 msgid "Юбилейный"
+msgstr ""
 
 # Objects : [n470072293]
 # name:be: []
 msgid "№58"
+msgstr ""
 

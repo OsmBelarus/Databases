@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
+  <body>
+    <tu>
+      <tuv lang="RU"><seg>104-й микрорайон</seg></tuv>
+      <tuv lang="BE"><seg>104-ы мікрараён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>15-й микрорайон</seg></tuv>
+      <tuv lang="BE"><seg>15-ы мікрараён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>18-й микрорайон</seg></tuv>
+      <tuv lang="BE"><seg>18-ы мікрараён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>19-й микрорайон</seg></tuv>
+      <tuv lang="BE"><seg>19-ы мікрараён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>20-й микрорайон</seg></tuv>
+      <tuv lang="BE"><seg>20-ы мікрараён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>21-й микрорайон</seg></tuv>
+      <tuv lang="BE"><seg>21-ы мікрараён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ангарская</seg></tuv>
+      <tuv lang="BE"><seg>Ангарская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Бобры</seg></tuv>
+      <tuv lang="BE"><seg>Бабры</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Брилевичи</seg></tuv>
+      <tuv lang="BE"><seg>Брылевічы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Великий лес</seg></tuv>
+      <tuv lang="BE"><seg>Вялікі лес</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Верхний город</seg></tuv>
+      <tuv lang="BE"><seg>Верхні горад</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Веснянка</seg></tuv>
+      <tuv lang="BE"><seg>Вяснянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вишневка</seg></tuv>
+      <tuv lang="BE"><seg>Вішнеўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Грушевка</seg></tuv>
+      <tuv lang="BE"><seg>Грушаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Давыдовка</seg></tuv>
+      <tuv lang="BE"><seg>Давыдаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Домбровка</seg></tuv>
+      <tuv lang="BE"><seg>Дамброўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дражня</seg></tuv>
+      <tuv lang="BE"><seg>Дражня</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>ДСК</seg></tuv>
+      <tuv lang="BE"><seg>ДБК</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Запад</seg></tuv>
+      <tuv lang="BE"><seg>Захад</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зелёный Городок</seg></tuv>
+      <tuv lang="BE"><seg>Зялёны Гарадок</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зеленый луг</seg></tuv>
+      <tuv lang="BE"><seg>Зялёны луг</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ипуть</seg></tuv>
+      <tuv lang="BE"><seg>Іпуць</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Казимировка</seg></tuv>
+      <tuv lang="BE"><seg>Казіміроўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Каменная Горка</seg></tuv>
+      <tuv lang="BE"><seg>Каменная Горка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Клины</seg></tuv>
+      <tuv lang="BE"><seg>Кліны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ковалева Лоза</seg></tuv>
+      <tuv lang="BE"><seg>Кавалёва Лаза</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Колос</seg></tuv>
+      <tuv lang="BE"><seg>Колас</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Комсомольский район</seg></tuv>
+      <tuv lang="BE"><seg>Камсамольскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Красный Бор</seg></tuv>
+      <tuv lang="BE"><seg>Чырвоны Бор</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кунцевщина</seg></tuv>
+      <tuv lang="BE"><seg>Кунцаўшчына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лесной район</seg></tuv>
+      <tuv lang="BE"><seg>Лясны раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лестранхоз</seg></tuv>
+      <tuv lang="BE"><seg>Лястрансгас</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лошица</seg></tuv>
+      <tuv lang="BE"><seg>Лошыца</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мазурино</seg></tuv>
+      <tuv lang="BE"><seg>Мазурына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Малиновка</seg></tuv>
+      <tuv lang="BE"><seg>Малінаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мариненко</seg></tuv>
+      <tuv lang="BE"><seg>Марыненка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Марковщина</seg></tuv>
+      <tuv lang="BE"><seg>Маркаўшчына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Медвежино</seg></tuv>
+      <tuv lang="BE"><seg>Мядзведжына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мельников Луг</seg></tuv>
+      <tuv lang="BE"><seg>Мельнікаў Луг</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон 20А</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён 20А</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Билево</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Білева</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Билево-1</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Білева-1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Билево-2</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Білева-2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Билево-3</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Білева-3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Бителёво</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Біцялёва</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Бороники</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Баронікі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Васьковичи</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Васькавічы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Васюты</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Васюты</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Восток</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Усход</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Журжево</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Журжава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Лучёса</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Лучоса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Медцентр</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Медцэнтр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Мишково</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Мішкава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Орехово</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Арэхава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Себяхи</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Себяхі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Тарный</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Тарны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Тирасполь</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Ціраспаль</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Тулово-1</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Тулава-1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Улановичи</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Уланавічы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Фрунзе</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Фрунзэ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Химы-1</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Хімы-1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Химы-2</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Хімы-2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Шпили</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Шпілі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Юг-1</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Поўдзень-1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Юг-2</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Поўдзень-2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Юг-3</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Поўдзень-3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Юг-4</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Поўдзень-4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Юг-5</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Поўдзень-5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Юг-6</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Поўдзень-6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Юг-7</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Поўдзень-7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>микрорайон Юг-7А</seg></tuv>
+      <tuv lang="BE"><seg>мікрараён Поўдзень-7А</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Микрорайон №17</seg></tuv>
+      <tuv lang="BE"><seg>Мікрараён №17</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мир</seg></tuv>
+      <tuv lang="BE"><seg>Мір</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Михайловка</seg></tuv>
+      <tuv lang="BE"><seg>Міхайлаўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Михалово</seg></tuv>
+      <tuv lang="BE"><seg>Міхалова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мицары</seg></tuv>
+      <tuv lang="BE"><seg>Міцары</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Молодежный район</seg></tuv>
+      <tuv lang="BE"><seg>Маладзёжны раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мощёнка</seg></tuv>
+      <tuv lang="BE"><seg>Машчонка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Набережный район</seg></tuv>
+      <tuv lang="BE"><seg>Набярэжны раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Никрополье</seg></tuv>
+      <tuv lang="BE"><seg>Нікраполле</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новая Мильча</seg></tuv>
+      <tuv lang="BE"><seg>Новая Мільча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новинки</seg></tuv>
+      <tuv lang="BE"><seg>Навінкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Новые Задворцы</seg></tuv>
+      <tuv lang="BE"><seg>Новыя Задворцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Октябрьский район</seg></tuv>
+      <tuv lang="BE"><seg>Кастрычніцкі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Парковый район</seg></tuv>
+      <tuv lang="BE"><seg>Паркавы раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Песковатик</seg></tuv>
+      <tuv lang="BE"><seg>Пескавацік</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Петровщина</seg></tuv>
+      <tuv lang="BE"><seg>Пятроўшчына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Плянты</seg></tuv>
+      <tuv lang="BE"><seg>Плянты</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Покровка</seg></tuv>
+      <tuv lang="BE"><seg>Пакроўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Птушкофабрика</seg></tuv>
+      <tuv lang="BE"><seg>Птушкафабрыка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Раковское предместье</seg></tuv>
+      <tuv lang="BE"><seg>Ракаўскае прадмесце</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ржавец</seg></tuv>
+      <tuv lang="BE"><seg>Ржавец</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Романовичи</seg></tuv>
+      <tuv lang="BE"><seg>Раманавічы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Садовка</seg></tuv>
+      <tuv lang="BE"><seg>Садоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Северный посёлок</seg></tuv>
+      <tuv lang="BE"><seg>Паўночны пасёлак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Северный район</seg></tuv>
+      <tuv lang="BE"><seg>Паўночны раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Селивовщина</seg></tuv>
+      <tuv lang="BE"><seg>Селівоўшчына</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Серебрянка</seg></tuv>
+      <tuv lang="BE"><seg>Серабранка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сокол</seg></tuv>
+      <tuv lang="BE"><seg>Сокал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Соколовка</seg></tuv>
+      <tuv lang="BE"><seg>Сакалоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Солнечный</seg></tuv>
+      <tuv lang="BE"><seg>Сонечны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сосны</seg></tuv>
+      <tuv lang="BE"><seg>Сосны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Старые Задворцы</seg></tuv>
+      <tuv lang="BE"><seg>Старыя Задворцы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Степянка</seg></tuv>
+      <tuv lang="BE"><seg>Сцяпянка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сухарево</seg></tuv>
+      <tuv lang="BE"><seg>Сухарава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Троицкое предместье</seg></tuv>
+      <tuv lang="BE"><seg>Траецкае прадмесце</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тулово-2</seg></tuv>
+      <tuv lang="BE"><seg>Тулава-2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Уручье</seg></tuv>
+      <tuv lang="BE"><seg>Уручча</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фруктовый</seg></tuv>
+      <tuv lang="BE"><seg>Фруктовы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Центральный район</seg></tuv>
+      <tuv lang="BE"><seg>Цэнтральны раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чепино</seg></tuv>
+      <tuv lang="BE"><seg>Чэпіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чижовка</seg></tuv>
+      <tuv lang="BE"><seg>Чыжоўка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шахтерский район</seg></tuv>
+      <tuv lang="BE"><seg>Шахцёрскі раён</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юбилейный</seg></tuv>
+      <tuv lang="BE"><seg>Юбілейны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Юго-Запад</seg></tuv>
+      <tuv lang="BE"><seg>Паўднёвы Захад</seg></tuv>
+    </tu>
+  </body></tmx>
