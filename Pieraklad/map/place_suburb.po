@@ -568,11 +568,6 @@ msgstr ""
 msgid "Михалово"
 msgstr ""
 
-# Objects : [n2254105967]
-# name:be: []
-msgid "Мицары"
-msgstr ""
-
 # Objects : [n3105818023]
 # name:be: []
 msgid "Молодежный район"
