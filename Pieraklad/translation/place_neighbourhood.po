@@ -211,7 +211,7 @@ msgstr "Каложа"
 # Objects : [w204209942]
 # name:be: []
 msgid "Комсомольский"
-msgstr ""
+msgstr "Камсамольскі"
 
 # Objects : [n320409480]
 # name:be: []
@@ -261,7 +261,7 @@ msgstr "мікрараён Юбілейны"
 # Objects : [w243125327]
 # name:be: []
 msgid "Молодежный Микрорайон"
-msgstr ""
+msgstr "Маладзёжны мікрараён"
 
 # Objects : [n320409904]
 # name:be: []
