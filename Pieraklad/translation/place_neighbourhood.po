@@ -1,0 +1,400 @@
+# Objects : [n2356042815]
+# name:be: []
+msgid "16-й Микрорайон"
+msgstr ""
+
+# Objects : [n2356042817]
+# name:be: []
+msgid "18-й Микрорайон"
+msgstr ""
+
+# Objects : [n2356046053]
+# name:be: []
+msgid "19-й Микрорайон"
+msgstr ""
+
+# Objects : [n2356042814]
+# name:be: []
+msgid "1-й Микрорайон"
+msgstr ""
+
+# Objects : [n2356042818]
+# name:be: []
+msgid "20-й Микрорайон"
+msgstr ""
+
+# Objects : [n2356042819]
+# name:be: []
+msgid "2-й Микрорайон"
+msgstr ""
+
+# Objects : [n2356042820]
+# name:be: []
+msgid "3-й Микрорайон"
+msgstr ""
+
+# Objects : [n320409723]
+# name:be: []
+msgid "Аульс"
+msgstr "Аульс"
+
+# Objects : [n320409739]
+# name:be: []
+msgid "Барановичи"
+msgstr "Баранавічы"
+
+# Objects : [w279198631]
+# name:be: []
+msgid "Брилевичи-2"
+msgstr "Брылевічы-2"
+
+# Objects : [w279198801]
+# name:be: []
+msgid "Брилевичи-3"
+msgstr "Брылевічы-3"
+
+# Objects : [n1966825241]
+# name:be: []
+msgid "Вишневец"
+msgstr "Вішнявец"
+
+# Objects : [n428964269]
+# name:be: []
+msgid "Вишневец-1"
+msgstr "Вішнявец-1"
+
+# Objects : [n1716296342]
+# name:be: []
+msgid "Вишневец-2"
+msgstr "Вішнявец-2"
+
+# Objects : [n1716282153]
+# name:be: []
+msgid "Вишневец-3"
+msgstr "Вішнявец-3"
+
+# Objects : [n1716296346]
+# name:be: []
+msgid "Вишневец-4"
+msgstr "Вішнявец-4"
+
+# Objects : [n1716296315]
+# name:be: []
+msgid "Вишневец-5"
+msgstr "Вішнявец-5"
+
+# Objects : [n1716279932]
+# name:be: []
+msgid "Вишневец-6"
+msgstr "Вішнявец-6"
+
+# Objects : [n320409693]
+# name:be: []
+msgid "Головичи"
+msgstr "Галавічы"
+
+# Objects : [n2222555431]
+# name:be: []
+msgid "Грандичи"
+msgstr "Грандзічы"
+
+# Objects : [n2776756699]
+# name:be: []
+msgid "Девятовка"
+msgstr "Дзевятоўка"
+
+# Objects : [n320409437]
+# name:be: []
+msgid "Девятовка–1"
+msgstr "Дзевятоўка–1"
+
+# Objects : [n1716240034]
+# name:be: []
+msgid "Девятовка–2"
+msgstr "Дзевятоўка–2"
+
+# Objects : [n1716241009]
+# name:be: []
+msgid "Девятовка–3"
+msgstr "Дзевятоўка–3"
+
+# Objects : [n1416883387]
+# name:be: []
+msgid "Девятовка–4"
+msgstr "Дзевятоўка–4"
+
+# Objects : [n1716225499]
+# name:be: []
+msgid "Девятовка–5"
+msgstr "Дзевятоўка–5"
+
+# Objects : [n1716226650]
+# name:be: []
+msgid "Девятовка-6"
+msgstr "Дзевятоўка-6"
+
+# Objects : [n1716227357]
+# name:be: []
+msgid "Девятовка–7"
+msgstr "Дзевятоўка–7"
+
+# Objects : [n1894586459]
+# name:be: []
+msgid "Девятовка–9"
+msgstr "Дзевятоўка–9"
+
+# Objects : [w240941256]
+# name:be: []
+msgid "Дружба пос."
+msgstr ""
+
+# Objects : [n629605550]
+# name:be: []
+msgid "Дуброва"
+msgstr "Дуброва"
+
+# Objects : [n629605534]
+# name:be: []
+msgid "Заболоть"
+msgstr "Забалаць"
+
+# Objects : [n3081237013]
+# name:be: []
+msgid "Задвинье"
+msgstr "Задзвiнне"
+
+# Objects : [n428964267]
+# name:be: []
+msgid "Зарица"
+msgstr "Зарыца"
+
+# Objects : [n1884199896]
+# name:be: []
+msgid "Зарица-2"
+msgstr "Зарыца-2"
+
+# Objects : [n1884197206]
+# name:be: []
+msgid "Зарица-3"
+msgstr "Зарыца-3"
+
+# Objects : [n1882400129]
+# name:be: []
+msgid "Зарица-4"
+msgstr "Зарыца-4"
+
+# Objects : [n1496515101]
+# name:be: []
+msgid "Зарица-5"
+msgstr "Зарыца-5"
+
+# Objects : [n2626772632, w256082508]
+# name:be: []
+msgid "Зелёный Луг-7"
+msgstr "Зялёны Луг-7"
+
+# Objects : [n3069809881]
+# name:be: []
+msgid "Исторический центр города"
+msgstr "Гiстарычны цэнтр горада"
+
+# Objects : [n559633692]
+# name:be: []
+msgid "Колбасино"
+msgstr "Калбасіно"
+
+# Objects : [n428964265]
+# name:be: []
+msgid "Коложа"
+msgstr "Каложа"
+
+# Objects : [w204209942]
+# name:be: []
+msgid "Комсомольский"
+msgstr ""
+
+# Objects : [n320409480]
+# name:be: []
+msgid "Кульбаки"
+msgstr "Кульбакі"
+
+# Objects : [n1966813662]
+# name:be: []
+msgid "Лапенки"
+msgstr "Лапенкі"
+
+# Objects : [n2356042813]
+# name:be: []
+msgid "Лебедевка-Юг"
+msgstr ""
+
+# Objects : [w257590511]
+# name:be: []
+msgid "Ленина Площадь"
+msgstr ""
+
+# Objects : [n320409709]
+# name:be: []
+msgid "Лососна"
+msgstr "Ласосна"
+
+# Objects : [n2770244946]
+# name:be: []
+msgid "Малаховичи"
+msgstr "Малахавічы"
+
+# Objects : [n320409433]
+# name:be: []
+msgid "Малыщина"
+msgstr "Малышчына"
+
+# Objects : [n2356042816]
+# name:be: []
+msgid "микрорайон 17"
+msgstr ""
+
+# Objects : [n1483613252]
+# name:be: []
+msgid "микрорайон Юбилейный"
+msgstr "мікрараён Юбілейны"
+
+# Objects : [w243125327]
+# name:be: []
+msgid "Молодежный Микрорайон"
+msgstr ""
+
+# Objects : [n320409904]
+# name:be: []
+msgid "Новики"
+msgstr "Новікі"
+
+# Objects : [n2558783194]
+# name:be: []
+msgid "Новый свет"
+msgstr "Новы свет"
+
+# Objects : [n1853647644]
+# name:be: []
+msgid "Ольшанка"
+msgstr "Альшанка"
+
+# Objects : [n1853640792]
+# name:be: []
+msgid "Палестина"
+msgstr "Палестына"
+
+# Objects : [n462217474]
+# name:be: []
+msgid "Переселка"
+msgstr "Пярэселка"
+
+# Objects : [n428964272]
+# name:be: []
+msgid "Погораны-Кошевники"
+msgstr "Пагараны-Кашэўнікі"
+
+# Objects : [n1956873822]
+# name:be: []
+msgid "Подкрыжаки"
+msgstr "Падкрыжакі"
+
+# Objects : [n507052969]
+# name:be: []
+msgid "Понемунь"
+msgstr "Панямунь"
+
+# Objects : [n428964270]
+# name:be: []
+msgid "Принеманский"
+msgstr "Прынёманскі"
+
+# Objects : [n2222553093]
+# name:be: []
+msgid "Пышки"
+msgstr "Пышкі"
+
+# Objects : [w275158343]
+# name:be: []
+msgid "Родники"
+msgstr ""
+
+# Objects : [n428964268]
+# name:be: []
+msgid "Румлёво"
+msgstr "Румлёва"
+
+# Objects : [n559738733]
+# name:be: []
+msgid "Скоморошки"
+msgstr "Скамарошкі"
+
+# Objects : [n1853636373]
+# name:be: []
+msgid "Собачья Горка"
+msgstr "Сабачая Горка"
+
+# Objects : [n2210023225]
+# name:be: []
+msgid "Солы"
+msgstr "Солы"
+
+# Objects : [w199800771]
+# name:be: []
+msgid "Строителей"
+msgstr "Будаўнікоў"
+
+# Objects : [n320409940]
+# name:be: []
+msgid "Тарусичи"
+msgstr "Тарусічы"
+
+# Objects : [n1514078890]
+# name:be: []
+msgid "Фабричный"
+msgstr "Фабрычны"
+
+# Objects : [n428964274]
+# name:be: []
+msgid "Фолюш"
+msgstr "Фолюш"
+
+# Objects : [n428964266]
+# name:be: []
+msgid "Форты"
+msgstr "Фарты"
+
+# Objects : [n320409374]
+# name:be: []
+msgid "Чещавляны"
+msgstr "Чашчаўляны"
+
+# Objects : [w279318916]
+# name:be: []
+msgid "Юго-Запад-3"
+msgstr "Паўднёвы Захад 3"
+
+# Objects : [n428964271]
+# name:be: []
+msgid "Южный"
+msgstr "Паўднёвы"
+
+# Objects : [n2210020172]
+# name:be: []
+msgid "Южный–2"
+msgstr "Паўднёвы–2"
+
+# Objects : [n2210020303]
+# name:be: []
+msgid "Южный–3"
+msgstr "Паўднёвы–3"
+
+# Objects : [n2818062360]
+# name:be: []
+msgid "Южный–4"
+msgstr "Паўднёвы–4"
+
+# Objects : [n2210020177]
+# name:be: []
+msgid "Южный–5"
+msgstr "Паўднёвы–5"
+
