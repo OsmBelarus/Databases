@@ -31,6 +31,7 @@ msgstr ""
 # Objects : [w80225812]
 # Names: [улица Волынца]
 msgid "Волынца"
+msgstr ""
 
 # Objects : [w199307789]
 # Names: [Восточная улица]

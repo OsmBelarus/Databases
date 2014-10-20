@@ -21,6 +21,7 @@ msgstr ""
 # Objects : [w136324844]
 # Names: [Зелёная улица]
 msgid "Зелёная"
+msgstr ""
 
 # Objects : [w173380390]
 # Names: [улица Кирова]
@@ -30,10 +31,12 @@ msgstr ""
 # Objects : [w136324842]
 # Names: [улица Комарова]
 msgid "Комарова"
+msgstr ""
 
 # Objects : [w173380385]
 # Names: [Красноармейская улица]
 msgid "Красноармейская"
+msgstr ""
 
 # Objects : [w120209931]
 # Names: [Октябрьская улица]
@@ -48,18 +51,22 @@ msgstr ""
 # Objects : [w136324847]
 # Names: [Пионерская улица]
 msgid "Пионерская"
+msgstr ""
 
 # Objects : [w173380386]
 # Names: [Пионерский переулок]
 msgid "Пионерский"
+msgstr ""
 
 # Objects : [w136324843]
 # Names: [улица Победы]
 msgid "Победы"
+msgstr ""
 
 # Objects : [w173380387]
 # Names: [улица Пушкина]
 msgid "Пушкина"
+msgstr ""
 
 # Objects : [w120209926]
 # Names: [Садовая улица]
@@ -69,6 +76,7 @@ msgstr ""
 # Objects : [w136324849]
 # Names: [Советская улица]
 msgid "Советская"
+msgstr ""
 
 # Objects : [w136324452]
 # Names: [Трудовая улица]
@@ -78,13 +86,15 @@ msgstr ""
 # Objects : [w25288349]
 # Names: [Щучинская улица]
 msgid "Щучинская"
+msgstr ""
 
 # Objects : [w136324453]
-# Names: [ул. Я. Колоса]
-msgid "Я. Колоса"
+# Names: [улица Якуба Колоса]
+msgid "Якуба Колоса"
+msgstr ""
 
 # Objects : [w136324840]
-# Names: [улица Я. Купалы]
-msgid "Я. Купалы"
+# Names: [улица Янки Купалы]
+msgid "Янки Купалы"
 msgstr ""
 

@@ -1,18 +1,22 @@
 # Objects : [w154975833]
-# Names: [17 Сентября площадь]
+# Names: [площадь 17 Сентября]
 msgid "17 Сентября"
+msgstr ""
 
 # Objects : [w116513531]
 # Names: [Новая улица]
 msgid "Новая"
+msgstr ""
 
 # Objects : [w40422743]
 # Names: [Первомайская улица]
 msgid "Первомайская"
+msgstr ""
 
 # Objects : [w116513505]
 # Names: [Садовая улица]
 msgid "Садовая"
+msgstr ""
 
 # Objects : [w157205481]
 # Names: [Советская улица]
@@ -20,6 +24,7 @@ msgid "Советская"
 msgstr ""
 
 # Objects : [w116513492]
-# Names: [Трубача улица]
+# Names: [улица Трубача]
 msgid "Трубача"
+msgstr ""
 

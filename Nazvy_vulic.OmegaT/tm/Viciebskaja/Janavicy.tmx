@@ -4,20 +4,44 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>Вальково</seg></tuv>
+      <tuv lang="BE"><seg>#Валькова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Витебская</seg></tuv>
+      <tuv lang="BE"><seg>#Віцебская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Заводская</seg></tuv>
-      <tuv lang="BE"><seg>#Завадская</seg></tuv>
+      <tuv lang="BE"><seg>#Заводская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Заречная</seg></tuv>
       <tuv lang="BE"><seg>#Зарэчная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Слабодская</seg></tuv>
-      <tuv lang="BE"><seg>#Слабоцкая</seg></tuv>
+      <tuv lang="RU"><seg>Лиозненская</seg></tuv>
+      <tuv lang="BE"><seg>#Лёзненская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Слабодской</seg></tuv>
+      <tuv lang="RU"><seg>Слабодская</seg></tuv>
+      <tuv lang="BE"><seg>#Слабодзкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Слабодский</seg></tuv>
       <tuv lang="BE"><seg>#Слабоцкi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Строительная</seg></tuv>
+      <tuv lang="BE"><seg>#Будаўнічая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Суражская</seg></tuv>
+      <tuv lang="BE"><seg>#Суражская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Угловского</seg></tuv>
+      <tuv lang="BE"><seg>#Углоўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Юбилейная</seg></tuv>

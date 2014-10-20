@@ -106,6 +106,7 @@ msgstr ""
 # Objects : [w80235393]
 # Names: [Каменецкая улица]
 msgid "Каменецкая"
+msgstr ""
 
 # Objects : [w99199374]
 # Names: [улица Карла Маркса]

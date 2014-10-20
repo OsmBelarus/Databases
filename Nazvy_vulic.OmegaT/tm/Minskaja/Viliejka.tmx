@@ -9,7 +9,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>1 Мая</seg></tuv>
-      <tuv lang="BE"><seg>#1-Мая</seg></tuv>
+      <tuv lang="BE"><seg>#1 Мая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>8 Марта</seg></tuv>
@@ -26,6 +26,10 @@
     <tu>
       <tuv lang="RU"><seg>Волкова</seg></tuv>
       <tuv lang="BE"><seg>#Волкава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Волынца</seg></tuv>
+      <tuv lang="BE"><seg>#Валынца</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Восточная</seg></tuv>

@@ -4,6 +4,10 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>60 лет СССР</seg></tuv>
+      <tuv lang="BE"><seg>#60 гадоў СССР</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>70 лет Октября</seg></tuv>
       <tuv lang="BE"><seg>#70 гадоў Кастрычніка</seg></tuv>
     </tu>

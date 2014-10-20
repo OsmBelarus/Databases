@@ -1,7 +1,7 @@
 # Objects : [w103914950]
 # Names: [улица БелГРЭС]
 msgid "БелГРЭС"
-msgstr ""
+msgstr "н/БелГРЭС"
 
 # Objects : [w168616362]
 # Names: [улица Гоголя]

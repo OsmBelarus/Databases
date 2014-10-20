@@ -1,128 +1,159 @@
 # Objects : [w274472713]
-# Names: [40 лет БССР]
+# Names: [улица 40 лет БССР]
 msgid "40 лет БССР"
+msgstr ""
 
 # Objects : [w274472717]
-# Names: [8 марта]
-msgid "8 марта"
+# Names: [улица 8 Марта]
+msgid "8 Марта"
 
 # Objects : [w273546628]
-# Names: [Базарная]
+# Names: [Базарная улица]
 msgid "Базарная"
+msgstr ""
 
 # Objects : [w274902153]
 # Names: [Восточная улица]
 msgid "Восточная"
+msgstr ""
 
 # Objects : [w273545949]
 # Names: [улица Горького]
 msgid "Горького"
+msgstr ""
 
 # Objects : [w273547389]
-# Names: [Жуковского]
+# Names: [улица Жуковского]
 msgid "Жуковского"
+msgstr ""
 
 # Objects : [w274902149]
 # Names: [Заречная улица]
 msgid "Заречная"
+msgstr ""
 
 # Objects : [w277856288]
 # Names: [Клиническая улица]
 msgid "Клиническая"
+msgstr ""
 
 # Objects : [w277788339]
 # Names: [Клинический переулок]
 msgid "Клинический"
+msgstr ""
 
 # Objects : [w273985437]
-# Names: [колхозная]
+# Names: [колхозная улица]
 msgid "колхозная"
+msgstr ""
 
 # Objects : [w274760275]
 # Names: [Комсомольская улица]
 msgid "Комсомольская"
+msgstr ""
 
 # Objects : [w274472721]
 # Names: [Лесная улица]
 msgid "Лесная"
+msgstr ""
 
 # Objects : [w274472736]
 # Names: [Луговая улица]
 msgid "Луговая"
+msgstr ""
 
 # Objects : [w273985272]
-# Names: [майская]
-msgid "майская"
+# Names: [Майская улица]
+msgid "Майская"
+msgstr ""
 
 # Objects : [w273545359]
-# Names: [Максима Горького]
+# Names: [улица Максима Горького]
 msgid "Максима Горького"
+msgstr ""
 
 # Objects : [w273544910]
-# Names: [Маяковского]
+# Names: [улица Маяковского]
 msgid "Маяковского"
+msgstr ""
 
 # Objects : [w273548765]
 # Names: [Октябрьская улица]
 msgid "Октябрьская"
+msgstr ""
 
 # Objects : [w274472719]
-# Names: [партизанская]
-msgid "партизанская"
+# Names: [Партизанская улица]
+msgid "Партизанская"
+msgstr ""
 
 # Objects : [w273986170, w274902146]
 # Names: [Первомайская улица]
 msgid "Первомайская"
+msgstr ""
 
 # Objects : [w273985722]
 # Names: [Песчаный переулок]
 msgid "Песчаный"
+msgstr ""
 
 # Objects : [w274902157]
-# Names: [Пограничная]
+# Names: [Пограничная улица]
 msgid "Пограничная"
+msgstr ""
 
 # Objects : [w273548283]
-# Names: [полевая]
-msgid "полевая"
+# Names: [Полевая улица]
+msgid "Полевая"
+msgstr ""
 
 # Objects : [w274472732]
 # Names: [Почтовая улица]
 msgid "Почтовая"
+msgstr ""
 
 # Objects : [w274472726]
 # Names: [улица Пушкина]
 msgid "Пушкина"
+msgstr ""
 
 # Objects : [w273545119]
-# Names: [Слуцкая]
+# Names: [Слуцкая улица]
 msgid "Слуцкая"
+msgstr ""
 
 # Objects : [w273989919]
 # Names: [Слуцкий переулок]
 msgid "Слуцкий"
+msgstr ""
 
 # Objects : [w273548605]
-# Names: [Стрижевская]
+# Names: [Стрижевская улица]
 msgid "Стрижевская"
+msgstr ""
 
 # Objects : [w274902151]
-# Names: [трудовая]
-msgid "трудовая"
+# Names: [Трудовая улица]
+msgid "Трудовая"
+msgstr ""
 
 # Objects : [w273985735]
-# Names: [Чкалова]
+# Names: [улица Чкалова]
 msgid "Чкалова"
+msgstr ""
 
 # Objects : [w274472742]
 # Names: [Школьный переулок]
 msgid "Школьный"
+msgstr ""
 
 # Objects : [w274902154]
 # Names: [Юбилейная улица]
 msgid "Юбилейная"
+msgstr ""
 
 # Objects : [w125581886]
 # Names: [улица Янки Купалы]
 msgid "Янки Купалы"
+msgstr ""
 

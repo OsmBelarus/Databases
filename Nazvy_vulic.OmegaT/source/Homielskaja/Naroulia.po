@@ -84,8 +84,9 @@ msgid "Корзуна"
 msgstr ""
 
 # Objects : [w171597720]
-# Names: [Ласковая]
+# Names: [Ласковая улица]
 msgid "Ласковая"
+msgstr ""
 
 # Objects : [w80249974, w232834410]
 # Names: [улица Ленина]

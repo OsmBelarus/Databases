@@ -44,10 +44,6 @@
       <tuv lang="BE"><seg>#Калініна</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Карзюкова</seg></tuv>
-      <tuv lang="BE"><seg>#Лідская</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
       <tuv lang="BE"><seg>#Кірава</seg></tuv>
     </tu>
@@ -58,6 +54,10 @@
     <tu>
       <tuv lang="RU"><seg>Комсомольская</seg></tuv>
       <tuv lang="BE"><seg>#Камсамольская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Корзюка</seg></tuv>
+      <tuv lang="BE"><seg>#Карзюка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Красноармейская</seg></tuv>

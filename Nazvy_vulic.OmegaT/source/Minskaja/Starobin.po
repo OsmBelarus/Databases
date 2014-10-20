@@ -1,10 +1,12 @@
 # Objects : [w39491472]
-# Names: [8-го Марта]
-msgid "8-го Марта"
+# Names: [улица 8 Марта]
+msgid "8 Марта"
+msgstr ""
 
 # Objects : [w39491565]
-# Names: [Базарная]
+# Names: [Базарная улица]
 msgid "Базарная"
+msgstr ""
 
 # Objects : [w39491064]
 # Names: [Базарный переулок]
@@ -12,17 +14,19 @@ msgid "Базарный"
 msgstr ""
 
 # Objects : [w39491877]
-# Names: [Больничная]
+# Names: [Больничная улица]
 msgid "Больничная"
 msgstr ""
 
 # Objects : [w39490990]
-# Names: [Бондаровца]
+# Names: [улица Бондаровца]
 msgid "Бондаровца"
+msgstr ""
 
 # Objects : [w39491992]
-# Names: [Вабищевича]
+# Names: [улица Вабищевича]
 msgid "Вабищевича"
+msgstr ""
 
 # Objects : [w39490016, w39491774]
 # Names: [переулок Гагарина, улица Гагарина]
@@ -30,12 +34,14 @@ msgid "Гагарина"
 msgstr ""
 
 # Objects : [w39490129]
-# Names: [Гуляева]
+# Names: [улица Гуляева]
 msgid "Гуляева"
+msgstr ""
 
 # Objects : [w39490518]
-# Names: [Дризгаловича]
+# Names: [улица Дризгаловича]
 msgid "Дризгаловича"
+msgstr ""
 
 # Objects : [w39491482]
 # Names: [Западная улица]
@@ -45,10 +51,12 @@ msgstr ""
 # Objects : [w39490866]
 # Names: [улица Калинина]
 msgid "Калинина"
+msgstr ""
 
 # Objects : [w39489850, w39491201]
-# Names: [Киевская]
+# Names: [Киевская улица]
 msgid "Киевская"
+msgstr ""
 
 # Objects : [w39490131]
 # Names: [Комсомольская улица]
@@ -56,8 +64,9 @@ msgid "Комсомольская"
 msgstr ""
 
 # Objects : [w232402449]
-# Names: [Коржа]
+# Names: [улица Коржа]
 msgid "Коржа"
+msgstr ""
 
 # Objects : [w39490972, w39491320]
 # Names: [переулок Космонавтов, улица Космонавтов]
@@ -77,10 +86,12 @@ msgstr ""
 # Objects : [w39490985]
 # Names: [Краснознамённая улица]
 msgid "Краснознамённая"
+msgstr ""
 
 # Objects : [w39490616]
 # Names: [Краснознамённый переулок]
 msgid "Краснознамённый"
+msgstr ""
 
 # Objects : [w39491364]
 # Names: [Лесная улица]
@@ -88,8 +99,9 @@ msgid "Лесная"
 msgstr ""
 
 # Objects : [w39490958]
-# Names: [Майская]
+# Names: [Майская улица]
 msgid "Майская"
+msgstr ""
 
 # Objects : [w39491566]
 # Names: [Майский переулок]
@@ -102,20 +114,24 @@ msgid "Молодёжная"
 msgstr ""
 
 # Objects : [w39490833]
-# Names: [Надоечная]
+# Names: [Надоечная улица]
 msgid "Надоечная"
+msgstr ""
 
 # Objects : [w39490644]
 # Names: [Октябрьская улица]
 msgid "Октябрьская"
+msgstr ""
 
 # Objects : [w39491963]
 # Names: [Октябрьский переулок]
 msgid "Октябрьский"
+msgstr ""
 
 # Objects : [w39489835]
 # Names: [Парковая улица]
 msgid "Парковая"
+msgstr ""
 
 # Objects : [w39491413]
 # Names: [Партизанская улица]
@@ -128,12 +144,14 @@ msgid "Партизанский"
 msgstr ""
 
 # Objects : [w39491106]
-# Names: [Пограничная]
+# Names: [Пограничная улица]
 msgid "Пограничная"
+msgstr ""
 
 # Objects : [w39489853]
 # Names: [Пролетарская улица]
 msgid "Пролетарская"
+msgstr ""
 
 # Objects : [w39490151]
 # Names: [улица Пушкина]
@@ -153,6 +171,7 @@ msgstr ""
 # Objects : [w231633958]
 # Names: [Советская улица]
 msgid "Советская"
+msgstr ""
 
 # Objects : [w39490651]
 # Names: [Солнечная улица]
@@ -165,8 +184,8 @@ msgid "Спортивная"
 msgstr ""
 
 # Objects : [w39491595]
-# Names: [Суммара]
-msgid "Суммара"
+# Names: [Сумара]
+msgid "Сумара"
 
 # Objects : [w39490039]
 # Names: [Трудовая улица]
@@ -179,6 +198,7 @@ msgid "Школьная"
 msgstr ""
 
 # Objects : [w39491994]
-# Names: [Южная]
+# Names: [Южная улица]
 msgid "Южная"
+msgstr ""
 

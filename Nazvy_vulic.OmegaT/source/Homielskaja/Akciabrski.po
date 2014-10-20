@@ -11,14 +11,17 @@ msgstr ""
 # Objects : [w239927660]
 # Names: [улица Гагарина]
 msgid "Гагарина"
+msgstr ""
 
 # Objects : [w229600908]
 # Names: [улица Гоголя]
 msgid "Гоголя"
+msgstr ""
 
 # Objects : [w239927650]
 # Names: [Зелёная улица]
 msgid "Зелёная"
+msgstr ""
 
 # Objects : [w229600935]
 # Names: [Инженерная улица]
@@ -28,22 +31,27 @@ msgstr ""
 # Objects : [w229600869]
 # Names: [улица Калинина]
 msgid "Калинина"
+msgstr ""
 
 # Objects : [w229600878]
 # Names: [улица Левкова]
 msgid "Левкова"
+msgstr ""
 
 # Objects : [w229600924]
 # Names: [Лесная улица]
 msgid "Лесная"
+msgstr ""
 
 # Objects : [w239927635]
 # Names: [Луговая улица]
 msgid "Луговая"
+msgstr ""
 
 # Objects : [w229600907]
 # Names: [улица Молоковича]
 msgid "Молоковича"
+msgstr ""
 
 # Objects : [w229600871, w229600912]
 # Names: [Наровлянская улица]
@@ -58,10 +66,12 @@ msgstr ""
 # Objects : [w239927654]
 # Names: [улица Павловского]
 msgid "Павловского"
+msgstr ""
 
 # Objects : [w229600901]
 # Names: [улица Романа]
 msgid "Романа"
+msgstr ""
 
 # Objects : [w229600914]
 # Names: [Садовая улица]
@@ -86,10 +96,12 @@ msgstr ""
 # Objects : [w286547778]
 # Names: [улица Суворова]
 msgid "Суворова"
+msgstr ""
 
 # Objects : [w239927634]
 # Names: [улица Урицкого]
 msgid "Урицкого"
+msgstr ""
 
 # Objects : [w229600913]
 # Names: [улица Франциска Скорины]

@@ -6,7 +6,7 @@ msgstr "пж/Аэрадромная"
 # Objects : [w267495243]
 # Names: [улица Берёзки]
 msgid "Берёзки"
-msgstr ""
+msgstr "н/Бярозкі"
 
 # Objects : [w267625467]
 # Names: [Восточная улица]
@@ -31,7 +31,7 @@ msgstr "пж/Зялёная"
 # Objects : [w99167005]
 # Names: [улица Зенкевича]
 msgid "Зенкевича"
-msgstr ""
+msgstr "н/Зенкевіча"
 
 # Objects : [w295967292]
 # Names: [улица Калинина]
@@ -86,12 +86,12 @@ msgstr "н/Мамкіна"
 # Objects : [w84551010, w135370923]
 # Names: [улица Манжоса]
 msgid "Манжоса"
-msgstr ""
+msgstr "н/Манжоса"
 
 # Objects : [w84550959, w255220923, w295356670]
 # Names: [переулок Махова, улица Махова]
 msgid "Махова"
-msgstr ""
+msgstr "н/Махава"
 
 # Objects : [w267625470]
 # Names: [Набережная улица]
@@ -156,7 +156,7 @@ msgstr "пж/Садовая"
 # Objects : [w84550948]
 # Names: [улица Скорохода]
 msgid "Скорохода"
-msgstr ""
+msgstr "н/Скарахода"
 
 # Objects : [w25246227]
 # Names: [Советская улица]
@@ -171,12 +171,12 @@ msgstr "н/Цітова"
 # Objects : [w84550930]
 # Names: [улица Чалидзе]
 msgid "Чалидзе"
-msgstr ""
+msgstr "н/Чалідзэ"
 
 # Objects : [w296016415]
 # Names: [улица Шпетного]
 msgid "Шпетного"
-msgstr ""
+msgstr "н/Шпетнага"
 
 # Objects : [w267672207]
 # Names: [Южная улица]

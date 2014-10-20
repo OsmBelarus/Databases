@@ -3,4 +3,24 @@
 <tmx version="1.1">
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
+    <tu>
+      <tuv lang="RU"><seg>Бобруйская</seg></tuv>
+      <tuv lang="BE"><seg>#Бабруйская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Леухина</seg></tuv>
+      <tuv lang="BE"><seg>#Ляўхіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Спортивная</seg></tuv>
+      <tuv lang="BE"><seg>#Спартыўная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фроленкова</seg></tuv>
+      <tuv lang="BE"><seg>#Фраленкова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шкловского</seg></tuv>
+      <tuv lang="BE"><seg>#Шклоўскага</seg></tuv>
+    </tu>
   </body></tmx>

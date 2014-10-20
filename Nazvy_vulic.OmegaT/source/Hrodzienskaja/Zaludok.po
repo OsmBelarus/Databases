@@ -11,6 +11,7 @@ msgstr ""
 # Objects : [w181104866]
 # Names: [улица 40 лет ВЛКСМ]
 msgid "40 лет ВЛКСМ"
+msgstr ""
 
 # Objects : [w120208008]
 # Names: [улица 70 лет Октября]
@@ -20,10 +21,12 @@ msgstr ""
 # Objects : [w181108642, w181108649]
 # Names: [улица Арефьева]
 msgid "Арефьева"
+msgstr ""
 
 # Objects : [w181108654]
 # Names: [улица Батырева]
 msgid "Батырева"
+msgstr ""
 
 # Objects : [w181104868]
 # Names: [улица Врублевского]
@@ -53,6 +56,7 @@ msgstr ""
 # Objects : [w181104875]
 # Names: [улица Коммунаров]
 msgid "Коммунаров"
+msgstr ""
 
 # Objects : [w181104873]
 # Names: [Коммунистическая улица]
@@ -72,6 +76,7 @@ msgstr ""
 # Objects : [w181108658]
 # Names: [Набережная улица]
 msgid "Набережная"
+msgstr ""
 
 # Objects : [w181110622]
 # Names: [Октябрьская улица]

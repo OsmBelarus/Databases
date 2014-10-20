@@ -9,11 +9,23 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>40 лет БССР</seg></tuv>
-      <tuv lang="BE"><seg>#40 год БССР</seg></tuv>
+      <tuv lang="BE"><seg>#40 гадоў БССР</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>40 лет ВЛКСМ</seg></tuv>
+      <tuv lang="BE"><seg>#40 гадоў ВЛКСМ</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>70 лет Октября</seg></tuv>
-      <tuv lang="BE"><seg>#70 год Кастрычніка</seg></tuv>
+      <tuv lang="BE"><seg>#70 гадоў Кастрычніка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Арефьева</seg></tuv>
+      <tuv lang="BE"><seg>#Арэфьева</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Батырева</seg></tuv>
+      <tuv lang="BE"><seg>#Батырава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Врублевского</seg></tuv>
@@ -36,6 +48,10 @@
       <tuv lang="BE"><seg>#Карла Маркса</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Коммунаров</seg></tuv>
+      <tuv lang="BE"><seg>#Камунараў</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Коммунистическая</seg></tuv>
       <tuv lang="BE"><seg>#Камуністычная</seg></tuv>
     </tu>
@@ -46,6 +62,10 @@
     <tu>
       <tuv lang="RU"><seg>Краснопартизанский</seg></tuv>
       <tuv lang="BE"><seg>#Чырвонапартызанскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Набережная</seg></tuv>
+      <tuv lang="BE"><seg>#Набярэжная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Октябрьская</seg></tuv>

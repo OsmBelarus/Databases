@@ -24,6 +24,10 @@
       <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Клютко</seg></tuv>
+      <tuv lang="BE"><seg>#Клютко</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Ленина</seg></tuv>
       <tuv lang="BE"><seg>#Леніна</seg></tuv>
     </tu>
@@ -53,6 +57,6 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Черткова</seg></tuv>
-      <tuv lang="BE"><seg>#Черткова</seg></tuv>
+      <tuv lang="BE"><seg>#Чарткова</seg></tuv>
     </tu>
   </body></tmx>

@@ -20,8 +20,12 @@
       <tuv lang="BE"><seg>#Варашылава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Дзержинского</seg></tuv>
+      <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Калинина</seg></tuv>
-      <tuv lang="BE"><seg>#Калiнiна</seg></tuv>
+      <tuv lang="BE"><seg>#Калініна</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
@@ -41,7 +45,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лепельская</seg></tuv>
-      <tuv lang="BE"><seg>#Лепельская вулiца</seg></tuv>
+      <tuv lang="BE"><seg>#Лепельская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лесная</seg></tuv>
@@ -54,6 +58,10 @@
     <tu>
       <tuv lang="RU"><seg>Мачульского</seg></tuv>
       <tuv lang="BE"><seg>#Мачульскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Машерова</seg></tuv>
+      <tuv lang="BE"><seg>#Машэрава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Маяковского</seg></tuv>
@@ -69,7 +77,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Озёрная</seg></tuv>
@@ -85,11 +93,15 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Партизанский</seg></tuv>
-      <tuv lang="BE"><seg>#Партызанскi</seg></tuv>
+      <tuv lang="BE"><seg>#Партызанскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Первомайская</seg></tuv>
       <tuv lang="BE"><seg>#Першамайская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Пимена Панченко</seg></tuv>
+      <tuv lang="BE"><seg>#Пімена Панчанкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Победы</seg></tuv>
@@ -117,7 +129,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Черныша</seg></tuv>
-      <tuv lang="BE"><seg>#Чэрныша</seg></tuv>
+      <tuv lang="BE"><seg>#Чарныша</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чкалова</seg></tuv>
@@ -125,6 +137,6 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Юхновца</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца Юхнаўца</seg></tuv>
+      <tuv lang="BE"><seg>#Юхнаўца</seg></tuv>
     </tu>
   </body></tmx>

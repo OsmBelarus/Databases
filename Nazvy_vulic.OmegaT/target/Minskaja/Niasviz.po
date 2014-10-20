@@ -141,7 +141,7 @@ msgstr "пж/Кветкавая"
 # Objects : [w25278676, w25604615]
 # Names: [улица Шимко]
 msgid "Шимко"
-msgstr ""
+msgstr "н/Шымка"
 
 # Objects : [w25579346]
 # Names: [улица Энгельса]

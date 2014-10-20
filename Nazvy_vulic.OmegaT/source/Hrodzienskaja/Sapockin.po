@@ -4,8 +4,9 @@ msgid "Августовская"
 msgstr ""
 
 # Objects : [w39644297]
-# Names: [Величинского]
+# Names: [улица Величинского]
 msgid "Величинского"
+msgstr ""
 
 # Objects : [w286819498]
 # Names: [Гродненская улица]
@@ -15,10 +16,12 @@ msgstr ""
 # Objects : [w255206156, w286819500]
 # Names: [улица Ожешко]
 msgid "Ожешко"
+msgstr ""
 
 # Objects : [w29155200]
 # Names: [Теолинская улица]
 msgid "Теолинская"
+msgstr ""
 
 # Objects : [w255206161]
 # Names: [Школьная улица]

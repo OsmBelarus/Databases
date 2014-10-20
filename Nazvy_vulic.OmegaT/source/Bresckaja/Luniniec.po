@@ -21,6 +21,7 @@ msgstr ""
 # Objects : [w80228666]
 # Names: [улица Блока]
 msgid "Блока"
+msgstr ""
 
 # Objects : [w223633640, w223633655]
 # Names: [переулок Богданова, улица Богданова]
@@ -227,14 +228,14 @@ msgstr ""
 msgid "Октябрьская"
 msgstr ""
 
-# Objects : [w223633641, w223633644]
-# Names: [улица П. Бровки]
-msgid "П. Бровки"
-msgstr ""
-
 # Objects : [w222839680]
 # Names: [улица Пантелеева]
 msgid "Пантелеева"
+msgstr ""
+
+# Objects : [w223633641, w223633644]
+# Names: [улица Петруся Бровки]
+msgid "Петруся Бровки"
 msgstr ""
 
 # Objects : [w222971556]

@@ -13,7 +13,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>28 Июля</seg></tuv>
-      <tuv lang="BE"><seg>#28 Ліпеня#28 ліпеня</seg></tuv>
+      <tuv lang="BE"><seg>#28 Ліпеня</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>5-й Форт</seg></tuv>
@@ -201,7 +201,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Варшавское</seg></tuv>
-      <tuv lang="BE"><seg>#Варшаўская#Паркавая</seg></tuv>
+      <tuv lang="BE"><seg>#Варшаўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Васильевская</seg></tuv>
@@ -1176,6 +1176,10 @@
       <tuv lang="BE"><seg>#Маскоўская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Московское</seg></tuv>
+      <tuv lang="BE"><seg>#Маскоўская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Мостовая</seg></tuv>
       <tuv lang="BE"><seg>#Маставая</seg></tuv>
     </tu>
@@ -1353,7 +1357,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Парковая</seg></tuv>
-      <tuv lang="BE"><seg>#Варшаўская#Паркавая</seg></tuv>
+      <tuv lang="BE"><seg>#Паркавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Партизанская</seg></tuv>
@@ -1917,7 +1921,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Учительская</seg></tuv>
-      <tuv lang="BE"><seg>#Школьная</seg></tuv>
+      <tuv lang="BE"><seg>#Настаўніцкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Учительский</seg></tuv>

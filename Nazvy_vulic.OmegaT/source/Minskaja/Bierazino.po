@@ -161,6 +161,7 @@ msgstr ""
 # Objects : [w25258744, w208071938]
 # Names: [улица Романович]
 msgid "Романович"
+msgstr ""
 
 # Objects : [w81543484]
 # Names: [улица Свободы]

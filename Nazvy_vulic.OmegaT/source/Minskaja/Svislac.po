@@ -1,96 +1,119 @@
 # Objects : [w156648437]
 # Names: [Весенний переулок]
 msgid "Весенний"
+msgstr ""
 
 # Objects : [w156648438]
-# Names: [Вишневый переулок]
-msgid "Вишневый"
+# Names: [Вишнёвый переулок]
+msgid "Вишнёвый"
+msgstr ""
 
 # Objects : [w156648439]
 # Names: [Восточная улица]
 msgid "Восточная"
+msgstr ""
 
 # Objects : [w156492467]
 # Names: [улица Дубинина]
 msgid "Дубинина"
+msgstr ""
 
 # Objects : [w156648440]
 # Names: [Дукора-Руденск2]
 msgid "Дукора-Руденск2"
 
 # Objects : [w156648441]
-# Names: [Дукорский пер.]
+# Names: [Дукорский переулок]
 msgid "Дукорский"
+msgstr ""
 
 # Objects : [w156648442]
 # Names: [Коммунальная улица]
 msgid "Коммунальная"
+msgstr ""
 
 # Objects : [w156648443]
 # Names: [Майский переулок]
 msgid "Майский"
+msgstr ""
 
 # Objects : [w140008793, w156594814]
 # Names: [Набережная улица]
 msgid "Набережная"
+msgstr ""
 
 # Objects : [w156648445]
 # Names: [Озёрная улица]
 msgid "Озёрная"
+msgstr ""
 
 # Objects : [w140099375]
 # Names: [Партизанская улица]
 msgid "Партизанская"
+msgstr ""
 
 # Objects : [w156648446]
 # Names: [Радужная улица]
 msgid "Радужная"
+msgstr ""
 
 # Objects : [w156648447]
 # Names: [Рябиновый переулок]
 msgid "Рябиновый"
+msgstr ""
 
 # Objects : [w156648449]
 # Names: [Садовая улица]
 msgid "Садовая"
+msgstr ""
 
 # Objects : [w156648451]
 # Names: [Садовый переулок]
 msgid "Садовый"
+msgstr ""
 
 # Objects : [w156648453]
 # Names: [Солнечная улица]
 msgid "Солнечная"
+msgstr ""
 
 # Objects : [w156648454]
 # Names: [Соловьиная улица]
 msgid "Соловьиная"
+msgstr ""
 
 # Objects : [w156648456]
 # Names: [Сосновый переулок]
 msgid "Сосновый"
+msgstr ""
 
 # Objects : [w25267995]
 # Names: [улица Строителей]
 msgid "Строителей"
+msgstr ""
 
 # Objects : [w156648457]
 # Names: [Тенистая улица]
 msgid "Тенистая"
+msgstr ""
 
 # Objects : [w156648458]
 # Names: [Тополиная улица]
 msgid "Тополиная"
+msgstr ""
 
 # Objects : [w156648459]
 # Names: [улица Энергетиков]
 msgid "Энергетиков"
+msgstr ""
 
 # Objects : [w156492473]
 # Names: [улица Энтузиастов]
 msgid "Энтузиастов"
+msgstr ""
 
 # Objects : [w156648460]
 # Names: [Южная улица]
 msgid "Южная"
+msgstr ""
 

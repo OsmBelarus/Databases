@@ -1,22 +1,27 @@
 # Objects : [w103914950]
 # Names: [улица БелГРЭС]
 msgid "БелГРЭС"
+msgstr ""
 
 # Objects : [w168616362]
 # Names: [улица Гоголя]
 msgid "Гоголя"
+msgstr ""
 
 # Objects : [w154982489]
 # Names: [Железнодорожная улица]
 msgid "Железнодорожная"
+msgstr ""
 
 # Objects : [w227320445]
 # Names: [Комсомольская улица]
 msgid "Комсомольская"
+msgstr ""
 
 # Objects : [w102022400, w154982492]
 # Names: [2-й Комсомольский переулок, Комсомольский переулок]
 msgid "Комсомольский"
+msgstr ""
 
 # Objects : [w77869456, w227320440]
 # Names: [переулок Ленина, улица Ленина]
@@ -26,48 +31,60 @@ msgstr ""
 # Objects : [w227320438]
 # Names: [Лесная улица]
 msgid "Лесная"
+msgstr ""
 
 # Objects : [w25240126]
 # Names: [улица Максима Горького]
 msgid "Максима Горького"
+msgstr ""
 
 # Objects : [w168616369]
 # Names: [улица Некрасова]
 msgid "Некрасова"
+msgstr ""
 
 # Objects : [w227320449]
 # Names: [Октябрьская улица]
 msgid "Октябрьская"
+msgstr ""
 
 # Objects : [w227320442]
 # Names: [Октябрьский переулок]
 msgid "Октябрьский"
+msgstr ""
 
 # Objects : [w280420537, w280434041]
 # Names: [Первомайская улица]
 msgid "Первомайская"
+msgstr ""
 
 # Objects : [w155412310, w227320452]
 # Names: [Пролетарская улица]
 msgid "Пролетарская"
+msgstr ""
 
 # Objects : [w154982481, w154982493]
 # Names: [переулок Пушкина, улица Пушкина]
 msgid "Пушкина"
+msgstr ""
 
 # Objects : [w227320446]
 # Names: [улица Смирнова]
 msgid "Смирнова"
+msgstr ""
 
 # Objects : [w154982486, w154982487]
 # Names: [1-я Тепличная улица, 2-я Тепличная улица]
 msgid "Тепличная"
+msgstr ""
 
 # Objects : [w154982485]
 # Names: [улица Черняховского]
 msgid "Черняховского"
+msgstr ""
 
 # Objects : [w168616363]
 # Names: [улица Чкалова]
 msgid "Чкалова"
+msgstr ""
 

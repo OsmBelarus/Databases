@@ -116,6 +116,10 @@
       <tuv lang="BE"><seg>#Вакзальны</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Восточная</seg></tuv>
+      <tuv lang="BE"><seg>#Усходняя</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Восточный</seg></tuv>
       <tuv lang="BE"><seg>#Усходні</seg></tuv>
     </tu>

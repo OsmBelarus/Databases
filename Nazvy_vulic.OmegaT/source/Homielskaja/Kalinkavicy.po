@@ -366,6 +366,7 @@ msgstr ""
 # Objects : [w257586974]
 # Names: [улица Мира]
 msgid "Мира"
+msgstr ""
 
 # Objects : [w41869836]
 # Names: [Мозырский переулок]

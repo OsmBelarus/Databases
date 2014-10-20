@@ -12,6 +12,10 @@
       <tuv lang="BE"><seg>#Батанічная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Бруцеро-Ерофеевская</seg></tuv>
+      <tuv lang="BE"><seg>#Бруцэра-Ерафееўская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Верхнеозёрная</seg></tuv>
       <tuv lang="BE"><seg>#Верхнеазёрная</seg></tuv>
     </tu>
@@ -446,6 +450,10 @@
     <tu>
       <tuv lang="RU"><seg>Суворова</seg></tuv>
       <tuv lang="BE"><seg>#Суворава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сурганова</seg></tuv>
+      <tuv lang="BE"><seg>#Сурганава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Тельмана</seg></tuv>

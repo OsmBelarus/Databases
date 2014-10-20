@@ -81,6 +81,7 @@ msgstr ""
 # Objects : [w276129182]
 # Names: [улица Кульниса]
 msgid "Кульниса"
+msgstr ""
 
 # Objects : [w133187517]
 # Names: [улица Кутузова]

@@ -1,6 +1,7 @@
 # Objects : [w25257857]
 # Names: [улица 50 лет СССР]
 msgid "50 лет СССР"
+msgstr ""
 
 # Objects : [w25257839]
 # Names: [улица 8 Марта]

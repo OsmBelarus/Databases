@@ -1,20 +1,25 @@
 # Objects : [w273899485]
 # Names: [Бобруйская улица]
 msgid "Бобруйская"
+msgstr ""
 
 # Objects : [w273899487]
 # Names: [улица Леухина]
 msgid "Леухина"
+msgstr ""
 
 # Objects : [w287493867]
 # Names: [Спортивная улица]
 msgid "Спортивная"
+msgstr ""
 
 # Objects : [w271753070]
 # Names: [улица Фроленкова]
 msgid "Фроленкова"
+msgstr ""
 
 # Objects : [w271753069]
 # Names: [улица Шкловского]
 msgid "Шкловского"
+msgstr ""
 

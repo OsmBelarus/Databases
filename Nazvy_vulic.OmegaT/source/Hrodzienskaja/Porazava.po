@@ -1,46 +1,57 @@
 # Objects : [w265419890, w265419891]
-# Names: [ул. 17-го Сентября, улица 17-го Сентября]
-msgid "17-го Сентября"
+# Names: [улица 17 Сентября]
+msgid "17 Сентября"
+msgstr ""
 
 # Objects : [w79396279]
 # Names: [улица 1-го Мая]
 msgid "1-го Мая"
+msgstr ""
 
 # Objects : [w265570332, w265570333]
 # Names: [Заречная улица]
 msgid "Заречная"
+msgstr ""
 
 # Objects : [w265419892]
-# Names: [Кооперативныя улица]
-msgid "Кооперативныя"
+# Names: [Кооперативная улица]
+msgid "Кооперативная"
+msgstr ""
 
 # Objects : [w55380876, w79396276]
 # Names: [улица Ленина]
 msgid "Ленина"
+msgstr ""
 
 # Objects : [w304796228]
 # Names: [Новый переулок]
 msgid "Новый"
+msgstr ""
 
 # Objects : [w265570330]
 # Names: [Полевой переулок]
 msgid "Полевой"
+msgstr ""
 
 # Objects : [w265419893]
 # Names: [улица Политаева]
 msgid "Политаева"
+msgstr ""
 
 # Objects : [w79396277]
 # Names: [Советская улица]
 msgid "Советская"
+msgstr ""
 
 # Objects : [w265570331]
 # Names: [Советский переулок]
 msgid "Советский"
+msgstr ""
 
 # Objects : [w265570334]
 # Names: [Фабричная улица]
 msgid "Фабричная"
+msgstr ""
 
 # Objects : [w25288857]
 # Names: [улица Якуба Коласа]

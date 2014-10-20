@@ -21,6 +21,7 @@ msgstr ""
 # Objects : [w197633627]
 # Names: [улица Дзержинского]
 msgid "Дзержинского"
+msgstr ""
 
 # Objects : [w143731264]
 # Names: [улица Калинина]
@@ -63,13 +64,14 @@ msgid "Манковича"
 msgstr ""
 
 # Objects : [w143727336]
-# Names: [ул. Мачульского]
+# Names: [улица Мачульского]
 msgid "Мачульского"
 msgstr ""
 
 # Objects : [w197511095]
 # Names: [улица Машерова]
 msgid "Машерова"
+msgstr ""
 
 # Objects : [w30108165]
 # Names: [улица Маяковского]
@@ -101,10 +103,6 @@ msgstr ""
 msgid "Октябрьская"
 msgstr ""
 
-# Objects : [w143726053]
-# Names: [улица П. Панченко]
-msgid "П. Панченко"
-
 # Objects : [w30970630]
 # Names: [Партизанская улица]
 msgid "Партизанская"
@@ -118,6 +116,11 @@ msgstr ""
 # Objects : [w30969953]
 # Names: [Первомайская улица]
 msgid "Первомайская"
+msgstr ""
+
+# Objects : [w143726053]
+# Names: [улица Пимена Панченко]
+msgid "Пимена Панченко"
 msgstr ""
 
 # Objects : [w30108161, w176482998]
@@ -151,7 +154,7 @@ msgid "Титкова"
 msgstr ""
 
 # Objects : [w30108160, w143725934]
-# Names: [ул. Черныша]
+# Names: [улица Черныша]
 msgid "Черныша"
 msgstr ""
 

@@ -260,6 +260,10 @@
       <tuv lang="BE"><seg>#Драздовіча</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Дубровенская</seg></tuv>
+      <tuv lang="BE"><seg>#Дубровенская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Дубровенский</seg></tuv>
       <tuv lang="BE"><seg>#Дубровенскі</seg></tuv>
     </tu>
@@ -404,8 +408,8 @@
       <tuv lang="BE"><seg>#Кароткі</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Косачева</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца Касачова</seg></tuv>
+      <tuv lang="RU"><seg>Косачёва</seg></tuv>
+      <tuv lang="BE"><seg>#Касачова</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Космонавтов</seg></tuv>

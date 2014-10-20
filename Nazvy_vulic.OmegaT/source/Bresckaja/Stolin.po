@@ -66,6 +66,7 @@ msgstr ""
 # Objects : [w297714612]
 # Names: [Пинская улица]
 msgid "Пинская"
+msgstr ""
 
 # Objects : [w51807085, w76666350]
 # Names: [Полесская улица]

@@ -1,10 +1,12 @@
 # Objects : [w34575268]
 # Names: [улица Батова]
 msgid "Батова"
+msgstr ""
 
 # Objects : [w34574755]
 # Names: [улица Волкова]
 msgid "Волкова"
+msgstr ""
 
 # Objects : [w34575652]
 # Names: [улица Гагарина]
@@ -14,6 +16,7 @@ msgstr ""
 # Objects : [w34575346]
 # Names: [улица Дзержинского]
 msgid "Дзержинского"
+msgstr ""
 
 # Objects : [w34575663]
 # Names: [Днепровская улица]
@@ -23,6 +26,7 @@ msgstr ""
 # Objects : [w34574966]
 # Names: [улица Ермакова]
 msgid "Ермакова"
+msgstr ""
 
 # Objects : [w34575585]
 # Names: [улица Калинина]
@@ -42,6 +46,7 @@ msgstr ""
 # Objects : [w34574690]
 # Names: [улица Константинова]
 msgid "Константинова"
+msgstr ""
 
 # Objects : [w80249234]
 # Names: [улица Ленина]
@@ -49,7 +54,7 @@ msgid "Ленина"
 msgstr ""
 
 # Objects : [w34574964]
-# Names: [ул. Мележа]
+# Names: [улица Мележа]
 msgid "Мележа"
 msgstr ""
 
@@ -71,6 +76,7 @@ msgstr ""
 # Objects : [w34575248]
 # Names: [улица Пинчука]
 msgid "Пинчука"
+msgstr ""
 
 # Objects : [w34575027, w255229980]
 # Names: [Пионерская улица]
@@ -90,6 +96,7 @@ msgstr ""
 # Objects : [w34573697, w34574424, w34574425]
 # Names: [улица Синякова]
 msgid "Синякова"
+msgstr ""
 
 # Objects : [w102208392]
 # Names: [Советская улица]
@@ -109,10 +116,12 @@ msgstr ""
 # Objects : [w34575350]
 # Names: [улица Фроленкова]
 msgid "Фроленкова"
+msgstr ""
 
 # Objects : [w34574698]
 # Names: [улица Царикова]
 msgid "Царикова"
+msgstr ""
 
 # Objects : [w34574843, w137929781]
 # Names: [улица Чапаева]
@@ -122,10 +131,12 @@ msgstr ""
 # Objects : [w80249233, w137929782]
 # Names: [улица Шевелёва]
 msgid "Шевелёва"
+msgstr ""
 
 # Objects : [w34575275]
 # Names: [улица Шипилова]
 msgid "Шипилова"
+msgstr ""
 
 # Objects : [w137929785]
 # Names: [Школьная улица]

@@ -5,15 +5,23 @@
   <body>
     <tu>
       <tuv lang="RU"><seg>17 Сентября</seg></tuv>
-      <tuv lang="BE"><seg>#17 Верасня#площа 17 Верасня</seg></tuv>
+      <tuv lang="BE"><seg>#17 Верасня</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>1 Мая</seg></tuv>
       <tuv lang="BE"><seg>#1 Мая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Домейко</seg></tuv>
+      <tuv lang="BE"><seg>#Дамейкі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Дружная</seg></tuv>
       <tuv lang="BE"><seg>#Дружная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Заводская</seg></tuv>
+      <tuv lang="BE"><seg>#Заводская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Замковая</seg></tuv>
@@ -25,7 +33,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Кирова</seg></tuv>
-      <tuv lang="BE"><seg>#Кiрава#Кірава</seg></tuv>
+      <tuv lang="BE"><seg>#Кірава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Комсомольская</seg></tuv>
@@ -33,7 +41,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Комсомольский</seg></tuv>
-      <tuv lang="BE"><seg>#Камсамольскi</seg></tuv>
+      <tuv lang="BE"><seg>#Камсамольскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Красноармейская</seg></tuv>
@@ -44,12 +52,20 @@
       <tuv lang="BE"><seg>#Ленінградская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ленинградский</seg></tuv>
+      <tuv lang="BE"><seg>#Ленінградскі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Мира</seg></tuv>
       <tuv lang="BE"><seg>#Міру</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Молодёжная</seg></tuv>
-      <tuv lang="BE"><seg>#Маладзёжная</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Молодёжный</seg></tuv>
+      <tuv lang="BE"><seg>#Моладзевы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Московская</seg></tuv>
@@ -57,7 +73,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Московский</seg></tuv>
-      <tuv lang="BE"><seg>#Маскоускi</seg></tuv>
+      <tuv lang="BE"><seg>#Маскоўскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Октябрьская</seg></tuv>
@@ -73,23 +89,43 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пионерский</seg></tuv>
-      <tuv lang="BE"><seg>#2-гi Піянерскі#Піянерскі</seg></tuv>
+      <tuv lang="BE"><seg>#Піянерскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Победы</seg></tuv>
+      <tuv lang="BE"><seg>#Перамогі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Радуньская</seg></tuv>
       <tuv lang="BE"><seg>#Радуньская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Садовая</seg></tuv>
+      <tuv lang="BE"><seg>#Садовая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>
       <tuv lang="BE"><seg>#Савецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сташевской</seg></tuv>
+      <tuv lang="BE"><seg>#Сташэўскай</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Танкистов</seg></tuv>
       <tuv lang="BE"><seg>#Танкістаў</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Федорако</seg></tuv>
+      <tuv lang="BE"><seg>#Федаракі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фестивальная</seg></tuv>
+      <tuv lang="BE"><seg>#Фестывальная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Филончика</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца Філончыка</seg></tuv>
+      <tuv lang="BE"><seg>#Філончыка</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Школьная</seg></tuv>

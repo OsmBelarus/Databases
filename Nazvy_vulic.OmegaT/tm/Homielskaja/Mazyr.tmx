@@ -92,6 +92,10 @@
       <tuv lang="BE"><seg>#Зянітчыкаў</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Иваненко</seg></tuv>
+      <tuv lang="BE"><seg>#Іваненкі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Интернациональная</seg></tuv>
       <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
     </tu>
@@ -453,7 +457,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Юрия Гагарина</seg></tuv>
-      <tuv lang="BE"><seg>#Гагарына#Юрыя Гагарына</seg></tuv>
+      <tuv lang="BE"><seg>#Юрыя Гагарына</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Языковича</seg></tuv>

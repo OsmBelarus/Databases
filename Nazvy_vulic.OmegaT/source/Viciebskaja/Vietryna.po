@@ -1,52 +1,65 @@
 # Objects : [w288270106]
 # Names: [улица Виноградова]
 msgid "Виноградова"
+msgstr ""
 
 # Objects : [w288278545]
 # Names: [улица Вознесенского]
 msgid "Вознесенского"
+msgstr ""
 
 # Objects : [w288270107]
 # Names: [улица Гастелло]
 msgid "Гастелло"
+msgstr ""
 
 # Objects : [w288278546]
 # Names: [Железнодорожная улица]
 msgid "Железнодорожная"
+msgstr ""
 
 # Objects : [w288270108]
 # Names: [Комсомольская улица]
 msgid "Комсомольская"
+msgstr ""
 
 # Objects : [w288270104]
 # Names: [Комсомольский переулок]
 msgid "Комсомольский"
+msgstr ""
 
 # Objects : [w288270105, w290235107]
 # Names: [переулок Ленина, улица Ленина]
 msgid "Ленина"
+msgstr ""
 
 # Objects : [w288278547]
 # Names: [улица Мисуны]
 msgid "Мисуны"
+msgstr ""
 
 # Objects : [w288278548]
 # Names: [Озёрная улица]
 msgid "Озёрная"
+msgstr ""
 
 # Objects : [w288270103]
 # Names: [Октябрьская улица]
 msgid "Октябрьская"
+msgstr ""
 
 # Objects : [w288278543, w288278544]
 # Names: [переулок Рублевского]
 msgid "Рублевского"
+msgstr ""
 
 # Objects : [w288270109]
 # Names: [Северная улица]
 msgid "Северная"
+msgstr ""
 
 # Objects : [w288291420]
 # Names: [улица Чкалова]
 msgid "Чкалова"
+msgstr ""
 

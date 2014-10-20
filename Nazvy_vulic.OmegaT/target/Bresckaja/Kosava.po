@@ -6,7 +6,7 @@ msgstr "н/1 Мая"
 # Objects : [w125787075]
 # Names: [улица 3 Февраля]
 msgid "3 Февраля"
-msgstr ""
+msgstr "н/3 Лютага"
 
 # Objects : [w125787077]
 # Names: [улица Ленина]

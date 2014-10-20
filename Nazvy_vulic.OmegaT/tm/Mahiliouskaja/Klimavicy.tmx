@@ -208,6 +208,10 @@
       <tuv lang="BE"><seg>#Лугавая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Магистральная</seg></tuv>
+      <tuv lang="BE"><seg>#Магістральная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Магона</seg></tuv>
       <tuv lang="BE"><seg>#Магона</seg></tuv>
     </tu>

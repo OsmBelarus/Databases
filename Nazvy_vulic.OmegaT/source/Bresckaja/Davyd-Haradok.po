@@ -33,17 +33,12 @@ msgstr ""
 msgid "Заводская"
 msgstr ""
 
-# Objects : [w116701657]
-# Names: [улица имени Калинина]
-msgid "имени Калинина"
-msgstr ""
-
 # Objects : [w118924904]
 # Names: [улица Ищенко]
 msgid "Ищенко"
 msgstr ""
 
-# Objects : [w71497561, w118924870]
+# Objects : [w71497561, w116701657, w118924870]
 # Names: [переулок Калинина, улица Калинина]
 msgid "Калинина"
 msgstr ""

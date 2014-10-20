@@ -1,10 +1,12 @@
 # Objects : [w136785894]
 # Names: [улица 17 Сентября]
 msgid "17 Сентября"
+msgstr ""
 
 # Objects : [w147050124]
 # Names: [улица 40 лет ВЛКСМ]
 msgid "40 лет ВЛКСМ"
+msgstr ""
 
 # Objects : [w136788166, w136788193]
 # Names: [улица 50 лет СССР]
@@ -29,6 +31,7 @@ msgstr ""
 # Objects : [w136791185]
 # Names: [Молодёжная улица]
 msgid "Молодёжная"
+msgstr ""
 
 # Objects : [w136788161, w136789498]
 # Names: [улица Морозова]
@@ -38,6 +41,7 @@ msgstr ""
 # Objects : [w136789487, w136789522]
 # Names: [Октябрьская улица]
 msgid "Октябрьская"
+msgstr ""
 
 # Objects : [w136789494]
 # Names: [Первомайская улица]
@@ -52,14 +56,17 @@ msgstr ""
 # Objects : [w136791180]
 # Names: [Рабочая улица]
 msgid "Рабочая"
+msgstr ""
 
 # Objects : [w243223746]
 # Names: [Радужная улица]
 msgid "Радужная"
+msgstr ""
 
 # Objects : [w136791168]
 # Names: [Садовая улица]
 msgid "Садовая"
+msgstr ""
 
 # Objects : [w136788183, w140315033, w178666246]
 # Names: [Советская улица]
@@ -69,6 +76,7 @@ msgstr ""
 # Objects : [w274985957]
 # Names: [Солнечная улица]
 msgid "Солнечная"
+msgstr ""
 
 # Objects : [w136789554]
 # Names: [Спортивная улица]
@@ -78,4 +86,5 @@ msgstr ""
 # Objects : [w136791166]
 # Names: [Спортивный переулок]
 msgid "Спортивный"
+msgstr ""
 

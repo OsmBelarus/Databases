@@ -141,6 +141,7 @@ msgstr ""
 # Objects : [w261186418]
 # Names: [Восточная улица]
 msgid "Восточная"
+msgstr ""
 
 # Objects : [w141030800]
 # Names: [Восточный переулок]

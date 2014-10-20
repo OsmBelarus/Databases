@@ -51,10 +51,12 @@ msgstr ""
 # Objects : [w264435264]
 # Names: [улица Козлова]
 msgid "Козлова"
+msgstr ""
 
 # Objects : [w264435265]
 # Names: [Комсомольская улица]
 msgid "Комсомольская"
+msgstr ""
 
 # Objects : [w264440479, w264444093]
 # Names: [Кооперативная улица]
@@ -79,6 +81,7 @@ msgstr ""
 # Objects : [w264435266]
 # Names: [Октябрьская улица]
 msgid "Октябрьская"
+msgstr ""
 
 # Objects : [w264440481]
 # Names: [улица Островского]
@@ -93,6 +96,7 @@ msgstr ""
 # Objects : [w25248836]
 # Names: [Пролетарская улица]
 msgid "Пролетарская"
+msgstr ""
 
 # Objects : [w34418078]
 # Names: [Садовая улица]

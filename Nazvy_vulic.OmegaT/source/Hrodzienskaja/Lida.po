@@ -111,6 +111,7 @@ msgstr ""
 # Objects : [w60678915]
 # Names: [улица Булата]
 msgid "Булата"
+msgstr ""
 
 # Objects : [w25286998]
 # Names: [Варшавская улица]

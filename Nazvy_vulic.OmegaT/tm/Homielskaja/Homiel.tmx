@@ -56,10 +56,6 @@
       <tuv lang="BE"><seg>#9 Мая</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Cвязи</seg></tuv>
-      <tuv lang="BE"><seg>#Сувязі</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Авиационная</seg></tuv>
       <tuv lang="BE"><seg>#Авіяцыйная</seg></tuv>
     </tu>
@@ -1674,6 +1670,10 @@
     <tu>
       <tuv lang="RU"><seg>Свободы</seg></tuv>
       <tuv lang="BE"><seg>#Свабоды</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Связи</seg></tuv>
+      <tuv lang="BE"><seg>#Сувязі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Севастопольская</seg></tuv>

@@ -4,8 +4,8 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
-      <tuv lang="RU"><seg>17-го Сентября</seg></tuv>
-      <tuv lang="BE"><seg>#17-га Верасня</seg></tuv>
+      <tuv lang="RU"><seg>17 Сентября</seg></tuv>
+      <tuv lang="BE"><seg>#17 Верасня</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Апанасевича</seg></tuv>
@@ -52,12 +52,16 @@
       <tuv lang="BE"><seg>#Панкратаўская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Первомайская</seg></tuv>
+      <tuv lang="BE"><seg>#Першамайская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Пионерская</seg></tuv>
       <tuv lang="BE"><seg>#Піянерская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Победоносная</seg></tuv>
-      <tuv lang="BE"><seg>#Пабеданосная</seg></tuv>
+      <tuv lang="BE"><seg>#Пераможная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Победы</seg></tuv>

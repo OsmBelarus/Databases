@@ -71,7 +71,7 @@ msgstr "н/Паўлоўскага"
 # Objects : [w229600901]
 # Names: [улица Романа]
 msgid "Романа"
-msgstr ""
+msgstr "н/Рамана"
 
 # Objects : [w229600914]
 # Names: [Садовая улица]

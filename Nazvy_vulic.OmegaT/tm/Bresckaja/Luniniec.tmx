@@ -20,6 +20,10 @@
       <tuv lang="BE"><seg>#Беларуская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Блока</seg></tuv>
+      <tuv lang="BE"><seg>#Блока</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Богданова</seg></tuv>
       <tuv lang="BE"><seg>#Багданава</seg></tuv>
     </tu>
@@ -184,12 +188,12 @@
       <tuv lang="BE"><seg>#Кастрычніцкая</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>П. Бровки</seg></tuv>
-      <tuv lang="BE"><seg>#Пятруся Броўкі</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Пантелеева</seg></tuv>
       <tuv lang="BE"><seg>#Панцялеева</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Петруся Бровки</seg></tuv>
+      <tuv lang="BE"><seg>#Пятруся Броўкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Петрушевского</seg></tuv>

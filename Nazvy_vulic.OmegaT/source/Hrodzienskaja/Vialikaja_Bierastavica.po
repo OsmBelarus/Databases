@@ -1,6 +1,7 @@
 # Objects : [w105578361]
-# Names: [1 Мая]
+# Names: [улица 1 Мая]
 msgid "1 Мая"
+msgstr ""
 
 # Objects : [w105578316]
 # Names: [улица Анохина]
@@ -20,10 +21,12 @@ msgstr ""
 # Objects : [w105578291]
 # Names: [улица Гастелло]
 msgid "Гастелло"
+msgstr ""
 
 # Objects : [w105578362]
 # Names: [улица Гоголя]
 msgid "Гоголя"
+msgstr ""
 
 # Objects : [w105580550]
 # Names: [улица Дзержинского]
@@ -43,10 +46,12 @@ msgstr ""
 # Objects : [w105578324]
 # Names: [улица Калинина]
 msgid "Калинина"
+msgstr ""
 
 # Objects : [w268224757]
 # Names: [улица Калиновского]
 msgid "Калиновского"
+msgstr ""
 
 # Objects : [w184467870]
 # Names: [Каштановая улица]
@@ -56,10 +61,12 @@ msgstr ""
 # Objects : [w105578336]
 # Names: [улица Ковалевского]
 msgid "Ковалевского"
+msgstr ""
 
 # Objects : [w105578317]
 # Names: [Колхозная улица]
 msgid "Колхозная"
+msgstr ""
 
 # Objects : [w105578326]
 # Names: [Комсомольская улица]
@@ -74,6 +81,7 @@ msgstr ""
 # Objects : [w55388130]
 # Names: [Красноармейский переулок]
 msgid "Красноармейский"
+msgstr ""
 
 # Objects : [w105578308, w105578330, w135846876, w268224758]
 # Names: [улица Ленина]
@@ -100,10 +108,6 @@ msgstr ""
 msgid "Новая"
 msgstr ""
 
-# Objects : [w105578341]
-# Names: [улица О. Соломовой]
-msgid "О. Соломовой"
-
 # Objects : [w55389384, w105578309]
 # Names: [Октябрьская улица]
 msgid "Октябрьская"
@@ -112,14 +116,17 @@ msgstr ""
 # Objects : [w105578304, w268224750]
 # Names: [Партизанская улица]
 msgid "Партизанская"
+msgstr ""
 
 # Objects : [w105578338]
 # Names: [улица Пушкина]
 msgid "Пушкина"
+msgstr ""
 
 # Objects : [w268224753]
 # Names: [Рабочая улица]
 msgid "Рабочая"
+msgstr ""
 
 # Objects : [w25289861, w25289866, w25289868, w25289871, w55385831]
 # Names: [Советская улица]
@@ -134,10 +141,16 @@ msgstr ""
 # Objects : [w105578345]
 # Names: [Солнечная улица]
 msgid "Солнечная"
+msgstr ""
 
 # Objects : [w106106358]
 # Names: [Солнечный переулок]
 msgid "Солнечный"
+msgstr ""
+
+# Objects : [w105578341]
+# Names: [улица Соломовой]
+msgid "Соломовой"
 
 # Objects : [w25289863]
 # Names: [Стародворецкая улица]
@@ -147,6 +160,7 @@ msgstr ""
 # Objects : [w105578327]
 # Names: [улица Толстого]
 msgid "Толстого"
+msgstr ""
 
 # Objects : [w105578299]
 # Names: [улица Чкалова]
@@ -156,8 +170,10 @@ msgstr ""
 # Objects : [w268224755]
 # Names: [Юбилейный переулок]
 msgid "Юбилейный"
+msgstr ""
 
 # Objects : [w105578321]
 # Names: [Южная улица]
 msgid "Южная"
+msgstr ""
 

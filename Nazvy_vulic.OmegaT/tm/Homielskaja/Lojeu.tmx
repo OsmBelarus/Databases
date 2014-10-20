@@ -4,12 +4,28 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>Батова</seg></tuv>
+      <tuv lang="BE"><seg>#Батава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Волкова</seg></tuv>
+      <tuv lang="BE"><seg>#Волкава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Гагарина</seg></tuv>
       <tuv lang="BE"><seg>#Гагарына</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Дзержинского</seg></tuv>
+      <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Днепровская</seg></tuv>
       <tuv lang="BE"><seg>#Дняпроўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ермакова</seg></tuv>
+      <tuv lang="BE"><seg>#Ермакова</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Калинина</seg></tuv>
@@ -22,6 +38,10 @@
     <tu>
       <tuv lang="RU"><seg>Комсомольская</seg></tuv>
       <tuv lang="BE"><seg>#Камсамольская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Константинова</seg></tuv>
+      <tuv lang="BE"><seg>#Канстанцінава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ленина</seg></tuv>
@@ -44,6 +64,10 @@
       <tuv lang="BE"><seg>#Першамайская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Пинчука</seg></tuv>
+      <tuv lang="BE"><seg>#Пінчука</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Пионерская</seg></tuv>
       <tuv lang="BE"><seg>#Піянерская</seg></tuv>
     </tu>
@@ -54,6 +78,10 @@
     <tu>
       <tuv lang="RU"><seg>Садовая</seg></tuv>
       <tuv lang="BE"><seg>#Садовая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Синякова</seg></tuv>
+      <tuv lang="BE"><seg>#Сінякова</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>
@@ -68,8 +96,24 @@
       <tuv lang="BE"><seg>#Тэльмана</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Фроленкова</seg></tuv>
+      <tuv lang="BE"><seg>#Фраленкова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Царикова</seg></tuv>
+      <tuv lang="BE"><seg>#Царыкава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Чапаева</seg></tuv>
       <tuv lang="BE"><seg>#Чапаева</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шевелёва</seg></tuv>
+      <tuv lang="BE"><seg>#Шэвелёва</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шипилова</seg></tuv>
+      <tuv lang="BE"><seg>#Шыпілава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Школьная</seg></tuv>

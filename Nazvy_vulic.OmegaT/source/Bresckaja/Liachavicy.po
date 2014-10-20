@@ -128,10 +128,6 @@ msgstr ""
 msgid "Луговая"
 msgstr ""
 
-# Objects : [w80221184]
-# Names: [улица М. Пташука]
-msgid "М. Пташука"
-
 # Objects : [w25281564]
 # Names: [улица Матросова]
 msgid "Матросова"
@@ -151,6 +147,10 @@ msgstr ""
 # Names: [улица Мира]
 msgid "Мира"
 msgstr ""
+
+# Objects : [w80221184]
+# Names: [улица Михаила Пташука]
+msgid "Михаила Пташука"
 
 # Objects : [w129559547]
 # Names: [Новый переулок]
@@ -195,6 +195,7 @@ msgstr ""
 # Objects : [w129008678]
 # Names: [Подлесская улица]
 msgid "Подлесская"
+msgstr ""
 
 # Objects : [w129001528]
 # Names: [Полевой переулок]

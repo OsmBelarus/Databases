@@ -56,6 +56,7 @@ msgstr ""
 # Objects : [w80216833]
 # Names: [Красинская улица]
 msgid "Красинская"
+msgstr ""
 
 # Objects : [w97723492]
 # Names: [Красноармейская улица]

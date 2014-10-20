@@ -152,6 +152,10 @@
       <tuv lang="BE"><seg>#Леваберагавая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Ленинский</seg></tuv>
+      <tuv lang="BE"><seg>#Ленінскі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Лопанькова</seg></tuv>
       <tuv lang="BE"><seg>#Лапанькова</seg></tuv>
     </tu>
@@ -193,7 +197,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Никандровой</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца Нікандравай</seg></tuv>
+      <tuv lang="BE"><seg>#Нікандравай</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Новая</seg></tuv>

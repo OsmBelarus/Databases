@@ -1,6 +1,7 @@
 # Objects : [w41144374]
 # Names: [улица Дзержинского]
 msgid "Дзержинского"
+msgstr ""
 
 # Objects : [w124658398]
 # Names: [улица Ленина]
@@ -10,8 +11,10 @@ msgstr ""
 # Objects : [w239128443, w239906577]
 # Names: [Советская улица]
 msgid "Советская"
+msgstr ""
 
 # Objects : [w240627990]
 # Names: [улица Томилова]
 msgid "Томилова"
+msgstr ""
 

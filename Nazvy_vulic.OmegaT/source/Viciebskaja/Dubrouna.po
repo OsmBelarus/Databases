@@ -186,6 +186,7 @@ msgstr ""
 # Objects : [w77502252]
 # Names: [Ленинский переулок]
 msgid "Ленинский"
+msgstr ""
 
 # Objects : [w85893924]
 # Names: [улица Лопанькова]

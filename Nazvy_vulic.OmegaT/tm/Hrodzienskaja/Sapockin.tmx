@@ -8,8 +8,20 @@
       <tuv lang="BE"><seg>#Аўгустоўская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Величинского</seg></tuv>
+      <tuv lang="BE"><seg>#Велічынскага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Гродненская</seg></tuv>
       <tuv lang="BE"><seg>#Гродзенская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ожешко</seg></tuv>
+      <tuv lang="BE"><seg>#Ажэшкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Теолинская</seg></tuv>
+      <tuv lang="BE"><seg>#Тэалінская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Школьная</seg></tuv>

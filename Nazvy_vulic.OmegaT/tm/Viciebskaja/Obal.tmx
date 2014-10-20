@@ -4,8 +4,8 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
-      <tuv lang="RU"><seg>C. Уравневой</seg></tuv>
-      <tuv lang="BE"><seg>#С. Ураўневай</seg></tuv>
+      <tuv lang="RU"><seg>Азолиной</seg></tuv>
+      <tuv lang="BE"><seg>#Азолінай</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Вокзальная</seg></tuv>
@@ -14,6 +14,10 @@
     <tu>
       <tuv lang="RU"><seg>Вышелесского</seg></tuv>
       <tuv lang="BE"><seg>#Вышалескага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Давыдова</seg></tuv>
+      <tuv lang="BE"><seg>#Давыдава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Даумана</seg></tuv>
@@ -28,8 +32,20 @@
       <tuv lang="BE"><seg>#Зялёная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Зеньковой</seg></tuv>
+      <tuv lang="BE"><seg>#Зяньковай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Зинаиды Портновой</seg></tuv>
+      <tuv lang="BE"><seg>#Зінаіды Партновай</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Комсомольская</seg></tuv>
       <tuv lang="BE"><seg>#Камсамольская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Комсомольский</seg></tuv>
+      <tuv lang="BE"><seg>#Камсамольскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ленина</seg></tuv>
@@ -48,8 +64,28 @@
       <tuv lang="BE"><seg>#Першамайская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Поддубная</seg></tuv>
+      <tuv lang="BE"><seg>#Паддубная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Речная</seg></tuv>
+      <tuv lang="BE"><seg>#Рачная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Слышанкова</seg></tuv>
+      <tuv lang="BE"><seg>#Слышанкова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Уравневой</seg></tuv>
+      <tuv lang="BE"><seg>#С. Ураўневай</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Фабричная</seg></tuv>
       <tuv lang="BE"><seg>#Фабрычная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Черёмуховая</seg></tuv>
+      <tuv lang="BE"><seg>#Чаромхавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Школьная</seg></tuv>

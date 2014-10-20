@@ -4,32 +4,34 @@ msgid "Браславская"
 msgstr ""
 
 # Objects : [w97801060]
-# Names: [Браславский пер.]
+# Names: [Браславский переулок]
 msgid "Браславский"
+msgstr ""
 
 # Objects : [w97801064]
 # Names: [Весенняя улица]
 msgid "Весенняя"
+msgstr ""
 
-# Objects : [w97801073]
-# Names: [ул. Горького]
+# Objects : [w97801073, w161938809]
+# Names: [переулок Горького, улица Горького]
 msgid "Горького"
+msgstr ""
 
 # Objects : [w161938735]
 # Names: [Гражданская улица]
 msgid "Гражданская"
+msgstr ""
 
 # Objects : [w97801058]
 # Names: [улица Заслонова]
 msgid "Заслонова"
-
-# Objects : [w161938809]
-# Names: [пер. им. Горького]
-msgid "им. Горького"
+msgstr ""
 
 # Objects : [w97801080, w98371870, w161938799, w177868883, w177868884]
 # Names: [переулок Кирова, улица Кирова]
 msgid "Кирова"
+msgstr ""
 
 # Objects : [w103067288]
 # Names: [Красноармейская улица]
@@ -39,10 +41,12 @@ msgstr ""
 # Objects : [w161938801]
 # Names: [улица Крылова]
 msgid "Крылова"
+msgstr ""
 
 # Objects : [w97801071]
 # Names: [улица Куйбышева]
 msgid "Куйбышева"
+msgstr ""
 
 # Objects : [w161938802, w161938803, w241089560, w241089561]
 # Names: [переулок Ленина, улица Ленина]
@@ -52,60 +56,75 @@ msgstr ""
 # Objects : [w97801065]
 # Names: [Молодёжная улица]
 msgid "Молодёжная"
+msgstr ""
 
 # Objects : [w97801061]
 # Names: [Новая улица]
 msgid "Новая"
+msgstr ""
 
 # Objects : [w97801078]
 # Names: [Октябрьская улица]
 msgid "Октябрьская"
+msgstr ""
 
 # Objects : [w97801062]
 # Names: [улица Пушкина]
 msgid "Пушкина"
+msgstr ""
 
 # Objects : [w161938804]
 # Names: [Садовая улица]
 msgid "Садовая"
+msgstr ""
 
 # Objects : [w161938805]
 # Names: [улица Свердлова]
 msgid "Свердлова"
+msgstr ""
 
 # Objects : [w97801074]
 # Names: [Советская улица]
 msgid "Советская"
+msgstr ""
 
 # Objects : [w25277957]
 # Names: [Спортивная улица]
 msgid "Спортивная"
+msgstr ""
 
 # Objects : [w161938806]
 # Names: [Спортивный переулок]
 msgid "Спортивный"
+msgstr ""
 
 # Objects : [w97801076]
-# Names: [улица Стадионная]
+# Names: [Стадионная улица]
 msgid "Стадионная"
+msgstr ""
 
 # Objects : [w308209929]
-# Names: [ул. Степная]
+# Names: [Степная улица]
 msgid "Степная"
+msgstr ""
 
 # Objects : [w97801069]
 # Names: [улица Чапаева]
 msgid "Чапаева"
+msgstr ""
 
 # Objects : [w97801068, w266099817, w266099818]
 # Names: [улица Чкалова]
 msgid "Чкалова"
+msgstr ""
 
 # Objects : [w97942504]
 # Names: [Школьная улица]
 msgid "Школьная"
+msgstr ""
 
 # Objects : [w161938807]
 # Names: [улица Янки Купалы]
 msgid "Янки Купалы"
+msgstr ""
 

@@ -53,7 +53,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Великий Гостинец</seg></tuv>
-      <tuv lang="BE"><seg>#вулiца Вялікі Гасцінец</seg></tuv>
+      <tuv lang="BE"><seg>#Вялікі Гасцінец</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Великодная</seg></tuv>
@@ -62,6 +62,10 @@
     <tu>
       <tuv lang="RU"><seg>Великосельская</seg></tuv>
       <tuv lang="BE"><seg>#Вялікасельская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вередовская</seg></tuv>
+      <tuv lang="BE"><seg>#Вярэдаўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Веры Хоружей</seg></tuv>
@@ -518,10 +522,6 @@
     <tu>
       <tuv lang="RU"><seg>Притыцкого</seg></tuv>
       <tuv lang="BE"><seg>#Прытыцкага</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Промыcловый</seg></tuv>
-      <tuv lang="BE"><seg>#Прамысловы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Промысловая</seg></tuv>

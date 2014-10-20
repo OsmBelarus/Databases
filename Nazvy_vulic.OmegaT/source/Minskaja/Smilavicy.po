@@ -10,48 +10,60 @@ msgstr ""
 # Objects : [w157905457]
 # Names: [Грушевая улица]
 msgid "Грушевая"
+msgstr ""
 
 # Objects : [w146880469]
-# Names: [улица Дзеринского]
-msgid "Дзеринского"
+# Names: [улица Держинского]
+msgid "Держинского"
+msgstr ""
 
 # Objects : [w116370051]
-# Names: [ул. Доватра]
-msgid "Доватра"
+# Names: [улица Доватора]
+msgid "Доватора"
+msgstr ""
 
 # Objects : [w35361598]
 # Names: [Комсомольская улица]
 msgid "Комсомольская"
+msgstr ""
 
 # Objects : [w81574179]
 # Names: [улица Медведева]
 msgid "Медведева"
+msgstr ""
 
 # Objects : [w127076434]
-# Names: [улица Октярьская]
-msgid "Октярьская"
+# Names: [Октябрьская улица]
+msgid "Октябрьская"
+msgstr ""
 
 # Objects : [w35361563, w85651228]
 # Names: [Первомайская улица]
 msgid "Первомайская"
+msgstr ""
 
 # Objects : [w157905450]
 # Names: [Полевая улица]
 msgid "Полевая"
+msgstr ""
 
 # Objects : [w85651230]
 # Names: [Садовая улица]
 msgid "Садовая"
+msgstr ""
 
 # Objects : [w196968455]
 # Names: [Советская улица]
 msgid "Советская"
+msgstr ""
 
 # Objects : [w114313468]
 # Names: [Школьный переулок]
 msgid "Школьный"
+msgstr ""
 
 # Objects : [w157905463]
 # Names: [Южная улица]
 msgid "Южная"
+msgstr ""
 

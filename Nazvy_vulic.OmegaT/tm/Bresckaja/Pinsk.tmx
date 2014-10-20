@@ -296,6 +296,10 @@
       <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Иркутско-Пинской Дивизии</seg></tuv>
+      <tuv lang="BE"><seg>#Іркуцка-Пінскай Дывізіі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Казимира Свёнтэка</seg></tuv>
       <tuv lang="BE"><seg>#Казіміра Свёнтака</seg></tuv>
     </tu>
@@ -878,6 +882,10 @@
     <tu>
       <tuv lang="RU"><seg>Степная</seg></tuv>
       <tuv lang="BE"><seg>#Сцяпная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Столинская</seg></tuv>
+      <tuv lang="BE"><seg>#Столінская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Строгая</seg></tuv>

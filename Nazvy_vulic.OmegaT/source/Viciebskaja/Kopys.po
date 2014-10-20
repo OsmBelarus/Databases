@@ -1,64 +1,80 @@
 # Objects : [w98369083]
-# Names: [1905 г. ул.]
-msgid "1905 г."
+# Names: [улица 1905 года]
+msgid "1905 года"
+msgstr ""
 
 # Objects : [w74356642]
-# Names: [30 лет БССР ул.]
+# Names: [улица 30 лет БССР]
 msgid "30 лет БССР"
+msgstr ""
 
 # Objects : [w74356634]
 # Names: [Базарная улица]
 msgid "Базарная"
+msgstr ""
 
 # Objects : [w81399385, w207557699]
 # Names: [Днепровская улица]
 msgid "Днепровская"
+msgstr ""
 
 # Objects : [w74356644]
 # Names: [Заводская улица]
 msgid "Заводская"
+msgstr ""
 
 # Objects : [w159138427]
 # Names: [улица Карла Маркса]
 msgid "Карла Маркса"
+msgstr ""
 
 # Objects : [w159138430, w207557700]
 # Names: [Ленинская улица]
 msgid "Ленинская"
+msgstr ""
 
 # Objects : [w105361668, w105361696]
 # Names: [Октябрьская улица]
 msgid "Октябрьская"
+msgstr ""
 
 # Objects : [w159138433]
 # Names: [Октябрьский переулок]
 msgid "Октябрьский"
+msgstr ""
 
 # Objects : [w159138434, w202181923]
 # Names: [Оршанская улица]
 msgid "Оршанская"
+msgstr ""
 
 # Objects : [w159138436]
 # Names: [Почтовая улица]
 msgid "Почтовая"
+msgstr ""
 
 # Objects : [w105361679]
 # Names: [Садовая улица]
 msgid "Садовая"
+msgstr ""
 
 # Objects : [w74356630]
 # Names: [Советская улица]
 msgid "Советская"
+msgstr ""
 
 # Objects : [w98369100]
 # Names: [Советский переулок]
 msgid "Советский"
+msgstr ""
 
 # Objects : [w98357046]
-# Names: [Тростинского ул.]
+# Names: [улица Тростинского]
 msgid "Тростинского"
+msgstr ""
 
 # Objects : [w74356640]
 # Names: [улица Чкалова]
 msgid "Чкалова"
+msgstr ""
 

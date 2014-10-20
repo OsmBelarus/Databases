@@ -1,48 +1,60 @@
 # Objects : [w157407482]
-# Names: [Базарная]
+# Names: [Базарная улица]
 msgid "Базарная"
+msgstr ""
 
 # Objects : [w157407453]
-# Names: [Володарского]
+# Names: [улица Володарского]
 msgid "Володарского"
+msgstr ""
 
 # Objects : [w156137107]
 # Names: [улица Ворошилова]
 msgid "Ворошилова"
+msgstr ""
 
 # Objects : [w156137094]
 # Names: [Заводская улица]
 msgid "Заводская"
+msgstr ""
 
 # Objects : [w157424699]
 # Names: [Зелёная улица]
 msgid "Зелёная"
+msgstr ""
 
 # Objects : [w157407455]
-# Names: [Коммунальная]
+# Names: [Коммунальная улица]
 msgid "Коммунальная"
+msgstr ""
 
 # Objects : [w157407456]
 # Names: [Молодёжная улица]
 msgid "Молодёжная"
+msgstr ""
 
 # Objects : [w157407487]
-# Names: [Надречная]
+# Names: [Надречная улица]
 msgid "Надречная"
+msgstr ""
 
 # Objects : [w157424702]
 # Names: [Пролетарская улица]
 msgid "Пролетарская"
+msgstr ""
 
 # Objects : [w157407459]
 # Names: [улица Пушкина]
 msgid "Пушкина"
+msgstr ""
 
 # Objects : [w157537548]
 # Names: [Солнечная улица]
 msgid "Солнечная"
+msgstr ""
 
 # Objects : [w156137097]
-# Names: [Социалистическая]
+# Names: [Социалистическая улица]
 msgid "Социалистическая"
+msgstr ""
 

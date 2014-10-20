@@ -1,11 +1,12 @@
 # Objects : [w287685805]
-# Names: [улица 17-го Сентября]
-msgid "17-го Сентября"
+# Names: [улица 17 Сентября]
+msgid "17 Сентября"
 msgstr ""
 
 # Objects : [w69138227, w69138668]
 # Names: [переулок 8 Марта, улица 8 Марта]
 msgid "8 Марта"
+msgstr ""
 
 # Objects : [w69139682]
 # Names: [Заводская улица]
@@ -15,6 +16,7 @@ msgstr ""
 # Objects : [w69138686]
 # Names: [Зелёная улица]
 msgid "Зелёная"
+msgstr ""
 
 # Objects : [w69139851]
 # Names: [улица Карла Маркса]
@@ -29,6 +31,7 @@ msgstr ""
 # Objects : [w69137733]
 # Names: [Короткая улица]
 msgid "Короткая"
+msgstr ""
 
 # Objects : [w88815701]
 # Names: [Лесная улица]
@@ -43,6 +46,7 @@ msgstr ""
 # Objects : [w69139331]
 # Names: [улица Мира]
 msgid "Мира"
+msgstr ""
 
 # Objects : [w69139585]
 # Names: [Новая улица]
@@ -52,18 +56,22 @@ msgstr ""
 # Objects : [w69139668]
 # Names: [Первомайская улица]
 msgid "Первомайская"
+msgstr ""
 
 # Objects : [w69139393]
 # Names: [улица Победы]
 msgid "Победы"
+msgstr ""
 
 # Objects : [w69137550]
 # Names: [Пролетарская улица]
 msgid "Пролетарская"
+msgstr ""
 
 # Objects : [w69138087]
 # Names: [Рябиновая улица]
 msgid "Рябиновая"
+msgstr ""
 
 # Objects : [w69138935]
 # Names: [Садовая улица]
@@ -83,6 +91,7 @@ msgstr ""
 # Objects : [w69139896]
 # Names: [улица Строителей]
 msgid "Строителей"
+msgstr ""
 
 # Objects : [w69138582]
 # Names: [Школьная улица]
