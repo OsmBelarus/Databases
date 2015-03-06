@@ -24,6 +24,10 @@
       <tuv lang="BE"><seg>#70 гадоў Кастрычніка</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>XXVII Съезда КПСС</seg></tuv>
+      <tuv lang="BE"><seg>#XXVII З’езду КПСС</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Белорусская</seg></tuv>
       <tuv lang="BE"><seg>#Беларуская</seg></tuv>
     </tu>
@@ -140,10 +144,6 @@
       <tuv lang="BE"><seg>#Касманаўтаў</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Красивая</seg></tuv>
-      <tuv lang="BE"><seg>#Прыгожая</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Кулешова</seg></tuv>
       <tuv lang="BE"><seg>#Куляшова</seg></tuv>
     </tu>
@@ -234,6 +234,10 @@
     <tu>
       <tuv lang="RU"><seg>Пролетарская</seg></tuv>
       <tuv lang="BE"><seg>#Пралетарская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Прыгожая</seg></tuv>
+      <tuv lang="BE"><seg>#Прыгожая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Пушкинская</seg></tuv>

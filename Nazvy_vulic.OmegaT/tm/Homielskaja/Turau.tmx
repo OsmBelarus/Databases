@@ -105,7 +105,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ленинский</seg></tuv>
-      <tuv lang="BE"><seg>#Ленінскі</seg></tuv>
+      <tuv lang="BE"><seg>#1 Ленінскі#2 Ленінскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лесная</seg></tuv>
@@ -170,6 +170,10 @@
     <tu>
       <tuv lang="RU"><seg>Солнечная</seg></tuv>
       <tuv lang="BE"><seg>#Сонечная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Солнечный</seg></tuv>
+      <tuv lang="BE"><seg>#Сонечны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Урицкого</seg></tuv>

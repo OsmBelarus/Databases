@@ -178,7 +178,7 @@ msgstr ""
 msgid "Оршанская"
 msgstr ""
 
-# Objects : [w25246744, w30660157]
+# Objects : [w25246744, w311859023]
 # Names: [Парковая улица]
 msgid "Парковая"
 msgstr ""

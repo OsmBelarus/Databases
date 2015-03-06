@@ -23,10 +23,6 @@ msgstr ""
 msgid "Вороновича"
 msgstr ""
 
-# Objects : [w157042643]
-# Names: [в ПМС]
-msgid "в ПМС"
-
 # Objects : [w106442576, w115544896, w289555677]
 # Names: [улица Гагарина]
 msgid "Гагарина"

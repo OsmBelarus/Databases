@@ -112,6 +112,10 @@
       <tuv lang="BE"><seg>#Паветраная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Волгоградская</seg></tuv>
+      <tuv lang="BE"><seg>#Валгаградская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Вороновская</seg></tuv>
       <tuv lang="BE"><seg>#Воранаўская</seg></tuv>
     </tu>
@@ -216,12 +220,16 @@
       <tuv lang="BE"><seg>#Данскога</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Достоевского</seg></tuv>
+      <tuv lang="BE"><seg>#Дастаеўскага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Дружная</seg></tuv>
       <tuv lang="BE"><seg>#Дружная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Дубровинская</seg></tuv>
-      <tuv lang="BE"><seg>#Дубравінская</seg></tuv>
+      <tuv lang="RU"><seg>Дубровенская</seg></tuv>
+      <tuv lang="BE"><seg>#Дубравенская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Жабинского</seg></tuv>
@@ -620,8 +628,8 @@
       <tuv lang="BE"><seg>#Узорная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Объездная дорога</seg></tuv>
-      <tuv lang="BE"><seg>#Аб’язная дарога</seg></tuv>
+      <tuv lang="RU"><seg>Объездная</seg></tuv>
+      <tuv lang="BE"><seg>#Аб'язная#Аб'язная вулица</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Озёрная</seg></tuv>
@@ -818,6 +826,10 @@
     <tu>
       <tuv lang="RU"><seg>Седова</seg></tuv>
       <tuv lang="BE"><seg>#Сядова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Серафимовича</seg></tuv>
+      <tuv lang="BE"><seg>#Серафімовіча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Сергея Лазо</seg></tuv>
@@ -1062,6 +1074,10 @@
     <tu>
       <tuv lang="RU"><seg>Янки Купалы</seg></tuv>
       <tuv lang="BE"><seg>#Янкі Купалы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ясеневая</seg></tuv>
+      <tuv lang="BE"><seg>#Ясеневая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ясная</seg></tuv>

@@ -244,6 +244,10 @@
       <tuv lang="BE"><seg>#Вялікая Чавуская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Бонкузова</seg></tuv>
+      <tuv lang="BE"><seg>#Сонечная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Бонч-Бруевича</seg></tuv>
       <tuv lang="BE"><seg>#Бонч-Бруевіча</seg></tuv>
     </tu>
@@ -390,6 +394,10 @@
     <tu>
       <tuv lang="RU"><seg>Ветренный</seg></tuv>
       <tuv lang="BE"><seg>#Ветраны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Вешнёвый</seg></tuv>
+      <tuv lang="BE"><seg>#Пугачова</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Виленская</seg></tuv>
@@ -664,6 +672,10 @@
       <tuv lang="BE"><seg>#Дзятлаўскі</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Евевичный</seg></tuv>
+      <tuv lang="BE"><seg>#Ежевичный</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Ежевичная</seg></tuv>
       <tuv lang="BE"><seg>#Ажынавая</seg></tuv>
     </tu>
@@ -730,6 +742,10 @@
     <tu>
       <tuv lang="RU"><seg>Загородный</seg></tuv>
       <tuv lang="BE"><seg>#Загарадны</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Загорский Поселок</seg></tuv>
+      <tuv lang="BE"><seg>#Загорскі Пасёлак</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Залуцкого</seg></tuv>
@@ -1484,12 +1500,12 @@
       <tuv lang="BE"><seg>#Музычны</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Муманский</seg></tuv>
-      <tuv lang="BE"><seg>#Муманскі</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Мурманская</seg></tuv>
       <tuv lang="BE"><seg>#Мурманская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Мурманский</seg></tuv>
+      <tuv lang="BE"><seg>#Мурманскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мусоргского</seg></tuv>
@@ -1738,10 +1754,6 @@
     <tu>
       <tuv lang="RU"><seg>Перова</seg></tuv>
       <tuv lang="BE"><seg>#Пярова</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Песочная</seg></tuv>
-      <tuv lang="BE"><seg>#Пясочная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Петровский</seg></tuv>
@@ -2184,10 +2196,6 @@
       <tuv lang="BE"><seg>#Саўгасны</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Солнечная</seg></tuv>
-      <tuv lang="BE"><seg>#Сонечная</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Солнечный</seg></tuv>
       <tuv lang="BE"><seg>#Сонечны</seg></tuv>
     </tu>
@@ -2384,8 +2392,8 @@
       <tuv lang="BE"><seg>#Трохвугольны</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Трубницких</seg></tuv>
-      <tuv lang="BE"><seg>#Трубніцкіх</seg></tuv>
+      <tuv lang="RU"><seg>Трубницкого</seg></tuv>
+      <tuv lang="BE"><seg>#Трубніцкого</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Трубный</seg></tuv>
@@ -2598,6 +2606,10 @@
     <tu>
       <tuv lang="RU"><seg>Шкловский</seg></tuv>
       <tuv lang="BE"><seg>#Шклоўскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шкловское</seg></tuv>
+      <tuv lang="BE"><seg>#Шклоўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Школьная</seg></tuv>

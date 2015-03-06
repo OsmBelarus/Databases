@@ -43,7 +43,7 @@ msgstr ""
 msgid "Механизаторов"
 msgstr ""
 
-# Objects : [w274243732]
+# Objects : [w324294275]
 # Names: [улица Мира]
 msgid "Мира"
 msgstr ""
@@ -63,8 +63,12 @@ msgstr ""
 msgid "Советская"
 msgstr ""
 
-# Objects : [w36163089]
+# Objects : [w36163089, w315598022, w315598023]
 # Names: [улица Черткова]
 msgid "Черткова"
 msgstr ""
+
+# Objects : [w45669231]
+# Names: [улица Шевченко]
+msgid "Шевченко"
 

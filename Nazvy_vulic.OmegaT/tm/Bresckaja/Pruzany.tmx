@@ -24,10 +24,6 @@
       <tuv lang="BE"><seg>#8 Сакавіка</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Аптекарский</seg></tuv>
-      <tuv lang="BE"><seg>#Аптэкарскі</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Батова</seg></tuv>
       <tuv lang="BE"><seg>#Батава</seg></tuv>
     </tu>
@@ -78,10 +74,6 @@
     <tu>
       <tuv lang="RU"><seg>Вишнёвая</seg></tuv>
       <tuv lang="BE"><seg>#Вішнёвая</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Вишневецкого</seg></tuv>
-      <tuv lang="BE"><seg>#Вішнявецкага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гастелло</seg></tuv>
@@ -154,10 +146,6 @@
     <tu>
       <tuv lang="RU"><seg>Кобринская</seg></tuv>
       <tuv lang="BE"><seg>#Кобрынская</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Кобринский</seg></tuv>
-      <tuv lang="BE"><seg>#Кобрынскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Комарова</seg></tuv>
@@ -274,10 +262,6 @@
     <tu>
       <tuv lang="RU"><seg>Мочалова</seg></tuv>
       <tuv lang="BE"><seg>#Мачалава</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Набережная</seg></tuv>
-      <tuv lang="BE"><seg>#Набярэжная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ничипоровича</seg></tuv>

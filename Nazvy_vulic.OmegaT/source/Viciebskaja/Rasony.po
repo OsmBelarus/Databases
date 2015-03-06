@@ -24,8 +24,9 @@ msgid "Гоголя"
 msgstr ""
 
 # Objects : [w156980671]
-# Names: [Горецкой ул.]
+# Names: [улица Горецкой]
 msgid "Горецкой"
+msgstr ""
 
 # Objects : [w156964925, w156964926]
 # Names: [улица Держинского]
@@ -57,6 +58,11 @@ msgstr ""
 msgid "Заслонова"
 msgstr ""
 
+# Objects : [w40106855, w40106856]
+# Names: [Кирпичная улица, улица Кирпичная]
+msgid "Кирпичная"
+msgstr ""
+
 # Objects : [w157457499, w165800769]
 # Names: [Колхозная улица]
 msgid "Колхозная"
@@ -72,17 +78,21 @@ msgstr ""
 msgid "Кольцевой"
 msgstr ""
 
-# Objects : [w30018288, w157657640]
+# Objects : [w30018288, w157507933, w157657640]
 # Names: [Комсомольская улица]
 msgid "Комсомольская"
 msgstr ""
 
-# Objects : [w157507933, w157507934]
+# Objects : [w157507934]
 # Names: [Комсомольский переулок]
 msgid "Комсомольский"
 msgstr ""
 
-# Objects : [w157717411]
+# Objects : [w126977719]
+# Names: [Корзуновская ул.]
+msgid "Корзуновская"
+
+# Objects : [w32403003, w157717411]
 # Names: [улица Королькевича]
 msgid "Королькевича"
 msgstr ""
@@ -92,7 +102,7 @@ msgstr ""
 msgid "Космонавтов"
 msgstr ""
 
-# Objects : [w40106856, w79606573]
+# Objects : [w79606573, w317900426]
 # Names: [улица Лапенко]
 msgid "Лапенко"
 msgstr ""
@@ -106,6 +116,10 @@ msgstr ""
 # Names: [Лесная улица]
 msgid "Лесная"
 msgstr ""
+
+# Objects : [w157145985]
+# Names: [Липовая улица]
+msgid "Липовая"
 
 # Objects : [w126977733, w156980673]
 # Names: [улица Льва Толстого]
@@ -132,6 +146,10 @@ msgstr ""
 msgid "Мира"
 msgstr ""
 
+# Objects : [w40188788]
+# Names: [Молодёжная улица]
+msgid "Молодёжная"
+
 # Objects : [w156980674]
 # Names: [Невельская улица]
 msgid "Невельская"
@@ -147,7 +165,7 @@ msgstr ""
 msgid "Некрасова"
 msgstr ""
 
-# Objects : [w179500190]
+# Objects : [w157145993]
 # Names: [Озёрная улица]
 msgid "Озёрная"
 msgstr ""
@@ -163,17 +181,13 @@ msgid "Октябрьский"
 msgstr ""
 
 # Objects : [w157145995]
-# Names: [Охотина ул.]
+# Names: [улица Охотина]
 msgid "Охотина"
+msgstr ""
 
 # Objects : [w156964930]
 # Names: [Партизанская улица]
 msgid "Партизанская"
-msgstr ""
-
-# Objects : [w32403003]
-# Names: [Партизанский переулок]
-msgid "Партизанский"
 msgstr ""
 
 # Objects : [w126977737]

@@ -1,4 +1,4 @@
-# Objects : [w271117640]
+# Objects : [w271117640, w272750213]
 # Names: [Гродненская улица]
 msgid "Гродненская"
 msgstr ""
@@ -13,7 +13,7 @@ msgstr ""
 msgid "Комсомольская"
 msgstr ""
 
-# Objects : [w202857471, w267393256]
+# Objects : [w267393256]
 # Names: [улица Лупсякова]
 msgid "Лупсякова"
 msgstr ""
@@ -22,6 +22,10 @@ msgstr ""
 # Names: [улица Маяковского]
 msgid "Маяковского"
 msgstr ""
+
+# Objects : [w202857471]
+# Names: [Молодёжная улица]
+msgid "Молодёжная"
 
 # Objects : [w130910737, w202857504, w267393257]
 # Names: [Первомайская улица]
@@ -38,7 +42,7 @@ msgstr ""
 msgid "Полевая"
 msgstr ""
 
-# Objects : [w202857549, w271394694]
+# Objects : [w202857549]
 # Names: [Пробойная улица]
 msgid "Пробойная"
 msgstr ""

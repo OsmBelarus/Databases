@@ -28,7 +28,7 @@ msgstr ""
 msgid "Богдановича"
 msgstr ""
 
-# Objects : [w31043985]
+# Objects : [w323224302]
 # Names: [Боровая улица]
 msgid "Боровая"
 msgstr ""
@@ -323,7 +323,7 @@ msgstr ""
 msgid "Привокзальная"
 msgstr ""
 
-# Objects : [w31023070, w128858299]
+# Objects : [w31023070, w128858299, w313207613]
 # Names: [Пролетарская улица]
 msgid "Пролетарская"
 msgstr ""
@@ -368,7 +368,7 @@ msgstr ""
 msgid "Спортивный"
 msgstr ""
 
-# Objects : [w31106957]
+# Objects : [w31106957, w314904161]
 # Names: [Тенистая улица]
 msgid "Тенистая"
 msgstr ""
@@ -388,7 +388,7 @@ msgstr ""
 msgid "Урицкого"
 msgstr ""
 
-# Objects : [w31023192, w68587691, w129301702]
+# Objects : [w31023192, w68587691, w129301702, w323224310]
 # Names: [улица Флегонтова]
 msgid "Флегонтова"
 msgstr ""
@@ -397,6 +397,10 @@ msgstr ""
 # Names: [улица Фрунзе]
 msgid "Фрунзе"
 msgstr ""
+
+# Objects : [w82425829]
+# Names: [Хвойники]
+msgid "Хвойники"
 
 # Objects : [w31021952, w86328944, w86328946]
 # Names: [улица Чапаева]

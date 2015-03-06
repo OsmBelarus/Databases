@@ -33,6 +33,10 @@ msgstr ""
 msgid "Вишнёвая"
 msgstr ""
 
+# Objects : [w318749484]
+# Names: [Переулок Вишнёвый]
+msgid "Вишнёвый"
+
 # Objects : [w208215931]
 # Names: [Вокзальная улица]
 msgid "Вокзальная"
@@ -46,6 +50,11 @@ msgstr ""
 # Objects : [w208398038, w208398310]
 # Names: [улица Гагарина]
 msgid "Гагарина"
+msgstr ""
+
+# Objects : [w208397246]
+# Names: [улица Гармазы]
+msgid "Гармазы"
 msgstr ""
 
 # Objects : [w77423579]
@@ -248,7 +257,7 @@ msgstr ""
 msgid "Марата Казея"
 msgstr ""
 
-# Objects : [w25273370, w25273403, w25545382, w57851227, w57851228]
+# Objects : [w25273370, w25273403, w25545382, w57851227]
 # Names: [Минская улица]
 msgid "Минская"
 msgstr ""
@@ -323,6 +332,14 @@ msgstr ""
 msgid "Пионерская"
 msgstr ""
 
+# Objects : [w208226979]
+# Names: [улица Победителей]
+msgid "Победителей"
+
+# Objects : [w208375761]
+# Names: [улица Пограничная]
+msgid "Пограничная"
+
 # Objects : [w208231582]
 # Names: [Полевая улица]
 msgid "Полевая"
@@ -343,8 +360,8 @@ msgstr ""
 msgid "Пролетарская"
 msgstr ""
 
-# Objects : [w25273399]
-# Names: [улица Протасова]
+# Objects : [w25273399, w208234954]
+# Names: [переулок Протасова, улица Протасова]
 msgid "Протасова"
 msgstr ""
 
@@ -366,6 +383,11 @@ msgstr ""
 # Objects : [w97680398]
 # Names: [Садовая улица]
 msgid "Садовая"
+msgstr ""
+
+# Objects : [w25543437]
+# Names: [переулок Садовый]
+msgid "Садовый"
 msgstr ""
 
 # Objects : [w208239970]
@@ -443,7 +465,7 @@ msgstr ""
 msgid "Фоминых"
 msgstr ""
 
-# Objects : [w25543437, w208235014]
+# Objects : [w208235014]
 # Names: [улица Франциска Скорины]
 msgid "Франциска Скорины"
 msgstr ""
@@ -488,7 +510,7 @@ msgstr ""
 msgid "Шоссейная"
 msgstr ""
 
-# Objects : [w208239988, w208397246]
+# Objects : [w208239988, w208397247]
 # Names: [переулок Энгельса, улица Энгельса]
 msgid "Энгельса"
 msgstr ""

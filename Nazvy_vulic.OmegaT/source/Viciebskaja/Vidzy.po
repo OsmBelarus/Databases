@@ -103,10 +103,9 @@ msgstr ""
 msgid "Стадионная"
 msgstr ""
 
-# Objects : [w308209929]
-# Names: [Степная улица]
-msgid "Степная"
-msgstr ""
+# Objects : [w97801081]
+# Names: [Переулок Стадионный]
+msgid "Стадионный"
 
 # Objects : [w97801069]
 # Names: [улица Чапаева]

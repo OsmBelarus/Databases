@@ -118,7 +118,7 @@ msgstr ""
 msgid "Кандрата Крапивы"
 msgstr ""
 
-# Objects : [w115892060]
+# Objects : [w115892060, w316045786, w316045787]
 # Names: [улица Кирова]
 msgid "Кирова"
 msgstr ""
@@ -133,7 +133,7 @@ msgstr ""
 msgid "Козлова"
 msgstr ""
 
-# Objects : [w123379939, w132397296]
+# Objects : [w132397296, w316048296, w316048298]
 # Names: [Комсомольская улица]
 msgid "Комсомольская"
 msgstr ""
@@ -163,7 +163,7 @@ msgstr ""
 msgid "Кутузова"
 msgstr ""
 
-# Objects : [w41210074, w41210081]
+# Objects : [w41210074, w41210081, w316072453, w316072455]
 # Names: [улица Ленина]
 msgid "Ленина"
 msgstr ""
@@ -173,7 +173,7 @@ msgstr ""
 msgid "Лермонтова"
 msgstr ""
 
-# Objects : [w153202968]
+# Objects : [w153202968, w316085543]
 # Names: [Луговая улица]
 msgid "Луговая"
 msgstr ""
@@ -273,7 +273,7 @@ msgstr ""
 msgid "Пищулина"
 msgstr ""
 
-# Objects : [w41210070]
+# Objects : [w41210070, w124789233]
 # Names: [улица Победы]
 msgid "Победы"
 msgstr ""
@@ -308,7 +308,7 @@ msgstr ""
 msgid "Свердлова"
 msgstr ""
 
-# Objects : [w110577030]
+# Objects : [w110577030, w315668633, w315668635]
 # Names: [Слонимская улица]
 msgid "Слонимская"
 msgstr ""
@@ -361,6 +361,11 @@ msgstr ""
 # Objects : [w129248550]
 # Names: [улица Чкалова]
 msgid "Чкалова"
+msgstr ""
+
+# Objects : [w318332317]
+# Names: [улица Шамякина]
+msgid "Шамякина"
 msgstr ""
 
 # Objects : [w129461011]

@@ -40,6 +40,10 @@
       <tuv lang="BE"><seg>#Горкага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Горького;Советская улица</seg></tuv>
+      <tuv lang="BE"><seg>#Горкага;Савецкая вуліца</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Гришина</seg></tuv>
       <tuv lang="BE"><seg>#Грышына</seg></tuv>
     </tu>
@@ -202,6 +206,10 @@
     <tu>
       <tuv lang="RU"><seg>Телешева</seg></tuv>
       <tuv lang="BE"><seg>#Целешава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Терешкевича</seg></tuv>
+      <tuv lang="BE"><seg>#Церэшкевіча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Хигрина</seg></tuv>

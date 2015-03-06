@@ -13,7 +13,7 @@ msgstr ""
 msgid "40 лет БССР"
 msgstr ""
 
-# Objects : [w32798828, w32798831]
+# Objects : [w32798828, w32804162]
 # Names: [переулок 8 Марта, улица 8 Марта]
 msgid "8 Марта"
 msgstr ""
@@ -103,6 +103,10 @@ msgstr ""
 msgid "Дзержинского"
 msgstr ""
 
+# Objects : [w101939673]
+# Names: [Длинный переулок]
+msgid "Длинный"
+
 # Objects : [w98297714]
 # Names: [улица Доватора]
 msgid "Доватора"
@@ -128,7 +132,7 @@ msgstr ""
 msgid "Жемчужная"
 msgstr ""
 
-# Objects : [w101965700]
+# Objects : [w32591455, w101932616, w101965700]
 # Names: [улица Жукова]
 msgid "Жукова"
 msgstr ""
@@ -253,8 +257,8 @@ msgstr ""
 msgid "Кривца"
 msgstr ""
 
-# Objects : [w32591539]
-# Names: [улица Ленина]
+# Objects : [w32591539, w315724672]
+# Names: [площадь Ленина, улица Ленина]
 msgid "Ленина"
 msgstr ""
 
@@ -303,6 +307,10 @@ msgstr ""
 msgid "Мира"
 msgstr ""
 
+# Objects : [w32804092]
+# Names: [Молодежная улица]
+msgid "Молодежная"
+
 # Objects : [w67831584]
 # Names: [Народная улица]
 msgid "Народная"
@@ -337,6 +345,14 @@ msgstr ""
 # Names: [Песковская улица]
 msgid "Песковская"
 msgstr ""
+
+# Objects : [w159464977]
+# Names: [Песковский проезд]
+msgid "Песковский"
+
+# Objects : [w101939641]
+# Names: [Песочная улица]
+msgid "Песочная"
 
 # Objects : [w102441676]
 # Names: [Плодовая улица]
@@ -413,7 +429,7 @@ msgstr ""
 msgid "Советская"
 msgstr ""
 
-# Objects : [w32839488]
+# Objects : [w102441699]
 # Names: [Солнечная улица]
 msgid "Солнечная"
 msgstr ""

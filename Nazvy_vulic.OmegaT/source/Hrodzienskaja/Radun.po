@@ -8,8 +8,8 @@ msgstr ""
 msgid "1 Мая"
 msgstr ""
 
-# Objects : [w122745925]
-# Names: [переулок 40 лет Победы]
+# Objects : [w122745920, w122745925]
+# Names: [переулок 40 лет Победы, улица 40 лет Победы]
 msgid "40 лет Победы"
 msgstr ""
 
@@ -23,15 +23,27 @@ msgstr ""
 msgid "Гагарина"
 msgstr ""
 
+# Objects : [w183472793]
+# Names: [улица Держинского]
+msgid "Держинского"
+
 # Objects : [w115831178]
 # Names: [улица Евдокимова]
 msgid "Евдокимова"
 msgstr ""
 
+# Objects : [w147049017]
+# Names: [переулок Ефремова]
+msgid "Ефремова"
+
 # Objects : [w118733871]
 # Names: [улица Захаревича]
 msgid "Захаревича"
 msgstr ""
+
+# Objects : [w324986942]
+# Names: [Зелёная улица]
+msgid "Зелёная"
 
 # Objects : [w118745400]
 # Names: [улица Кирова]
@@ -53,7 +65,7 @@ msgstr ""
 msgid "Корненкова"
 msgstr ""
 
-# Objects : [w25287453, w115831184, w198585799]
+# Objects : [w25287453, w115831184, w198585799, w319806334]
 # Names: [переулок Ленина, улица Ленина]
 msgid "Ленина"
 msgstr ""
@@ -68,10 +80,26 @@ msgstr ""
 msgid "Луговая"
 msgstr ""
 
+# Objects : [w122745919]
+# Names: [Молодежная улица]
+msgid "Молодежная"
+
+# Objects : [w183472784]
+# Names: [Молодежный переулок]
+msgid "Молодежный"
+
+# Objects : [w182529123]
+# Names: [улица Нестерова]
+msgid "Нестерова"
+
 # Objects : [w115831185]
 # Names: [Новая улица]
 msgid "Новая"
 msgstr ""
+
+# Objects : [w183472797]
+# Names: [улица Новиковой]
+msgid "Новиковой"
 
 # Objects : [w145140988]
 # Names: [Новый переулок]
@@ -93,18 +121,26 @@ msgstr ""
 msgid "Притыцкого"
 msgstr ""
 
-# Objects : [w118745402]
+# Objects : [w118745402, w147049015]
 # Names: [улица Прохорова]
 msgid "Прохорова"
 msgstr ""
+
+# Objects : [w145140972]
+# Names: [Садовая улица]
+msgid "Садовая"
 
 # Objects : [w118740750]
 # Names: [Советская улица]
 msgid "Советская"
 msgstr ""
 
-# Objects : [w118745398]
-# Names: [улица Чапаева]
+# Objects : [w182526196]
+# Names: [улица Стольнякова]
+msgid "Стольнякова"
+
+# Objects : [w118745398, w182526195]
+# Names: [переулок Чапаева, улица Чапаева]
 msgid "Чапаева"
 msgstr ""
 

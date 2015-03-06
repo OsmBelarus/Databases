@@ -24,6 +24,10 @@
       <tuv lang="BE"><seg>#Усходняя</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Восточный</seg></tuv>
+      <tuv lang="BE"><seg>#Усходні</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Вязынская</seg></tuv>
       <tuv lang="BE"><seg>#Вязынская</seg></tuv>
     </tu>
@@ -98,6 +102,14 @@
     <tu>
       <tuv lang="RU"><seg>Ленина</seg></tuv>
       <tuv lang="BE"><seg>#Леніна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ленинградская</seg></tuv>
+      <tuv lang="BE"><seg>#Ленінградская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ленинградский</seg></tuv>
+      <tuv lang="BE"><seg>#Ленінградскі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лесная</seg></tuv>

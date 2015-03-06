@@ -33,7 +33,7 @@ msgstr ""
 msgid "Карла Маркса"
 msgstr ""
 
-# Objects : [w69295704, w69295960]
+# Objects : [w69295704, w69295960, w325138915, w325138916]
 # Names: [улица Кирова]
 msgid "Кирова"
 msgstr ""

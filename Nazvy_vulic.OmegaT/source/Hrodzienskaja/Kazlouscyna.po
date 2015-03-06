@@ -13,7 +13,7 @@ msgstr ""
 msgid "Комсомольская"
 msgstr ""
 
-# Objects : [w130384367]
+# Objects : [w130384367, w329724320]
 # Names: [улица Ленина]
 msgid "Ленина"
 msgstr ""

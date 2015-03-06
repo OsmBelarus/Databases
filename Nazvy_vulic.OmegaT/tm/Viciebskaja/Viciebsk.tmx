@@ -80,7 +80,7 @@
       <tuv lang="BE"><seg>#Лінія</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>70 лет Витебской области</seg></tuv>
+      <tuv lang="RU"><seg>70-летия Витебской области</seg></tuv>
       <tuv lang="BE"><seg>#70 гадоў Віцебскай вобласці</seg></tuv>
     </tu>
     <tu>
@@ -118,6 +118,10 @@
     <tu>
       <tuv lang="RU"><seg>Аксановская</seg></tuv>
       <tuv lang="BE"><seg>#Аксанаўская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Аксановский</seg></tuv>
+      <tuv lang="BE"><seg>#Аксанаўскi</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Актёров Ерёменко</seg></tuv>
@@ -377,7 +381,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Генерала Ивановского</seg></tuv>
-      <tuv lang="BE"><seg>#Генерала Іваноўскага</seg></tuv>
+      <tuv lang="BE"><seg>#33-й Арміі#Генерала Іваноўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Генерала Людникова</seg></tuv>
@@ -1256,6 +1260,10 @@
       <tuv lang="BE"><seg>#Пясочны</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Песчаная</seg></tuv>
+      <tuv lang="BE"><seg>#Пясчаная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Петруся Бровки</seg></tuv>
       <tuv lang="BE"><seg>#Пятруся Броўкі</seg></tuv>
     </tu>
@@ -1652,6 +1660,10 @@
       <tuv lang="BE"><seg>#Сонечная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Сосновая</seg></tuv>
+      <tuv lang="BE"><seg>#Сасновая вулiца</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Сосновый</seg></tuv>
       <tuv lang="BE"><seg>#Сасновы</seg></tuv>
     </tu>
@@ -1932,6 +1944,10 @@
       <tuv lang="BE"><seg>#Каляровая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Цветочная</seg></tuv>
+      <tuv lang="BE"><seg>#Кветкавая</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Целинная</seg></tuv>
       <tuv lang="BE"><seg>#Цалінная</seg></tuv>
     </tu>
@@ -2090,10 +2106,6 @@
     <tu>
       <tuv lang="RU"><seg>Ямская</seg></tuv>
       <tuv lang="BE"><seg>#Ямская</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Янапольская</seg></tuv>
-      <tuv lang="BE"><seg>#Янапольская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Янки Купалы</seg></tuv>

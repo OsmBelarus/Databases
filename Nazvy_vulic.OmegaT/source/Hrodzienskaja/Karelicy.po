@@ -108,7 +108,7 @@ msgstr ""
 msgid "Октябрьская"
 msgstr ""
 
-# Objects : [w271958189]
+# Objects : [w80261585, w271958189]
 # Names: [Парковая улица]
 msgid "Парковая"
 msgstr ""
@@ -121,6 +121,7 @@ msgstr ""
 # Objects : [w283905072]
 # Names: [улица Поплавской]
 msgid "Поплавской"
+msgstr ""
 
 # Objects : [w192542507]
 # Names: [улица Притыцкого]
@@ -185,4 +186,5 @@ msgstr ""
 # Objects : [w192396960]
 # Names: [улица Яна Чечёта]
 msgid "Яна Чечёта"
+msgstr ""
 

@@ -52,7 +52,7 @@
       <tuv lang="BE"><seg>#Гара камунараў</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Данилевского</seg></tuv>
+      <tuv lang="RU"><seg>Данилевского Н. С.</seg></tuv>
       <tuv lang="BE"><seg>#Данілеўскага</seg></tuv>
     </tu>
     <tu>
@@ -60,7 +60,7 @@
       <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Доватора</seg></tuv>
+      <tuv lang="RU"><seg>Доватора Л. М.</seg></tuv>
       <tuv lang="BE"><seg>#Даватара</seg></tuv>
     </tu>
     <tu>
@@ -140,6 +140,10 @@
       <tuv lang="BE"><seg>#Катлаўца</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Котловца М. П.</seg></tuv>
+      <tuv lang="BE"><seg>#Катлаўца</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Котовского</seg></tuv>
       <tuv lang="BE"><seg>#Катоўскага</seg></tuv>
     </tu>
@@ -192,16 +196,16 @@
       <tuv lang="BE"><seg>#Малініна</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Малинина Н. И.</seg></tuv>
+      <tuv lang="BE"><seg>#Малініна</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Мартиновича</seg></tuv>
       <tuv lang="BE"><seg>#Марціновіча</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Матросова</seg></tuv>
       <tuv lang="BE"><seg>#Матросава</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Маяковского</seg></tuv>
-      <tuv lang="BE"><seg>#Маякоўскага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Мележа</seg></tuv>
@@ -226,10 +230,6 @@
     <tu>
       <tuv lang="RU"><seg>Мостовой</seg></tuv>
       <tuv lang="BE"><seg>#Маставы</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Набережная</seg></tuv>
-      <tuv lang="BE"><seg>#Набярэжная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Нагорная</seg></tuv>
@@ -260,16 +260,8 @@
       <tuv lang="BE"><seg>#Мікалая Астроўскага</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Озёрный</seg></tuv>
-      <tuv lang="BE"><seg>#Азёрны</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Октябрьская</seg></tuv>
       <tuv lang="BE"><seg>#Кастрычніцкая</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Олега Кошевого</seg></tuv>
-      <tuv lang="BE"><seg>#Алега Кашавога</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Опанского</seg></tuv>
@@ -332,16 +324,8 @@
       <tuv lang="BE"><seg>#Пушкіна</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Рабочая</seg></tuv>
-      <tuv lang="BE"><seg>#Рабочая</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Рыжкова</seg></tuv>
       <tuv lang="BE"><seg>#Рыжкова</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Садовая</seg></tuv>
-      <tuv lang="BE"><seg>#Садовая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Саета</seg></tuv>
@@ -354,10 +338,6 @@
     <tu>
       <tuv lang="RU"><seg>Сельский</seg></tuv>
       <tuv lang="BE"><seg>#Вясковы</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Слуцкая</seg></tuv>
-      <tuv lang="BE"><seg>#Слуцкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>
@@ -396,12 +376,8 @@
       <tuv lang="BE"><seg>#Працоўная</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Трусевича</seg></tuv>
+      <tuv lang="RU"><seg>Трусевича И. Д.</seg></tuv>
       <tuv lang="BE"><seg>#Трусевіча</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Тургенева</seg></tuv>
-      <tuv lang="BE"><seg>#Тургенева</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ульяновская</seg></tuv>
@@ -413,6 +389,10 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Фрунзе</seg></tuv>
+      <tuv lang="BE"><seg>#Фрунзэ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Фрунзе М. В.</seg></tuv>
       <tuv lang="BE"><seg>#Фрунзэ</seg></tuv>
     </tu>
     <tu>
@@ -442,10 +422,6 @@
     <tu>
       <tuv lang="RU"><seg>Щорса</seg></tuv>
       <tuv lang="BE"><seg>#Шчорса</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Юбилейная</seg></tuv>
-      <tuv lang="BE"><seg>#Юбілейная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Юннатов</seg></tuv>

@@ -33,6 +33,11 @@ msgstr ""
 msgid "Советская"
 msgstr ""
 
+# Objects : [w115205327]
+# Names: [улица Тадеуша Костюшко]
+msgid "Тадеуша Костюшко"
+msgstr ""
+
 # Objects : [w125787080]
 # Names: [Тихая улица]
 msgid "Тихая"

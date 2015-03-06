@@ -12,16 +12,16 @@
       <tuv lang="BE"><seg>#70 гадоў БССР</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Акуционка</seg></tuv>
+      <tuv lang="BE"><seg>#Акуцыонка</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Безымянная</seg></tuv>
       <tuv lang="BE"><seg>#Безназоўная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Белорусская</seg></tuv>
       <tuv lang="BE"><seg>#Беларуская</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Больничный</seg></tuv>
-      <tuv lang="BE"><seg>#Бальнічны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Витебская</seg></tuv>
@@ -118,6 +118,10 @@
     <tu>
       <tuv lang="RU"><seg>Ленинская</seg></tuv>
       <tuv lang="BE"><seg>#Ленінская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лесковичская</seg></tuv>
+      <tuv lang="BE"><seg>#Лясковіцкая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Луговая</seg></tuv>

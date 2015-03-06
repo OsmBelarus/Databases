@@ -24,12 +24,24 @@
       <tuv lang="BE"><seg>#Бярозавая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Богдановича</seg></tuv>
+      <tuv lang="BE"><seg>#Багдановіча</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Бытовой</seg></tuv>
       <tuv lang="BE"><seg>#Побытавы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Веры Хоружей</seg></tuv>
       <tuv lang="BE"><seg>#Веры Харужай</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Весенняя</seg></tuv>
+      <tuv lang="BE"><seg>#Вясновая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Виноградная</seg></tuv>
+      <tuv lang="BE"><seg>#Вінаградная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Волкова</seg></tuv>
@@ -272,6 +284,10 @@
       <tuv lang="BE"><seg>#Светлая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Свободы</seg></tuv>
+      <tuv lang="BE"><seg>#Свабоды</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Северная</seg></tuv>
       <tuv lang="BE"><seg>#Паўночная</seg></tuv>
     </tu>
@@ -284,6 +300,10 @@
       <tuv lang="BE"><seg>#Бэзавая</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Славянская</seg></tuv>
+      <tuv lang="BE"><seg>#Славянская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>
       <tuv lang="BE"><seg>#Савецкая</seg></tuv>
     </tu>
@@ -294,6 +314,10 @@
     <tu>
       <tuv lang="RU"><seg>Сосновая</seg></tuv>
       <tuv lang="BE"><seg>#Сасновая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Сосновый</seg></tuv>
+      <tuv lang="BE"><seg>#Сасновы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Социалистическая</seg></tuv>

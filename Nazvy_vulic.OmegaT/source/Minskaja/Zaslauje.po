@@ -98,14 +98,14 @@ msgstr ""
 msgid "Дачный"
 msgstr ""
 
-# Objects : [w25273044, w25273074, w51194787]
-# Names: [Держинская улица]
-msgid "Держинская"
-msgstr ""
-
 # Objects : [w25271879]
 # Names: [Дехновский переулок]
 msgid "Дехновский"
+msgstr ""
+
+# Objects : [w25273044, w25273074, w51194787]
+# Names: [Дзержинская улица]
+msgid "Дзержинская"
 msgstr ""
 
 # Objects : [w146510840]
@@ -217,6 +217,10 @@ msgstr ""
 # Names: [Минский переулок]
 msgid "Минский"
 msgstr ""
+
+# Objects : [w159054071]
+# Names: [Молодёжная улица]
+msgid "Молодёжная"
 
 # Objects : [w25273094]
 # Names: [Молодеченская улица]

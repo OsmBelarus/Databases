@@ -8,7 +8,7 @@
       <tuv lang="BE"><seg>#17 Верасня</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Будённого</seg></tuv>
+      <tuv lang="RU"><seg>Буденного</seg></tuv>
       <tuv lang="BE"><seg>#Будзёнага</seg></tuv>
     </tu>
     <tu>
@@ -70,6 +70,10 @@
     <tu>
       <tuv lang="RU"><seg>Ленинская</seg></tuv>
       <tuv lang="BE"><seg>#Ленінская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Ленинский</seg></tuv>
+      <tuv lang="BE"><seg>#Ленiнскi</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Максима Горького</seg></tuv>

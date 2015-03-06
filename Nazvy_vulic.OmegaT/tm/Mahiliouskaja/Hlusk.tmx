@@ -164,6 +164,10 @@
       <tuv lang="BE"><seg>#Рэспубліканская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Рыбака</seg></tuv>
+      <tuv lang="BE"><seg>#Рыбака</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Садовая</seg></tuv>
       <tuv lang="BE"><seg>#Садовая</seg></tuv>
     </tu>
@@ -194,6 +198,10 @@
     <tu>
       <tuv lang="RU"><seg>Тельмана</seg></tuv>
       <tuv lang="BE"><seg>#Тэльмана</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тупицы</seg></tuv>
+      <tuv lang="BE"><seg>#Тупіцы</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Чапаева</seg></tuv>

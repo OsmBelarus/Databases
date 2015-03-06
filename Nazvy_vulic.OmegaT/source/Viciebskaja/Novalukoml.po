@@ -13,7 +13,7 @@ msgstr ""
 msgid "Заводская"
 msgstr ""
 
-# Objects : [w98723390]
+# Objects : [w98723390, w314257408]
 # Names: [Кленовая улица]
 msgid "Кленовая"
 msgstr ""
@@ -28,7 +28,7 @@ msgstr ""
 msgid "Коммунальная"
 msgstr ""
 
-# Objects : [w155267677]
+# Objects : [w308859025, w308859026]
 # Names: [Луговая улица]
 msgid "Луговая"
 msgstr ""
@@ -93,7 +93,12 @@ msgstr ""
 msgid "Сосновый"
 msgstr ""
 
-# Objects : [w155267681]
+# Objects : [w155267677]
+# Names: [Строительная улица]
+msgid "Строительная"
+msgstr ""
+
+# Objects : [w309918177]
 # Names: [Цветочная улица]
 msgid "Цветочная"
 msgstr ""

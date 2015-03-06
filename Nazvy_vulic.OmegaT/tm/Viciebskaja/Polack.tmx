@@ -4,6 +4,10 @@
   <header creationtool="own" adminlang="EN-US" datatype="plaintext" segtype="paragraph" srclang="RU"/>
   <body>
     <tu>
+      <tuv lang="RU"><seg>11-го Липеня</seg></tuv>
+      <tuv lang="BE"><seg>#11 Ліпеня</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>11 Липеня</seg></tuv>
       <tuv lang="BE"><seg>#11 Ліпеня</seg></tuv>
     </tu>
@@ -146,6 +150,10 @@
     <tu>
       <tuv lang="RU"><seg>Гастелло</seg></tuv>
       <tuv lang="BE"><seg>#Гастэлы</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Гоголя</seg></tuv>
+      <tuv lang="BE"><seg>#Гогаля</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Горького</seg></tuv>
@@ -480,10 +488,6 @@
       <tuv lang="BE"><seg>#Нікіціна</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Николая Гоголя</seg></tuv>
-      <tuv lang="BE"><seg>#Мікалая Гогаля</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Николая Некрасова</seg></tuv>
       <tuv lang="BE"><seg>#Мікалая Някрасава</seg></tuv>
     </tu>
@@ -600,6 +604,10 @@
       <tuv lang="BE"><seg>#Рылеева</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Савенко</seg></tuv>
+      <tuv lang="BE"><seg>#Савенкі</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Садовая</seg></tuv>
       <tuv lang="BE"><seg>#Садовая</seg></tuv>
     </tu>
@@ -646,10 +654,6 @@
     <tu>
       <tuv lang="RU"><seg>Серова</seg></tuv>
       <tuv lang="BE"><seg>#Сярова</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Славенко</seg></tuv>
-      <tuv lang="BE"><seg>#Славенкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Слободская</seg></tuv>

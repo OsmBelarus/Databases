@@ -3,7 +3,7 @@
 msgid "20 Сентября"
 msgstr ""
 
-# Objects : [w25283867, w41265793, w41265796, w77096533]
+# Objects : [w25283867, w41265793, w41265796, w77096533, w322203462]
 # Names: [улица 60 лет Октября]
 msgid "60 лет Октября"
 msgstr ""
@@ -28,7 +28,7 @@ msgstr ""
 msgid "Барановичская"
 msgstr ""
 
-# Objects : [w25283812, w305444608]
+# Objects : [w305444608]
 # Names: [улица Белова]
 msgid "Белова"
 msgstr ""
@@ -73,7 +73,7 @@ msgstr ""
 msgid "Брестский"
 msgstr ""
 
-# Objects : [w25283306]
+# Objects : [w316024587]
 # Names: [Бульварная улица]
 msgid "Бульварная"
 msgstr ""
@@ -128,7 +128,7 @@ msgstr ""
 msgid "Владимирская"
 msgstr ""
 
-# Objects : [w25283264, w37880421]
+# Objects : [w25283264, w37880421, w322665054]
 # Names: [улица Войцеховича]
 msgid "Войцеховича"
 msgstr ""
@@ -178,12 +178,12 @@ msgstr ""
 msgid "Гомельская"
 msgstr ""
 
-# Objects : [w25283786, w39907945]
+# Objects : [w25283786, w39907945, w328248972]
 # Names: [улица Горького]
 msgid "Горького"
 msgstr ""
 
-# Objects : [w25283837]
+# Objects : [w25283837, w322220294]
 # Names: [Граничная улица]
 msgid "Граничная"
 msgstr ""
@@ -243,7 +243,7 @@ msgstr ""
 msgid "Дорожный"
 msgstr ""
 
-# Objects : [w48997086]
+# Objects : [w321458897]
 # Names: [улица Достоевского]
 msgid "Достоевского"
 msgstr ""
@@ -258,7 +258,7 @@ msgstr ""
 msgid "Дубойский"
 msgstr ""
 
-# Objects : [w25283190, w25283385]
+# Objects : [w25283190, w25283385, w322220296]
 # Names: [Железнодорожная улица]
 msgid "Железнодорожная"
 msgstr ""
@@ -358,12 +358,12 @@ msgstr ""
 msgid "Индустриальная"
 msgstr ""
 
-# Objects : [w25283285]
+# Objects : [w25283285, w328305779]
 # Names: [Интернациональная улица]
 msgid "Интернациональная"
 msgstr ""
 
-# Objects : [w25283769, w307631846]
+# Objects : [w307631846, w322248539]
 # Names: [улица Иркутско-Пинской Дивизии]
 msgid "Иркутско-Пинской Дивизии"
 msgstr ""
@@ -378,7 +378,7 @@ msgstr ""
 msgid "Калиновая"
 msgstr ""
 
-# Objects : [w25283335, w25283336, w25283639, w25283662, w25283664]
+# Objects : [w25283335, w25283336, w25283639, w25283662, w25283664, w321487389, w321487391]
 # Names: [проезд Калиновского, улица Калиновского]
 msgid "Калиновского"
 msgstr ""
@@ -423,7 +423,7 @@ msgstr ""
 msgid "Киевская"
 msgstr ""
 
-# Objects : [w25283751]
+# Objects : [w25283751, w322220299]
 # Names: [улица Кирова]
 msgid "Кирова"
 msgstr ""
@@ -568,12 +568,12 @@ msgstr ""
 msgid "Кузнечная"
 msgstr ""
 
-# Objects : [w25283853]
+# Objects : [w322741262]
 # Names: [улица Куйбышева]
 msgid "Куйбышева"
 msgstr ""
 
-# Objects : [w25283804, w118277404, w118277405]
+# Objects : [w25283804]
 # Names: [улица Куликова]
 msgid "Куликова"
 msgstr ""
@@ -643,7 +643,7 @@ msgstr ""
 msgid "Лозовая"
 msgstr ""
 
-# Objects : [w25283738, w25283819, w61046317]
+# Objects : [w25283738, w61046317]
 # Names: [улица Ломоносова]
 msgid "Ломоносова"
 msgstr ""
@@ -683,7 +683,7 @@ msgstr ""
 msgid "Матросова"
 msgstr ""
 
-# Objects : [w25285061, w25285078]
+# Objects : [w25285061]
 # Names: [улица Машиностроителей]
 msgid "Машиностроителей"
 msgstr ""
@@ -803,7 +803,7 @@ msgstr ""
 msgid "Окоповая"
 msgstr ""
 
-# Objects : [w25283779]
+# Objects : [w25283779, w316252122]
 # Names: [Ольховая улица]
 msgid "Ольховая"
 msgstr ""
@@ -822,6 +822,10 @@ msgstr ""
 # Names: [Оховская улица]
 msgid "Оховская"
 msgstr ""
+
+# Objects : [w325513153]
+# Names: [Оховский переулок]
+msgid "Оховский"
 
 # Objects : [w25283150]
 # Names: [улица Панковой]
@@ -843,12 +847,12 @@ msgstr ""
 msgid "Пеньковая"
 msgstr ""
 
-# Objects : [w25283909, w25283910]
+# Objects : [w25283909, w25283910, w322741261]
 # Names: [Пеньковый проезд]
 msgid "Пеньковый"
 msgstr ""
 
-# Objects : [w37113995, w37806043, w51832867, w69553564, w69553625, w307258991]
+# Objects : [w37113995, w51832867, w69553564, w69553625, w307258991, w322700279, w322700280]
 # Names: [Первомайская улица]
 msgid "Первомайская"
 msgstr ""
@@ -863,7 +867,7 @@ msgstr ""
 msgid "Песчаная"
 msgstr ""
 
-# Objects : [w25283269, w42728571]
+# Objects : [w25283269]
 # Names: [Пинская улица]
 msgid "Пинская"
 msgstr ""
@@ -1168,6 +1172,10 @@ msgstr ""
 msgid "Урицкого"
 msgstr ""
 
+# Objects : [w25283753]
+# Names: [Фабричная улица]
+msgid "Фабричная"
+
 # Objects : [w25283467]
 # Names: [улица Федотова]
 msgid "Федотова"
@@ -1198,10 +1206,14 @@ msgstr ""
 msgid "Цветочная"
 msgstr ""
 
-# Objects : [w25283424, w37672758]
+# Objects : [w25283421, w25283424, w37672758]
 # Names: [Центральная улица]
 msgid "Центральная"
 msgstr ""
+
+# Objects : [w25283744]
+# Names: [улица Чапаева]
+msgid "Чапаева"
 
 # Objects : [w25283759]
 # Names: [улица Челюскина]
@@ -1273,7 +1285,7 @@ msgstr ""
 msgid "Якуба Коласа"
 msgstr ""
 
-# Objects : [w25283661]
+# Objects : [w25283661, w316569294]
 # Names: [улица Янищиц]
 msgid "Янищиц"
 msgstr ""

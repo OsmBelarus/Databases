@@ -8,6 +8,11 @@ msgstr ""
 msgid "60 лет Октября"
 msgstr ""
 
+# Objects : [w112949716]
+# Names: [улица 8 Марта]
+msgid "8 Марта"
+msgstr ""
+
 # Objects : [w80249977]
 # Names: [Вокзальный переулок]
 msgid "Вокзальный"
@@ -18,10 +23,14 @@ msgstr ""
 msgid "Гагарина"
 msgstr ""
 
-# Objects : [w171597772]
+# Objects : [w112949692, w171597772]
 # Names: [улица Гастелло]
 msgid "Гастелло"
 msgstr ""
+
+# Objects : [w310628245]
+# Names: [улица Горького]
+msgid "Горького"
 
 # Objects : [w239867033]
 # Names: [улица Держинского]
@@ -53,7 +62,11 @@ msgstr ""
 msgid "Калинина"
 msgstr ""
 
-# Objects : [w239867032]
+# Objects : [w239867032, w310343661, w310343662]
+# Names: [улица Кирова]
+msgid "Кирова"
+
+# Objects : [w310343660]
 # Names: [улица Ковпака]
 msgid "Ковпака"
 msgstr ""
@@ -63,7 +76,7 @@ msgstr ""
 msgid "Коллективный"
 msgstr ""
 
-# Objects : [w112949716]
+# Objects : [w310342959]
 # Names: [Коммунальный переулок]
 msgid "Коммунальный"
 msgstr ""
@@ -83,11 +96,6 @@ msgstr ""
 msgid "Корзуна"
 msgstr ""
 
-# Objects : [w171597720]
-# Names: [Ласковая улица]
-msgid "Ласковая"
-msgstr ""
-
 # Objects : [w80249974, w232834410]
 # Names: [улица Ленина]
 msgid "Ленина"
@@ -103,7 +111,11 @@ msgstr ""
 msgid "Макаренко"
 msgstr ""
 
-# Objects : [w112949702]
+# Objects : [w112949698]
+# Names: [улица Маяковского]
+msgid "Маяковского"
+
+# Objects : [w112949702, w310341868, w310341869, w310619423]
 # Names: [Мелиоративная улица]
 msgid "Мелиоративная"
 msgstr ""
@@ -133,7 +145,7 @@ msgstr ""
 msgid "Октябрьский"
 msgstr ""
 
-# Objects : [w112949685, w112949710]
+# Objects : [w112949685]
 # Names: [Первомайская улица]
 msgid "Первомайская"
 msgstr ""

@@ -13,7 +13,7 @@ msgstr ""
 msgid "Восточная"
 msgstr ""
 
-# Objects : [w292074940]
+# Objects : [w311221408]
 # Names: [Интернациональная улица]
 msgid "Интернациональная"
 msgstr ""

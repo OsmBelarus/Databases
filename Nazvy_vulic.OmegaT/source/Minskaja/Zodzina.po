@@ -48,7 +48,7 @@ msgstr ""
 msgid "Боровая"
 msgstr ""
 
-# Objects : [w25265310]
+# Objects : [w25265310, w318114993]
 # Names: [Брестская улица]
 msgid "Брестская"
 msgstr ""
@@ -263,7 +263,7 @@ msgstr ""
 msgid "Лесной"
 msgstr ""
 
-# Objects : [w25265314]
+# Objects : [w25265314, w310917648, w310917649]
 # Names: [Логойская улица]
 msgid "Логойская"
 msgstr ""
@@ -463,7 +463,7 @@ msgstr ""
 msgid "Рождественская"
 msgstr ""
 
-# Objects : [w25265132, w25265141]
+# Objects : [w25265132, w25265141, w309958443]
 # Names: [улица Рокоссовского]
 msgid "Рокоссовского"
 msgstr ""

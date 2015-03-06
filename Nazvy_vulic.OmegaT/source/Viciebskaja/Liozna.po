@@ -319,7 +319,7 @@ msgid "Центральная"
 msgstr ""
 
 # Objects : [w35425352]
-# Names: [ул. Черепнёва]
+# Names: [улица Черепнёва]
 msgid "Черепнёва"
 msgstr ""
 

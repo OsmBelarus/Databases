@@ -127,7 +127,7 @@ msgstr ""
 msgid "Левкова"
 msgstr ""
 
-# Objects : [w80195307, w203346518, w203574463]
+# Objects : [w80195307, w203346518, w203346534, w203574463, w326217068]
 # Names: [Ленинская улица]
 msgid "Ленинская"
 msgstr ""
@@ -247,7 +247,7 @@ msgstr ""
 msgid "Суворова"
 msgstr ""
 
-# Objects : [w203346507, w204395655]
+# Objects : [w203346507, w204395655, w330187775]
 # Names: [улица Фрунзе]
 msgid "Фрунзе"
 msgstr ""
@@ -277,7 +277,7 @@ msgstr ""
 msgid "Школьная"
 msgstr ""
 
-# Objects : [w203346534]
+# Objects : [w326217069]
 # Names: [Юбилейная улица]
 msgid "Юбилейная"
 msgstr ""

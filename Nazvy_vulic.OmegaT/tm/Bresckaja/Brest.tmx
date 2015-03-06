@@ -420,6 +420,10 @@
       <tuv lang="BE"><seg>#Горкага</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Госпитальный остров</seg></tuv>
+      <tuv lang="BE"><seg>#Шпітальная выспа</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Граничный</seg></tuv>
       <tuv lang="BE"><seg>#Гранічны</seg></tuv>
     </tu>
@@ -1328,10 +1332,6 @@
       <tuv lang="BE"><seg>#Асіпенкі</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Остров Госпитальный</seg></tuv>
-      <tuv lang="BE"><seg>#Выспа Шпітальная</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Островского</seg></tuv>
       <tuv lang="BE"><seg>#Астроўскага</seg></tuv>
     </tu>
@@ -1998,10 +1998,6 @@
     <tu>
       <tuv lang="RU"><seg>Центральная</seg></tuv>
       <tuv lang="BE"><seg>#Цэнтральная</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Центральнгрый</seg></tuv>
-      <tuv lang="BE"><seg>#Цэнтральны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Центральный</seg></tuv>

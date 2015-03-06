@@ -33,7 +33,7 @@ msgstr ""
 msgid "Коммунальная"
 msgstr ""
 
-# Objects : [w98572337, w176173468]
+# Objects : [w176173468, w325869807]
 # Names: [Лесная улица]
 msgid "Лесная"
 msgstr ""

@@ -98,7 +98,7 @@ msgstr ""
 msgid "Строителей"
 msgstr ""
 
-# Objects : [w34815669]
+# Objects : [w34815669, w319214511]
 # Names: [улица Толстого]
 msgid "Толстого"
 msgstr ""

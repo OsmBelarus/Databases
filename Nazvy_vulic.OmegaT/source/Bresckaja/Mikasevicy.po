@@ -83,7 +83,7 @@ msgstr ""
 msgid "Калиновского"
 msgstr ""
 
-# Objects : [w157214015]
+# Objects : [w157214015, w316422833]
 # Names: [улица Кирова]
 msgid "Кирова"
 msgstr ""
@@ -118,7 +118,7 @@ msgstr ""
 msgid "Малиновая"
 msgstr ""
 
-# Objects : [w157214008]
+# Objects : [w157214008, w316270428]
 # Names: [улица Маяковского]
 msgid "Маяковского"
 msgstr ""

@@ -23,6 +23,11 @@ msgstr ""
 msgid "Восточная"
 msgstr ""
 
+# Objects : [w320530116]
+# Names: [Восточный переулок]
+msgid "Восточный"
+msgstr ""
+
 # Objects : [w262667259]
 # Names: [Вязынская улица]
 msgid "Вязынская"
@@ -43,7 +48,7 @@ msgstr ""
 msgid "Дружный"
 msgstr ""
 
-# Objects : [w25307916]
+# Objects : [w25307916, w325018129]
 # Names: [Железнодорожная улица]
 msgid "Железнодорожная"
 msgstr ""
@@ -58,7 +63,7 @@ msgstr ""
 msgid "Жукова"
 msgstr ""
 
-# Objects : [w127382033, w127382036, w263194419]
+# Objects : [w127382033, w127382036, w263194419, w325018130]
 # Names: [Заводская улица]
 msgid "Заводская"
 msgstr ""
@@ -116,6 +121,16 @@ msgstr ""
 # Objects : [w25479080]
 # Names: [улица Ленина]
 msgid "Ленина"
+msgstr ""
+
+# Objects : [w204243933]
+# Names: [Ленинградская улица]
+msgid "Ленинградская"
+msgstr ""
+
+# Objects : [w204243961]
+# Names: [Ленинградский переулок]
+msgid "Ленинградский"
 msgstr ""
 
 # Objects : [w25307874]

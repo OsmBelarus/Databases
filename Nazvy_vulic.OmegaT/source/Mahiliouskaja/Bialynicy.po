@@ -38,9 +38,14 @@ msgstr ""
 msgid "Гагарина"
 msgstr ""
 
-# Objects : [w43663819]
+# Objects : [w43663819, w328909035]
 # Names: [улица Горького]
 msgid "Горького"
+msgstr ""
+
+# Objects : [w43839374]
+# Names: [улица Горького;Советская улица]
+msgid "Горького;Советская улица"
 msgstr ""
 
 # Objects : [w204112005]
@@ -223,7 +228,7 @@ msgstr ""
 msgid "Славянская"
 msgstr ""
 
-# Objects : [w43839374, w133122161]
+# Objects : [w133122161]
 # Names: [Советская улица]
 msgid "Советская"
 msgstr ""
@@ -251,6 +256,7 @@ msgstr ""
 # Objects : [w204112007]
 # Names: [улица Терешкевича]
 msgid "Терешкевича"
+msgstr ""
 
 # Objects : [w43663837]
 # Names: [улица Хигрина]

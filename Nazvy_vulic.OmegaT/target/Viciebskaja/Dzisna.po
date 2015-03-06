@@ -53,7 +53,7 @@ msgstr "н/Куйбышава"
 msgid "Кутузова"
 msgstr "н/Кутузава"
 
-# Objects : [w78075672]
+# Objects : [w78075670]
 # Names: [улица Ленина]
 msgid "Ленина"
 msgstr "н/Леніна"

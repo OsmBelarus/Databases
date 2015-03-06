@@ -33,6 +33,14 @@ msgstr ""
 msgid "Дёмина"
 msgstr ""
 
+# Objects : [w97725524]
+# Names: [улица Дорожная]
+msgid "Дорожная"
+
+# Objects : [w311367117]
+# Names: [пер. Дорожный]
+msgid "Дорожный"
+
 # Objects : [w206513179]
 # Names: [Заводской переулок]
 msgid "Заводской"
@@ -41,11 +49,6 @@ msgstr ""
 # Objects : [w207315967]
 # Names: [Заречная улица]
 msgid "Заречная"
-msgstr ""
-
-# Objects : [w97725524]
-# Names: [улица Калинина]
-msgid "Калинина"
 msgstr ""
 
 # Objects : [w98007085, w98007126]
@@ -177,6 +180,10 @@ msgstr ""
 # Names: [Социалистическая улица]
 msgid "Социалистическая"
 msgstr ""
+
+# Objects : [w244119930]
+# Names: [ул. Станционная]
+msgid "Станционная"
 
 # Objects : [w99199585]
 # Names: [Хозяйственная улица]

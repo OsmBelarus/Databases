@@ -28,10 +28,9 @@ msgstr ""
 msgid "Зелёная"
 msgstr ""
 
-# Objects : [w99167005]
-# Names: [улица Зенкевича]
-msgid "Зенкевича"
-msgstr ""
+# Objects : [w312033951, w312498705, w312539938]
+# Names: [улица Зиновича]
+msgid "Зиновича"
 
 # Objects : [w295967292]
 # Names: [улица Калинина]
@@ -102,6 +101,10 @@ msgstr ""
 # Names: [Набережный переулок]
 msgid "Набережный"
 msgstr ""
+
+# Objects : [w309223297]
+# Names: [улица Новая]
+msgid "Новая"
 
 # Objects : [w84551019, w96620097]
 # Names: [Октябрьская улица]
@@ -176,6 +179,11 @@ msgstr ""
 # Objects : [w296016415]
 # Names: [улица Шпетного]
 msgid "Шпетного"
+msgstr ""
+
+# Objects : [w99167005]
+# Names: [Юбилейная улица]
+msgid "Юбилейная"
 
 # Objects : [w267672207]
 # Names: [Южная улица]

@@ -29,8 +29,9 @@ msgid "Витебское"
 msgstr ""
 
 # Objects : [w146588035]
-# Names: [ул. Витебское шоссе]
+# Names: [улица Витебское шоссе]
 msgid "Витебское шоссе"
+msgstr ""
 
 # Objects : [w78059951, w147124036, w176446266]
 # Names: [улица Володарского]
@@ -52,7 +53,7 @@ msgstr ""
 msgid "Гастелло"
 msgstr ""
 
-# Objects : [w146479386]
+# Objects : [w146479386, w146588013]
 # Names: [улица Гоголя]
 msgid "Гоголя"
 msgstr ""
@@ -212,7 +213,7 @@ msgstr ""
 msgid "Мичурина"
 msgstr ""
 
-# Objects : [w30294715, w30294724, w147148328]
+# Objects : [w30294715]
 # Names: [Молодёжная улица]
 msgid "Молодёжная"
 msgstr ""
@@ -413,13 +414,18 @@ msgid "Чуклая"
 msgstr ""
 
 # Objects : [w30294751]
-# Names: [ул. Шварцмана]
+# Names: [улица Шварцмана]
 msgid "Шварцмана"
+msgstr ""
 
 # Objects : [w147225863, w147225864]
 # Names: [Школьная улица]
 msgid "Школьная"
 msgstr ""
+
+# Objects : [w145981211, w146603464]
+# Names: [улица Энергетиков]
+msgid "Энергетиков"
 
 # Objects : [w146452104]
 # Names: [Южная улица]

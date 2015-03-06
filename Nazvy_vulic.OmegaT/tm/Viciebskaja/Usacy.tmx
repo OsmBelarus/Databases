@@ -12,6 +12,10 @@
       <tuv lang="BE"><seg>#Базарная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Бобоедова</seg></tuv>
+      <tuv lang="BE"><seg>#Бобаедава</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Витебская</seg></tuv>
       <tuv lang="BE"><seg>#Віцебская</seg></tuv>
     </tu>
@@ -62,6 +66,10 @@
     <tu>
       <tuv lang="RU"><seg>Кореневского</seg></tuv>
       <tuv lang="BE"><seg>#Корэнеўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Костюченко</seg></tuv>
+      <tuv lang="BE"><seg>#Касцючэнкі</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ленинская</seg></tuv>
@@ -154,6 +162,10 @@
     <tu>
       <tuv lang="RU"><seg>Фрунзе</seg></tuv>
       <tuv lang="BE"><seg>#Фрунзэ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Хрипача</seg></tuv>
+      <tuv lang="BE"><seg>#Хрыпача</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Хуторская</seg></tuv>

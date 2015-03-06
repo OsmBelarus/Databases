@@ -113,7 +113,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гаевая</seg></tuv>
-      <tuv lang="BE"><seg>#Гаявая</seg></tuv>
+      <tuv lang="BE"><seg>#Гаевая#Гаявая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Гастелло</seg></tuv>
@@ -804,8 +804,8 @@
       <tuv lang="BE"><seg>#Фрунзэ</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Хейнова</seg></tuv>
-      <tuv lang="BE"><seg>#Хейнава</seg></tuv>
+      <tuv lang="RU"><seg>Хейнола</seg></tuv>
+      <tuv lang="BE"><seg>#Хейнала</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Хлебная</seg></tuv>

@@ -53,6 +53,11 @@ msgstr ""
 msgid "Карла Маркса"
 msgstr ""
 
+# Objects : [w81543489]
+# Names: [улица Кирова]
+msgid "Кирова"
+msgstr ""
+
 # Objects : [w95195825]
 # Names: [Колхозная улица]
 msgid "Колхозная"
@@ -87,6 +92,14 @@ msgstr ""
 # Names: [улица Крупской]
 msgid "Крупской"
 msgstr ""
+
+# Objects : [w328511399]
+# Names: [Ленинская улица]
+msgid "Ленинская"
+
+# Objects : [w328511686]
+# Names: [Ленинский переулок]
+msgid "Ленинский"
 
 # Objects : [w81543488]
 # Names: [улица Маяковского]
@@ -128,7 +141,7 @@ msgstr ""
 msgid "Озёрная"
 msgstr ""
 
-# Objects : [w80218335]
+# Objects : [w80218335, w275314690]
 # Names: [Октябрьская улица]
 msgid "Октябрьская"
 msgstr ""
@@ -167,6 +180,10 @@ msgstr ""
 # Names: [улица Свободы]
 msgid "Свободы"
 msgstr ""
+
+# Objects : [w328511133]
+# Names: [Советская улица]
+msgid "Советская"
 
 # Objects : [w81543543, w95240204]
 # Names: [переулок Соколовского, улица Соколовского]

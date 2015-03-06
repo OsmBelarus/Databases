@@ -12,6 +12,10 @@
       <tuv lang="BE"><seg>#60 гадоў Кастрычніка</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>8 Марта</seg></tuv>
+      <tuv lang="BE"><seg>#Камунальны</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Вокзальный</seg></tuv>
       <tuv lang="BE"><seg>#Вакзальны</seg></tuv>
     </tu>
@@ -70,10 +74,6 @@
     <tu>
       <tuv lang="RU"><seg>Корзуна</seg></tuv>
       <tuv lang="BE"><seg>#Корзуна</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Ласковая</seg></tuv>
-      <tuv lang="BE"><seg>#Ласкавая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ленина</seg></tuv>

@@ -100,6 +100,10 @@
       <tuv lang="BE"><seg>#Падлесная</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Поплавской</seg></tuv>
+      <tuv lang="BE"><seg>#Паплаўскай</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Притыцкого</seg></tuv>
       <tuv lang="BE"><seg>#Прытыцкага</seg></tuv>
     </tu>
@@ -146,5 +150,9 @@
     <tu>
       <tuv lang="RU"><seg>Школьная</seg></tuv>
       <tuv lang="BE"><seg>#Школьная</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Яна Чечёта</seg></tuv>
+      <tuv lang="BE"><seg>#Яна Чачота</seg></tuv>
     </tu>
   </body></tmx>

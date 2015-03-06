@@ -26,6 +26,7 @@ msgstr ""
 # Objects : [w200396130]
 # Names: [улица XXVII Съезда КПСС]
 msgid "XXVII Съезда КПСС"
+msgstr ""
 
 # Objects : [w214146027]
 # Names: [Белорусская улица]
@@ -176,11 +177,6 @@ msgstr ""
 msgid "Космонавтов"
 msgstr ""
 
-# Objects : [w214146057]
-# Names: [Красивая улица]
-msgid "Красивая"
-msgstr ""
-
 # Objects : [w211301543]
 # Names: [улица Кулешова]
 msgid "Кулешова"
@@ -294,6 +290,11 @@ msgstr ""
 # Objects : [w25232700, w25232703, w214146113, w214146114, w265630140, w265630141]
 # Names: [Пролетарская улица]
 msgid "Пролетарская"
+msgstr ""
+
+# Objects : [w214146057]
+# Names: [Прыгожая]
+msgid "Прыгожая"
 msgstr ""
 
 # Objects : [w103615797, w211301521, w211718223]

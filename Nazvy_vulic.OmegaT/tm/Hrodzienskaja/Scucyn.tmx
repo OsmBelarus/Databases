@@ -152,6 +152,10 @@
       <tuv lang="BE"><seg>#Лідская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Майская</seg></tuv>
+      <tuv lang="BE"><seg>#Майская</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Максима Танка</seg></tuv>
       <tuv lang="BE"><seg>#Максіма Танка</seg></tuv>
     </tu>
@@ -190,6 +194,10 @@
     <tu>
       <tuv lang="RU"><seg>Ожешко</seg></tuv>
       <tuv lang="BE"><seg>#Ажэшкі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Озёрная</seg></tuv>
+      <tuv lang="BE"><seg>#Азёрная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Октябрьская</seg></tuv>
@@ -268,10 +276,6 @@
       <tuv lang="BE"><seg>#Паўночна-Усходні</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Скорины</seg></tuv>
-      <tuv lang="BE"><seg>#Скарыны</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>
       <tuv lang="BE"><seg>#Савецкая</seg></tuv>
     </tu>
@@ -294,6 +298,10 @@
     <tu>
       <tuv lang="RU"><seg>Титова</seg></tuv>
       <tuv lang="BE"><seg>#Цітова</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Франциска Скорины</seg></tuv>
+      <tuv lang="BE"><seg>#Францыска Скарыны</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Фрунзе</seg></tuv>

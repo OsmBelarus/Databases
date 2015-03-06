@@ -3,7 +3,7 @@
 msgid "8 Марта"
 msgstr ""
 
-# Objects : [w203010200]
+# Objects : [w97406638, w203010200]
 # Names: [улица Гагарина]
 msgid "Гагарина"
 msgstr ""
@@ -178,6 +178,10 @@ msgstr ""
 msgid "Советская"
 msgstr ""
 
+# Objects : [w98289140]
+# Names: [Сосновая улица]
+msgid "Сосновая"
+
 # Objects : [w97406689]
 # Names: [Цветочная улица]
 msgid "Цветочная"
@@ -197,6 +201,10 @@ msgstr ""
 # Names: [Школьная улица]
 msgid "Школьная"
 msgstr ""
+
+# Objects : [w97406669]
+# Names: [Школьный переулок]
+msgid "Школьный"
 
 # Objects : [w97406672]
 # Names: [улица Энгельса]

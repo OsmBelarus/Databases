@@ -276,6 +276,10 @@
       <tuv lang="BE"><seg>#Карла Лібкнехта</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Карла Маркса</seg></tuv>
+      <tuv lang="BE"><seg>#Карла Маркса</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Киевская</seg></tuv>
       <tuv lang="BE"><seg>#Кіеўская</seg></tuv>
     </tu>
@@ -506,6 +510,10 @@
     <tu>
       <tuv lang="RU"><seg>Папанина</seg></tuv>
       <tuv lang="BE"><seg>#Папаніна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Параллельная</seg></tuv>
+      <tuv lang="BE"><seg>#Паралельная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Парашютистов</seg></tuv>

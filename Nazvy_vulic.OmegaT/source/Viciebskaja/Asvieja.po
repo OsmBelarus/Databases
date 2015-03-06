@@ -51,4 +51,5 @@ msgstr ""
 # Objects : [w111411912]
 # Names: [улица Янки Купалы]
 msgid "Янки Купалы"
+msgstr ""
 

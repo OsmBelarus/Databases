@@ -92,6 +92,10 @@
       <tuv lang="BE"><seg>#Зубовіча</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Интернациональная</seg></tuv>
+      <tuv lang="BE"><seg>#Інтэрнацыянальная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Историческая</seg></tuv>
       <tuv lang="BE"><seg>#Гістарычная</seg></tuv>
     </tu>
@@ -220,8 +224,8 @@
       <tuv lang="BE"><seg>#Піянерская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Победы</seg></tuv>
-      <tuv lang="BE"><seg>#Перамогі</seg></tuv>
+      <tuv lang="RU"><seg>Плеснянская</seg></tuv>
+      <tuv lang="BE"><seg>#Пляснянская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Полевой</seg></tuv>
@@ -238,6 +242,10 @@
     <tu>
       <tuv lang="RU"><seg>Пушкина</seg></tuv>
       <tuv lang="BE"><seg>#Пушкіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Свабоды</seg></tuv>
+      <tuv lang="BE"><seg>#Свабоды</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Свободы</seg></tuv>
@@ -318,5 +326,13 @@
     <tu>
       <tuv lang="RU"><seg>Шубина</seg></tuv>
       <tuv lang="BE"><seg>#Шубіна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Яблоневая</seg></tuv>
+      <tuv lang="BE"><seg>#Яблыневая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Яблыневая - Яблоневая улица</seg></tuv>
+      <tuv lang="BE"><seg>#Яблыневая</seg></tuv>
     </tu>
   </body></tmx>

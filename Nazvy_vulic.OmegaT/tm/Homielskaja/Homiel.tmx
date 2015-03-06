@@ -28,12 +28,8 @@
       <tuv lang="BE"><seg>#40 гадоў Кастрычніка</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>50 лет БССР</seg></tuv>
-      <tuv lang="BE"><seg>#50 гадоў БССР</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>50 лет заводу Гомсельмаш</seg></tuv>
-      <tuv lang="BE"><seg>#50 гадоў заводу Гомсельмаш</seg></tuv>
+      <tuv lang="BE"><seg>#50 год заводу Гомсельмаш</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>60 лет СССР</seg></tuv>
@@ -432,7 +428,7 @@
       <tuv lang="BE"><seg>#Грамадзянская</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Гущина</seg></tuv>
+      <tuv lang="RU"><seg>Гущина Б. П.</seg></tuv>
       <tuv lang="BE"><seg>#Гушчына</seg></tuv>
     </tu>
     <tu>
@@ -712,10 +708,6 @@
       <tuv lang="BE"><seg>#Кавалерыйскі</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Каленикова</seg></tuv>
-      <tuv lang="BE"><seg>#Каленікава</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Калинина</seg></tuv>
       <tuv lang="BE"><seg>#Калініна</seg></tuv>
     </tu>
@@ -864,6 +856,10 @@
       <tuv lang="BE"><seg>#Косарава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Косманавтов</seg></tuv>
+      <tuv lang="BE"><seg>#Касманаўтаў</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Космическая</seg></tuv>
       <tuv lang="BE"><seg>#Касмічная</seg></tuv>
     </tu>
@@ -990,6 +986,10 @@
     <tu>
       <tuv lang="RU"><seg>Ленинская</seg></tuv>
       <tuv lang="BE"><seg>#Ленінская</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Лепестковая</seg></tuv>
+      <tuv lang="BE"><seg>#Клёнкаўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Лепешинского</seg></tuv>
@@ -1204,6 +1204,10 @@
       <tuv lang="BE"><seg>#Маскоўская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Н. Островского</seg></tuv>
+      <tuv lang="BE"><seg>#Астроўскага</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Набережная</seg></tuv>
       <tuv lang="BE"><seg>#Набярэжная</seg></tuv>
     </tu>
@@ -1222,10 +1226,6 @@
     <tu>
       <tuv lang="RU"><seg>Народного Ополчения</seg></tuv>
       <tuv lang="BE"><seg>#Народнага Апалчэння</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Невская</seg></tuv>
-      <tuv lang="BE"><seg>#Неўская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Нижнебрилевская</seg></tuv>
@@ -1309,7 +1309,7 @@
     </tu>
     <tu>
       <tuv lang="RU"><seg>Олимпийская</seg></tuv>
-      <tuv lang="BE"><seg>#Алімпійская</seg></tuv>
+      <tuv lang="BE"><seg>#Алімпійская#Свірыдава</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Ольховая</seg></tuv>
@@ -1568,10 +1568,6 @@
       <tuv lang="BE"><seg>#Радасці</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Ракитный</seg></tuv>
-      <tuv lang="BE"><seg>#Ракітны</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Революционная</seg></tuv>
       <tuv lang="BE"><seg>#Рэвалюцыйная</seg></tuv>
     </tu>
@@ -1644,7 +1640,7 @@
       <tuv lang="BE"><seg>#Сазонава</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Салтыкова-Щедрина</seg></tuv>
+      <tuv lang="RU"><seg>Салтыкова-Щедрина М. Е.</seg></tuv>
       <tuv lang="BE"><seg>#Салтыкова-Шчадрына</seg></tuv>
     </tu>
     <tu>
@@ -1826,10 +1822,6 @@
     <tu>
       <tuv lang="RU"><seg>Сухого</seg></tuv>
       <tuv lang="BE"><seg>#Сухога</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Сядибная</seg></tuv>
-      <tuv lang="BE"><seg>#Сядзібная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Талалихина</seg></tuv>

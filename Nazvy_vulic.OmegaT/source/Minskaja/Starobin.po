@@ -184,8 +184,9 @@ msgid "Спортивная"
 msgstr ""
 
 # Objects : [w39491595]
-# Names: [Сумара]
+# Names: [улица Сумара]
 msgid "Сумара"
+msgstr ""
 
 # Objects : [w39490039]
 # Names: [Трудовая улица]

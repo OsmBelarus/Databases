@@ -84,12 +84,12 @@
       <tuv lang="BE"><seg>#Дачны</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Держинская</seg></tuv>
-      <tuv lang="BE"><seg>#Дзяржынская</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Дехновский</seg></tuv>
       <tuv lang="BE"><seg>#Дзяхноўскі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Дзержинская</seg></tuv>
+      <tuv lang="BE"><seg>#Дзяржынская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Дружный</seg></tuv>

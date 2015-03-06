@@ -8,7 +8,7 @@ msgstr ""
 msgid "Бурденюка"
 msgstr ""
 
-# Objects : [w25718001]
+# Objects : [w25718001, w329794391, w329794392]
 # Names: [Виленская улица]
 msgid "Виленская"
 msgstr ""
@@ -73,7 +73,7 @@ msgstr ""
 msgid "Полевая"
 msgstr ""
 
-# Objects : [w37190420]
+# Objects : [w25717980]
 # Names: [Полоцкая улица]
 msgid "Полоцкая"
 msgstr ""
@@ -113,7 +113,7 @@ msgstr ""
 msgid "Тарашкевича"
 msgstr ""
 
-# Objects : [w25718004]
+# Objects : [w329794678]
 # Names: [улица Чернышевича]
 msgid "Чернышевича"
 msgstr ""
@@ -121,5 +121,10 @@ msgstr ""
 # Objects : [w238889626]
 # Names: [Школьная улица]
 msgid "Школьная"
+msgstr ""
+
+# Objects : [w238889624]
+# Names: [улица Янковского]
+msgid "Янковского"
 msgstr ""
 

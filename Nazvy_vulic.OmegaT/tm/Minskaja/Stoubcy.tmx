@@ -244,6 +244,10 @@
       <tuv lang="BE"><seg>#Мамантава</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Машиностроителей</seg></tuv>
+      <tuv lang="BE"><seg>#Машынабудаўнікоў</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Маяковского</seg></tuv>
       <tuv lang="BE"><seg>#Маякоўскага</seg></tuv>
     </tu>
@@ -434,6 +438,10 @@
     <tu>
       <tuv lang="RU"><seg>Чайковского</seg></tuv>
       <tuv lang="BE"><seg>#Чайкоўскага</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Чапаева</seg></tuv>
+      <tuv lang="BE"><seg>#Чапаева</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Черняховского</seg></tuv>

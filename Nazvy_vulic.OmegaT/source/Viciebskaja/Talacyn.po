@@ -433,15 +433,18 @@ msgstr ""
 msgid "Тракторная"
 msgstr ""
 
+# Objects : [w314213198]
+# Names: [Тропинка]
+msgid "Тропинка"
+
 # Objects : [w144073103]
 # Names: [Тюменская улица]
 msgid "Тюменская"
 msgstr ""
 
 # Objects : [w144197933]
-# Names: [улица Франциска Скорины]
-msgid "Франциска Скорины"
-msgstr ""
+# Names: [улица Ф. Скорины]
+msgid "Ф. Скорины"
 
 # Objects : [w209551995, w209551996]
 # Names: [Цветочная улица]
@@ -473,7 +476,7 @@ msgstr ""
 msgid "Школьная"
 msgstr ""
 
-# Objects : [w159821612]
+# Objects : [w159821612, w318470847]
 # Names: [Школьный переулок]
 msgid "Школьный"
 msgstr ""

@@ -122,7 +122,7 @@ msgstr ""
 msgid "Комсомольская"
 msgstr ""
 
-# Objects : [w157091102]
+# Objects : [w157091102, w309161174]
 # Names: [Кооперативная улица]
 msgid "Кооперативная"
 msgstr ""
@@ -147,7 +147,7 @@ msgstr ""
 msgid "Красноармейский"
 msgstr ""
 
-# Objects : [w136507475, w138505424]
+# Objects : [w136507475, w138505424, w313577472]
 # Names: [Краснодворская улица]
 msgid "Краснодворская"
 msgstr ""
@@ -347,7 +347,7 @@ msgstr ""
 msgid "Энергетиков"
 msgstr ""
 
-# Objects : [w157501549]
+# Objects : [w157501549, w308853388]
 # Names: [Юбилейная улица]
 msgid "Юбилейная"
 msgstr ""

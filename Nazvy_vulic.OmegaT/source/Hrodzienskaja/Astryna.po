@@ -3,6 +3,14 @@
 msgid "8 Марта"
 msgstr ""
 
+# Objects : [w193131917]
+# Names: [улица Волкова]
+msgid "Волкова"
+
+# Objects : [w173552734]
+# Names: [Гродненская улица]
+msgid "Гродненская"
+
 # Objects : [w120209932, w198518012]
 # Names: [улица Жуковского]
 msgid "Жуковского"
@@ -28,6 +36,10 @@ msgstr ""
 msgid "Кирова"
 msgstr ""
 
+# Objects : [w193131910]
+# Names: [Колхозная улица]
+msgid "Колхозная"
+
 # Objects : [w136324842]
 # Names: [улица Комарова]
 msgid "Комарова"
@@ -38,12 +50,28 @@ msgstr ""
 msgid "Красноармейская"
 msgstr ""
 
+# Objects : [w193131929]
+# Names: [Лесная улица]
+msgid "Лесная"
+
+# Objects : [w324986338]
+# Names: [улица Мира]
+msgid "Мира"
+
+# Objects : [w193131911]
+# Names: [улица Михалева]
+msgid "Михалева"
+
+# Objects : [w193131925]
+# Names: [Молодёжная улица]
+msgid "Молодёжная"
+
 # Objects : [w120209931]
 # Names: [Октябрьская улица]
 msgid "Октябрьская"
 msgstr ""
 
-# Objects : [w136324841]
+# Objects : [w193131928, w324986336]
 # Names: [Первомайская улица]
 msgid "Первомайская"
 msgstr ""
@@ -63,20 +91,40 @@ msgstr ""
 msgid "Победы"
 msgstr ""
 
+# Objects : [w120209926]
+# Names: [Полевая улица]
+msgid "Полевая"
+
 # Objects : [w173380387]
 # Names: [улица Пушкина]
 msgid "Пушкина"
 msgstr ""
 
-# Objects : [w120209926]
+# Objects : [w136324848]
+# Names: [Рабочая улица]
+msgid "Рабочая"
+
+# Objects : [w324986337]
 # Names: [Садовая улица]
 msgid "Садовая"
 msgstr ""
+
+# Objects : [w112511854]
+# Names: [улица Слатвинского]
+msgid "Слатвинского"
 
 # Objects : [w136324849]
 # Names: [Советская улица]
 msgid "Советская"
 msgstr ""
+
+# Objects : [w132203968]
+# Names: [улица Станкевича]
+msgid "Станкевича"
+
+# Objects : [w193131916]
+# Names: [улица Терешковой]
+msgid "Терешковой"
 
 # Objects : [w136324452]
 # Names: [Трудовая улица]
@@ -88,9 +136,13 @@ msgstr ""
 msgid "Щучинская"
 msgstr ""
 
+# Objects : [w325992114]
+# Names: [улица Энгельса]
+msgid "Энгельса"
+
 # Objects : [w136324453]
-# Names: [улица Якуба Колоса]
-msgid "Якуба Колоса"
+# Names: [улица Якуба Коласа]
+msgid "Якуба Коласа"
 msgstr ""
 
 # Objects : [w136324840]

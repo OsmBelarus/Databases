@@ -12,8 +12,16 @@
       <tuv lang="BE"><seg>#Леніна</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Мелиоративная</seg></tuv>
+      <tuv lang="BE"><seg>#Меліярацыйная</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Советская</seg></tuv>
       <tuv lang="BE"><seg>#Савецкая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Тихая</seg></tuv>
+      <tuv lang="BE"><seg>#Ціхая</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Томилова</seg></tuv>

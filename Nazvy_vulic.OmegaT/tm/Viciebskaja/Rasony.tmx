@@ -24,6 +24,10 @@
       <tuv lang="BE"><seg>#Гогаля</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Горецкой</seg></tuv>
+      <tuv lang="BE"><seg>#Гарэцкай</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Держинского</seg></tuv>
       <tuv lang="BE"><seg>#Дзяржынскага</seg></tuv>
     </tu>
@@ -46,6 +50,10 @@
     <tu>
       <tuv lang="RU"><seg>Заслонова</seg></tuv>
       <tuv lang="BE"><seg>#Заслонава</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Кирпичная</seg></tuv>
+      <tuv lang="BE"><seg>#Кірпічная</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Колхозная</seg></tuv>
@@ -132,12 +140,12 @@
       <tuv lang="BE"><seg>#Кастрычніцкі</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Партизанская</seg></tuv>
-      <tuv lang="BE"><seg>#Партызанская</seg></tuv>
+      <tuv lang="RU"><seg>Охотина</seg></tuv>
+      <tuv lang="BE"><seg>#Ахоціна</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Партизанский</seg></tuv>
-      <tuv lang="BE"><seg>#Партызанскі</seg></tuv>
+      <tuv lang="RU"><seg>Партизанская</seg></tuv>
+      <tuv lang="BE"><seg>#Партызанская</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Первомайская</seg></tuv>

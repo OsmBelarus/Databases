@@ -48,7 +48,7 @@ msgstr ""
 msgid "Бохоново"
 msgstr ""
 
-# Objects : [w51362264]
+# Objects : [w51362264, w321797081]
 # Names: [Виленская улица]
 msgid "Виленская"
 msgstr ""
@@ -138,7 +138,7 @@ msgstr ""
 msgid "Красная"
 msgstr ""
 
-# Objects : [w25277859]
+# Objects : [w25277859, w313347932, w321797082]
 # Names: [Красноармейская улица]
 msgid "Красноармейская"
 msgstr ""
@@ -163,7 +163,7 @@ msgstr ""
 msgid "Лесная"
 msgstr ""
 
-# Objects : [w222872160]
+# Objects : [w222872160, w321797083, w321797085]
 # Names: [Лесной переулок]
 msgid "Лесной"
 msgstr ""
@@ -188,7 +188,7 @@ msgstr ""
 msgid "Мелиоративная"
 msgstr ""
 
-# Objects : [w79370166]
+# Objects : [w79370166, w321797088]
 # Names: [улица Мицкевича]
 msgid "Мицкевича"
 msgstr ""
@@ -213,7 +213,7 @@ msgstr ""
 msgid "Московская"
 msgstr ""
 
-# Objects : [w79292551]
+# Objects : [w321797087]
 # Names: [Мостовая улица]
 msgid "Мостовая"
 msgstr ""
@@ -223,7 +223,7 @@ msgstr ""
 msgid "Новая"
 msgstr ""
 
-# Objects : [w132913941]
+# Objects : [w132913941, w313583176]
 # Names: [Октябрьская улица]
 msgid "Октябрьская"
 msgstr ""

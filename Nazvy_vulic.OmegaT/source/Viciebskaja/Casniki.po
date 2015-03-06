@@ -13,7 +13,7 @@ msgstr ""
 msgid "Вишнёвая"
 msgstr ""
 
-# Objects : [w176294456]
+# Objects : [w176294456, w310230088]
 # Names: [улица Володарского]
 msgid "Володарского"
 msgstr ""
@@ -93,7 +93,7 @@ msgstr ""
 msgid "Комсомольская"
 msgstr ""
 
-# Objects : [w157659263]
+# Objects : [w157659263, w272477441]
 # Names: [улица Космонавтов]
 msgid "Космонавтов"
 msgstr ""

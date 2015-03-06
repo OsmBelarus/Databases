@@ -12,10 +12,6 @@
       <tuv lang="BE"><seg>#Бумажкова</seg></tuv>
     </tu>
     <tu>
-      <tuv lang="RU"><seg>Гагарина</seg></tuv>
-      <tuv lang="BE"><seg>#Гагарына</seg></tuv>
-    </tu>
-    <tu>
       <tuv lang="RU"><seg>Гоголя</seg></tuv>
       <tuv lang="BE"><seg>#Гогаля</seg></tuv>
     </tu>
@@ -82,10 +78,6 @@
     <tu>
       <tuv lang="RU"><seg>Суворова</seg></tuv>
       <tuv lang="BE"><seg>#Суворава</seg></tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU"><seg>Урицкого</seg></tuv>
-      <tuv lang="BE"><seg>#Урыцкага</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Франциска Скорины</seg></tuv>

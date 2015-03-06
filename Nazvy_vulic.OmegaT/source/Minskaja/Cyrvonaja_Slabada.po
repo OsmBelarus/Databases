@@ -6,6 +6,7 @@ msgstr ""
 # Objects : [w274472717]
 # Names: [улица 8 Марта]
 msgid "8 Марта"
+msgstr ""
 
 # Objects : [w273546628]
 # Names: [Базарная улица]
@@ -125,6 +126,11 @@ msgstr ""
 # Objects : [w273989919]
 # Names: [Слуцкий переулок]
 msgid "Слуцкий"
+msgstr ""
+
+# Objects : [w274902138]
+# Names: [Советская улица]
+msgid "Советская"
 msgstr ""
 
 # Objects : [w273548605]

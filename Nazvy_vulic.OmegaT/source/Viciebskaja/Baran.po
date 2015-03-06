@@ -88,7 +88,7 @@ msgstr ""
 msgid "Лесная"
 msgstr ""
 
-# Objects : [w221501292]
+# Objects : [w97540257, w221501292]
 # Names: [улица Максима Горького]
 msgid "Максима Горького"
 msgstr ""
@@ -133,7 +133,7 @@ msgstr ""
 msgid "Оршанская"
 msgstr ""
 
-# Objects : [w30087423, w203575000, w203575001]
+# Objects : [w30087423, w203575001, w329345863]
 # Names: [улица Островского]
 msgid "Островского"
 msgstr ""

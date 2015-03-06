@@ -28,6 +28,10 @@
       <tuv lang="BE"><seg>#Віцебская</seg></tuv>
     </tu>
     <tu>
+      <tuv lang="RU"><seg>Витебское шоссе</seg></tuv>
+      <tuv lang="BE"><seg>#Віцебская шаша</seg></tuv>
+    </tu>
+    <tu>
       <tuv lang="RU"><seg>Володарского</seg></tuv>
       <tuv lang="BE"><seg>#Валадарскага</seg></tuv>
     </tu>
@@ -330,6 +334,10 @@
     <tu>
       <tuv lang="RU"><seg>Чуклая</seg></tuv>
       <tuv lang="BE"><seg>#Чуклая</seg></tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU"><seg>Шварцмана</seg></tuv>
+      <tuv lang="BE"><seg>#Шварцмана</seg></tuv>
     </tu>
     <tu>
       <tuv lang="RU"><seg>Школьная</seg></tuv>

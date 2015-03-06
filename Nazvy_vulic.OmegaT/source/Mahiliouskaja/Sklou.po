@@ -93,7 +93,7 @@ msgstr ""
 msgid "Железнодорожный"
 msgstr ""
 
-# Objects : [w74577305, w215108822, w241553346]
+# Objects : [w74577305, w241553346]
 # Names: [Загородная улица]
 msgid "Загородная"
 msgstr ""
@@ -128,7 +128,7 @@ msgstr ""
 msgid "Кленовая"
 msgstr ""
 
-# Objects : [w205325080, w239479306]
+# Objects : [w205325080]
 # Names: [Колхозная улица]
 msgid "Колхозная"
 msgstr ""
@@ -193,7 +193,7 @@ msgstr ""
 msgid "Мелиоративная"
 msgstr ""
 
-# Objects : [w74577160, w241540599]
+# Objects : [w74577160, w322655332]
 # Names: [улица Механизаторов]
 msgid "Механизаторов"
 msgstr ""
@@ -351,11 +351,6 @@ msgstr ""
 # Objects : [w241136259]
 # Names: [Речная улица]
 msgid "Речная"
-msgstr ""
-
-# Objects : [w105322562]
-# Names: [Рыжковская улица]
-msgid "Рыжковская"
 msgstr ""
 
 # Objects : [w74577173, w74577183, w74577192, w241540605]
