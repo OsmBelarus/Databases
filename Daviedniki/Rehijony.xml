@@ -1,0 +1,1430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Kraina osmID="r59065" name_be="Беларусь" name_ru="Беларусь" int_name="Belarus" iso3166-1="BY">
+    <Voblasc osmID="r59189" name_be="Брэсцкая вобласць" name_ru="Брестская область" iso3166-2="BY-BR">
+        <Rajon osmID="r71116" name_be="Баранавіцкі раён" name_ru="Барановичский район">
+            <Vojtaustva name_be="Велікалу´цкі с/с" name_ru="Великолу´кский с/с" />
+            <Vojtaustva name_be="Во´льнаўскі с/с" name_ru="Во´льновский с/с" />
+            <Vojtaustva name_be="Гарадзі´шчанскі с/с" name_ru="Городищенский с/с" />
+            <Vojtaustva name_be="Жамчу´жненскі с/с" name_ru="Жемчу´жненский с/с" />
+            <Vojtaustva name_be="Кро´шынскі с/с" name_ru="Кро´шинский с/с" />
+            <Vojtaustva name_be="Лясня´нскі с/с" name_ru="Лесня´нский с/с" />
+            <Vojtaustva name_be="Малахаве´цкі с/с" name_ru="Малахове´цкий с/с" />
+            <Vojtaustva name_be="Маўча´дскі с/с" name_ru="Молча´дский с/с" />
+            <Vojtaustva name_be="Мілаві´дскі с/с" name_ru="Милови´дский с/с" />
+            <Vojtaustva name_be="Навамы´шскі с/с" name_ru="Новомы´шский с/с" />
+            <Vojtaustva name_be="Падго´рнаўскі с/с" name_ru="Подго´рновский с/с" />
+            <Vojtaustva name_be="Пало´нкаўскі с/с" name_ru="Поло´нковский с/с" />
+            <Vojtaustva name_be="Пача´паўскі с/с" name_ru="Поча´повский с/с" />
+            <Vojtaustva name_be="Стало´віцкі с/с" name_ru="Столо´вичский с/с" />
+        </Rajon>
+        <Rajon osmID="r59188" name_be="Брэсцкі раён" name_ru="Брестский район">
+            <Vojtaustva name_be="Дама´чаўскі с/с" name_ru="Дома´чевский с/с" />
+            <Vojtaustva name_be="Зна´менскі с/с" name_ru="Зна´менский с/с" />
+            <Vojtaustva name_be="Кле´йнікаўскі с/с" name_ru="Кле´йниковский с/с" />
+            <Vojtaustva name_be="Лы´шчыцкі с/с" name_ru="Лы´щицкий с/с" />
+            <Vojtaustva name_be="Матыка´льскі с/с" name_ru="Мотыка´льский с/с" />
+            <Vojtaustva name_be="Мухаве´цкі с/с" name_ru="Мухаве´цкий с/с" />
+            <Vojtaustva name_be="Радва´ніцкі с/с" name_ru="Радва´ничский с/с" />
+            <Vojtaustva name_be="Тамашо´ўскі с/с" name_ru="Томашовский с/с" />
+            <Vojtaustva name_be="Тэ´льмінскі с/с" name_ru="Те´льминский с/с" />
+            <Vojtaustva name_be="Чарна´ўчыцкі с/с" name_ru="Черна´вчицкий с/с" />
+            <Vojtaustva name_be="Чэ´рнінскі с/с" name_ru="Че´рнинский с/с" />
+        </Rajon>
+        <Rajon osmID="r71107" name_be="Бярозаўскі раён" name_ru="Берёзовский район">
+            <Vojtaustva name_be="Бяро´заўскі с/с" name_ru="Берёзовский с/с" />
+            <Vojtaustva name_be="Здзі´таўскі с/с" name_ru="Зди´товский с/с" />
+            <Vojtaustva name_be="Ма´лецкі с/с" name_ru="Ма´лечский с/с" />
+            <Vojtaustva name_be="Міжле´скі с/с" name_ru="Междуле´сский с/с" />
+            <Vojtaustva name_be="Пе´скаўскі с/с" name_ru="Пе´сковский с/с" />
+            <Vojtaustva name_be="Першама´йскі с/с" name_ru="Первома´йский с/с" />
+            <Vojtaustva name_be="Сакало´ўскі с/с" name_ru="Соколо´вский с/с" />
+            <Vojtaustva name_be="Сігне´віцкі с/с" name_ru="Сигне´вичский с/с" />
+            <Vojtaustva name_be="Спо´раўскі с/с" name_ru="Спо´ровский с/с" />
+            <Vojtaustva name_be="Стрыгі´нскі с/с" name_ru="Стриги´нский с/с" />
+            <Vojtaustva name_be="Сяле´цкі с/с" name_ru="Селе´цкий с/с" />
+        </Rajon>
+        <Rajon osmID="r71121" name_be="Ганцавіцкі раён" name_ru="Ганцевичский район">
+            <Vojtaustva name_be="Агарэ´віцкі с/с" name_ru="Огаре´вичский с/с" />
+            <Vojtaustva name_be="Дзяні´скавіцкі с/с" name_ru="Дени´сковичский с/с" />
+            <Vojtaustva name_be="Лю´сінскі с/с" name_ru="Лю´синский с/с" />
+            <Vojtaustva name_be="Люба´шаўскі с/с" name_ru="Люба´шевский с/с" />
+            <Vojtaustva name_be="Ма´лькавіцкі с/с" name_ru="Ма´льковичский с/с" />
+            <Vojtaustva name_be="На´цкі с/с" name_ru="На´чский с/с" />
+            <Vojtaustva name_be="Хаты´ніцкі с/с" name_ru="Хоты´ничский с/с" />
+            <Vojtaustva name_be="Чу´дзінскі с/с" name_ru="Чу´динский с/с" />
+        </Rajon>
+        <Rajon osmID="r71105" name_be="Драгічынскі раён" name_ru="Дрогичинский район">
+            <Vojtaustva name_be="Анто´пальскі с/с" name_ru="Антопольский с/с" />
+            <Vojtaustva name_be="Асаве´цкі с/с" name_ru="Осове´цкий с/с" />
+            <Vojtaustva name_be="Бе´здзежскі с/с" name_ru="Бе´здежский с/с" />
+            <Vojtaustva name_be="Брашэ´віцкі с/с" name_ru="Браше´вичский с/с" />
+            <Vojtaustva name_be="Ву´лькаўскі с/с" name_ru="Ву´льковский с/с" />
+            <Vojtaustva name_be="Драгі´чынскі с/с" name_ru="Дроги´чинский с/с" />
+            <Vojtaustva name_be="Зако´зельскі с/с" name_ru="Зако´зельский с/с" />
+            <Vojtaustva name_be="Імяні´нскі с/с" name_ru="Имени´нский с/с" />
+            <Vojtaustva name_be="Немяржа´нскі с/с" name_ru="Немержа´нский с/с" />
+            <Vojtaustva name_be="Папі´нскі с/с" name_ru="Попи´нский с/с" />
+            <Vojtaustva name_be="Ра´дастаўскі с/с" name_ru="Ра´достовский с/с" />
+            <Vojtaustva name_be="Хо´мскі с/с" name_ru="Хо´мский с/с" />
+        </Rajon>
+        <Rajon osmID="r71099" name_be="Жабінкаўскі раён" name_ru="Жабинковский район">
+            <Vojtaustva name_be="Азя´цкі с/с" name_ru="Озя´тский с/с" />
+            <Vojtaustva name_be="Жа´бінкаўскі с/с" name_ru="Жа´бинковский с/с" />
+            <Vojtaustva name_be="Крыўля´нскі с/с" name_ru="Кривля´нский с/с" />
+            <Vojtaustva name_be="Ле´нінскі с/с" name_ru="Ле´нинский с/с" />
+            <Vojtaustva name_be="Ракі´тніцкі с/с" name_ru="Раки´тницкий с/с" />
+            <Vojtaustva name_be="Сцяпа´нкаўскі с/с" name_ru="Степа´нковский с/с" />
+            <Vojtaustva name_be="Хме´леўскі с/с" name_ru="Хме´левский с/с" />
+        </Rajon>
+        <Rajon osmID="r71118" name_be="Іванаўскі раён" name_ru="Ивановский район">
+            <Vojtaustva name_be="Адры´жынскі с/с" name_ru="Одри´жинский с/с" />
+            <Vojtaustva name_be="Бро´дніцкі с/с" name_ru="Бро´дницкий с/с" />
+            <Vojtaustva name_be="Гарба´хскі с/с" name_ru="Горба´хский с/с" />
+            <Vojtaustva name_be="Ля´скавіцкі с/с" name_ru="Ля´сковичский с/с" />
+            <Vojtaustva name_be="Махро´ўскі с/с" name_ru="Мохро´вский с/с" />
+            <Vojtaustva name_be="Мо´ладаўскі с/с" name_ru="Мо´лодовский с/с" />
+            <Vojtaustva name_be="Мо´тальскі с/с" name_ru="Мо´тольский с/с" />
+            <Vojtaustva name_be="О´пальскі с/с" name_ru="О´польский с/с" />
+            <Vojtaustva name_be="Ру´дскі с/с" name_ru="Ру´дский с/с" />
+            <Vojtaustva name_be="Сачы´ўкаўскі с/с" name_ru="Сочи´вковский с/с" />
+        </Rajon>
+        <Rajon osmID="r71112" name_be="Івацэвіцкі раён" name_ru="Ивацевичский район">
+            <Vojtaustva name_be="Абро´ўскі с/с" name_ru="Обро´вский с/с" />
+            <Vojtaustva name_be="Амяльня´нскі с/с" name_ru="Омельня´нский с/с" />
+            <Vojtaustva name_be="Бы´ценскі с/с" name_ru="Бы´тенский с/с" />
+            <Vojtaustva name_be="Во´лькаўскі с/с" name_ru="Во´льковский с/с" />
+            <Vojtaustva name_be="Дабро´мысленскі с/с" name_ru="Добро´мысленский с/с" />
+            <Vojtaustva name_be="Дама´наўскі с/с" name_ru="Дома´новский с/с" />
+            <Vojtaustva name_be="Жы´тлінскі с/с" name_ru="Жи´тлинский с/с" />
+            <Vojtaustva name_be="Квасе´віцкі с/с" name_ru="Квасе´вичский с/с" />
+            <Vojtaustva name_be="Любі´шчыцкі с/с" name_ru="Люби´щицкий с/с" />
+            <Vojtaustva name_be="Міле´йкаўскі с/с" name_ru="Миле´йковский с/с" />
+            <Vojtaustva name_be="Падстары´нскі с/с" name_ru="Подстари´нский с/с" />
+            <Vojtaustva name_be="Рэ´чкаўскі с/с" name_ru="Ре´чковский с/с" />
+            <Vojtaustva name_be="Святаво´льскі с/с" name_ru="Святово´льский с/с" />
+            <Vojtaustva name_be="Ста´йкаўскі с/с" name_ru="Ста´йковский с/с" />
+            <Vojtaustva name_be="Целяха´нскі с/с" name_ru="Телеха´нский с/с" />
+            <Vojtaustva name_be="Ягле´віцкі с/с" name_ru="Ягле´вичский с/с" />
+        </Rajon>
+        <Rajon osmID="r71097" name_be="Камянецкі раён" name_ru="Каменецкий район">
+            <Vojtaustva name_be="Агаро´дніцкі с/с" name_ru="Огоро´дникский с/с" />
+            <Vojtaustva name_be="Белаве´жскі с/с" name_ru="Белове´жский с/с" />
+            <Vojtaustva name_be="Відамля´нскі с/с" name_ru="Видомля´нский с/с" />
+            <Vojtaustva name_be="Во´йскі с/с" name_ru="Во´йский с/с" />
+            <Vojtaustva name_be="Во´ўчынскі с/с" name_ru="Во´лчинский с/с" />
+            <Vojtaustva name_be="Вярхо´віцкі с/с" name_ru="Верхо´вичский с/с" />
+            <Vojtaustva name_be="Дзмітро´віцкі с/с" name_ru="Дмитро´вичский с/с" />
+            <Vojtaustva name_be="Камяню´цкі с/с" name_ru="Каменю´кский с/с" />
+            <Vojtaustva name_be="Наві´цкавіцкі с/с" name_ru="Нови´цковичский с/с" />
+            <Vojtaustva name_be="Пе´лішчанскі с/с" name_ru="Пе´лищенский с/с" />
+            <Vojtaustva name_be="Расня´нскі с/с" name_ru="Рясня´нский с/с" />
+            <Vojtaustva name_be="Рата´йчыцкі с/с" name_ru="Рата´йчицкий с/с" />
+            <Vojtaustva name_be="Рэ´чыцкі с/с" name_ru="Ре´чицкий с/с" />
+        </Rajon>
+        <Rajon osmID="r71101" name_be="Кобрынскі раён" name_ru="Кобринский район">
+            <Vojtaustva name_be="Астро´міцкі с/с" name_ru="Остро´мичский с/с" />
+            <Vojtaustva name_be="Ба´тчынскі с/с" name_ru="Ба´тчинский с/с" />
+            <Vojtaustva name_be="Бухо´віцкі с/с" name_ru="Бухо´вичский с/с" />
+            <Vojtaustva name_be="Гарадзе´цкі с/с" name_ru="Городе´цкий с/с" />
+            <Vojtaustva name_be="Дзі´вінскі с/с" name_ru="Ди´винский с/с" />
+            <Vojtaustva name_be="Зале´скі с/с" name_ru="Зале´сский с/с" />
+            <Vojtaustva name_be="Кіселяве´цкі с/с" name_ru="Киселеве´цкий с/с" />
+            <Vojtaustva name_be="Навасёлкаўскі с/с" name_ru="Новосёлковский с/с" />
+            <Vojtaustva name_be="Паві´ццеўскі с/с" name_ru="Пови´тьевский с/с" />
+            <Vojtaustva name_be="Тэ´вельскі с/с" name_ru="Те´вельский с/с" />
+            <Vojtaustva name_be="Хі´дрынскі с/с" name_ru="Хи´дринский с/с" />
+        </Rajon>
+        <Rajon osmID="r71124" name_be="Лунінецкі раён" name_ru="Лунинецкий район">
+            <Vojtaustva name_be="Багда´наўскі с/с" name_ru="Богда´новский с/с" />
+            <Vojtaustva name_be="Басты´нскі с/с" name_ru="Босты´нский с/с" />
+            <Vojtaustva name_be="Ву´лькаўскі с/с" name_ru="Ву´льковский с/с" />
+            <Vojtaustva name_be="Гарадо´цкі с/с" name_ru="Городо´кский с/с" />
+            <Vojtaustva name_be="Дварэ´цкі с/с" name_ru="Дворе´цкий с/с" />
+            <Vojtaustva name_be="Дзя´тлавіцкі с/с" name_ru="Дя´тловичский с/с" />
+            <Vojtaustva name_be="Ла´хвенскі с/с" name_ru="Ла´хвенский с/с" />
+            <Vojtaustva name_be="Лу´нінскі с/с" name_ru="Лу´нинский с/с" />
+            <Vojtaustva name_be="Рыдзіге´раўскі с/с" name_ru="Редиге´ровский с/с" />
+            <Vojtaustva name_be="Сінке´віцкі с/с" name_ru="Синке´вичский с/с" />
+            <Vojtaustva name_be="Чу´чавіцкі с/с" name_ru="Чу´чевичский с/с" />
+        </Rajon>
+        <Rajon osmID="r71117" name_be="Ляхавіцкі раён" name_ru="Ляховичский район">
+            <Vojtaustva name_be="Альхо´ўскі с/с" name_ru="Ольхо´вский с/с" />
+            <Vojtaustva name_be="Во´страўскі с/с" name_ru="О´стровский с/с" />
+            <Vojtaustva name_be="Ганчаро´ўскі с/с" name_ru="Гончаро´вский с/с" />
+            <Vojtaustva name_be="Жарабко´віцкі с/с" name_ru="Жеребко´вичский с/с" />
+            <Vojtaustva name_be="Ко´нькаўскі с/с" name_ru="Ко´ньковский с/с" />
+            <Vojtaustva name_be="Крыво´шынскі с/с" name_ru="Криво´шинский с/с" />
+            <Vojtaustva name_be="На´чаўскі с/с" name_ru="На´чевский с/с" />
+            <Vojtaustva name_be="Навасёлкаўскі с/с" name_ru="Новосёлковский с/с" />
+        </Rajon>
+        <Rajon osmID="r71100" name_be="Маларыцкі раён" name_ru="Малоритский район">
+            <Vojtaustva name_be="Арэ´хаўскі с/с" name_ru="Оре´ховский с/с" />
+            <Vojtaustva name_be="Велікары´цкі с/с" name_ru="Великори´тский с/с" />
+            <Vojtaustva name_be="Гво´зніцкі с/с" name_ru="Гво´зницкий с/с" />
+            <Vojtaustva name_be="Лу´каўскі с/с" name_ru="Лу´ковский с/с" />
+            <Vojtaustva name_be="Макра´нскі с/с" name_ru="Мокра´нский с/с" />
+            <Vojtaustva name_be="О´лтушскі с/с" name_ru="О´лтушский с/с" />
+            <Vojtaustva name_be="Хаці´слаўскі с/с" name_ru="Хоти´славский с/с" />
+            <Vojtaustva name_be="Чарня´нскі с/с" name_ru="Черня´нский с/с" />
+        </Rajon>
+        <Rajon osmID="r71119" name_be="Пінскі раён" name_ru="Пинский район">
+            <Vojtaustva name_be="Асне´жыцкі с/с" name_ru="Осне´жицкий с/с" />
+            <Vojtaustva name_be="Ахо´ўскі с/с" name_ru="Охо´вский с/с" />
+            <Vojtaustva name_be="Бабрыко´ўскі с/с" name_ru="Бобрико´вский с/с" />
+            <Vojtaustva name_be="Бары´чавіцкі с/с" name_ru="Бори´чевичский с/с" />
+            <Vojtaustva name_be="Бяро´завіцкі с/с" name_ru="Берёзовичский с/с" />
+            <Vojtaustva name_be="Валі´шчанскі с/с" name_ru="Вали´щенский с/с" />
+            <Vojtaustva name_be="Гарадзі´шчанскі с/с" name_ru="Городи´щенский с/с" />
+            <Vojtaustva name_be="Ду´байскі с/с" name_ru="Ду´бойский с/с" />
+            <Vojtaustva name_be="Загаро´дскі с/с" name_ru="Загоро´дский с/с" />
+            <Vojtaustva name_be="Калаву´равіцкі с/с" name_ru="Каллау´ровичский с/с" />
+            <Vojtaustva name_be="Ла´сіцкі с/с" name_ru="Ла´сицкий с/с" />
+            <Vojtaustva name_be="Лагі´шынскі с/с" name_ru="Логишинский с/с" />
+            <Vojtaustva name_be="Лапа´цінскі с/с" name_ru="Лопа´тинский с/с" />
+            <Vojtaustva name_be="Лы´шчанскі с/с" name_ru="Лы´щенский с/с" />
+            <Vojtaustva name_be="Мало´ткавіцкі с/с" name_ru="Молотко´вичский с/с" />
+            <Vojtaustva name_be="Ме´рчыцкі с/с" name_ru="Ме´рчицкий с/с" />
+            <Vojtaustva name_be="Навадво´рскі с/с" name_ru="Новодво´рский с/с" />
+            <Vojtaustva name_be="Парахо´нскі с/с" name_ru="Парохо´нский с/с" />
+            <Vojtaustva name_be="Парэ´цкі с/с" name_ru="Поре´чский с/с" />
+            <Vojtaustva name_be="Пі´нкавіцкі с/с" name_ru="Пи´нковичский с/с" />
+            <Vojtaustva name_be="Пле´шчыцкі с/с" name_ru="Пле´щицкий с/с" />
+            <Vojtaustva name_be="Со´шненскі с/с" name_ru="Со´шненский с/с" />
+            <Vojtaustva name_be="Ставо´цкі с/с" name_ru="Ставо´кский с/с" />
+            <Vojtaustva name_be="Хо´йнаўскі с/с" name_ru="Хо´йновский с/с" />
+        </Rajon>
+        <Rajon osmID="r71094" name_be="Пружанскі раён" name_ru="Пружанский район">
+            <Vojtaustva name_be="Велікасе´льскі с/с" name_ru="Великосе´льский с/с" />
+            <Vojtaustva name_be="Зеляне´віцкі с/с" name_ru="Зелене´вичский с/с" />
+            <Vojtaustva name_be="Лі´наўскі с/с" name_ru="Лино´вский с/с" />
+            <Vojtaustva name_be="Мо´краўскі с/с" name_ru="Мо´кровский с/с" />
+            <Vojtaustva name_be="Наваза´сімавіцкі с/с" name_ru="Новоза´симовичский с/с" />
+            <Vojtaustva name_be="Пружа´нскі с/с" name_ru="Пружа´нский с/с" />
+            <Vojtaustva name_be="Ружа´нскі п/с" name_ru="Ружанский п/с" />
+            <Vojtaustva name_be="Сухо´пальскі с/с" name_ru="Сухо´польский с/с" />
+            <Vojtaustva name_be="Хараўскі´ с/с" name_ru="Хоревско´й с/с" />
+            <Vojtaustva name_be="Шаняўскі´ с/с" name_ru="Шеневско´й с/с" />
+            <Vojtaustva name_be="Шарашо´ўскі п/с" name_ru="Шерешевский п/с" />
+            <Vojtaustva name_be="Шчарчо´ўскі с/с" name_ru="Щерчовский с/с" />
+        </Rajon>
+        <Rajon osmID="r71125" name_be="Столінскі раён" name_ru="Столинский район">
+            <Vojtaustva name_be="Альша´нскі с/с" name_ru="Ольша´нский с/с" />
+            <Vojtaustva name_be="Белаву´шскі с/с" name_ru="Белоу´шский с/с" />
+            <Vojtaustva name_be="Беражно´ўскі с/с" name_ru="Бережно´вский с/с" />
+            <Vojtaustva name_be="Велікама´лешаўскі с/с" name_ru="Большема´лешевский с/с" />
+            <Vojtaustva name_be="Велямі´цкі с/с" name_ru="Велеми´чский с/с" />
+            <Vojtaustva name_be="Відзібо´рскі с/с" name_ru="Видибо´рский с/с" />
+            <Vojtaustva name_be="Гарадня´нскі с/с" name_ru="Городня´нский с/с" />
+            <Vojtaustva name_be="Глі´нкаўскі с/с" name_ru="Гли´нковский с/с" />
+            <Vojtaustva name_be="Лядзе´цкі с/с" name_ru="Ляде´цкий с/с" />
+            <Vojtaustva name_be="Ма´нькавіцкі с/с" name_ru="Ма´ньковичский с/с" />
+            <Vojtaustva name_be="Пло´тніцкі с/с" name_ru="Пло´тницкий с/с" />
+            <Vojtaustva name_be="Ра´дчыцкі с/с" name_ru="Ра´дчицкий с/с" />
+            <Vojtaustva name_be="Раме´льскі с/с" name_ru="Реме´льский с/с" />
+            <Vojtaustva name_be="Ру´хчанскі с/с" name_ru="Ру´хчанский с/с" />
+            <Vojtaustva name_be="Рубе´льскі с/с" name_ru="Рубе´льский с/с" />
+            <Vojtaustva name_be="Рэ´чыцкі п/с" name_ru="Речицкий п/с" />
+            <Vojtaustva name_be="Стру´жскі с/с" name_ru="Стру´жский с/с" />
+            <Vojtaustva name_be="Фядо´рскі с/с" name_ru="Федо´рский с/с" />
+            <Vojtaustva name_be="Харо´мскі с/с" name_ru="Хоро´мский с/с" />
+        </Rajon>
+        <Horad osmID="r3629362" />
+        <Horad osmID="r72615" />
+        <Horad osmID="r1749248" />
+    </Voblasc>
+    <Voblasc osmID="r59506" name_be="Віцебская вобласць" name_ru="Витебская область" iso3166-2="BY-VI">
+        <Rajon osmID="r70660" name_be="Аршанскі раён" name_ru="Оршанский район">
+            <Vojtaustva name_be="Андрэ´еўшчынскі с/с" name_ru="Андре´евщинский с/с" />
+            <Vojtaustva name_be="Арэ´хаўскі с/с" name_ru="Оре´ховский с/с" />
+            <Vojtaustva name_be="Бабіні´цкі с/с" name_ru="Бабини´чский с/с" />
+            <Vojtaustva name_be="Барздо´ўскі с/с" name_ru="Борздо´вский с/с" />
+            <Vojtaustva name_be="Ву´сценскі с/с" name_ru="У´стенский с/с" />
+            <Vojtaustva name_be="Высо´каўскі с/с" name_ru="Высо´ковский с/с" />
+            <Vojtaustva name_be="За´балацкі с/с" name_ru="За´болотский с/с" />
+            <Vojtaustva name_be="Задро´ўеўскі с/с" name_ru="Задро´вьевский с/с" />
+            <Vojtaustva name_be="Зу´баўскі с/с" name_ru="Зу´бовский с/с" />
+            <Vojtaustva name_be="Зубрэ´віцкі с/с" name_ru="Зубре´вичский с/с" />
+            <Vojtaustva name_be="Крапі´венскі с/с" name_ru="Крапи´венский с/с" />
+            <Vojtaustva name_be="Ме´жаўскі с/с" name_ru="Ме´жевский с/с" />
+            <Vojtaustva name_be="Пішча´лаўскі с/с" name_ru="Пища´ловский с/с" />
+            <Vojtaustva name_be="Смалья´нскі с/с" name_ru="Смолья´нский с/с" />
+        </Rajon>
+        <Rajon osmID="r70668" name_be="Бешанковіцкі раён" name_ru="Бешенковичский район">
+            <Vojtaustva name_be="Астро´венскі с/с" name_ru="Остро´венский с/с" />
+            <Vojtaustva name_be="Бачэ´йкаўскі с/с" name_ru="Боче´йковский с/с" />
+            <Vojtaustva name_be="Бешанко´віцкі с/с" name_ru="Бешенко´вичский с/с" />
+            <Vojtaustva name_be="Верхнякры´вінскі с/с" name_ru="Верхнекри´винский с/с" />
+            <Vojtaustva name_be="Вярхо´ўскі с/с" name_ru="Верхо´вский с/с" />
+            <Vojtaustva name_be="Со´ржыцкі с/с" name_ru="Со´ржицкий с/с" />
+            <Vojtaustva name_be="У´льскі с/с" name_ru="У´лльский с/с" />
+        </Rajon>
+        <Rajon osmID="r70691" name_be="Браслаўскі раён" name_ru="Браславский район">
+            <Vojtaustva name_be="Ахрэ´мавецкі с/с" name_ru="Ахре´мовецкий с/с" />
+            <Vojtaustva name_be="Ві´дзаўскі с/с" name_ru="Ви´дзовский с/с" />
+            <Vojtaustva name_be="Далёкаўскі с/с" name_ru="Далёковский с/с" />
+            <Vojtaustva name_be="Дру´еўскі с/с" name_ru="Дру´евский с/с" />
+            <Vojtaustva name_be="Мяжа´нскі с/с" name_ru="Межа´нский с/с" />
+            <Vojtaustva name_be="О´псаўскі с/с" name_ru="О´псовский с/с" />
+            <Vojtaustva name_be="Плю´скі с/с" name_ru="Плю´сский с/с" />
+            <Vojtaustva name_be="Слабо´дкаўскі с/с" name_ru="Слобо´дковский с/с" />
+            <Vojtaustva name_be="Цяце´ркаўскі с/с" name_ru="Тете´рковский с/с" />
+        </Rajon>
+        <Rajon osmID="r70684" name_be="Верхнядзвінскі раён" name_ru="Верхнедвинский район">
+            <Vojtaustva name_be="Асве´йскі с/с" name_ru="Осве´йский с/с" />
+            <Vojtaustva name_be="Біго´саўскі с/с" name_ru="Биго´совский с/с" />
+            <Vojtaustva name_be="Бо´ркавіцкі с/с" name_ru="Бо´рковичский с/с" />
+            <Vojtaustva name_be="Бялько´ўшчынскі с/с" name_ru="Белько´вщинский с/с" />
+            <Vojtaustva name_be="Валы´нецкі с/с" name_ru="Волы´нецкий с/с" />
+            <Vojtaustva name_be="Галубаўскі с/с" name_ru="Голубовский с/с" />
+            <Vojtaustva name_be="Дзёрнавіцкі с/с" name_ru="Дёрновичский с/с" />
+            <Vojtaustva name_be="Каха´навіцкі с/с" name_ru="Коха´новичский с/с" />
+            <Vojtaustva name_be="Сар'я´нскі с/с" name_ru="Сарья´нский с/с" />
+            <Vojtaustva name_be="Ша´йтараўскі с/с" name_ru="Ша´йтеровский с/с" />
+        </Rajon>
+        <Rajon osmID="r59504" name_be="Віцебскі раён" name_ru="Витебский район">
+            <Vojtaustva name_be="Акця´брскі с/с" name_ru="Октя´брьский с/с" />
+            <Vojtaustva name_be="Бабі´ніцкі с/с" name_ru="Баби´ничский с/с" />
+            <Vojtaustva name_be="Варо´наўскі с/с" name_ru="Воро´новский с/с" />
+            <Vojtaustva name_be="Вымня´нскі с/с" name_ru="Вымня´нский с/с" />
+            <Vojtaustva name_be="Задубро´ўскі с/с" name_ru="Задубро´вский с/с" />
+            <Vojtaustva name_be="Запо´льскі с/с" name_ru="Запо´льский с/с" />
+            <Vojtaustva name_be="Заро´наўскі с/с" name_ru="Заро´новский с/с" />
+            <Vojtaustva name_be="Ку´рынскі с/с" name_ru="Ку´ринский с/с" />
+            <Vojtaustva name_be="Лятча´нскі с/с" name_ru="Летча´нский с/с" />
+            <Vojtaustva name_be="Ма´залаўскі с/с" name_ru="Ма´золовский с/с" />
+            <Vojtaustva name_be="Но´ўкінскі с/с" name_ru="Но´вкинский с/с" />
+            <Vojtaustva name_be="Суражскі с/с" name_ru="Суражский с/с" />
+            <Vojtaustva name_be="Ту´лаўскі с/с" name_ru="Ту´ловский с/с" />
+            <Vojtaustva name_be="Шапе´чынскі с/с" name_ru="Шапе´чинский с/с" />
+            <Vojtaustva name_be="Янавіцкі с/с" name_ru="Яновичский с/с" />
+        </Rajon>
+        <Rajon osmID="r70676" name_be="Гарадоцкі раён" name_ru="Городокский район">
+            <Vojtaustva name_be="Бычы´хінскі с/с" name_ru="Бычи´хинский с/с" />
+            <Vojtaustva name_be="Вайха´нскі с/с" name_ru="Вайха´нский с/с" />
+            <Vojtaustva name_be="Віраўля´нскі с/с" name_ru="Вировля´нский с/с" />
+            <Vojtaustva name_be="Даўгапо´льскі с/с" name_ru="Долгопо´льский с/с" />
+            <Vojtaustva name_be="Езяры´шчанскі с/с" name_ru="Езери´щенский с/с" />
+            <Vojtaustva name_be="Мяжа´нскі с/с" name_ru="Межа´нский с/с" />
+            <Vojtaustva name_be="Пальмі´нскі с/с" name_ru="Пальми´нский с/с" />
+            <Vojtaustva name_be="Першама´йскі с/с" name_ru="Первома´йский с/с" />
+            <Vojtaustva name_be="Рудня´нскі с/с" name_ru="Ру´днянский с/с" />
+            <Vojtaustva name_be="Стадо´лішчанскі с/с" name_ru="Стодо´лищенский с/с" />
+        </Rajon>
+        <Rajon osmID="r70703" name_be="Глыбоцкі раён" name_ru="Глубокский район">
+            <Vojtaustva name_be="Абру´бскі с/с" name_ru="Обру´бский с/с" />
+            <Vojtaustva name_be="Азярэ´цкі с/с" name_ru="Озере´цкий с/с" />
+            <Vojtaustva name_be="Галу´біцкі с/с" name_ru="Голу´бичский с/с" />
+            <Vojtaustva name_be="Зале´скі с/с" name_ru="Зале´сский с/с" />
+            <Vojtaustva name_be="Зя´бкаўскі с/с" name_ru="Зя´бковский с/с" />
+            <Vojtaustva name_be="Карабо´ўскі с/с" name_ru="Коробо´вский с/с" />
+            <Vojtaustva name_be="Ло´машаўскі с/с" name_ru="Ло´машевский с/с" />
+            <Vojtaustva name_be="Падсвільскі с/с" name_ru="Подсвильский с/с" />
+            <Vojtaustva name_be="Плі´скі с/с" name_ru="Пли´сский с/с" />
+            <Vojtaustva name_be="Празаро´цкі с/с" name_ru="Прозоро´кский с/с" />
+            <Vojtaustva name_be="Псу´еўскі с/с" name_ru="Псу´евский с/с" />
+            <Vojtaustva name_be="У´дзелаўскі с/с" name_ru="У´деловский с/с" />
+            <Vojtaustva name_be="Узрэ´цкі с/с" name_ru="Узре´чский с/с" />
+        </Rajon>
+        <Rajon osmID="r70716" name_be="Докшыцкі раён" name_ru="Докшицкий район">
+            <Vojtaustva name_be="Бягомльскі с/с" name_ru="Бегомльский с/с" />
+            <Vojtaustva name_be="Бяро´зкаўскі с/с" name_ru="Берёзковский с/с" />
+            <Vojtaustva name_be="Бярэ´зінскі с/с" name_ru="Бере´зинский с/с" />
+            <Vojtaustva name_be="Валкала´цкі с/с" name_ru="Волкола´тский с/с" />
+            <Vojtaustva name_be="До´кшыцкі с/с" name_ru="До´кшицкий с/с" />
+            <Vojtaustva name_be="Круле´ўшчынскі с/с" name_ru="Круле´вщинский с/с" />
+            <Vojtaustva name_be="Крыпу´льскі с/с" name_ru="Крипу´льский с/с" />
+            <Vojtaustva name_be="Параф'я´наўскі с/с" name_ru="Парафья´новский с/с" />
+            <Vojtaustva name_be="По´рплішчанскі с/с" name_ru="По´рплищенский с/с" />
+            <Vojtaustva name_be="Сі´тцаўскі с/с" name_ru="Си´тцевский с/с" />
+            <Vojtaustva name_be="Тумі´лавіцкі с/с" name_ru="Туми´ловичский с/с" />
+        </Rajon>
+        <Rajon osmID="r70656" name_be="Дубровенскі раён" name_ru="Дубровенский район">
+            <Vojtaustva name_be="Асінто´рфскі с/с" name_ru="Осинто´рфский с/с" />
+            <Vojtaustva name_be="Валяўко´ўскі с/с" name_ru="Волевко´вский с/с" />
+            <Vojtaustva name_be="Дабры´нскі с/с" name_ru="Добры´нский с/с" />
+            <Vojtaustva name_be="Зару´бскі с/с" name_ru="Зару´бский с/с" />
+            <Vojtaustva name_be="Засце´нкаўскі с/с" name_ru="Засте´нковский с/с" />
+            <Vojtaustva name_be="Малаба´хаўскі с/с" name_ru="Малоба´ховский с/с" />
+            <Vojtaustva name_be="Маласа´вінскі с/с" name_ru="Малоса´винский с/с" />
+            <Vojtaustva name_be="Піраго´ўскі с/с" name_ru="Пирого´вский с/с" />
+        </Rajon>
+        <Rajon osmID="r70665" name_be="Лёзненскі раён" name_ru="Лиозненский район">
+            <Vojtaustva name_be="Бабі´навіцкі с/с" name_ru="Баби´новичский с/с" />
+            <Vojtaustva name_be="Веляшко´віцкі с/с" name_ru="Веле´шковичский с/с" />
+            <Vojtaustva name_be="Дабрамы´слінскі с/с" name_ru="Добромы´слинский с/с" />
+            <Vojtaustva name_be="Кры´нкаўскі с/с" name_ru="Кры´нковский с/с" />
+            <Vojtaustva name_be="Лёзненскі с/с" name_ru="Лио´зненский с/с" />
+            <Vojtaustva name_be="Я´ськаўшчынскі с/с" name_ru="Я´ськовщинский с/с" />
+        </Rajon>
+        <Rajon osmID="r70679" name_be="Лепельскі раён" name_ru="Лепельский район">
+            <Vojtaustva name_be="Бабро´ўскі с/с" name_ru="Бобро´вский с/с" />
+            <Vojtaustva name_be="Баро´ўскі с/с" name_ru="Боро´вский с/с" />
+            <Vojtaustva name_be="Вало´савіцкі с/с" name_ru="Воло´совичский с/с" />
+            <Vojtaustva name_be="Го´рскі с/с" name_ru="Го´рский с/с" />
+            <Vojtaustva name_be="До´мжарыцкі с/с" name_ru="До´мжерицкий с/с" />
+            <Vojtaustva name_be="Ка´менскі с/с" name_ru="Ка´менский с/с" />
+            <Vojtaustva name_be="Ле´пельскі с/с" name_ru="Ле´пельский с/с" />
+            <Vojtaustva name_be="Слабадскі´ с/с" name_ru="Слободско´й с/с" />
+            <Vojtaustva name_be="Ста´йскі с/с" name_ru="Ста´йский с/с" />
+        </Rajon>
+        <Rajon osmID="r70690" name_be_correct="Мёрскі раён" name_be="Міёрскі раён" name_ru="Миорский район">
+            <Vojtaustva name_be="Заву´ццеўскі с/с" name_ru="Зау´тьевский с/с" />
+            <Vojtaustva name_be="Мёрскі с/с" name_ru="Мио´рский с/с" />
+            <Vojtaustva name_be="Мікалаёўскі с/с" name_ru="Николаевский с/с" />
+            <Vojtaustva name_be="Новапаго´сцкі с/с" name_ru="Новопого´стский с/с" />
+            <Vojtaustva name_be="Павя´цкі с/с" name_ru="Повя´тский с/с" />
+            <Vojtaustva name_be="Перабро´дскі с/с" name_ru="Перебро´дский с/с" />
+            <Vojtaustva name_be="Турко´ўскі с/с" name_ru="Турко´вский с/с" />
+            <Vojtaustva name_be="Узмёнскі с/с" name_ru="Узме´нский с/с" />
+            <Vojtaustva name_be="Я´зненскі с/с" name_ru="Я´зненский с/с" />
+        </Rajon>
+        <Rajon osmID="r70707" name_be="Пастаўскі раён" name_ru="Поставский район">
+            <Vojtaustva name_be="Валко´ўскі с/с" name_ru="Волко´вский с/с" />
+            <Vojtaustva name_be="Варапаеўскі с/с" name_ru="Воропаевский с/с" />
+            <Vojtaustva name_be="Дуні´лавіцкі с/с" name_ru="Дуни´ловичский с/с" />
+            <Vojtaustva name_be="Казло´ўшчынскі с/с" name_ru="Козло´вщинский с/с" />
+            <Vojtaustva name_be="Кама´йскі с/с" name_ru="Кама´йский с/с" />
+            <Vojtaustva name_be="Курапо´льскі с/с" name_ru="Куропо´льский с/с" />
+            <Vojtaustva name_be="Лы´нтупскі с/с" name_ru="Лы´нтупский с/с" />
+            <Vojtaustva name_be="Навасёлкаўскі с/с" name_ru="Новосёлковский с/с" />
+            <Vojtaustva name_be="Ю´нькаўскі с/с" name_ru="Ю´ньковский с/с" />
+            <Vojtaustva name_be="Ярэ´ўскі с/с" name_ru="Яре´вский с/с" />
+        </Rajon>
+        <Rajon osmID="r70671" name_be="Полацкі раён" name_ru="Полоцкий район">
+            <Vojtaustva name_be="А´зінскі с/с" name_ru="А´зинский с/с" />
+            <Vojtaustva name_be="Астро´ўшчынскі с/с" name_ru="Остро´вщинский с/с" />
+            <Vojtaustva name_be="Бабы´ніцкі с/с" name_ru="Бабы´ничский с/с" />
+            <Vojtaustva name_be="Бараву´хскі с/с" name_ru="Борову´хский с/с" />
+            <Vojtaustva name_be="Варо´ніцкі с/с" name_ru="Воро´ничский с/с" />
+            <Vojtaustva name_be="Ве´трынскі с/с" name_ru="Ве´тринский с/с" />
+            <Vojtaustva name_be="Гара´нскі с/с" name_ru="Горя´нский с/с" />
+            <Vojtaustva name_be="Го´мельскі с/с" name_ru="Го´мельский с/с" />
+            <Vojtaustva name_be="Зялёнкаўскі с/с" name_ru="Зелёнковский с/с" />
+            <Vojtaustva name_be="Маласітня´нскі с/с" name_ru="Малоситня´нский с/с" />
+            <Vojtaustva name_be="Палато´ўскі с/с" name_ru="Полото´вский с/с" />
+            <Vojtaustva name_be="Сало´ніцкі с/с" name_ru="Солони´кский с/с" />
+            <Vojtaustva name_be="Фары´наўскі с/с" name_ru="Фари´новский с/с" />
+            <Vojtaustva name_be="Экіма´нскі с/с" name_ru="Экима´нский с/с" />
+        </Rajon>
+        <Rajon osmID="r70680" name_be="Расонскі раён" name_ru="Россонский район">
+            <Vojtaustva name_be="Альбрэ´хтаўскі с/с" name_ru="Альбре´хтовский с/с" />
+            <Vojtaustva name_be="Гарбачэ´ўскі с/с" name_ru="Горбаче´вский с/с" />
+            <Vojtaustva name_be="Кля´сціцкі с/с" name_ru="Кля´стицкий с/с" />
+            <Vojtaustva name_be="Краснапо´льскі с/с" name_ru="Краснопо´льский с/с" />
+            <Vojtaustva name_be="Сакалі´шчанскі с/с" name_ru="Соколи´щенский с/с" />
+            <Vojtaustva name_be="Я´нкавіцкі с/с" name_ru="Я´нковичский с/с" />
+        </Rajon>
+        <Rajon osmID="r70662" name_be="Сенненскі раён" name_ru="Сенненский район">
+            <Vojtaustva name_be="Багда´наўскі с/с" name_ru="Богда´новский с/с" />
+            <Vojtaustva name_be="Багушэ´ўскі с/с" name_ru="Богуше´вский с/с" />
+            <Vojtaustva name_be="Бе´ліцкі с/с" name_ru="Бе´лицкий с/с" />
+            <Vojtaustva name_be="Како´ўчынскі с/с" name_ru="Коко´вчинский с/с" />
+            <Vojtaustva name_be="Машка´нскі с/с" name_ru="Мошка´нский с/с" />
+            <Vojtaustva name_be="Нямо´йтаўскі с/с" name_ru="Немо´йтовский с/с" />
+            <Vojtaustva name_be="Студзёнкаўскі с/с" name_ru="Студёнковский с/с" />
+            <Vojtaustva name_be="Хо´дцаўскі с/с" name_ru="Хо´дцевский с/с" />
+        </Rajon>
+        <Rajon osmID="r70649" name_be="Талачынскі раён" name_ru="Толочинский район">
+            <Vojtaustva name_be="Або´лецкі с/с" name_ru="Обо´лецкий с/с" />
+            <Vojtaustva name_be="Вало´саўскі с/с" name_ru="Воло´совский с/с" />
+            <Vojtaustva name_be="Во´ўкавіцкі с/с" name_ru="Во´лковичский с/с" />
+            <Vojtaustva name_be="Коханаўскі с/с" name_ru="Кохановский с/с" />
+            <Vojtaustva name_be="Серкаві´цкі с/с" name_ru="Серкови´цкий с/с" />
+            <Vojtaustva name_be="Сла´ўнаўскі с/с" name_ru="Сла´вновский с/с" />
+            <Vojtaustva name_be="Талачы´нскі с/с" name_ru="Толочи´нский с/с" />
+        </Rajon>
+        <Rajon osmID="r70669" name_be="Ушацкі раён" name_ru="Ушачский район">
+            <Vojtaustva name_be="Вялікадо´лецкі с/с" name_ru="Великодо´лецкий с/с" />
+            <Vojtaustva name_be="Вярку´дскі с/с" name_ru="Верку´дский с/с" />
+            <Vojtaustva name_be="Глыбача´нскі с/с" name_ru="Глыбоченский с/с" />
+            <Vojtaustva name_be="Жа´рскі с/с" name_ru="Жа´рский с/с" />
+            <Vojtaustva name_be="Ку´бліцкі с/с" name_ru="Ку´бличский с/с" />
+            <Vojtaustva name_be="Саро´чынскі с/с" name_ru="Соро´чинский с/с" />
+            <Vojtaustva name_be="Уша´цкі с/с" name_ru="Уша´чский с/с" />
+        </Rajon>
+        <Rajon osmID="r70746" name_be="Чашніцкі раён" name_ru="Чашникский район">
+            <Vojtaustva name_be="Альша´нскі с/с" name_ru="Ольша´нский с/с" />
+            <Vojtaustva name_be="Іва´нскі с/с" name_ru="Ива´нский с/с" />
+            <Vojtaustva name_be="Красналу´цкі с/с" name_ru="Краснолу´кский с/с" />
+            <Vojtaustva name_be="Кру´гліцкі с/с" name_ru="Кру´глицкий с/с" />
+            <Vojtaustva name_be="Луко´мльскі с/с" name_ru="Луко´мльский с/с" />
+            <Vojtaustva name_be="Новазара´нскі с/с" name_ru="Новозаря´нский с/с" />
+            <Vojtaustva name_be="Празямля´нскі с/с" name_ru="Проземля´нский с/с" />
+        </Rajon>
+        <Rajon osmID="r70701" name_be="Шаркаўшчынскі раён" name_ru="Шарковщинский район">
+            <Vojtaustva name_be="Більдзю´гскі с/с" name_ru="Бильдю´гский с/с" />
+            <Vojtaustva name_be="Ге´рманавіцкі с/с" name_ru="Ге´рмановичский с/с" />
+            <Vojtaustva name_be="Ёдскі с/с" name_ru="Ио´дский с/с" />
+            <Vojtaustva name_be="Лужко´ўскі с/с" name_ru="Лужко´вский с/с" />
+            <Vojtaustva name_be="Радзюко´ўскі с/с" name_ru="Радюко´вский с/с" />
+            <Vojtaustva name_be="Станіславо´ўскі с/с" name_ru="Станиславо´вский с/с" />
+        </Rajon>
+        <Rajon osmID="r70677" name_be="Шумілінскі раён" name_ru="Шумилинский район">
+            <Vojtaustva name_be="Дабе´йскі с/с" name_ru="Добе´йский с/с" />
+            <Vojtaustva name_be="Каўляко´ўскі с/с" name_ru="Ковляко´вский с/с" />
+            <Vojtaustva name_be="Лаўжа´нскі с/с" name_ru="Ловжа´нский с/с" />
+            <Vojtaustva name_be="Мі´шневіцкі с/с" name_ru="Ми´шневичский с/с" />
+            <Vojtaustva name_be="Мікалае´ўскі с/с" name_ru="Миколае´вский с/с" />
+            <Vojtaustva name_be="О´бальскі с/с" name_ru="О´больский с/с" />
+            <Vojtaustva name_be="Светласе´льскі с/с" name_ru="Светлосе´льский с/с" />
+            <Vojtaustva name_be="Сіро´цінскі с/с" name_ru="Сиро´тинский с/с" />
+        </Rajon>
+        <Horad osmID="r68614" />
+        <Horad osmID="r1749242" />
+    </Voblasc>
+    <Voblasc osmID="r59161" name_be="Гомельская вобласць" name_ru="Гомельская область" iso3166-2="BY-HO">
+        <Rajon osmID="r59755" name_be="Акцябрскі раён" name_ru="Октябрьский район">
+            <Vojtaustva name_be="Акця´брскі с/с" name_ru="Октя´брьский с/с" />
+            <Vojtaustva name_be="Вало´савіцкі с/с" name_ru="Воло´совичский с/с" />
+            <Vojtaustva name_be="Краснаслабо´дскі с/с" name_ru="Краснослобо´дский с/с" />
+            <Vojtaustva name_be="Ламаві´цкі с/с" name_ru="Ломови´чский с/с" />
+            <Vojtaustva name_be="Лю´банскі с/с" name_ru="Лю´банский с/с" />
+            <Vojtaustva name_be="Ля´скавіцкі с/с" name_ru="Ля´сковичский с/с" />
+            <Vojtaustva name_be="Парэ´цкі с/с" name_ru="Поре´чский с/с" />
+            <Vojtaustva name_be="Прата´саўскі с/с" name_ru="Прота´совский с/с" />
+        </Rajon>
+        <Rajon osmID="r70801" name_be="Брагінскі раён" name_ru="Брагинский район">
+            <Vojtaustva name_be="Бурко´ўскі с/с" name_ru="Бурко´вский с/с" />
+            <Vojtaustva name_be="Вугло´ўскі с/с" name_ru="Угло´вский с/с" />
+            <Vojtaustva name_be="Кама´рынскі с/с" name_ru="Кома´ринский с/с" />
+            <Vojtaustva name_be="Ма´лажынскі с/с" name_ru="Ма´ложинский с/с" />
+            <Vojtaustva name_be="Мале´йкаўскі с/с" name_ru="Мале´йковский с/с" />
+            <Vojtaustva name_be="Новаялча´нскі с/с" name_ru="Новоио´лченский с/с" />
+            <Vojtaustva name_be="Чамяры´скі с/с" name_ru="Чемери´сский с/с" />
+        </Rajon>
+        <Rajon osmID="r59175" name_be="Буда-Кашалёўскі раён" name_ru="Буда-Кошелёвский район">
+            <Vojtaustva name_be="Акця´брскі с/с" name_ru="Октя´брьский с/с" />
+            <Vojtaustva name_be="Гу´біцкі с/с" name_ru="Гу´бичский с/с" />
+            <Vojtaustva name_be="Гусяві´цкі с/с" name_ru="Гусеви´цкий с/с" />
+            <Vojtaustva name_be="Камуна´раўскі с/с" name_ru="Коммуна´ровский с/с" />
+            <Vojtaustva name_be="Кашалёўскі с/с" name_ru="Кошелёвский с/с" />
+            <Vojtaustva name_be="Кры´ўскі с/с" name_ru="Кри´вский с/с" />
+            <Vojtaustva name_be="Лі´пініцкі с/с" name_ru="Ли´пиничский с/с" />
+            <Vojtaustva name_be="Маро´завіцкі с/с" name_ru="Моро´зовичский с/с" />
+            <Vojtaustva name_be="Мікала´еўскі с/с" name_ru="Никола´евский с/с" />
+            <Vojtaustva name_be="Пата´паўскі с/с" name_ru="Пота´повский с/с" />
+            <Vojtaustva name_be="Рагі´нскі с/с" name_ru="Роги´нский с/с" />
+            <Vojtaustva name_be="Уваравіцкі с/с" name_ru="Уваровичский с/с" />
+            <Vojtaustva name_be="Узо´ўскі с/с" name_ru="Узо´вский с/с" />
+            <Vojtaustva name_be="Чабато´віцкі с/с" name_ru="Чебото´вичский с/с" />
+            <Vojtaustva name_be="Шыро´каўскі с/с" name_ru="Широ´ковский с/с" />
+        </Rajon>
+        <Rajon osmID="r70795" name_be="Веткаўскі раён" name_ru="Ветковский район">
+            <Vojtaustva name_be="Вялі´канямкоўскі с/с" name_ru="Великонемко´вский с/с" />
+            <Vojtaustva name_be="Дані´лавіцкі с/с" name_ru="Дани´ловичский с/с" />
+            <Vojtaustva name_be="Маланямко´ўскі с/с" name_ru="Малонемко´вский с/с" />
+            <Vojtaustva name_be="Не´глюбскі с/с" name_ru="Не´глюбский с/с" />
+            <Vojtaustva name_be="Прысня´нскі с/с" name_ru="Присня´нский с/с" />
+            <Vojtaustva name_be="Ра´дужскі с/с" name_ru="Ра´дужский с/с" />
+            <Vojtaustva name_be="Свяці´лавіцкі с/с" name_ru="Свети´ловичский с/с" />
+            <Vojtaustva name_be="Стаўбу´нскі с/с" name_ru="Столбу´нский с/с" />
+            <Vojtaustva name_be="Хальча´нскі с/с" name_ru="Хальча´нский с/с" />
+            <Vojtaustva name_be="Шарсці´нскі с/с" name_ru="Шерсти´нский с/с" />
+            <Vojtaustva name_be="Яно´ўскі с/с" name_ru="Яно´вский с/с" />
+        </Rajon>
+        <Rajon osmID="r1469691" name_be="Гомельскі раён" name_ru="Гомельский район">
+            <Vojtaustva name_be="Аздзе´лінскі с/с" name_ru="Азде´линский с/с" />
+            <Vojtaustva name_be="Бабо´віцкі с/с" name_ru="Бобо´вичский с/с" />
+            <Vojtaustva name_be="Бальшаві´цкі с/с" name_ru="Большеви´стский с/с" />
+            <Vojtaustva name_be="Гра´баўскі с/с" name_ru="Гра´бовский с/с" />
+            <Vojtaustva name_be="Даўгале´скі с/с" name_ru="Долголе´сский с/с" />
+            <Vojtaustva name_be="Зя´браўскі с/с" name_ru="Зя´бровский с/с" />
+            <Vojtaustva name_be="Кра´сненскі с/с" name_ru="Кра´сненский с/с" />
+            <Vojtaustva name_be="Ма´ркавіцкі с/с" name_ru="Ма´рковичский с/с" />
+            <Vojtaustva name_be="Пакалю´біцкі с/с" name_ru="Поколю´бичский с/с" />
+            <Vojtaustva name_be="Пры´барскі с/с" name_ru="При´борский с/с" />
+            <Vojtaustva name_be="Прыбы´ткаўскі с/с" name_ru="Прибы´тковский с/с" />
+            <Vojtaustva name_be="Ру´днямарымонаўскі с/с" name_ru="Ру´днемаримоновский с/с" />
+            <Vojtaustva name_be="Улу´каўскі с/с" name_ru="Улу´ковский с/с" />
+            <Vojtaustva name_be="Уры´цкі с/с" name_ru="Ури´цкий с/с" />
+            <Vojtaustva name_be="Цяру´хскі с/с" name_ru="Терю´хский с/с" />
+            <Vojtaustva name_be="Цярэ´ніцкі с/с" name_ru="Тере´ничский с/с" />
+            <Vojtaustva name_be="Цярэ´шкавіцкі с/с" name_ru="Тере´шковичский с/с" />
+            <Vojtaustva name_be="Чараця´нскі с/с" name_ru="Черетя´нский с/с" />
+            <Vojtaustva name_be="Чо´нкаўскі с/с" name_ru="Чёнковский с/с" />
+            <Vojtaustva name_be="Шарпі´лаўскі с/с" name_ru="Шарпи´ловский с/с" />
+            <Vojtaustva name_be="Яро´мінскі с/с" name_ru="Ерёминский с/с" />
+        </Rajon>
+        <Rajon osmID="r59092" name_be="Добрушскі раён" name_ru="Добрушский район">
+            <Vojtaustva name_be="Баршчо´ўскі с/с" name_ru="Борщо´вский с/с" />
+            <Vojtaustva name_be="Жгу´нскі с/с" name_ru="Жгу´нский с/с" />
+            <Vojtaustva name_be="Іва´каўскі с/с" name_ru="Ива´ковский с/с" />
+            <Vojtaustva name_be="Кармя´нскі с/с" name_ru="Кормя´нский с/с" />
+            <Vojtaustva name_be="Кру´пецкі с/с" name_ru="Кру´пецкий с/с" />
+            <Vojtaustva name_be="Кругаве´ц-Калінінскі с/с" name_ru="Кругове´ц-Калининский с/с" />
+            <Vojtaustva name_be="Кузьмі´ніцкі с/с" name_ru="Кузьми´ничский с/с" />
+            <Vojtaustva name_be="Ле´нінскі с/с" name_ru="Ле´нинский с/с" />
+            <Vojtaustva name_be="Насо´віцкі с/с" name_ru="Носо´вичский с/с" />
+            <Vojtaustva name_be="Пераро´стаўскі с/с" name_ru="Переро´стовский с/с" />
+            <Vojtaustva name_be="Рассве´таўскі с/с" name_ru="Рассве´товский с/с" />
+            <Vojtaustva name_be="У´цеўскі с/с" name_ru="У´тевский с/с" />
+            <Vojtaustva name_be="Усохабу´дскі с/с" name_ru="Усо´хо-Будский с/с" />
+            <Vojtaustva name_be="Церахо´ўскі с/с" name_ru="Терехо´вский с/с" />
+        </Rajon>
+        <Rajon osmID="r70810" name_be="Ельскі раён" name_ru="Ельский район">
+            <Vojtaustva name_be="Вала´ўскі с/с" name_ru="Вала´вский с/с" />
+            <Vojtaustva name_be="Дабрынскі с/с" name_ru="До´брынский с/с" />
+            <Vojtaustva name_be="Засі´нцаўскі с/с" name_ru="Заси´нцевский с/с" />
+            <Vojtaustva name_be="Качышча´нскі с/с" name_ru="Кочища´нский с/с" />
+            <Vojtaustva name_be="Млыно´цкі с/с" name_ru="Млыно´кский с/с" />
+            <Vojtaustva name_be="Рамязо´ўскі с/с" name_ru="Ремезо´вский с/с" />
+            <Vojtaustva name_be="Скарадня´нскі с/с" name_ru="Скородня´нский с/с" />
+            <Vojtaustva name_be="Старавысо´каўскі с/с" name_ru="Старовысо´ковский с/с" />
+        </Rajon>
+        <Rajon osmID="r59167" name_be="Жлобінскі раён" name_ru="Жлобинский район">
+            <Vojtaustva name_be="Акця´брскі с/с" name_ru="Октя´брьский с/с" />
+            <Vojtaustva name_be="Верхнеалбя´нскі с/с" name_ru="Верхнеолбя´нский с/с" />
+            <Vojtaustva name_be="Дабрагашча´нскі с/с" name_ru="Доброгоща´нский с/с" />
+            <Vojtaustva name_be="Каро´ткавіцкі с/с" name_ru="Коро´тковичский с/с" />
+            <Vojtaustva name_be="Кі´раўскі с/с" name_ru="Ки´ровский с/с" />
+            <Vojtaustva name_be="Краснабярэ´жскі с/с" name_ru="Краснобере´жский с/с" />
+            <Vojtaustva name_be="Лу´цкі с/с" name_ru="Лу´кский с/с" />
+            <Vojtaustva name_be="Ма´йскі с/с" name_ru="Ма´йский с/с" />
+            <Vojtaustva name_be="Мале´віцкі с/с" name_ru="Мале´вичский с/с" />
+            <Vojtaustva name_be="Навама´ркавіцкі с/с" name_ru="Новома´рковичский с/с" />
+            <Vojtaustva name_be="Папаратня´нскі с/с" name_ru="Папоротня´нский с/с" />
+            <Vojtaustva name_be="Пірэ´віцкі с/с" name_ru="Пире´вичский с/с" />
+            <Vojtaustva name_be="Сало´нскі с/с" name_ru="Соло´нский с/с" />
+            <Vojtaustva name_be="Старарудня´нскі с/с" name_ru="Старорудня´нский с/с" />
+            <Vojtaustva name_be="Стрэшынскі с/с" name_ru="Стрешинский с/с" />
+            <Vojtaustva name_be="Шчадры´нскі с/с" name_ru="Щедри´нский с/с" />
+        </Rajon>
+        <Rajon osmID="r71149" name_be="Жыткавіцкі раён" name_ru="Житковичский район">
+            <Vojtaustva name_be="Азяра´нскі с/с" name_ru="Озера´нский с/с" />
+            <Vojtaustva name_be="Верасні´цкі с/с" name_ru="Вересни´цкий с/с" />
+            <Vojtaustva name_be="Дзя´кавіцкі с/с" name_ru="Дя´ковичский с/с" />
+            <Vojtaustva name_be="Ле´нінскі с/с" name_ru="Ле´нинский с/с" />
+            <Vojtaustva name_be="Людзяне´віцкі с/с" name_ru="Людене´вичский с/с" />
+            <Vojtaustva name_be="Маро´хараўскі с/с" name_ru="Мо´рохоровский с/с" />
+            <Vojtaustva name_be="Міле´віцкі с/с" name_ru="Миле´вичский с/с" />
+            <Vojtaustva name_be="Пераро´ўскі с/с" name_ru="Переро´вский с/с" />
+            <Vojtaustva name_be="Рудня´нскі с/с" name_ru="Рудне´нский с/с" />
+            <Vojtaustva name_be="Рычо´ўскі с/с" name_ru="Ричёвский с/с" />
+            <Vojtaustva name_be="Тураўскі п/с" name_ru="Туровский п/с" />
+            <Vojtaustva name_be="Чырво´ненскі с/с" name_ru="Черво´ненский с/с" />
+            <Vojtaustva name_be="Юрке´віцкі с/с" name_ru="Юрке´вичский с/с" />
+        </Rajon>
+        <Rajon osmID="r70814" name_be="Калінкавіцкі раён" name_ru="Калинковичский район">
+            <Vojtaustva name_be="Аза´рыцкі с/с" name_ru="Оза´ричский с/с" />
+            <Vojtaustva name_be="Вялі´кааўцюкоўскі с/с" name_ru="Великоавтюко´вский с/с" />
+            <Vojtaustva name_be="Гарбаві´цкі с/с" name_ru="Горбови´чский с/с" />
+            <Vojtaustva name_be="Гаро´чыцкі с/с" name_ru="Горо´чичский с/с" />
+            <Vojtaustva name_be="Дама´навіцкі с/с" name_ru="Дома´новичский с/с" />
+            <Vojtaustva name_be="Ду´дзіцкі с/с" name_ru="Ду´дичский с/с" />
+            <Vojtaustva name_be="Зеляно´цкі с/с" name_ru="Зелено´чский с/с" />
+            <Vojtaustva name_be="Ка´пліцкі с/с" name_ru="Ка´пличский с/с" />
+            <Vojtaustva name_be="Казло´віцкі с/с" name_ru="Козло´вичский с/с" />
+            <Vojtaustva name_be="Лі´паўскі с/с" name_ru="Ли´повский с/с" />
+            <Vojtaustva name_be="Малааўцюко´ўскі с/с" name_ru="Малоавтюко´вский с/с" />
+            <Vojtaustva name_be="На´хаўскі с/с" name_ru="На´ховский с/с" />
+            <Vojtaustva name_be="Са´віцкі с/с" name_ru="Са´вичский с/с" />
+            <Vojtaustva name_be="Сыро´дскі с/с" name_ru="Сыро´дский с/с" />
+            <Vojtaustva name_be="Чка´лаўскі с/с" name_ru="Чка´ловский с/с" />
+            <Vojtaustva name_be="Шы´іцкі с/с" name_ru="Ши´ичский с/с" />
+            <Vojtaustva name_be="Ю´равіцкі с/с" name_ru="Ю´ровичский с/с" />
+            <Vojtaustva name_be="Які´мавіцкі с/с" name_ru="Яки´мовичский с/с" />
+        </Rajon>
+        <Rajon osmID="r59149" name_be="Кармянскі раён" name_ru="Кормянский район">
+            <Vojtaustva name_be="Баравабу´дскі с/с" name_ru="Боровобудский с/с" />
+            <Vojtaustva name_be="Барсуко´ўскі с/с" name_ru="Барсуко´вский с/с" />
+            <Vojtaustva name_be="Во´рнаўскі с/с" name_ru="Во´рновский с/с" />
+            <Vojtaustva name_be="Ка´менскі с/с" name_ru="Ка´менский с/с" />
+            <Vojtaustva name_be="Каро´цькаўскі с/с" name_ru="Коро´тьковский с/с" />
+            <Vojtaustva name_be="Ліцві´навіцкі с/с" name_ru="Литви´новичский с/с" />
+            <Vojtaustva name_be="Лужко´ўскі с/с" name_ru="Лужко´вский с/с" />
+            <Vojtaustva name_be="Старагра´дскі с/с" name_ru="Старогра´дский с/с" />
+        </Rajon>
+        <Rajon osmID="r71147" name_be="Лельчыцкі раён" name_ru="Лельчицкий район">
+            <Vojtaustva name_be="Бараўскі´ с/с" name_ru="Боровско´й с/с" />
+            <Vojtaustva name_be="Бу´йнавіцкі с/с" name_ru="Бу´йновичский с/с" />
+            <Vojtaustva name_be="Букча´нскі с/с" name_ru="Букча´нский с/с" />
+            <Vojtaustva name_be="Глу´шкавіцкі с/с" name_ru="Глу´шковичский с/с" />
+            <Vojtaustva name_be="Дзяржы´нскі с/с" name_ru="Дзержи´нский с/с" />
+            <Vojtaustva name_be="Дубро´ўскі с/с" name_ru="Дубро´вский с/с" />
+            <Vojtaustva name_be="Ле´льчыцкі с/с" name_ru="Ле´льчицкий с/с" />
+            <Vojtaustva name_be="Мі´лашавіцкі с/с" name_ru="Милоше´вичский с/с" />
+            <Vojtaustva name_be="Сі´маніцкі с/с" name_ru="Си´моничский с/с" />
+            <Vojtaustva name_be="Стадо´ліцкі с/с" name_ru="Стодо´личский с/с" />
+            <Vojtaustva name_be="То´нежскі с/с" name_ru="То´нежский с/с" />
+            <Vojtaustva name_be="Уда´рненскі с/с" name_ru="Уда´рненский с/с" />
+        </Rajon>
+        <Rajon osmID="r70799" name_be="Лоеўскі раён" name_ru="Лоевский район">
+            <Vojtaustva name_be="Быва´лькаўскі с/с" name_ru="Быва´льковский с/с" />
+            <Vojtaustva name_be="Ка´рпаўскі с/с" name_ru="Ка´рповский с/с" />
+            <Vojtaustva name_be="Каўпе´нскі с/с" name_ru="Колпе´нский с/с" />
+            <Vojtaustva name_be="Малі´наўскі с/с" name_ru="Мали´новский с/с" />
+            <Vojtaustva name_be="Ручаёўскі с/с" name_ru="Ручаёвский с/с" />
+            <Vojtaustva name_be="Стра´дубскі с/с" name_ru="Стра´дубский с/с" />
+            <Vojtaustva name_be="Убо´ркаўскі с/с" name_ru="Убо´рковский с/с" />
+        </Rajon>
+        <Rajon osmID="r70815" name_be="Мазырскі раён" name_ru="Мозырский район">
+            <Vojtaustva name_be="Асаве´цкі с/с" name_ru="Осове´цкий с/с" />
+            <Vojtaustva name_be="Барбаро´ўскі с/с" name_ru="Барбаро´вский с/с" />
+            <Vojtaustva name_be="Ка´менскі с/с" name_ru="Ка´менский с/с" />
+            <Vojtaustva name_be="Ко´зенскі с/с" name_ru="Ко´зенский с/с" />
+            <Vojtaustva name_be="Крыні´чны с/с" name_ru="Крини´чный с/с" />
+            <Vojtaustva name_be="Ма´хнавіцкі с/с" name_ru="Ма´хновичский с/с" />
+            <Vojtaustva name_be="Міха´лкаўскі с/с" name_ru="Миха´лковский с/с" />
+            <Vojtaustva name_be="Прудко´ўскі с/с" name_ru="Прудко´вский с/с" />
+            <Vojtaustva name_be="Скрыга´лаўскі с/с" name_ru="Скрыга´ловский с/с" />
+            <Vojtaustva name_be="Слабадскі´ с/с" name_ru="Слободско´й с/с" />
+        </Rajon>
+        <Rajon osmID="r70809" name_be="Нараўлянскі раён" name_ru="Наровлянский район">
+            <Vojtaustva name_be="Ве´рбавіцкі с/с" name_ru="Ве´рбовичский с/с" />
+            <Vojtaustva name_be="Гало´ўчыцкі с/с" name_ru="Голо´вчицкий с/с" />
+            <Vojtaustva name_be="Кі´раўскі с/с" name_ru="Ки´ровский с/с" />
+            <Vojtaustva name_be="Нараўля´нскі с/с" name_ru="Наровля´нский с/с" />
+        </Rajon>
+        <Rajon osmID="r71145" name_be="Петрыкаўскі раён" name_ru="Петриковский район">
+            <Vojtaustva name_be="Бабу´ніцкі с/с" name_ru="Бабу´ничский с/с" />
+            <Vojtaustva name_be="Галубі´цкі с/с" name_ru="Голуби´цкий с/с" />
+            <Vojtaustva name_be="Гра´баўскі с/с" name_ru="Гра´бовский с/с" />
+            <Vojtaustva name_be="Камаро´віцкі с/с" name_ru="Комаро´вичский с/с" />
+            <Vojtaustva name_be="Капаткевіцкі с/с" name_ru="Копаткевичский с/с" />
+            <Vojtaustva name_be="Капцэ´віцкі с/с" name_ru="Копце´вичский с/с" />
+            <Vojtaustva name_be="Ко´лкаўскі с/с" name_ru="Ко´лковский с/с" />
+            <Vojtaustva name_be="Ко´нкавіцкі с/с" name_ru="Ко´нковичский с/с" />
+            <Vojtaustva name_be="Лу´чыцкі с/с" name_ru="Лу´чицкий с/с" />
+            <Vojtaustva name_be="Ля´скавіцкі с/с" name_ru="Ля´сковичский с/с" />
+            <Vojtaustva name_be="Муля´раўскі с/с" name_ru="Муля´ровский с/с" />
+            <Vojtaustva name_be="Мы´шанскі с/с" name_ru="Мы´шанский с/с" />
+            <Vojtaustva name_be="Навасёлкаўскі с/с" name_ru="Новосёлковский с/с" />
+            <Vojtaustva name_be="Пе´трыкаўскі с/с" name_ru="Пе´триковский с/с" />
+            <Vojtaustva name_be="Пці´цкі с/с" name_ru="Пти´чский с/с" />
+            <Vojtaustva name_be="Чалю´шчавіцкі с/с" name_ru="Челю´щевичский с/с" />
+        </Rajon>
+        <Rajon osmID="r59174" name_be="Рагачоўскі раён" name_ru="Рогачёвский район">
+            <Vojtaustva name_be="Азяра´нскі с/с" name_ru="Озера´нский с/с" />
+            <Vojtaustva name_be="Балатня´нскі с/с" name_ru="Болотня´нский с/с" />
+            <Vojtaustva name_be="Гадзі´лавіцкі с/с" name_ru="Гади´ловичский с/с" />
+            <Vojtaustva name_be="Гарадзе´цкі с/с" name_ru="Городе´цкий с/с" />
+            <Vojtaustva name_be="Дварэ´цкі с/с" name_ru="Дворе´цкий с/с" />
+            <Vojtaustva name_be="До´ўскі с/с" name_ru="До´вский с/с" />
+            <Vojtaustva name_be="Жура´віцкі с/с" name_ru="Жура´вичский с/с" />
+            <Vojtaustva name_be="За´балацкі с/с" name_ru="За´болотский с/с" />
+            <Vojtaustva name_be="Запо´льскі с/с" name_ru="Запо´льский с/с" />
+            <Vojtaustva name_be="Збаро´ўскі с/с" name_ru="Зборо´вский с/с" />
+            <Vojtaustva name_be="Зване´цкі с/с" name_ru="Звоне´цкий с/с" />
+            <Vojtaustva name_be="Кісцянёўскі с/с" name_ru="Кистенёвский с/с" />
+            <Vojtaustva name_be="Курга´нскі с/с" name_ru="Курга´нский с/с" />
+            <Vojtaustva name_be="По´балаўскі с/с" name_ru="По´боловский с/с" />
+            <Vojtaustva name_be="Старасе´льскі с/с" name_ru="Старосе´льский с/с" />
+            <Vojtaustva name_be="Стаўпня´нскі с/с" name_ru="Столпня´нский с/с" />
+            <Vojtaustva name_be="Ці´хініцкі с/с" name_ru="Ти´хиничский с/с" />
+        </Rajon>
+        <Rajon osmID="r70812" name_be="Рэчыцкі раён" name_ru="Речицкий район">
+            <Vojtaustva name_be="Азе´ршчынскі с/с" name_ru="Озе´рщинский с/с" />
+            <Vojtaustva name_be="Ба´біцкі с/с" name_ru="Ба´бичский с/с" />
+            <Vojtaustva name_be="Баршчо´ўскі с/с" name_ru="Борще´вский с/с" />
+            <Vojtaustva name_be="Белабало´цкі с/с" name_ru="Белоболо´тский с/с" />
+            <Vojtaustva name_be="Вышамі´рскі с/с" name_ru="Вышеми´рский с/с" />
+            <Vojtaustva name_be="Глы´баўскі с/с" name_ru="Глы´бовский с/с" />
+            <Vojtaustva name_be="Жму´раўскі с/с" name_ru="Жму´ровский с/с" />
+            <Vojtaustva name_be="За´спенскі с/с" name_ru="За´спенский с/с" />
+            <Vojtaustva name_be="Захо´даўскі с/с" name_ru="Заход´овский с/с" />
+            <Vojtaustva name_be="Зашчоб'еўскі с/с" name_ru="Защёбьевский с/с" />
+            <Vojtaustva name_be="Камсамо´льскі с/с" name_ru="Комсомо´льский с/с" />
+            <Vojtaustva name_be="Карава´ціцкі с/с" name_ru="Корова´тичский с/с" />
+            <Vojtaustva name_be="Лі´скаўскі с/с" name_ru="Ли´сковский с/с" />
+            <Vojtaustva name_be="Перасвято´ўскі с/с" name_ru="Пересвято´вский с/с" />
+            <Vojtaustva name_be="Ровенскаслабо´дскі с/с" name_ru="Ровенскослобо´дский с/с" />
+            <Vojtaustva name_be="Салтано´ўскі с/с" name_ru="Солтан´овский с/с" />
+            <Vojtaustva name_be="Хо´лмецкі с/с" name_ru="Хо´лмечский с/с" />
+        </Rajon>
+        <Rajon osmID="r59137" name_be="Светлагорскі раён" name_ru="Светлогорский район">
+            <Vojtaustva name_be="Аста´шкавіцкі с/с" name_ru="Оста´шковичский с/с" />
+            <Vojtaustva name_be="Баравіко´ўскі с/с" name_ru="Боровико´вский с/с" />
+            <Vojtaustva name_be="Давы´даўскі с/с" name_ru="Давы´довский с/с" />
+            <Vojtaustva name_be="Кра´снаўскі с/с" name_ru="Кра´сновский с/с" />
+            <Vojtaustva name_be="Мікала´еўскі с/с" name_ru="Никола´евский с/с" />
+            <Vojtaustva name_be="Па´рычскі с/с" name_ru="Паричский с/с" />
+            <Vojtaustva name_be="Сасно´ваборскі с/с" name_ru="Сосновоборский с/с" />
+            <Vojtaustva name_be="Чы´ркавіцкі с/с" name_ru="Чи´рковичский с/с" />
+        </Rajon>
+        <Rajon osmID="r70802" name_be="Хойніцкі раён" name_ru="Хойникский район">
+            <Vojtaustva name_be="Але´ксіцкі с/с" name_ru="Але´ксичский с/с" />
+            <Vojtaustva name_be="Бары´саўшчынскі с/с" name_ru="Бори´совщинский с/с" />
+            <Vojtaustva name_be="Велікабо´рскі с/с" name_ru="Великобо´рский с/с" />
+            <Vojtaustva name_be="Пасе´ліцкі с/с" name_ru="Посе´личский с/с" />
+            <Vojtaustva name_be="Стралі´чаўскі с/с" name_ru="Стрели´чевский с/с" />
+            <Vojtaustva name_be="Судко´ўскі с/с" name_ru="Судковский с/с" />
+        </Rajon>
+        <Rajon osmID="r59178" name_be="Чачэрскі раён" name_ru="Чечерский район">
+            <Vojtaustva name_be="Ато´рскі с/с" name_ru="Отор´ский с/с" />
+            <Vojtaustva name_be="Зале´скі с/с" name_ru="Зале´сский с/с" />
+            <Vojtaustva name_be="Ле´нінскі с/с" name_ru="Ле´нинский с/с" />
+            <Vojtaustva name_be="Ме´ркулавіцкі с/с" name_ru="Ме´ркуловичский с/с" />
+            <Vojtaustva name_be="Нісі´мкавіцкі с/с" name_ru="Ниси´мковичский с/с" />
+            <Vojtaustva name_be="Пале´скі с/с" name_ru="Поле´сский с/с" />
+            <Vojtaustva name_be="Ро´ўкавіцкі с/с" name_ru="Ро´вковичский с/с" />
+        </Rajon>
+        <Horad osmID="r163244" />
+    </Voblasc>
+    <Voblasc osmID="r59275" name_be="Гродзенская вобласць" name_ru="Гродненская область" iso3166-2="BY-HR">
+        <Rajon osmID="r70721" name_be="Астравецкі раён" name_ru="Островецкий район">
+            <Vojtaustva name_be="Варня´нскі с/с" name_ru="Ворня´нский с/с" />
+            <Vojtaustva name_be="Гервя´цкі с/с" name_ru="Гервя´тский с/с" />
+            <Vojtaustva name_be="Гудага´йскі с/с" name_ru="Гудога´йский с/с" />
+            <Vojtaustva name_be="Міха´лішкаўскі с/с" name_ru="Миха´лишковский с/с" />
+            <Vojtaustva name_be="Ры´танскі с/с" name_ru="Ры´танский с/с" />
+        </Rajon>
+        <Rajon osmID="r70728" name_be="Ашмянскі раён" name_ru="Ошмянский район">
+            <Vojtaustva name_be="Бару´нскі с/с" name_ru="Бору´нский с/с" />
+            <Vojtaustva name_be="Гальша´нскі с/с" name_ru="Гольша´нский с/с" />
+            <Vojtaustva name_be="Граўжышко´ўскі с/с" name_ru="Граужишко´вский с/с" />
+            <Vojtaustva name_be="Гро´дзінскі с/с" name_ru="Гро´динский с/с" />
+            <Vojtaustva name_be="Жупра´нскі с/с" name_ru="Жупра´нский с/с" />
+            <Vojtaustva name_be="Кальчу´нскі с/с" name_ru="Кольчу´нский с/с" />
+            <Vojtaustva name_be="Каменнало´гскі с/с" name_ru="Каменноло´гский с/с" />
+            <Vojtaustva name_be="Крайва´нцаўскі с/с" name_ru="Крейва´нцевский с/с" />
+            <Vojtaustva name_be="Мураванаашмянко´ўскі с/с" name_ru="Мурованоошмянко´вский с/с" />
+            <Vojtaustva name_be="Навасёлкаўскі с/с" name_ru="Новосёлковский с/с" />
+        </Rajon>
+        <Rajon osmID="r70790" name_be="Бераставіцкі раён" name_ru="Берестовицкий район">
+            <Vojtaustva name_be="Але´кшыцкі с/с" name_ru="Оле´кшицкий с/с" />
+            <Vojtaustva name_be="Бераставі´цкі с/с" name_ru="Берестови´цкий с/с" />
+            <Vojtaustva name_be="Канюхо´ўскі с/с" name_ru="Конюхо´вский с/с" />
+            <Vojtaustva name_be="Малабераставі´цкі с/с" name_ru="Малоберестови´цкий с/с" />
+            <Vojtaustva name_be="Паграні´чны с/с" name_ru="Пограничный с/с" />
+            <Vojtaustva name_be="Э´йсмантаўскі с/с" name_ru="Э´йсмонтовский с/с" />
+        </Rajon>
+        <Rajon osmID="r70771" name_be="Ваўкавыскі раён" name_ru="Волковысский район">
+            <Vojtaustva name_be="Ваўкавы´скі с/с" name_ru="Волковы´сский с/с" />
+            <Vojtaustva name_be="Во´ўпаўскі с/с" name_ru="Во´лповский с/с" />
+            <Vojtaustva name_be="Вярэ´йкаўскі с/с" name_ru="Вере´йковский с/с" />
+            <Vojtaustva name_be="Гне´знаўскі с/с" name_ru="Гне´зновский с/с" />
+            <Vojtaustva name_be="Ізабе´лінскі с/с" name_ru="Изабе´линский с/с" />
+            <Vojtaustva name_be="Краснасе´льскі с/с" name_ru="Красносельский с/с" />
+            <Vojtaustva name_be="Падаро´скі с/с" name_ru="Подоро´сский с/с" />
+            <Vojtaustva name_be="Роскі с/с" name_ru="Росский с/с" />
+            <Vojtaustva name_be="Су´бацкі с/с" name_ru="Су´бочский с/с" />
+            <Vojtaustva name_be="Шы´лавіцкі с/с" name_ru="Ши´ловичский с/с" />
+        </Rajon>
+        <Rajon osmID="r70737" name_be="Воранаўскі раён" name_ru="Вороновский район">
+            <Vojtaustva name_be="Басту´нскі с/с" name_ru="Басту´нский с/с" />
+            <Vojtaustva name_be="Беняко´нскі с/с" name_ru="Беняко´нский с/с" />
+            <Vojtaustva name_be="Бо´льцішскі с/с" name_ru="Бо´льтишский с/с" />
+            <Vojtaustva name_be="Гі´ркаўскі с/с" name_ru="Ги´рковский с/с" />
+            <Vojtaustva name_be="До´цішскі с/с" name_ru="До´тишский с/с" />
+            <Vojtaustva name_be="Жырму´нскі с/с" name_ru="Жирму´нский с/с" />
+            <Vojtaustva name_be="За´балацкі с/с" name_ru="Заболо´тский с/с" />
+            <Vojtaustva name_be="Канве´лішскі с/с" name_ru="Конве´лишский с/с" />
+            <Vojtaustva name_be="Місяві´цкі с/с" name_ru="Мисеви´чский с/с" />
+            <Vojtaustva name_be="Пагаро´дзенскі с/с" name_ru="Погоро´дненский с/с" />
+            <Vojtaustva name_be="Перага´нцаўскі с/с" name_ru="Перега´нцевский с/с" />
+            <Vojtaustva name_be="Ра´дунскі с/с" name_ru="Ра´дунский с/с" />
+        </Rajon>
+        <Rajon osmID="r59273" name_be="Гродзенскі раён" name_ru="Гродненский район">
+            <Vojtaustva name_be="Абу´хаўскі с/с" name_ru="Обу´ховский с/с" />
+            <Vojtaustva name_be="Адэ´льскі с/с" name_ru="Оде´льский с/с" />
+            <Vojtaustva name_be="Азёрскі с/с" name_ru="Озёрский с/с" />
+            <Vojtaustva name_be="Верцялі´шкаўскі с/с" name_ru="Вертели´шковский с/с" />
+            <Vojtaustva name_be="Го´жскі с/с" name_ru="Го´жский с/с" />
+            <Vojtaustva name_be="Інду´рскі с/с" name_ru="Инду´рский с/с" />
+            <Vojtaustva name_be="Капцёўскі с/с" name_ru="Коптёвский с/с" />
+            <Vojtaustva name_be="Квасо´ўскі с/с" name_ru="Квасо´вский с/с" />
+            <Vojtaustva name_be="Падлабе´нскі с/с" name_ru="Подлабе´нский с/с" />
+            <Vojtaustva name_be="Парэ´цкі с/с" name_ru="Поре´чский с/с" />
+            <Vojtaustva name_be="Пу´трышкаўскі с/с" name_ru="Пу´тришковский с/с" />
+            <Vojtaustva name_be="Сапо´цкінскі с/с" name_ru="Сопо´цкинский с/с" />
+            <Vojtaustva name_be="Скі´дзельскі с/с" name_ru="Ски´дельский с/с" />
+        </Rajon>
+        <Rajon osmID="r70768" name_be="Дзятлаўскі раён" name_ru="Дятловский район">
+            <Vojtaustva name_be="Вензаве´цкі с/с" name_ru="Вензове´цкий с/с" />
+            <Vojtaustva name_be="Во´йневіцкі с/с" name_ru="Во´йневичский с/с" />
+            <Vojtaustva name_be="Ге´згалаўскі п/с" name_ru="Ге´згаловский п/с" />
+            <Vojtaustva name_be="Дані´лавіцкі с/с" name_ru="Дани´ловичский с/с" />
+            <Vojtaustva name_be="Дварэ´цкі с/с" name_ru="Дворе´цкий с/с" />
+            <Vojtaustva name_be="Дзя´тлаўскі с/с" name_ru="Дя´тловский с/с" />
+            <Vojtaustva name_be="Жуко´ўшчынскі с/с" name_ru="Жуко´вщинский с/с" />
+            <Vojtaustva name_be="Казло´ўшчынскі с/с" name_ru="Козло´вщинский с/с" />
+            <Vojtaustva name_be="Мяля´хавіцкі с/с" name_ru="Меля´ховичский с/с" />
+            <Vojtaustva name_be="Наваельнянскі п/с" name_ru="Новоельнянский п/с" />
+            <Vojtaustva name_be="Парэ´цкі с/с" name_ru="Поре´чский с/с" />
+        </Rajon>
+        <Rajon osmID="r70772" name_be="Зэльвенскі раён" name_ru="Зельвенский район">
+            <Vojtaustva name_be="Галы´нкаўскі с/с" name_ru="Голы´нковский с/с" />
+            <Vojtaustva name_be="Дабрасе´лецкі с/с" name_ru="Добросе´лецкий с/с" />
+            <Vojtaustva name_be="Дзярэ´чынскі с/с" name_ru="Дере´чинский с/с" />
+            <Vojtaustva name_be="Зэ´львенскі с/с" name_ru="Зе´львенский с/с" />
+            <Vojtaustva name_be="Каралі´нскі с/с" name_ru="Кароли´нский с/с" />
+            <Vojtaustva name_be="Крамяні´цкі с/с" name_ru="Кремяни´цкий с/с" />
+            <Vojtaustva name_be="Слава´ціцкі с/с" name_ru="Слова´тичский с/с" />
+            <Vojtaustva name_be="Сы´нкавіцкі с/с" name_ru="Сы´нковичский с/с" />
+            <Vojtaustva name_be="Ту´лаўскі с/с" name_ru="Ту´ловский с/с" />
+        </Rajon>
+        <Rajon osmID="r70732" name_be="Іўеўскі раён" name_ru="Ивьевский район">
+            <Vojtaustva name_be="Ба´кштаўскі с/с" name_ru="Ба´кштовский с/с" />
+            <Vojtaustva name_be="Геранёнскі с/с" name_ru="Геранёнский с/с" />
+            <Vojtaustva name_be="І´ўеўскі с/с" name_ru="И´вьевский с/с" />
+            <Vojtaustva name_be="Лазду´нскі с/с" name_ru="Лазду´нский с/с" />
+            <Vojtaustva name_be="Лелюкі´нскі с/с" name_ru="Лелюки´нский с/с" />
+            <Vojtaustva name_be="Лі´пнішкаўскі с/с" name_ru="Ли´пнишковский с/с" />
+            <Vojtaustva name_be="Мо´рынскі с/с" name_ru="Мо´ринский с/с" />
+            <Vojtaustva name_be="Субо´тніцкі с/с" name_ru="Суббо´тникский с/с" />
+            <Vojtaustva name_be="Тра´бскі с/с" name_ru="Тра´бский с/с" />
+            <Vojtaustva name_be="Э´йгердаўскі с/с" name_ru="Э´йгердовский с/с" />
+            <Vojtaustva name_be="Юра´цішкаўскі с/с" name_ru="Юра´тишковский с/с" />
+        </Rajon>
+        <Rajon osmID="r70751" name_be="Карэліцкі раён" name_ru="Кореличский район">
+            <Vojtaustva name_be="Варанча´нскі с/с" name_ru="Воронча´нский с/с" />
+            <Vojtaustva name_be="Жу´хавіцкі с/с" name_ru="Жу´ховичский с/с" />
+            <Vojtaustva name_be="Кра´сненскі с/с" name_ru="Кра´сненский с/с" />
+            <Vojtaustva name_be="Лу´кскі с/с" name_ru="Лу´кский с/с" />
+            <Vojtaustva name_be="Малю´шыцкі с/с" name_ru="Малю´шичский с/с" />
+            <Vojtaustva name_be="Мі´рскі с/с" name_ru="Ми´рский с/с" />
+            <Vojtaustva name_be="Ра´йцаўскі с/с" name_ru="Ра´йцевский с/с" />
+            <Vojtaustva name_be="Турэ´цкі с/с" name_ru="Туре´цкий с/с" />
+            <Vojtaustva name_be="Цы´рынскі с/с" name_ru="Ци´ринский с/с" />
+            <Vojtaustva name_be="Ярэ´міцкі с/с" name_ru="Ере´мичский с/с" />
+        </Rajon>
+        <Rajon osmID="r70747" name_be="Лідскі раён" name_ru="Лидский район">
+            <Vojtaustva name_be="Бе´ліцкі с/с" name_ru="Бе´лицкий с/с" />
+            <Vojtaustva name_be="Бе´рдаўскі с/с" name_ru="Бе´рдовский с/с" />
+            <Vojtaustva name_be="Ва´верскі с/с" name_ru="Ва´верский с/с" />
+            <Vojtaustva name_be="Ганча´рскі с/с" name_ru="Гонча´рский с/с" />
+            <Vojtaustva name_be="Дварышча´нскі с/с" name_ru="Дво´рищанский с/с" />
+            <Vojtaustva name_be="Дзі´твянскі с/с" name_ru="Ди´твянский с/с" />
+            <Vojtaustva name_be="Дубро´венскі с/с" name_ru="Дубро´венский с/с" />
+            <Vojtaustva name_be="Кру´паўскі с/с" name_ru="Кру´повский с/с" />
+            <Vojtaustva name_be="Мажэ´йкаўскі с/с" name_ru="Може´йковский с/с" />
+            <Vojtaustva name_be="Пе´скаўскі с/с" name_ru="Пе´сковский с/с" />
+            <Vojtaustva name_be="Тарно´ўскі с/с" name_ru="Тарно´вский с/с" />
+            <Vojtaustva name_be="Траццяко´ўскі с/с" name_ru="Третьяко´вский с/с" />
+            <Vojtaustva name_be="Хо´дараўскі с/с" name_ru="Хо´доровский с/с" />
+        </Rajon>
+        <Rajon osmID="r70754" name_be="Мастоўскі раён" name_ru="Мостовский район">
+            <Vojtaustva name_be="Гу´дзевіцкі с/с" name_ru="Гу´девичский с/с" />
+            <Vojtaustva name_be="Ду´бненскі с/с" name_ru="Ду´бненский с/с" />
+            <Vojtaustva name_be="Куры´лавіцкі с/с" name_ru="Кури´ловичский с/с" />
+            <Vojtaustva name_be="Лу´нненскі с/с" name_ru="Лу´нненский с/с" />
+            <Vojtaustva name_be="Масто´ўскі с/с" name_ru="Мосто´вский с/с" />
+            <Vojtaustva name_be="Пе´скаўскі с/с" name_ru="Пе´сковский с/с" />
+        </Rajon>
+        <Rajon osmID="r70749" name_be="Навагрудскі раён" name_ru="Новогрудский район">
+            <Vojtaustva name_be="Аста´шынскі с/с" name_ru="Оста´шинский с/с" />
+            <Vojtaustva name_be="Ацмі´наўскі с/с" name_ru="Отми´новский с/с" />
+            <Vojtaustva name_be="Бро´льніцкі с/с" name_ru="Бро´льникский с/с" />
+            <Vojtaustva name_be="Ва´леўскі с/с" name_ru="Ва´левский с/с" />
+            <Vojtaustva name_be="Ваўко´віцкі с/с" name_ru="Волко´вичский с/с" />
+            <Vojtaustva name_be="Кашале´ўскі с/с" name_ru="Кошелевский с/с" />
+            <Vojtaustva name_be="Ладзе´ніцкі с/с" name_ru="Ладе´никский с/с" />
+            <Vojtaustva name_be="Лю´бчанскі с/с" name_ru="Любча´нский с/с" />
+            <Vojtaustva name_be="Нягне´віцкі с/с" name_ru="Негне´вичский с/с" />
+            <Vojtaustva name_be="Пятрэ´віцкі с/с" name_ru="Петре´вичский с/с" />
+            <Vojtaustva name_be="Усе´любскі с/с" name_ru="Все´любский с/с" />
+            <Vojtaustva name_be="Шчо´рсаўскі с/с" name_ru="Що´рсовский с/с" />
+        </Rajon>
+        <Rajon osmID="r71093" name_be="Свіслацкі раён" name_ru="Свислочский район">
+            <Vojtaustva name_be="Ве´рдаміцкі с/с" name_ru="Ве´рдомичский с/с" />
+            <Vojtaustva name_be="Дабраво´льскі с/с" name_ru="Доброво´льский с/с" />
+            <Vojtaustva name_be="Навадво´рскі с/с" name_ru="Новодво´рский с/с" />
+            <Vojtaustva name_be="Нязбо´дзіцкі с/с" name_ru="Незбо´дичский с/с" />
+            <Vojtaustva name_be="По´разаўскі с/с" name_ru="По´розовский с/с" />
+            <Vojtaustva name_be="Сві´слацкі с/с" name_ru="Сви´слочский с/с" />
+            <Vojtaustva name_be="Ханяві´цкі с/с" name_ru="Хоневи´чский с/с" />
+        </Rajon>
+        <Rajon osmID="r71114" name_be="Слонімскі раён" name_ru="Слонимский район">
+            <Vojtaustva name_be="Азгі´навіцкі с/с" name_ru="Озги´новичский с/с" />
+            <Vojtaustva name_be="Азярні´цкі с/с" name_ru="Озерни´цкий с/с" />
+            <Vojtaustva name_be="Васіле´віцкі с/с" name_ru="Василе´вичский с/с" />
+            <Vojtaustva name_be="Дзеравя´нчыцкі с/с" name_ru="Деревя´нчицкий с/с" />
+            <Vojtaustva name_be="Дзераўно´ўскі с/с" name_ru="Деревно´вский с/с" />
+            <Vojtaustva name_be="Жыро´віцкі с/с" name_ru="Жиро´вичский с/с" />
+            <Vojtaustva name_be="Міжэ´віцкі с/с" name_ru="Миже´вичский с/с" />
+            <Vojtaustva name_be="Новадзевя´ткавіцкі с/с" name_ru="Новодевя´тковичский с/с" />
+            <Vojtaustva name_be="Па´ўлаўскі с/с" name_ru="Па´вловский с/с" />
+            <Vojtaustva name_be="Сянько´ўшчынскі с/с" name_ru="Сенько´вщинский с/с" />
+        </Rajon>
+        <Rajon osmID="r70725" name_be="Смаргонскі раён" name_ru="Сморгонский район">
+            <Vojtaustva name_be="Ві´шнеўскі с/с" name_ru="Ви´шневский с/с" />
+            <Vojtaustva name_be="Во´йстамскі с/с" name_ru="Во´йстомский с/с" />
+            <Vojtaustva name_be="Жо´дзішкаўскі с/с" name_ru="Жо´дишковский с/с" />
+            <Vojtaustva name_be="Зале´скі с/с" name_ru="Зале´сский с/с" />
+            <Vojtaustva name_be="Каранёўскі с/с" name_ru="Коренёвский с/с" />
+            <Vojtaustva name_be="Крэ´ўскі с/с" name_ru="Кре´вский с/с" />
+            <Vojtaustva name_be="Лыло´йцінскі с/с" name_ru="Лыло´йтинский с/с" />
+            <Vojtaustva name_be="Сінько´ўскі с/с" name_ru="Синько´вский с/с" />
+            <Vojtaustva name_be="Со´льскі с/с" name_ru="Со´льский с/с" />
+        </Rajon>
+        <Rajon osmID="r70748" name_be="Шчучынскі раён" name_ru="Щучинский район">
+            <Vojtaustva name_be="Астры´нскі с/с" name_ru="Остринский с/с" />
+            <Vojtaustva name_be="Васілі´шкаўскі с/с" name_ru="Васили´шковский с/с" />
+            <Vojtaustva name_be="Дэ´мбраўскі с/с" name_ru="Де´мбровский с/с" />
+            <Vojtaustva name_be="Жалудо´цкі с/с" name_ru="Желудокский с/с" />
+            <Vojtaustva name_be="Ка´менскі с/с" name_ru="Ка´менский с/с" />
+            <Vojtaustva name_be="Ля´дскі с/с" name_ru="Ля´дский с/с" />
+            <Vojtaustva name_be="Мажэ´йкаўскі с/с" name_ru="Може´йковский с/с" />
+            <Vojtaustva name_be="О´рлеўскі с/с" name_ru="О´рлевский с/с" />
+            <Vojtaustva name_be="Першама´йскі с/с" name_ru="Первома´йский с/с" />
+            <Vojtaustva name_be="Ража´нкаўскі с/с" name_ru="Рожа´нковский с/с" />
+            <Vojtaustva name_be="Шчу´чынскі с/с" name_ru="Щу´чинский с/с" />
+        </Rajon>
+        <Horad osmID="r130921" />
+    </Voblasc>
+    <Voblasc osmID="r59162" name_be="Магілёўская вобласць" name_ru="Могилёвская область" iso3166-2="BY-MA">
+        <Rajon osmID="r59753" name_be="Асіповіцкі раён" name_ru="Осиповичский район">
+            <Vojtaustva name_be="Вя´ззеўскі с/с" name_ru="Вя´зьевский с/с" />
+            <Vojtaustva name_be="Градзя´нскі с/с" name_ru="Гродзя´нский с/с" />
+            <Vojtaustva name_be="Дарага´наўскі с/с" name_ru="Дарага´новский с/с" />
+            <Vojtaustva name_be="Дры´чынскі с/с" name_ru="Дри´чинский с/с" />
+            <Vojtaustva name_be="Кары´тненскі с/с" name_ru="Коры´тненский с/с" />
+            <Vojtaustva name_be="Ла´піцкі с/с" name_ru="Ла´пичский с/с" />
+            <Vojtaustva name_be="Лі´пеньскі с/с" name_ru="Ли´пенский с/с" />
+            <Vojtaustva name_be="Пратасе´віцкі с/с" name_ru="Протасе´вичский с/с" />
+            <Vojtaustva name_be="Сві´слацкі с/с" name_ru="Сви´слочский с/с" />
+            <Vojtaustva name_be="Тата´ркаўскі с/с" name_ru="Тата´рковский с/с" />
+            <Vojtaustva name_be="Я´сенскі с/с" name_ru="Я´сенский с/с" />
+            <Vojtaustva name_be="Ялізаўскі с/с" name_ru="Елизовский с/с" />
+        </Rajon>
+        <Rajon osmID="r59148" name_be="Бабруйскі раён" name_ru="Бобруйский район">
+            <Vojtaustva name_be="Бо´ртнікаўскі с/с" name_ru="Бо´ртниковский с/с" />
+            <Vojtaustva name_be="Бро´жскі с/с" name_ru="Бро´жский с/с" />
+            <Vojtaustva name_be="Вараты´нскі с/с" name_ru="Вороты´нский с/с" />
+            <Vojtaustva name_be="Вішнёўскі с/с" name_ru="Вишнёвский с/с" />
+            <Vojtaustva name_be="Гарбацэ´віцкі с/с" name_ru="Горбаце´вичский с/с" />
+            <Vojtaustva name_be="Глушанскі с/с" name_ru="Глушанский с/с" />
+            <Vojtaustva name_be="Кавалёўскі с/с" name_ru="Ковалевский с/с" />
+            <Vojtaustva name_be="Слабо´дкаўскі с/с" name_ru="Слобо´дковский с/с" />
+            <Vojtaustva name_be="Сы´чкаўскі с/с" name_ru="Сы´чковский с/с" />
+            <Vojtaustva name_be="Хімо´ўскі с/с" name_ru="Химо´вский с/с" />
+            <Vojtaustva name_be="Цялу´шскі с/с" name_ru="Телу´шский с/с" />
+        </Rajon>
+        <Rajon osmID="r70586" name_be="Быхаўскі раён" name_ru="Быховский район">
+            <Vojtaustva name_be="Абі´давіцкі с/с" name_ru="Оби´довичский с/с" />
+            <Vojtaustva name_be="Краснаслабо´дскі с/с" name_ru="Краснослобо´дский с/с" />
+            <Vojtaustva name_be="Лу´дчыцкі с/с" name_ru="Лу´дчицкий с/с" />
+            <Vojtaustva name_be="Новабы´хаўскі с/с" name_ru="Новобы´ховский с/с" />
+            <Vojtaustva name_be="Следзюко´ўскі с/с" name_ru="Следюко´вский с/с" />
+            <Vojtaustva name_be="Смалі´цкі с/с" name_ru="Смоли´цкий с/с" />
+            <Vojtaustva name_be="Хо´лстаўскі с/с" name_ru="Хо´лстовский с/с" />
+            <Vojtaustva name_be="Чарнабо´рскі с/с" name_ru="Чернобо´рский с/с" />
+            <Vojtaustva name_be="Я´мніцкі с/с" name_ru="Я´мницкий с/с" />
+        </Rajon>
+        <Rajon osmID="r70637" name_be="Бялыніцкі раён" name_ru="Белыничский район">
+            <Vojtaustva name_be="Вішо´ўскі с/с" name_ru="Вишо´вский с/с" />
+            <Vojtaustva name_be="Гало´ўчынскі с/с" name_ru="Голо´вчинский с/с" />
+            <Vojtaustva name_be="Запо´льскі с/с" name_ru="Запо´льский с/с" />
+            <Vojtaustva name_be="Ла´нькаўскі с/с" name_ru="Ла´ньковский с/с" />
+            <Vojtaustva name_be="Лебядзя´нкаўскі с/с" name_ru="Лебедя´нковский с/с" />
+            <Vojtaustva name_be="Машчані´цкі с/с" name_ru="Мощани´цкий с/с" />
+            <Vojtaustva name_be="Цяхці´нскі с/с" name_ru="Техти´нский с/с" />
+        </Rajon>
+        <Rajon osmID="r71138" name_be="Глускі раён" name_ru="Глусский район">
+            <Vojtaustva name_be="Завало´чыцкі с/с" name_ru="Заволо´чицкий с/с" />
+            <Vojtaustva name_be="Ка´ткаўскі с/с" name_ru="Ка´тковский с/с" />
+            <Vojtaustva name_be="Казло´віцкі с/с" name_ru="Козло´вичский с/с" />
+            <Vojtaustva name_be="Кала´ціцкі с/с" name_ru="Кала´тичский с/с" />
+            <Vojtaustva name_be="Сла´ўкавіцкі с/с" name_ru="Сла´вковичский с/с" />
+            <Vojtaustva name_be="Хва´стовіцкі с/с" name_ru="Хва´стовичский с/с" />
+        </Rajon>
+        <Rajon osmID="r70620" name_be="Горацкі раён" name_ru="Горецкий район">
+            <Vojtaustva name_be="Аўся´нкаўскі с/с" name_ru="Овся´нковский с/с" />
+            <Vojtaustva name_be="Го´рскі с/с" name_ru="Го´рский с/с" />
+            <Vojtaustva name_be="До´браўскі с/с" name_ru="До´бровский с/с" />
+            <Vojtaustva name_be="Ко´пцеўскі с/с" name_ru="Ко´птевский с/с" />
+            <Vojtaustva name_be="Ле´нінскі с/с" name_ru="Ле´нинский с/с" />
+            <Vojtaustva name_be="Маслако´ўскі с/с" name_ru="Маслако´вский с/с" />
+            <Vojtaustva name_be="Па´ршынскі с/с" name_ru="Па´ршинский с/с" />
+            <Vojtaustva name_be="Рэкця´нскі с/с" name_ru="Ре´ктянский с/с" />
+            <Vojtaustva name_be="Са´ўскі с/с" name_ru="Са´вский с/с" />
+        </Rajon>
+        <Rajon osmID="r70618" name_be="Дрыбінскі раён" name_ru="Дрибинский район">
+            <Vojtaustva name_be="Міхе´еўскі с/с" name_ru="Михе´евский с/с" />
+            <Vojtaustva name_be="Первама´йскі с/с" name_ru="Первома´йский с/с" />
+            <Vojtaustva name_be="Ра´сненскі с/с" name_ru="Ря´сненский с/с" />
+            <Vojtaustva name_be="Чэ´рнеўскі с/с" name_ru="Че´рневский с/с" />
+        </Rajon>
+        <Rajon osmID="r70604" name_be="Касцюковіцкі раён" name_ru="Костюковичский район">
+            <Vojtaustva name_be="Баро´нькаўскі с/с" name_ru="Боро´ньковский с/с" />
+            <Vojtaustva name_be="Беладу´браўскі с/с" name_ru="Белоду´бровский с/с" />
+            <Vojtaustva name_be="Бялы´нкавіцкі с/с" name_ru="Белы´нковичский с/с" />
+            <Vojtaustva name_be="Дзямі´давіцкі с/с" name_ru="Деми´довичский с/с" />
+            <Vojtaustva name_be="Забыча´нскі с/с" name_ru="Забыча´нский с/с" />
+            <Vojtaustva name_be="Пралета´рскі с/с" name_ru="Пролета´рский с/с" />
+            <Vojtaustva name_be="Сяле´цкі с/с" name_ru="Селе´цкий с/с" />
+        </Rajon>
+        <Rajon osmID="r70580" name_be="Кіраўскі раён" name_ru="Кировский район">
+            <Vojtaustva name_be="Бараві´цкі с/с" name_ru="Борови´цкий с/с" />
+            <Vojtaustva name_be="До´басненскі с/с" name_ru="До´босненский с/с" />
+            <Vojtaustva name_be="Любо´ніцкі с/с" name_ru="Любо´ничский с/с" />
+            <Vojtaustva name_be="Мы´шкавіцкі с/с" name_ru="Мы´шковичский с/с" />
+            <Vojtaustva name_be="Па´ўлавіцкі с/с" name_ru="Па´вловичский с/с" />
+            <Vojtaustva name_be="Скрыплі´цкі с/с" name_ru="Скри´плицкий с/с" />
+            <Vojtaustva name_be="Ста´йкаўскі с/с" name_ru="Ста´йковский с/с" />
+        </Rajon>
+        <Rajon osmID="r70610" name_be="Клімавіцкі раён" name_ru="Климовичский район">
+            <Vojtaustva name_be="Га´ліцкі с/с" name_ru="Га´личский с/с" />
+            <Vojtaustva name_be="Гуса´ркаўскі с/с" name_ru="Гуса´рковский с/с" />
+            <Vojtaustva name_be="Дама´мерыцкі с/с" name_ru="Дома´меричский с/с" />
+            <Vojtaustva name_be="Кісялёвабу´дскі с/с" name_ru="Киселево-Будский с/с" />
+            <Vojtaustva name_be="Лабжа´нскі с/с" name_ru="Лобжа´нский с/с" />
+            <Vojtaustva name_be="Міласла´віцкі с/с" name_ru="Милосла´вичский с/с" />
+            <Vojtaustva name_be="Ро´дненскі с/с" name_ru="Ро´дненский с/с" />
+            <Vojtaustva name_be="Ці´манаўскі с/с" name_ru="Ти´моновский с/с" />
+        </Rajon>
+        <Rajon osmID="r70577" name_be="Клічаўскі раён" name_ru="Кличевский район">
+            <Vojtaustva name_be="Бацэ´віцкі с/с" name_ru="Баце´вичский с/с" />
+            <Vojtaustva name_be="До´ўгаўскі с/с" name_ru="До´лговский с/с" />
+            <Vojtaustva name_be="Каўбча´нскі с/с" name_ru="Колбча´нский с/с" />
+            <Vojtaustva name_be="Неся´цкі с/с" name_ru="Неся´тский с/с" />
+            <Vojtaustva name_be="Пато´цкі с/с" name_ru="Пото´кский с/с" />
+        </Rajon>
+        <Rajon osmID="r70602" name_be="Краснапольскі раён" name_ru="Краснопольский район">
+            <Vojtaustva name_be="Го´рскі с/с" name_ru="Го´рский с/с" />
+            <Vojtaustva name_be="Мхі´ніцкі с/с" name_ru="Мхи´ничский с/с" />
+            <Vojtaustva name_be="Сі´дараўскі с/с" name_ru="Си´доровский с/с" />
+            <Vojtaustva name_be="Тур'я´ўскі с/с" name_ru="Турье´вский с/с" />
+            <Vojtaustva name_be="Яно´ўскі с/с" name_ru="Яно´вский с/с" />
+        </Rajon>
+        <Rajon osmID="r70638" name_be="Круглянскі раён" name_ru="Круглянский район">
+            <Vojtaustva name_be="Запру´дскі с/с" name_ru="Запру´дский с/с" />
+            <Vojtaustva name_be="Камсе´ніцкі с/с" name_ru="Комсе´ничский с/с" />
+            <Vojtaustva name_be="Кругля´нскі с/с" name_ru="Кругля´нский с/с" />
+            <Vojtaustva name_be="Філа´таўскі с/с" name_ru="Фила´товский с/с" />
+            <Vojtaustva name_be="Цяце´рынскі с/с" name_ru="Тете´ринский с/с" />
+        </Rajon>
+        <Rajon osmID="r70614" name_be="Крычаўскі раён" name_ru="Кричевский район">
+            <Vojtaustva name_be="Бацві´наўскі с/с" name_ru="Ботви´новский с/с" />
+            <Vojtaustva name_be="Касцю´шкавіцкі с/с" name_ru="Костю´шковичский с/с" />
+            <Vojtaustva name_be="Краснабу´дскі с/с" name_ru="Краснобу´дский с/с" />
+            <Vojtaustva name_be="Лабко´віцкі с/с" name_ru="Лобко´вичский с/с" />
+            <Vojtaustva name_be="Маля´ціцкі с/с" name_ru="Моля´тичский с/с" />
+        </Rajon>
+        <Rajon osmID="r62147" name_be="Магілёўскі раён" name_ru="Могилёвский район">
+            <Vojtaustva name_be="Бу´йніцкі с/с" name_ru="Бу´йничский с/с" />
+            <Vojtaustva name_be="Ве´ндаражскі с/с" name_ru="Ве´ндорожский с/с" />
+            <Vojtaustva name_be="Вяйня´нскі с/с" name_ru="Вейня´нский с/с" />
+            <Vojtaustva name_be="Да´шкаўскі с/с" name_ru="Да´шковский с/с" />
+            <Vojtaustva name_be="Заводскаслабо´дскі с/с" name_ru="Заводскослобо´дский с/с" />
+            <Vojtaustva name_be="Ка´дзінскі с/с" name_ru="Ка´динский с/с" />
+            <Vojtaustva name_be="Кня´жыцкі с/с" name_ru="Кня´жицкий с/с" />
+            <Vojtaustva name_be="Ма´хаўскі с/с" name_ru="Ма´ховский с/с" />
+            <Vojtaustva name_be="Масто´цкі с/с" name_ru="Мосто´кский с/с" />
+            <Vojtaustva name_be="Няда´шаўскі с/с" name_ru="Неда´шевский с/с" />
+            <Vojtaustva name_be="Па´шкаўскі с/с" name_ru="Па´шковский с/с" />
+            <Vojtaustva name_be="Палы´кавіцкі с/с" name_ru="Полы´ковичский с/с" />
+            <Vojtaustva name_be="Семука´цкі с/с" name_ru="Семука´чский с/с" />
+            <Vojtaustva name_be="Сі´даравіцкі с/с" name_ru="Си´доровичский с/с" />
+            <Vojtaustva name_be="Сухарэ´ўскі с/с" name_ru="Сухаре´вский с/с" />
+        </Rajon>
+        <Rajon osmID="r70616" name_be="Мсціслаўскі раён" name_ru="Мстиславский район">
+            <Vojtaustva name_be="До´ўгавіцкі с/с" name_ru="До´лговичский с/с" />
+            <Vojtaustva name_be="Капачо´ўскі с/с" name_ru="Копачёвский с/с" />
+            <Vojtaustva name_be="Краснаго´рскі с/с" name_ru="Красного´рский с/с" />
+            <Vojtaustva name_be="Ма´залаўскі с/с" name_ru="Ма´золовский с/с" />
+            <Vojtaustva name_be="Му´шынскі с/с" name_ru="Му´шинский с/с" />
+            <Vojtaustva name_be="Падсо´лтаўскі с/с" name_ru="Подсо´лтовский с/с" />
+            <Vojtaustva name_be="Ракшы´нскі с/с" name_ru="Ракши´нский с/с" />
+            <Vojtaustva name_be="Сапры´навіцкі с/с" name_ru="Сапры´новичский с/с" />
+            <Vojtaustva name_be="Сяле´цкі с/с" name_ru="Селе´цкий с/с" />
+            <Vojtaustva name_be="Хо´дасаўскі с/с" name_ru="Хо´досовский с/с" />
+        </Rajon>
+        <Rajon osmID="r70589" name_be="Слаўгарадскі раён" name_ru="Славгородский район">
+            <Vojtaustva name_be="Ва´ськавіцкі с/с" name_ru="Ва´ськовичский с/с" />
+            <Vojtaustva name_be="Гіжэ´нскі с/с" name_ru="Гиже´нский с/с" />
+            <Vojtaustva name_be="Кабінаго´рскі с/с" name_ru="Кабиного´рский с/с" />
+            <Vojtaustva name_be="Лапа´ціцкі с/с" name_ru="Лопа´тичский с/с" />
+            <Vojtaustva name_be="Све´нскі с/с" name_ru="Све´нский с/с" />
+        </Rajon>
+        <Rajon osmID="r70605" name_be="Хоцімскі раён" name_ru="Хотимский район">
+            <Vojtaustva name_be="Бяро´зкаўскі с/с" name_ru="Берёзковский с/с" />
+            <Vojtaustva name_be="Бясе´давіцкі с/с" name_ru="Бесе´довичский с/с" />
+            <Vojtaustva name_be="Вялікалі´паўскі с/с" name_ru="Великоли´повский с/с" />
+            <Vojtaustva name_be="Забялы´шынскі с/с" name_ru="Забелы´шинский с/с" />
+            <Vojtaustva name_be="Трасці´нскі с/с" name_ru="Трости´нский с/с" />
+        </Rajon>
+        <Rajon osmID="r70591" name_be="Чавускі раён" name_ru="Чаусский район">
+            <Vojtaustva name_be="Анто´наўскі с/с" name_ru="Анто´новский с/с" />
+            <Vojtaustva name_be="Асі´наўскі с/с" name_ru="Оси´новский с/с" />
+            <Vojtaustva name_be="Вайні´лаўскі с/с" name_ru="Войни´ловский с/с" />
+            <Vojtaustva name_be="Ваўкаві´цкі с/с" name_ru="Волкови´чский с/с" />
+            <Vojtaustva name_be="Гарбаві´цкі с/с" name_ru="Горбови´чский с/с" />
+            <Vojtaustva name_be="Ка´менскі с/с" name_ru="Ка´менский с/с" />
+            <Vojtaustva name_be="Ра´дамльскі с/с" name_ru="Ра´домльский с/с" />
+        </Rajon>
+        <Rajon osmID="r70595" name_be="Чэрыкаўскі раён" name_ru="Чериковский район">
+            <Vojtaustva name_be="Ве´прынскі с/с" name_ru="Ве´принский с/с" />
+            <Vojtaustva name_be="Вераме´йскі с/с" name_ru="Вереме´йский с/с" />
+            <Vojtaustva name_be="Рэ´чыцкі с/с" name_ru="Ре´чицкий с/с" />
+            <Vojtaustva name_be="Со´рмаўскі с/с" name_ru="Со´рмовский с/с" />
+            <Vojtaustva name_be="Язё´рскі с/с" name_ru="Езерский с/с" />
+        </Rajon>
+        <Rajon osmID="r70626" name_be="Шклоўскі раён" name_ru="Шкловский район">
+            <Vojtaustva name_be="Александры´йскі с/с" name_ru="Александри´йский с/с" />
+            <Vojtaustva name_be="Гарадзе´цкі с/с" name_ru="Городе´цкий с/с" />
+            <Vojtaustva name_be="Гарадзі´шчанскі с/с" name_ru="Городи´щенский с/с" />
+            <Vojtaustva name_be="Каменнала´ўскі с/с" name_ru="Каменнолавский с/с" />
+            <Vojtaustva name_be="Славе´нскі с/с" name_ru="Слове´нский с/с" />
+            <Vojtaustva name_be="Старашкло´ўскі с/с" name_ru="Старошкло´вский с/с" />
+            <Vojtaustva name_be="Таўкачо´ўскі с/с" name_ru="Толкачёвский с/с" />
+            <Vojtaustva name_be="Фа´шчаўскі с/с" name_ru="Фа´щевский с/с" />
+        </Rajon>
+        <Horad osmID="r167857" />
+        <Horad osmID="r62145" />
+    </Voblasc>
+    <Voblasc osmID="r59752" name_be="Мінская вобласць" name_ru="Минская область" iso3166-2="BY-MI">
+        <Rajon osmID="r70569" name_be="Барысаўскі раён" name_ru="Борисовский район">
+            <Vojtaustva name_be="Весяло´ўскі с/с" name_ru="Весело´вский с/с" />
+            <Vojtaustva name_be="Вяляці´цкі с/с" name_ru="Веля´тичский с/с" />
+            <Vojtaustva name_be="Глі´вінскі с/с" name_ru="Гли´винский с/с" />
+            <Vojtaustva name_be="Зачы´сцкі с/с" name_ru="Зачи´стский с/с" />
+            <Vojtaustva name_be="Зе´мбінскі с/с" name_ru="Зе´мбинский с/с" />
+            <Vojtaustva name_be="І´канскі с/с" name_ru="И´канский с/с" />
+            <Vojtaustva name_be="Ло´шніцкі с/с" name_ru="Ло´шницкий с/с" />
+            <Vojtaustva name_be="Маісе´еўшчынскі с/с" name_ru="Моисе´евщинский с/с" />
+            <Vojtaustva name_be="Мётчанскі с/с" name_ru="Мётченский с/с" />
+            <Vojtaustva name_be="Мсці´жскі с/с" name_ru="Мсти´жский с/с" />
+            <Vojtaustva name_be="Немані´цкі с/с" name_ru="Немани´цкий с/с" />
+            <Vojtaustva name_be="Пераса´дскі с/с" name_ru="Переса´дский с/с" />
+            <Vojtaustva name_be="Пры´гарадны с/с" name_ru="При´городный с/с" />
+        </Rajon>
+        <Rajon osmID="r70575" name_be="Бярэзінскі раён" name_ru="Березинский район">
+            <Vojtaustva name_be="Багушэ´віцкі с/с" name_ru="Богуше´вичский с/с" />
+            <Vojtaustva name_be="Бярэ´зінскі с/с" name_ru="Бере´зинский с/с" />
+            <Vojtaustva name_be="Дзмі´травіцкі с/с" name_ru="Дми´тровичский с/с" />
+            <Vojtaustva name_be="Капла´нецкі с/с" name_ru="Капла´нецкий с/с" />
+            <Vojtaustva name_be="Паго´сцкі с/с" name_ru="Пого´стский с/с" />
+            <Vojtaustva name_be="Папла´ўскі с/с" name_ru="Попла´вский с/с" />
+        </Rajon>
+        <Rajon osmID="r70565" name_be="Валожынскі раён" name_ru="Воложинский район">
+            <Vojtaustva name_be="Вало´жынскі с/с" name_ru="Воло´жинский с/с" />
+            <Vojtaustva name_be="Ві´шнеўскі с/с" name_ru="Вишне´вский с/с" />
+            <Vojtaustva name_be="Гаро´дзькаўскі с/с" name_ru="Горо´дьковский с/с" />
+            <Vojtaustva name_be="До´рскі с/с" name_ru="До´рский с/с" />
+            <Vojtaustva name_be="Івяне´цкі с/с" name_ru="Ивене´цкий с/с" />
+            <Vojtaustva name_be="Пярша´йскі с/с" name_ru="Перша´йский с/с" />
+            <Vojtaustva name_be="Ра´каўскі с/с" name_ru="Ра´ковский с/с" />
+        </Rajon>
+        <Rajon osmID="r70568" name_be="Вілейскі раён" name_ru="Вилейский район">
+            <Vojtaustva name_be="Асі´павіцкі с/с" name_ru="Оси´повичский с/с" />
+            <Vojtaustva name_be="Вя´зынскі с/с" name_ru="Вя´зынский с/с" />
+            <Vojtaustva name_be="Даўгі´наўскі с/с" name_ru="Долги´новский с/с" />
+            <Vojtaustva name_be="І´жскі с/с" name_ru="И´жский с/с" />
+            <Vojtaustva name_be="І´льянскі с/с" name_ru="И´льянский с/с" />
+            <Vojtaustva name_be="Крывасе´льскі с/с" name_ru="Кривосе´льский с/с" />
+            <Vojtaustva name_be="Куране´цкі с/с" name_ru="Курене´цкий с/с" />
+            <Vojtaustva name_be="Лю´банскі с/с" name_ru="Лю´банский с/с" />
+            <Vojtaustva name_be="Людвіно´ўскі с/с" name_ru="Людвино´вский с/с" />
+            <Vojtaustva name_be="Нарача´нскі с/с" name_ru="Нароча´нский с/с" />
+            <Vojtaustva name_be="Хаце´нчыцкі с/с" name_ru="Хоте´нчицкий с/с" />
+        </Rajon>
+        <Rajon osmID="r70563" name_be="Дзяржынскі раён" name_ru="Дзержинский район">
+            <Vojtaustva name_be="Бараўскі´ с/с" name_ru="Боровско´й с/с" />
+            <Vojtaustva name_be="Дабрынёўскі с/с" name_ru="Добрине´вский с/с" />
+            <Vojtaustva name_be="Дзямі´давіцкі с/с" name_ru="Деми´довичский с/с" />
+            <Vojtaustva name_be="Дзяржы´нскі с/с" name_ru="Дзержи´нский с/с" />
+            <Vojtaustva name_be="Негарэ´льскі с/с" name_ru="Негоре´льский с/с" />
+            <Vojtaustva name_be="Пу´тчынскі с/с" name_ru="Пу´тчинский с/с" />
+            <Vojtaustva name_be="Ста´нькаўскі с/с" name_ru="Ста´ньковский с/с" />
+            <Vojtaustva name_be="Фа´ніпальскі с/с" name_ru="Фа´нипольский с/с" />
+        </Rajon>
+        <Rajon osmID="r71132" name_be="Капыльскі раён" name_ru="Копыльский район">
+            <Vojtaustva name_be="Бабаўня´нскі с/с" name_ru="Бобовня´нский с/с" />
+            <Vojtaustva name_be="Бле´ўчыцкі с/с" name_ru="Бле´вчицкий с/с" />
+            <Vojtaustva name_be="Буча´цінскі с/с" name_ru="Буча´тинский с/с" />
+            <Vojtaustva name_be="Гро´заўскі с/с" name_ru="Гро´зовский с/с" />
+            <Vojtaustva name_be="До´ктаравіцкі с/с" name_ru="До´кторовичский с/с" />
+            <Vojtaustva name_be="Капы´льскі с/с" name_ru="Копы´льский с/с" />
+            <Vojtaustva name_be="Паце´йкаўскі с/с" name_ru="Поте´йковский с/с" />
+            <Vojtaustva name_be="Се´межаўскі с/с" name_ru="Се´межевский с/с" />
+            <Vojtaustva name_be="Слабада´-Кучынскі с/с" name_ru="Слобода´-Кучинский с/с" />
+            <Vojtaustva name_be="Ці´мкавіцкі с/с" name_ru="Ти´мковичский с/с" />
+        </Rajon>
+        <Rajon osmID="r71130" name_be="Клецкі раён" name_ru="Клецкий район">
+            <Vojtaustva name_be="Галы´нкаўскі с/с" name_ru="Голы´нковский с/с" />
+            <Vojtaustva name_be="Грыцэ´віцкі с/с" name_ru="Грице´вичский с/с" />
+            <Vojtaustva name_be="Заастраве´цкі с/с" name_ru="Заострове´чский с/с" />
+            <Vojtaustva name_be="Зу´бкаўскі с/с" name_ru="Зу´бковский с/с" />
+            <Vojtaustva name_be="Красназвёздаўскі с/с" name_ru="Краснозве´здовский с/с" />
+            <Vojtaustva name_be="Ку´хчыцкі с/с" name_ru="Ку´хчицкий с/с" />
+            <Vojtaustva name_be="Мо´рацкі с/с" name_ru="Мо´рочский с/с" />
+            <Vojtaustva name_be="Сіня´ўскі с/с" name_ru="Синя´вский с/с" />
+            <Vojtaustva name_be="Шчэ´піцкі с/с" name_ru="Ще´пичский с/с" />
+        </Rajon>
+        <Rajon osmID="r70639" name_be="Крупскі раён" name_ru="Крупский район">
+            <Vojtaustva name_be="Акця´брскі с/с" name_ru="Октя´брьский с/с" />
+            <Vojtaustva name_be="Бо´брскі с/с" name_ru="Бобрский с/с" />
+            <Vojtaustva name_be="Ігру´шкаўскі с/с" name_ru="Игру´шковский с/с" />
+            <Vojtaustva name_be="Кру´пскі с/с" name_ru="Кру´пский с/с" />
+            <Vojtaustva name_be="Ухва´льскі с/с" name_ru="Ухва´льский с/с" />
+            <Vojtaustva name_be="Хало´пеніцкі с/с" name_ru="Холопеничский с/с" />
+            <Vojtaustva name_be="Хацюхо´ўскі с/с" name_ru="Хотюхо´вский с/с" />
+        </Rajon>
+        <Rajon osmID="r70542" name_be="Лагойскі раён" name_ru="Логойский район">
+            <Vojtaustva name_be="Акало´ўскі с/с" name_ru="Око´ловский с/с" />
+            <Vojtaustva name_be="Акця´брскі с/с" name_ru="Октя´брьский с/с" />
+            <Vojtaustva name_be="Астро´шыцкі с/с" name_ru="Остро´шицкий с/с" />
+            <Vojtaustva name_be="Бяла´руцкі с/с" name_ru="Бела´ручский с/с" />
+            <Vojtaustva name_be="Га´йненскі с/с" name_ru="Га´йненский с/с" />
+            <Vojtaustva name_be="Задо´р'еўскі с/с" name_ru="Задо´рьевский с/с" />
+            <Vojtaustva name_be="Ка´менскі с/с" name_ru="Ка´менский с/с" />
+            <Vojtaustva name_be="Кра´йскі с/с" name_ru="Кра´йский с/с" />
+            <Vojtaustva name_be="Лаго´йскі с/с" name_ru="Лого´йский с/с" />
+            <Vojtaustva name_be="Пле´шчаніцкі с/с" name_ru="Пле´щеницкий с/с" />
+            <Vojtaustva name_be="Яну´шкавіцкі с/с" name_ru="Яну´шковичский с/с" />
+        </Rajon>
+        <Rajon osmID="r71140" name_be="Любанскі раён" name_ru="Любанский район">
+            <Vojtaustva name_be="Асаве´цкі с/с" name_ru="Осове´цкий с/с" />
+            <Vojtaustva name_be="Камуна´раўскі с/с" name_ru="Коммуна´ровский с/с" />
+            <Vojtaustva name_be="Малагарадзя´ціцкі с/с" name_ru="Малогородя´тичский с/с" />
+            <Vojtaustva name_be="Рачэ´нскі с/с" name_ru="Рече´нский с/с" />
+            <Vojtaustva name_be="Саро´цкі с/с" name_ru="Соро´чский с/с" />
+            <Vojtaustva name_be="Со´снаўскі с/с" name_ru="Сосно´вский с/с" />
+            <Vojtaustva name_be="Та´льскі с/с" name_ru="Та´льский с/с" />
+            <Vojtaustva name_be="Урэ´цкі с/с" name_ru="Уречский с/с" />
+            <Vojtaustva name_be="Ю´шкавіцкі с/с" name_ru="Ю´шковичский с/с" />
+        </Rajon>
+        <Rajon osmID="r70566" name_be="Маладзечанскі раён" name_ru="Молодечненский район">
+            <Vojtaustva name_be="Аляхно´віцкі с/с" name_ru="Олехно´вичский с/с" />
+            <Vojtaustva name_be="Гарадзі´лаўскі с/с" name_ru="Городи´ловский с/с" />
+            <Vojtaustva name_be="Гарадо´цкі с/с" name_ru="Городо´кский с/с" />
+            <Vojtaustva name_be="Кра´сненскі с/с" name_ru="Кра´сненский с/с" />
+            <Vojtaustva name_be="Ле´бедзеўскі с/с" name_ru="Ле´бедевский с/с" />
+            <Vojtaustva name_be="Ма´ркаўскі с/с" name_ru="Ма´рковский с/с" />
+            <Vojtaustva name_be="Мясо´цкі с/с" name_ru="Мясо´тский с/с" />
+            <Vojtaustva name_be="Палача´нскі с/с" name_ru="Полоча´нский с/с" />
+            <Vojtaustva name_be="Радашко´віцкі с/с" name_ru="Радошко´вичский с/с" />
+            <Vojtaustva name_be="Хажо´ўскі с/с" name_ru="Хожо´вский с/с" />
+            <Vojtaustva name_be="Цюрлёўскі с/с" name_ru="Тюрлёвский с/с" />
+            <Vojtaustva name_be="Чы´сцінскі с/с" name_ru="Чи´стинский с/с" />
+        </Rajon>
+        <Rajon osmID="r59190" name_be="Мінскі раён" name_ru="Минский район">
+            <Vojtaustva name_be="Астаршыцкага´радоцкі с/с" name_ru="Острошицко-Городокский с/с" />
+            <Vojtaustva name_be="Бараўля´нскі с/с" name_ru="Боровля´нский с/с" />
+            <Vojtaustva name_be="Гара´нскі с/с" name_ru="Гора´нский с/с" />
+            <Vojtaustva name_be="Ждано´віцкі с/с" name_ru="Ждано´вичский с/с" />
+            <Vojtaustva name_be="Кало´дзішчанскі с/с" name_ru="Коло´дищанский с/с" />
+            <Vojtaustva name_be="Крупі´цкі с/с" name_ru="Крупи´цкий с/с" />
+            <Vojtaustva name_be="Лаша´нскі с/с" name_ru="Лоша´нский с/с" />
+            <Vojtaustva name_be="Лугаваслабадскі´ с/с" name_ru="Луговослободско´й с/с" />
+            <Vojtaustva name_be="Мі´ханавіцкі с/с" name_ru="Ми´хановичский с/с" />
+            <Vojtaustva name_be="Навадво´рскі с/с" name_ru="Новодво´рский с/с" />
+            <Vojtaustva name_be="Папярня´нскі с/с" name_ru="Паперня´нский с/с" />
+            <Vojtaustva name_be="Пятры´шкаўскі с/с" name_ru="Петри´шковский с/с" />
+            <Vojtaustva name_be="Самахва´лавіцкі с/с" name_ru="Самохва´ловичский с/с" />
+            <Vojtaustva name_be="Се´ніцкі с/с" name_ru="Се´ницкий с/с" />
+            <Vojtaustva name_be="Хаце´жынскі с/с" name_ru="Хате´жинский с/с" />
+            <Vojtaustva name_be="Шаршу´нскі с/с" name_ru="Шершу´нский с/с" />
+            <Vojtaustva name_be="Шчо´мысліцкі с/с" name_ru="Що´мыслицкий с/с" />
+            <Vojtaustva name_be="Юзуфо´ўскі с/с" name_ru="Юзуфо´вский с/с" />
+        </Rajon>
+        <Rajon osmID="r70719" name_be="Мядзельскі раён" name_ru="Мядельский район">
+            <Vojtaustva name_be="Будсла´ўскі с/с" name_ru="Бу´дславский с/с" />
+            <Vojtaustva name_be="Зана´рацкі с/с" name_ru="Зана´рочский с/с" />
+            <Vojtaustva name_be="Княгі´нінскі с/с" name_ru="Княги´нинский с/с" />
+            <Vojtaustva name_be="Крыві´цкі с/с" name_ru="Кривичский с/с" />
+            <Vojtaustva name_be="Мя´дзельскі с/с" name_ru="Мя´дельский с/с" />
+            <Vojtaustva name_be="На´рацкі с/с" name_ru="На´рочский с/с" />
+            <Vojtaustva name_be="Сва´ткаўскі с/с" name_ru="Сва´тковский с/с" />
+            <Vojtaustva name_be="Свірскі с/с" name_ru="Свирский с/с" />
+            <Vojtaustva name_be="Слабадскі с/с" name_ru="Слободской с/с" />
+        </Rajon>
+        <Rajon osmID="r71128" name_be="Нясвіжскі раён" name_ru="Несвижский район">
+            <Vojtaustva name_be="Гарадзе´йскі с/с" name_ru="Городе´йский с/с" />
+            <Vojtaustva name_be="Казло´ўскі с/с" name_ru="Козло´вский с/с" />
+            <Vojtaustva name_be="Ла´нскі с/с" name_ru="Ла´нский с/с" />
+            <Vojtaustva name_be="Лі´пскі с/с" name_ru="Ли´пский с/с" />
+            <Vojtaustva name_be="Нясві´жскі с/с" name_ru="Несви´жский с/с" />
+            <Vojtaustva name_be="Се´йлавіцкі с/с" name_ru="Се´йловичский с/с" />
+            <Vojtaustva name_be="Сно´ўскі с/с" name_ru="Сно´вский с/с" />
+        </Rajon>
+        <Rajon osmID="r70549" name_be="Пухавіцкі раён" name_ru="Пуховичский район">
+            <Vojtaustva name_be="Бло´нскі с/с" name_ru="Бло´нский с/с" />
+            <Vojtaustva name_be="Блу´жскі с/с" name_ru="Блу´жский с/с" />
+            <Vojtaustva name_be="Го´лацкі с/с" name_ru="Го´лоцкий с/с" />
+            <Vojtaustva name_be="Ду´браўскі с/с" name_ru="Ду´бровский с/с" />
+            <Vojtaustva name_be="Дуко´рскі с/с" name_ru="Дуко´рский с/с" />
+            <Vojtaustva name_be="Навапо´льскі с/с" name_ru="Новопо´льский с/с" />
+            <Vojtaustva name_be="Навасёлкаўскі с/с" name_ru="Новосёлковский с/с" />
+            <Vojtaustva name_be="Пу´хавіцкі с/с" name_ru="Пу´ховичский с/с" />
+            <Vojtaustva name_be="Пярэ´жырскі с/с" name_ru="Пере´жирский с/с" />
+            <Vojtaustva name_be="Ру´дзенскі с/с" name_ru="Руденский с/с" />
+            <Vojtaustva name_be="Сві´слацкі с/с" name_ru="Свислочский с/с" />
+            <Vojtaustva name_be="Ту´рынскі с/с" name_ru="Ту´ринский с/с" />
+            <Vojtaustva name_be="Ша´цкі с/с" name_ru="Ша´цкий с/с" />
+        </Rajon>
+        <Rajon osmID="r71133" name_be="Салігорскі раён" name_ru="Солигорский район">
+            <Vojtaustva name_be="Акця´брскі с/с" name_ru="Октя´брьский с/с" />
+            <Vojtaustva name_be="Го´цкі с/с" name_ru="Го´цкий с/с" />
+            <Vojtaustva name_be="Дама´навіцкі с/с" name_ru="Дома´новичский с/с" />
+            <Vojtaustva name_be="До´ўгаўскі с/с" name_ru="До´лговский с/с" />
+            <Vojtaustva name_be="Зажэ´віцкі с/с" name_ru="Заже´вичский с/с" />
+            <Vojtaustva name_be="Капацэ´віцкі с/с" name_ru="Копаце´вичский с/с" />
+            <Vojtaustva name_be="Краснадво´рскі с/с" name_ru="Краснодво´рский с/с" />
+            <Vojtaustva name_be="Старобінскі с/с" name_ru="Старобинский с/с" />
+            <Vojtaustva name_be="Хо´растаўскі с/с" name_ru="Хо´ростовский с/с" />
+            <Vojtaustva name_be="Чыжэ´віцкі с/с" name_ru="Чиже´вичский с/с" />
+            <Vojtaustva name_be="Чырвонаслабодскі с/с" name_ru="Краснослободский с/с" />
+        </Rajon>
+        <Rajon osmID="r71134" name_be="Слуцкі раён" name_ru="Слуцкий район">
+            <Vojtaustva name_be="Бе´ліцкі с/с" name_ru="Бе´личский с/с" />
+            <Vojtaustva name_be="Бо´кшыцкі с/с" name_ru="Бо´кшицкий с/с" />
+            <Vojtaustva name_be="Вясе´йскі с/с" name_ru="Весе´йский с/с" />
+            <Vojtaustva name_be="Гацуко´ўскі с/с" name_ru="Гацуко´вский с/с" />
+            <Vojtaustva name_be="Грэ´скі с/с" name_ru="Гре´сский с/с" />
+            <Vojtaustva name_be="Зна´менскі с/с" name_ru="Зна´менский с/с" />
+            <Vojtaustva name_be="І´сернскі с/с" name_ru="И´сернский с/с" />
+            <Vojtaustva name_be="Казло´віцкі с/с" name_ru="Козло´вичский с/с" />
+            <Vojtaustva name_be="Кі´раўскі с/с" name_ru="Ки´ровский с/с" />
+            <Vojtaustva name_be="Першама´йскі с/с" name_ru="Первома´йский с/с" />
+            <Vojtaustva name_be="По´крашаўскі с/с" name_ru="По´крашевский с/с" />
+            <Vojtaustva name_be="Ра´чкавіцкі с/с" name_ru="Ра´чковичский с/с" />
+            <Vojtaustva name_be="Со´рагскі с/с" name_ru="Со´рогский с/с" />
+            <Vojtaustva name_be="Сяра´жскі с/с" name_ru="Серя´жский с/с" />
+        </Rajon>
+        <Rajon osmID="r69554" name_be="Смалявіцкі раён" name_ru="Смолевичский район">
+            <Vojtaustva name_be="Азярыцкаслабадскі´ с/с" name_ru="Озерицко-Слободско´й с/с" />
+            <Vojtaustva name_be="Дра´чкаўскі с/с" name_ru="Дра´чковский с/с" />
+            <Vojtaustva name_be="Жо´дзінскі с/с" name_ru="Жо´динский с/с" />
+            <Vojtaustva name_be="Забало´цкі с/с" name_ru="Заболо´тский с/с" />
+            <Vojtaustva name_be="Зеленабо´рскі с/с" name_ru="Зеленоборский с/с" />
+            <Vojtaustva name_be="Курга´нскі с/с" name_ru="Курга´нский с/с" />
+            <Vojtaustva name_be="Пекалі´нскі с/с" name_ru="Пекали´нский с/с" />
+            <Vojtaustva name_be="Пліскі´ с/с" name_ru="Пли´сский с/с" />
+            <Vojtaustva name_be="У´сяжскі с/с" name_ru="У´сяжский с/с" />
+        </Rajon>
+        <Rajon osmID="r71135" name_be="Старадарожскі раён" name_ru="Стародорожский район">
+            <Vojtaustva name_be="Дра´жнаўскі с/с" name_ru="Дра´жновский с/с" />
+            <Vojtaustva name_be="Новадаро´жскі с/с" name_ru="Новодоро´жский с/с" />
+            <Vojtaustva name_be="Па´сецкі с/с" name_ru="Па´секский с/с" />
+            <Vojtaustva name_be="Палажэ´віцкі с/с" name_ru="Положе´вичский с/с" />
+            <Vojtaustva name_be="Старадаро´жскі с/с" name_ru="Стародоро´жский с/с" />
+            <Vojtaustva name_be="Шчы´ткавіцкі с/с" name_ru="Щи´тковичский с/с" />
+            <Vojtaustva name_be="Я´зыльскі с/с" name_ru="Я´зыльский с/с" />
+        </Rajon>
+        <Rajon osmID="r70752" name_be="Стаўбцоўскі раён" name_ru="Столбцовский район">
+            <Vojtaustva name_be="Вішняве´цкі с/с" name_ru="Вишневе´цкий с/с" />
+            <Vojtaustva name_be="Дзераўня´нскі с/с" name_ru="Деревня´нский с/с" />
+            <Vojtaustva name_be="Зая´мнаўскі с/с" name_ru="Зая´мновский с/с" />
+            <Vojtaustva name_be="Літве´нскі с/с" name_ru="Литве´нский с/с" />
+            <Vojtaustva name_be="Мікала´еўшчынскі с/с" name_ru="Микола´евщинский с/с" />
+            <Vojtaustva name_be="Навако´ласаўскі с/с" name_ru="Новоко´лосовский с/с" />
+            <Vojtaustva name_be="Навасве´ржанскі с/с" name_ru="Новосве´рженский с/с" />
+            <Vojtaustva name_be="Налі´бацкі с/с" name_ru="Нали´бокский с/с" />
+            <Vojtaustva name_be="Рубяжэ´віцкі с/с" name_ru="Рубеже´вичский с/с" />
+            <Vojtaustva name_be="Стар´асвержанскі с/с" name_ru="Стар´осверженский с/с" />
+            <Vojtaustva name_be="Шашко´ўскі с/с" name_ru="Шашко´вский с/с" />
+        </Rajon>
+        <Rajon osmID="r70561" name_be="Уздзенскі раён" name_ru="Узденский район">
+            <Vojtaustva name_be="Азе´рскі с/с" name_ru="Озе´рский с/с" />
+            <Vojtaustva name_be="Дзе´шчанскі с/с" name_ru="Дещенский с/с" />
+            <Vojtaustva name_be="Нёманскі с/с" name_ru="Нёманский с/с" />
+            <Vojtaustva name_be="Слабадскі´ с/с" name_ru="Слободско´й с/с" />
+            <Vojtaustva name_be="У´здзенскі с/с" name_ru="У´зденский с/с" />
+            <Vojtaustva name_be="Хатля´нскі с/с" name_ru="Хотля´нский с/с" />
+        </Rajon>
+        <Rajon osmID="r59751" name_be="Чэрвеньскі раён" name_ru="Червенский район">
+            <Vojtaustva name_be="Валева´чскі с/с" name_ru="Валева´чский с/с" />
+            <Vojtaustva name_be="Кало´дзежскі с/с" name_ru="Коло´дежский с/с" />
+            <Vojtaustva name_be="Кліно´цкі с/с" name_ru="Клино´кский с/с" />
+            <Vojtaustva name_be="Ля´дскі с/с" name_ru="Ля´денский с/с" />
+            <Vojtaustva name_be="Рава´ніцкі с/с" name_ru="Рова´ничский с/с" />
+            <Vojtaustva name_be="Рудня´нскі с/с" name_ru="Рудня´нский с/с" />
+            <Vojtaustva name_be="Смі´лавіцкі с/с" name_ru="Сми´ловичский с/с" />
+            <Vojtaustva name_be="Чэ´рвенскі с/с" name_ru="Червенский с/с" />
+        </Rajon>
+        <Horad osmID="r79911" />
+    </Voblasc>
+    <Horad osmID="r59195" />
+</Kraina>
